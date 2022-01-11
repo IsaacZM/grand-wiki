@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+
+    <link rel="manifest" href="/manifest.json" />
+    <meta name="theme-color" content="#23272a" />
+
+    <!-- Performance Optimization -->
+    <link rel="preconnect" href="https://cdn.jsdelivr.net" />
+    <link rel="preconnect" href="localhost" />
+
+    <!-- PWA -->
+
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css"
+    />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We"
+      crossorigin="anonymous"
+    />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="https://unpkg.com/notie/dist/notie.min.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/notie/4.3.1/notie.css"
+      integrity="sha512-7DgarsuahzxiOonlZeYgjXuPFVEDIylPzzlmANJdccCIO0H7ofXKbAKf0FWCkh8NkCFswe3Hpj6HegSTYH6SJQ=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <link rel="icon" type="image/png" href="/favicon.png" />
+    <link rel="stylesheet" href="/global.css?v=3.4.2" />
+    <link rel="stylesheet" href="/build/bundle.css" />
+
+    <!-- You can remove this is you don't want to make your PWA installable -->
+    <script
+      type="module"
+      src="https://cdn.jsdelivr.net/npm/@pwabuilder/pwainstall"
+    ></script>
+
+    <!-- Algolia Search Styles -->
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/@algolia/autocomplete-theme-classic"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/instantsearch.css@7.4.5/themes/satellite-min.css"
+      integrity="sha256-TehzF/2QvNKhGQrrNpoOb2Ck4iGZ1J/DI4pkd2oUsBc="
+      crossorigin="anonymous"
+    />
+
+    <!-- Blunde Style -->
+    <script defer src="/build/bundle.js"></script>
+  </head>
+  <noscript>
+    <div>
+      ¡Necesitas javascript para el buen funcionamiento de la aplicacion!
+    </div>
+  </noscript>
+  <body>
+    <noscript>
+      <div>
+        Lo siento pero para usar esta aplicacion necesitas tener javascript!
+      </div>
+    </noscript>
+    <script>
+      window.addEventListener("load", () => {
+        return;
+        if (localStorage.getItem("offline") == true) {
+          console.log("Regist");
+          navigator.serviceWorker.register("/service-worker.js").then((reg) => {
+            console.log("[Service Worker Registered].", reg);
+          });
+        }
+
+        if (localStorage.getItem("offline") === null) {
+          notie.confirm({
+            text: `¿Quieres que la aplicacion funcione offline?<br/><br/>
+          <b>Recomedamos que uses wifi</b>
+          <br />Ya que la precarga de datos puede consumir mas datos de lo habitual.`,
+            stay: true,
+            position: "bottom",
+            cancelCallback: () => {
+              localStorage.setItem("offline", false);
+            },
+            submitCallback: () => {
+              if ("serviceWorker" in navigator) {
+                navigator.serviceWorker
+                  .register("/service-worker.js")
+                  .then((reg) => {
+                    console.log("[Service Worker Registered].", reg);
+                    const cache = localStorage.setItem("offline", true);
+                    setTimeout(() => {
+                      notie.alert({
+                        text: "Ahora todo lo que naveges se guardara para cuando estes sin conexion!",
+                        position: "bottom",
+                      });
+                      setTimeout(() => {
+                        location.reload();
+                      }, 1000);
+                    }, 1000);
+                  });
+              } else {
+                notie.alert({
+                  text: "Lo siento pero no cumple los requisitos tu navegador para que funcione offline esta aplicacion!.",
+                  position: "bottom",
+                });
+                const cache = localStorage.setItem("offline", true);
+              }
+            },
+          });
+        }
+      });
+    </script>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/notie/4.3.1/notie.min.js"
+      integrity="sha512-NHRCwRf2LnVSlLDejCA9oS3fG3/FLSQIPCjAWl3M7tVi5wszwr6FxkjotWnQDXLE+aLKcxRrzFDNEgXj9nvkPw=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    ></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj"
+      crossorigin="anonymous"
+    ></script>
+
+    <!-- Algolia Search Javascript -->
+    <script src="https://cdn.jsdelivr.net/npm/@algolia/autocomplete-js"></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/algoliasearch@4.5.1/dist/algoliasearch-lite.umd.js"
+      integrity="sha256-EXPXz4W6pQgfYY3yTpnDa3OH8/EPn16ciVsPQ/ypsjk="
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/instantsearch.js@4.8.3/dist/instantsearch.production.min.js"
+      integrity="sha256-LAGhRRdtVoD6RLo2qDQsU2mp+XVSciKRC8XPOBWmofM="
+      crossorigin="anonymous"
+    ></script>
+  </body>
+</html>

@@ -1,0 +1,2943 @@
+{
+    "no": 288,
+    "svtId": 304400,
+    "mcLink": "虞美人(Lancer)",
+    "icon": "Servant288.jpg",
+    "info": {
+        "gameId": 304400,
+        "name": "虞美人",
+        "nameJp": "虞美人",
+        "nameEn": "Consort Yu (Lancer)",
+        "namesOther": [
+            "虞美人",
+            "グ・ビジン"
+        ],
+        "namesJpOther": [
+            "虞美人"
+        ],
+        "namesEnOther": [
+            "Yu Mei-ren"
+        ],
+        "nicknames": [
+            "水虞",
+            "金枪虞",
+            "枪虞姬"
+        ],
+        "obtain": "活动",
+        "obtains": [
+            "活动赠送"
+        ],
+        "rarity": 4,
+        "rarity2": 4,
+        "weight": "49kg",
+        "height": "160cm",
+        "gender": "女性",
+        "illustrator": "toi8",
+        "illustratorJp": null,
+        "illustratorEn": "toi8",
+        "className": "Lancer",
+        "attribute": "地",
+        "isHumanoid": true,
+        "isWeakToEA": true,
+        "isTDNS": false,
+        "cv": [
+            "伊濑茉莉也"
+        ],
+        "cvJp": [
+            "伊濑茉莉也"
+        ],
+        "cvEn": [
+            "Ise Mariya"
+        ],
+        "alignments": [
+            "秩序",
+            "恶"
+        ],
+        "traits": [
+            "天地从者",
+            "魔性"
+        ],
+        "ability": {
+            "strength": "B",
+            "endurance": "D",
+            "agility": "A",
+            "mana": "A",
+            "luck": "C",
+            "np": "C"
+        },
+        "illustrations": {
+            "第１阶段": "虞美人(Lancer)初始.png",
+            "第２阶段": "虞美人(Lancer)一破.png",
+            "第３阶段": "虞美人(Lancer)三破.png",
+            "第４阶段": "虞美人(Lancer)满破.png",
+            "愚人节": "愚人节-288.png"
+        },
+        "cards": [
+            "Quick",
+            "Quick",
+            "Arts",
+            "Buster",
+            "Buster"
+        ],
+        "cardHits": {
+            "Quick": 3,
+            "Arts": 2,
+            "Buster": 3,
+            "Extra": 4,
+            "NP": 5
+        },
+        "cardHitsDamage": {
+            "Quick": [
+                16,
+                33,
+                51
+            ],
+            "Arts": [
+                33,
+                67
+            ],
+            "Buster": [
+                16,
+                33,
+                51
+            ],
+            "Extra": [
+                10,
+                20,
+                30,
+                40
+            ],
+            "NP": [
+                6,
+                13,
+                20,
+                26,
+                35
+            ]
+        },
+        "npRate": {
+            "Quick": "1.10%",
+            "Arts": "1.10%",
+            "Buster": "1.10%",
+            "Extra": "1.10%",
+            "NP": "1.10%",
+            "Defense": "4%"
+        },
+        "atkMin": 1649,
+        "hpMin": 1799,
+        "atkMax": 9896,
+        "hpMax": 11245,
+        "atk90": 10935,
+        "hp90": 12435,
+        "atk100": 11982,
+        "hp100": 13634,
+        "starRate": "12.2%",
+        "deathRate": "24.0%",
+        "criticalRate": "89"
+    },
+    "noblePhantasm": [
+        {
+            "state": "",
+            "openCondition": "==宝具==\n{{参阅|{{PAGENAME}}/宝具动画|该从者的宝具动画}}",
+            "name": "夏魔必灭枪舞",
+            "nameJp": "夏魔必滅槍舞",
+            "upperName": "Anti-fling Rondo",
+            "upperNameJp": "アンチフリング・ロンド",
+            "color": "Quick",
+            "category": "单体",
+            "rank": "A",
+            "typeText": "对军宝具",
+            "effects": [
+                {
+                    "description": "对敌方单体发动超强大的攻击<宝具升级效果提升>",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "1200%",
+                        "1600%",
+                        "1800%",
+                        "1900%",
+                        "2000%"
+                    ]
+                },
+                {
+                    "description": "对〔男性〕特攻",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "150%"
+                    ]
+                },
+                {
+                    "description": "付与诅咒状态(3回合)<Over Charge时效果提升>",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "500",
+                        "1000",
+                        "1500",
+                        "2000",
+                        "2500"
+                    ]
+                },
+                {
+                    "description": "付与灼伤状态(3回合)<Over Charge时效果提升>",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "500",
+                        "1000",
+                        "1500",
+                        "2000",
+                        "2500"
+                    ]
+                }
+            ]
+        }
+    ],
+    "noblePhantasmEn": [
+        {
+            "state": "Rank A",
+            "openCondition": null,
+            "name": "Anti-Fling Rondo",
+            "nameJp": null,
+            "upperName": "Anti-Fling Rondo",
+            "upperNameJp": null,
+            "color": "Quick",
+            "category": "",
+            "rank": "A",
+            "typeText": "Anti-Army",
+            "effects": [
+                {
+                    "description": "Deals damage to one enemy.\n{{NP Extra Damage Tooltip| Deals 150% extra damage to Male enemies.}}",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                },
+                {
+                    "description": " Damage +",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "1200%",
+                        "1600%",
+                        "1800%",
+                        "1900%",
+                        "2000%"
+                    ]
+                },
+                {
+                    "description": "<Over Charge>\nInflicts Curse for 3 turns to them.\nInflicts Burn for 3 turns to them.",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                },
+                {
+                    "description": " Curse Damage +",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "500",
+                        "1000",
+                        "1500",
+                        "2000",
+                        "2500"
+                    ]
+                },
+                {
+                    "description": " Burn Damage +",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "500",
+                        "1000",
+                        "1500",
+                        "2000",
+                        "2500"
+                    ]
+                }
+            ]
+        }
+    ],
+    "activeSkills": [
+        {
+            "cnState": 0,
+            "skills": [
+                {
+                    "state": "",
+                    "openCondition": "",
+                    "name": "夏日的受肉精灵",
+                    "nameJp": "夏の受肉精霊",
+                    "nameEn": null,
+                    "rank": "A+",
+                    "icon": "毅力.png",
+                    "cd": 8,
+                    "effects": [
+                        {
+                            "description": "付与自身毅力状态(1次・5回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "3000",
+                                "3200",
+                                "3400",
+                                "3600",
+                                "3800",
+                                "4000",
+                                "4200",
+                                "4400",
+                                "4600",
+                                "5000"
+                            ]
+                        },
+                        {
+                            "description": "NP获得量提升(3回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "20%"
+                            ]
+                        },
+                        {
+                            "description": "仅在〔水边〕场地上时，NP获得量提升(3回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "10%",
+                                "11%",
+                                "12%",
+                                "13%",
+                                "14%",
+                                "15%",
+                                "16%",
+                                "17%",
+                                "18%",
+                                "20%"
+                            ]
+                        },
+                        {
+                            "description": "仅在〔阳光照射〕的场地上时，NP获得量提升(3回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "10%",
+                                "11%",
+                                "12%",
+                                "13%",
+                                "14%",
+                                "15%",
+                                "16%",
+                                "17%",
+                                "18%",
+                                "20%"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "cnState": 0,
+            "skills": [
+                {
+                    "state": "",
+                    "openCondition": "",
+                    "name": "霸王之姬",
+                    "nameJp": "覇王の姫",
+                    "nameEn": null,
+                    "rank": "EX",
+                    "icon": "充能.png",
+                    "cd": 7,
+                    "effects": [
+                        {
+                            "description": "己方单体的NP增加",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "10%",
+                                "11%",
+                                "12%",
+                                "13%",
+                                "14%",
+                                "15%",
+                                "16%",
+                                "17%",
+                                "18%",
+                                "20%"
+                            ]
+                        },
+                        {
+                            "description": "付与自身目标集中状态(1回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "300%"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "cnState": 0,
+            "skills": [
+                {
+                    "state": "",
+                    "openCondition": "",
+                    "name": "昔日之舞",
+                    "nameJp": "在りし日の舞",
+                    "nameEn": null,
+                    "rank": "EX",
+                    "icon": "绿放.png",
+                    "cd": 7,
+                    "effects": [
+                        {
+                            "description": "自身的Quick指令卡性能提升(3回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "10%",
+                                "11%",
+                                "12%",
+                                "13%",
+                                "14%",
+                                "15%",
+                                "16%",
+                                "17%",
+                                "18%",
+                                "20%"
+                            ]
+                        },
+                        {
+                            "description": "己方全体的暴击威力提升(3回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "30%",
+                                "32%",
+                                "34%",
+                                "36%",
+                                "38%",
+                                "40%",
+                                "42%",
+                                "44%",
+                                "46%",
+                                "50%"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "activeSkillsEn": [
+        {
+            "cnState": 0,
+            "skills": [
+                {
+                    "state": "",
+                    "openCondition": null,
+                    "name": "Summer Incarnated Spirit",
+                    "nameJp": null,
+                    "nameEn": null,
+                    "rank": "A+",
+                    "icon": "毅力.png",
+                    "cd": 8,
+                    "effects": [
+                        {
+                            "description": "Grants self Guts status for 1 time, 5 turns.\n Increases own NP generation rate by 20% for 3 turns.\nIncreases own NP generation rate on  Waterside Battlefield for 3 turns.\nIncreases own NP generation rate on  Sunlight Battlefield for 3 turns.",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": []
+                        },
+                        {
+                            "description": " Revives with",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "3000 HP",
+                                "3200 HP",
+                                "3400 HP",
+                                "3600 HP",
+                                "3800 HP",
+                                "4000 HP",
+                                "4200 HP",
+                                "4400 HP",
+                                "4600 HP",
+                                "5000 HP"
+                            ]
+                        },
+                        {
+                            "description": " Waterside NP Rate +",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "10%",
+                                "11%",
+                                "12%",
+                                "13%",
+                                "14%",
+                                "15%",
+                                "16%",
+                                "17%",
+                                "18%",
+                                "20%"
+                            ]
+                        },
+                        {
+                            "description": " Sunlight NP Rate +",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "10%",
+                                "11%",
+                                "12%",
+                                "13%",
+                                "14%",
+                                "15%",
+                                "16%",
+                                "17%",
+                                "18%",
+                                "20%"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "cnState": 0,
+            "skills": [
+                {
+                    "state": "",
+                    "openCondition": null,
+                    "name": "Tyrant's Concubine",
+                    "nameJp": null,
+                    "nameEn": null,
+                    "rank": "EX",
+                    "icon": "充能.png",
+                    "cd": 7,
+                    "effects": [
+                        {
+                            "description": "Charges one ally's NP gauge.\n 500% Chance to draw attention of all enemies to self by 300% for 1 turn.",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": []
+                        },
+                        {
+                            "description": " NP +",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "10%",
+                                "11%",
+                                "12%",
+                                "13%",
+                                "14%",
+                                "15%",
+                                "16%",
+                                "17%",
+                                "18%",
+                                "20%"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "cnState": 0,
+            "skills": [
+                {
+                    "state": "",
+                    "openCondition": null,
+                    "name": "Dance of Days Past",
+                    "nameJp": null,
+                    "nameEn": null,
+                    "rank": "EX",
+                    "icon": "绿放.png",
+                    "cd": 7,
+                    "effects": [
+                        {
+                            "description": "Increases own Quick performance for 3 turns.\nIncreases party's critical damage for 3 turns.",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": []
+                        },
+                        {
+                            "description": " Quick +",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "10%",
+                                "11%",
+                                "12%",
+                                "13%",
+                                "14%",
+                                "15%",
+                                "16%",
+                                "17%",
+                                "18%",
+                                "20%"
+                            ]
+                        },
+                        {
+                            "description": " Crit Damage +",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "30%",
+                                "32%",
+                                "33%",
+                                "34%",
+                                "35%",
+                                "40%",
+                                "42%",
+                                "44%",
+                                "46%",
+                                "50%"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "passiveSkills": [
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "对魔力",
+            "nameJp": null,
+            "nameEn": null,
+            "rank": "B",
+            "icon": "对魔力.png",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": "自身的弱化耐性提升(17.5%)",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                }
+            ]
+        }
+    ],
+    "passiveSkillsEn": [
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "Magic Resistance",
+            "nameJp": null,
+            "nameEn": null,
+            "rank": "B",
+            "icon": "fandom.anti magic.png",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": " Increases own debuff resistance by 17.5%.",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                }
+            ]
+        }
+    ],
+    "appendSkills": [
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "追击技巧提升",
+            "nameJp": "追撃技巧向上",
+            "nameEn": "Extra Attack Finesse Improvement",
+            "rank": null,
+            "icon": "特攻",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": "自身的Extra Attack指令卡性能提升",
+                    "descriptionJp": "自身のExtra Attackカードの性能をアップする",
+                    "descriptionEn": "Increases own Extra Attack performance",
+                    "lvData": [
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "38%",
+                        "40%",
+                        "42%",
+                        "44%",
+                        "46%",
+                        "50%"
+                    ]
+                }
+            ]
+        },
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "魔力装填",
+            "nameJp": "魔力装填",
+            "nameEn": "Mana Loading",
+            "rank": null,
+            "icon": "充能",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": "自身以NP已达一定数值的状态开始战斗",
+                    "descriptionJp": "自身のNPをチャージした状態でバトルを開始する",
+                    "descriptionEn": "Starts battle with NP gauge",
+                    "lvData": [
+                        "10%",
+                        "11%",
+                        "12%",
+                        "13%",
+                        "14%",
+                        "15%",
+                        "16%",
+                        "17%",
+                        "18%",
+                        "20%"
+                    ]
+                }
+            ]
+        },
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "对Caster攻击适性",
+            "nameJp": "対Caster攻撃適性",
+            "nameEn": "Anti-Caster Attack Damage Aptitude",
+            "rank": null,
+            "icon": "加攻",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": "自身对Caster的攻击力提升",
+                    "descriptionJp": "自身の〔Caster〕クラスに対する攻撃力をアップする",
+                    "descriptionEn": "Increases own attack against Caster enemies",
+                    "lvData": [
+                        "20%",
+                        "21%",
+                        "22%",
+                        "23%",
+                        "24%",
+                        "25%",
+                        "26%",
+                        "27%",
+                        "28%",
+                        "30%"
+                    ]
+                }
+            ]
+        }
+    ],
+    "coinSummonNum": 0,
+    "itemCost": {
+        "ascension": [
+            {
+                "虞美人草发饰": 1,
+                "QP": 50000
+            },
+            {
+                "虞美人草发饰": 1,
+                "QP": 150000
+            },
+            {
+                "虞美人草发饰": 1,
+                "QP": 500000
+            },
+            {
+                "虞美人草发饰": 1,
+                "QP": 1500000
+            }
+        ],
+        "skill": [
+            {
+                "枪之辉石": 4,
+                "QP": 100000
+            },
+            {
+                "枪之辉石": 10,
+                "QP": 200000
+            },
+            {
+                "枪之魔石": 4,
+                "QP": 600000
+            },
+            {
+                "枪之魔石": 10,
+                "追忆的贝壳": 4,
+                "QP": 800000
+            },
+            {
+                "枪之秘石": 4,
+                "追忆的贝壳": 8,
+                "QP": 2000000
+            },
+            {
+                "枪之秘石": 10,
+                "战马的幼角": 3,
+                "QP": 2500000
+            },
+            {
+                "战马的幼角": 5,
+                "闲古铃": 5,
+                "QP": 5000000
+            },
+            {
+                "闲古铃": 15,
+                "悠久果实": 12,
+                "QP": 6000000
+            },
+            {
+                "传承结晶": 1,
+                "QP": 10000000
+            }
+        ],
+        "appendSkill": [
+            {
+                "枪之辉石": 4,
+                "QP": 100000
+            },
+            {
+                "枪之辉石": 10,
+                "QP": 200000
+            },
+            {
+                "枪之魔石": 4,
+                "QP": 600000
+            },
+            {
+                "枪之魔石": 10,
+                "万死的毒针": 10,
+                "QP": 800000
+            },
+            {
+                "枪之秘石": 4,
+                "万死的毒针": 20,
+                "QP": 2000000
+            },
+            {
+                "枪之秘石": 10,
+                "封魔之灯": 3,
+                "QP": 2500000
+            },
+            {
+                "封魔之灯": 5,
+                "永远结冰": 5,
+                "QP": 5000000
+            },
+            {
+                "永远结冰": 15,
+                "枯淡勾玉": 20,
+                "QP": 6000000
+            },
+            {
+                "传承结晶": 1,
+                "QP": 10000000
+            }
+        ]
+    },
+    "costumeNos": [],
+    "bondPoints": [
+        4500,
+        20000,
+        2500,
+        2500,
+        10500,
+        160000,
+        365000,
+        315000,
+        310000,
+        350000,
+        1090000,
+        1230000,
+        1360000,
+        1500000,
+        1640000
+    ],
+    "profiles": [
+        {
+            "title": "0",
+            "description": "「夏日避暑胜地！　与项羽大人一起度假！」\n于是鼓足干劲的虞美人将灵基变成了泳装，然而基于不得已的事由，项羽决定留在迦勒底。　—第一章·完—　　　　　　　　\n\n虞美人的野心虽化作了泡影，\n但特异点的调查并没有结束。\n机械体名将·项羽计算到了『夏日魔物』的出现。\n手持为以防万一借来的长枪，\n绝世美女华丽而美艳地\n奔赴夏日特异点这个战场。　—第二章·完—",
+            "descriptionJp": "「夏の避暑地！　項羽様とのバカンス！」\nかくして気合一閃、霊基を水着に変貌させた虞美人であったが、よんどころない事情により項羽はカルデアに残ることになったのであった。　－第一章・終－\n\nしかし。虞美人の野望は潰えたが、\n特異点の調査は完了していない。\n機体の名将・項羽が算出した『夏の魔物』。\nその備えとして貸し与えられた一本の槍を手に、\n希代の美女は華やかに艶やかに、\n夏の特異点に出陣するのであった。　－第二章・終－",
+            "descriptionEn": "“Resort of the Summer! A vacation with Xiang Yu-sama!”\n\nBecause of this, Consort Yu tried her best to transform her saint graph into a swimsuit form, but Xiang Yu was left behind in Chaldea for some sort of reason.\n\n-Chapter One·End-\n\nHowever. Although Consort Yu’s ambition failed,\n\nThe investigation of the singularity isn’t over yet.\n\nIn order to intercept the so called “Demon of Summer”, calculated by mechanical general- Xiang Yu, the gorgeous and beautiful lady of an era ventured into the Summer Singularity with a burrowed spear.\n\n-Chapter Two·End-",
+            "condition": null,
+            "conditionEn": null
+        },
+        {
+            "title": "1",
+            "description": "身高／体重：160cm·49kg\n出处：史记、汉书\n地域：中国\n属性：秩序·恶　　性别：女性\n为了自己与项羽间的秩序，不惜去做任何事。",
+            "descriptionJp": "身長／体重：160cm・49kg\n出典：史記、漢書\n地域：中国\n属性：秩序・悪　　性別：女性\n自分と項羽の間の秩序のためなら何でもする。",
+            "descriptionEn": "Height／Weight：160cm·49kg\n\nOrigin：Records of the Grand Historian， Book of Han\n\nRegion：China\n\nAlighment：Lawful·Evil　　\n\nGender：Female\n\nTo maintain the order between herself and Xiang Yu, she will do anything.",
+            "condition": "羁绊达到Lv.1后开放",
+            "conditionEn": null
+        },
+        {
+            "title": "2",
+            "description": "虞美人知道项羽所说的『夏日魔物』中包含了『夏日的头脑发热』与『夏日对搭讪免疫力低下』等语意。\n「这……是在担心我被人搭讪吧！？」\n她反而从中感受到了爱意，因而兴奋不已。\n结果虞美人唯有比平时更为沉溺于与项羽的爱情，\n以及对搭讪男的态度比平时更为冷酷无情了。　—虞美人之夏·完—\n\n性格\n与通常的虞美人几乎相同，但由于从项羽那儿借来了枪，多少有些兴奋。\n另外，由于她更为强烈地感受到了与项羽的羁绊，所以虽说对人类整体的厌恶没有改变，但对自己抛媚眼的搭讪男的不留情更上一层楼。搭讪男必须死。\n哪怕没有实际搭讪，只要对她抛媚眼（她自己这么觉得），就会对其产生反应。\n换句话说，只要看到她的泳装打扮，她的长枪就可能飞过来。本人表示，这都是为项羽大人保住贞操的无奈之举。",
+            "descriptionJp": "項羽の言う『夏の魔物』とは『一夏の気の迷い』『ナンパに対する夏の免疫低下』等のニュアンスを含む言葉であると知る虞美人。\n「それは……私がナンパされるのを案じていらっしゃるということでは！？」\nと逆にその愛を感じて興奮。\nあとにはただ、いつもより項羽との愛に浮かれた、\nそしていつもよりナンパ男どもに容赦のない虞美人だけが残ったのである。　－虞美人の夏・完－\n\n○性格\n通常の虞美人とほぼ同じだが、項羽の槍を貸し与えられたことにより若干浮かれている。\nまた、項羽との絆を普段より強く感じているため、全体的な人間嫌いは変わらないまま、特に自分に色目を向けてくるナンパ男たちへの容赦のなさが一段階上がっている。ナンパ男滅ぶべし。\nこれは実際ナンパしてこなくとも、色目を使ってきた（と彼女が勝手に感じる）相手に対して発動する。\nつまり彼女の水着姿を見ただけで槍が飛んでくる可能性がある。項羽様への操を守るためなら仕方がないでしょう、というのが本人の弁。",
+            "descriptionEn": "Consort Yu knows, the 『Demon of Summer』 mentioned by Xiang Yu included the subtle sayings of 『the perplexity of a summer』 『the decreased resistance towards a summer flirtatious conversation』.\n\n“Isn’t that, being worrying of me getting seduced by others!?”\n\nLike that, she can even feels the love within, and be excited.\n\nAfter that, what’s remain is a Consort Yu who was even more happier than usual for the love between herself and Xiang Yu, and being more merciless toward flirtatious males. \n\n-Summer of Consort Yu·End-\n\n \n\n○Personality\n\nAlthough she’s basically the same as the usual Consort Yu, but due the spear burrowed from Xiang Yu, she is more or less excited.\nTherefore, she hasn’t changed her overall personality of hating mankind, even intercepting the flirtatious male in much more brutal ways. Flirtatious males should all die.\n\n\nEven though there wasn’t an actual flirtatious conversation, as long as (she feels) someone was looking at her with seducing eye, she will commence an attack.\n\nThat being said, a spear will be lunged towards anyone who glanced at her swimsuit. It’s the only way to protect her chastity for Xiang Yu-sama, as she defends for her action.",
+            "condition": "羁绊达到Lv.2后开放",
+            "conditionEn": null
+        },
+        {
+            "title": "3",
+            "description": "夏日的受肉精灵：A+\n自身是受肉精灵的事实当然没有变化。\n但由于灵基变成了泳装形态，生活方式配合夏日多少进行了一些优化。\n越是来自充满夏日风情的自然……也就是避暑胜地湖畔的水或是灿烂的阳光……玛纳的吸收效率就越高。\n作风虽然很没有吸血种的风格，但她当然毫不在意。\n反正不是嗜好发生了变化，\n因此能看到她边抱怨说「好热啊！」边晒日光浴的景象。",
+            "descriptionJp": "○夏の受肉精霊：Ａ＋\n受肉精霊であることはもちろん変わらない。\nが、水着に霊基が変化したことにより、その在り方が若干夏寄りに最適化されている。\nマナの吸収効率が、夏らしい自然……すなわち避暑地の湖畔の水や燦々たる日光……からであればあるほど高くなる。\n吸血種のイメージにあるまじきスタイルになるが、もちろん彼女は気にしない。\n別に嗜好が変化しているわけではないので、\n「暑いわね！」とかぶちぶち文句を言いながら日光浴などをしている姿が見られる。",
+            "descriptionEn": "○Summer Incarnated Spirit: A+\n\nThe fact of her being an incarnated spirit is definitely unchanged.\n\nBut because the saint graph has became a swimsuit, there exists an optimization that is more or less emphasized for Summer.\n\nThe more natural and genuinely summer it is, that is, mana from the waterside and brilliant sunshine by the summer resort, the greater is the absorption efficiency.\n\nEven though she has taken a style that has a completely different impression than that of a vampire, she won’t be bothered at all.\n\nIt’s not her preference has changed,\n\nSo it’s possible to see her basking under the sun while complaining “So hot!”",
+            "condition": "羁绊达到Lv.3后开放",
+            "conditionEn": null
+        },
+        {
+            "title": "4",
+            "description": "昔日之舞：EX\n曾经在项羽面前表演过的剑舞技能。\n虽然秉持着讨厌人类的文化，坚决不想模仿的信念，但只要是为了项羽，有时也愿意违背自己的信念。\n无论从客观角度来看是否优秀，他人的评价都不关她什么事，无关紧要。\n只是偶尔需要起舞罢了。\n他会如何评价，他会露出什么样的表情，只有她一个人知道。\n这些会作为重要的记忆，与这个技能一起刻印在她的灵基深处。\n\n这个技能原本是被封印着的，而且，如果项羽不在身边就无法使用。\n这次则由于项羽将枪借给虞美人的冲击解开了技能封印，之后他的枪起到了替代品的作用，因此可以使用。\n现在被改编成了枪舞。",
+            "descriptionJp": "○在りし日の舞：ＥＸ\nかつて項羽の前で行っていた剣舞のスキル。\n人の文化が嫌い、真似をするなどくだらない、という信念はあれど、項羽のためならばそれを曲げるときもあるのだ。\n客観的に上手いかどうかは知らない。他者にどう評価されるかなど知らない。どうでもいい。\nただ、ときには舞うことが必要だったというだけ。\n彼がどう評価してくれたのか、どんな表情を浮かべてくれたのかは、彼女のみが知る。\nそれは大切な記憶として、このスキルとともに彼女の霊基の奥に刻まれている。\n\nこのスキルは本来は封印されており、また、項羽が近くに存在しないと使用不可能。\n今回は彼の槍を貸し与えられた衝撃でこのスキルの封が解け、それにより彼の槍が一種の代わりとして機能しているために使用できる。\n今は槍舞としてアレンジされている。",
+            "descriptionEn": "○Dance of Days Past: EX\n\nThe technique of sword dance performed before Xiang Yu in the past.\n\nAlthough she has the faith of hating the mankind’s culture, and despise the action to mimic those culture, but as long as it’s for Xiang Yu, she will still go against her heart.\n\nIt doesn’t matter if it was spectacular in others’ eyes. It doesn’t matter how others will comment. It’s fine.\n\nJust that sometimes, it’s a necessary dance.\n\nHow he commented, and his expressions, only she knows.\n\nThat precious piece of memory, together with this skill will be deeply engraved in her saint graph.\n\nThe skill was originally sealed, and it will be unusable if Xiang Yu is not nearby.\n\nThis time due to the impact received together with the spear burrowed from him, removing the seal on this skill, his spear then manifested in a way like a stand, permitting the skill to be used.\n\nNow, the sword dance will be reformed into a spear dance.",
+            "condition": "羁绊达到Lv.4后开放",
+            "conditionEn": null
+        },
+        {
+            "title": "5",
+            "description": "『夏魔必灭枪舞』\n阶级：A　种类：对军宝具\n有效范围：1～10　最大捕捉：20人\n\nAnti-fling Rondo\n用俗话来解释fling就是『出轨』与『一夏之恋』，\n这里转而指代夏日魔物。\n是使用项羽借给她的项羽爱之具现化（本人这么认为）的枪对夏日魔物发动的强制排除行为。具有极端单方面的指定男性特攻。\n\n虞美人没有武术或战术的经验，可由于对项羽的爱意高涨，她回想起了曾在他面前跳过的剑舞。\n这是她决心利用这回忆并改编而成的枪舞。\n但不知为何最终看上去却有些像钢管舞。\n\n和原本的宝具『咒血尸解叹歌』一样，都是通过破坏自身的肉体引发魔力失控的异常现象，但结合以项羽之枪为轴心的枪舞动作中的「旋转」向量，最终没有造成血雨，而是形成了龙卷型诅咒。\n是永远的叹歌（Lament）形态变更而成的死之轮舞（Rondo）。",
+            "descriptionJp": "『夏魔必滅槍舞』\nランク：Ａ　種別：対軍宝具\nレンジ：１～１０　最大捕捉：２０人\n\nアンチフリング・ロンド。\nフリングとは俗語で『浮気』や『一夏の恋』、\n転じて夏の魔物のことをここでは指す。\n項羽に貸し与えられた、項羽の愛の具現化である（と当人は思っている）槍による、対・夏の魔物用強制排除ムーブ。極端な決めつけによる男性特攻を持つ。\n\n虞美人には武術や戦術の心得などないが、項羽への愛が盛り上がった結果、かつて彼の前で踊った剣舞のことを思い出した。\nそれを利用しようと思い立ち、さらに槍舞としてアレンジしたのがコレである。\n結果としてなぜかポールダンスっぽくなってしまった。\n\n元の宝具『呪血尸解嘆歌』と同じように自らの肉体を破壊しながら魔力を暴走させて異常気象を起こすものだが、項羽の槍を軸とした槍舞の動きにより「回転」のベクトルが与えられることで、結果的に血の雨ではなく竜巻型の呪詛が発生することになる。\n永遠の嘆歌（ラメント）が形を変えた、死の輪舞（ロンド）。",
+            "descriptionEn": "『Summer Demon's Spear of Certain Death』\n\nRank: A Classification: Anti-Army Noble Phantasm\n\nRange: 1~10 Maximum Target: 20\n\nAnti-fling Rondo.\n\nFling is a slang for 『Cheating』 or 『Love for a summer』,\nWhich are collectively considered as Demon of Summer.\n\nInitiated with the spear which was burrowed from and manifested with Xiang Yu’s Love (she thinks), the action of forcefully eliminating the Demon of Summer. Bonus damage to male is due to the lateral and rational assumption.\n\nAlthough Consort Yu doesn’t possess any experience of martial arts or combat strategies, but due the intensifying love towards Xiang Yu, finally awakening the memory of her sword dance performed before him in the past.\n\nShe decided to use it, further reforming it into spear dance, thus creating the attacking method of now.\n\nBut strangely it ended up resembling pole-dancing.\n\n\nJust like her original noble phantasm 『Eternal Lament』 , this noble phantasm works similarly by destroying one’s own body to cause a mana overload, summoning an abnormal phenomenon. But with Xiang Yu’s spear as the axis of the dance gives her the vector of “rotation”, resulting of creating a curse of tornado rather than bloody rain.\n\nThis is the eternal sorrow song (lament), transforming into the dance of death (rondo).",
+            "condition": "羁绊达到Lv.5后开放",
+            "conditionEn": null
+        },
+        {
+            "title": "6",
+            "description": "那家伙和我都拥有漫长的时光与一个愿望。\n\n因觉得无法实现而基本放弃，\n但又无法彻底放弃，在永远中彷徨的我。\n为让诅咒般的发誓定要实现，\n因此编织出了血脉意义上永恒的那家伙。\n\n只为了这种愿望而涉足永恒，\n简直是既愚蠢又毫无意义。\n但是——那家伙知道无关愚蠢还是聪明，\n一旦开始进行，就再也无法停止了。\n这种愚直而纯粹的生活方式，简直就像\n将唯一的愿望托付给种子用来维系生命的树木一样。\n无论意义为何，无论善恶如何，\n都会持续下去吧。\n\n所以我不厌恶，也不会轻蔑。\n只是哑口无言到叹息而已。\n\n结论。\n虽然无法让那家伙实现愿望——\n但对那家伙的存在本身……\n\n「……嗯，我并不讨厌。\n　只是觉得那家伙能不能改一下对我的称呼啊。」",
+            "descriptionJp": "あいつと自分には、どちらも長き時と一つの望みがあった。\n\n叶わぬものと半ば諦め、\nけれど諦めきれずに永遠を彷徨った自分。\n叶えると呪いのように誓い、\nゆえに血脈としての永遠を紡いだあいつ。\n\nそんな望みのために永遠に足を踏み入れるなんて、\n愚かで無駄なことにしか思えなかった。\nだが―――愚かさも賢しさもなく、始まってしまえば、\nそれが止まらぬものであっただろうことも理解できた。\nその愚直で純粋な在り方は、たった一つの願いだけを\n種子に託して命を繋ぐ木々と同じに思えたから。\n意味はどうあれ、善悪はどうあれ、\n続いてしまうものなのだろう。\n\nだから嫌悪はしない。侮蔑はしない。\nただ、呆れてため息をつくだけだ。\n\n結論。\n望みを叶えてやることはできないが―――\nあいつという存在自体は。\n\n「……まあ、別に嫌いではないわよ。\n　呼び方だけはどうにかなんないのかって思うけど」",
+            "descriptionEn": "She and herself, has been through an endless period of time, once having one wish.\n\nGiving up halfway because she couldn’t achieve it, \n\nBut neither she could completely abandon it, eternally hesitate within this heaven and earth.\n\nShe vowed to achieve it like casting a curse,\n\nThus weaving an eternal to be passed on generation after generation.\n\n\nGetting involved with eternal for that kind of wish,\n\nWill just let one’s self to realize their foolishness and incompetence.\n\nBut----they understand very well, whether being stupid or wise,\n\nThere’s no stop to it once it began.\n\nAs if those straightforward and simple way of existing, was just like those trees which place the only hope to continuation of life on a single seed.\n\nTherefore, regardless of the significance, regardless of good or evil,\n\nMaybe she will keep on going.\n\n\nBecause of this, she will not show signs of hate or despise.\n\nJust, simply have a sigh due to being surprised.\n\n\nConclusion.\n\nAlthough it’s impossible to achieve the wish----\n\nThe fact of her existence.\n\n\n“....Eh, it’s not like I disliked her.\n\nJust wondering if she can somehow change that appellation.”\n",
+            "condition": "通关从者·夏令营！ ～迦勒底·惊悚之夜～&羁绊达到Lv.5后开放",
+            "conditionEn": "Unlocks at Bond Level 5, Clear Servant Summer Camp 2020"
+        },
+        {
+            "title": "aprilfool",
+            "description": "吸血从者\n为了男友而穿上紧绷的泳装却无法让重要的男友见到的焦躁而悲伤的前辈。每晚都会被热情的跟踪狂威胁性命。",
+            "descriptionJp": "きゅうけつサーヴァント\n彼氏のために張り切った水着をまとったが肝心の彼氏には披露できず苛立つ悲しき先輩。熱心なストーカーに毎夜生命を脅かされている。",
+            "descriptionEn": "Bloodsucking Servant.\nA senpai who became anxious and saddened because her beloved lover couldn't see the skintight swimsuit she put on for him.\nEvery night her life is threatened by enthusiastic stalker.",
+            "condition": null,
+            "conditionEn": null
+        }
+    ],
+    "voices": [
+        {
+            "section": "战斗",
+            "table": [
+                {
+                    "title": "开始 1",
+                    "text": "搭讪？　这就是所谓的搭讪吧？",
+                    "textJp": "ナンパ？ これがナンパってやつね",
+                    "textEn": "Picking up? This is what they call picking up women?",
+                    "condition": null,
+                    "voiceFile": "SV288_0_开始1.mp3"
+                },
+                {
+                    "title": "开始 2",
+                    "text": "出现了，夏日的魔物……！",
+                    "textJp": "出たわね、夏の魔物",
+                    "textEn": "It has come out… The demon of summer…!",
+                    "condition": null,
+                    "voiceFile": "SV288_0_开始2.mp3"
+                },
+                {
+                    "title": "开始 3",
+                    "text": "算了，只要把这当做练习也就没办法了。",
+                    "textJp": "ま、練習と思えば仕方ないけど",
+                    "textEn": "Well, thinking about practice, then there’s no choice.",
+                    "condition": null,
+                    "voiceFile": "SV288_0_开始3.mp3"
+                },
+                {
+                    "title": "技能 1",
+                    "text": "做好觉悟了吧！",
+                    "textJp": "覚悟はできてるんでしょうね",
+                    "textEn": "I guess you’re prepared already?",
+                    "condition": null,
+                    "voiceFile": "SV288_0_技能1.mp3"
+                },
+                {
+                    "title": "技能 2",
+                    "text": "真不想给你见识。",
+                    "textJp": "見せたくはないんだけど",
+                    "textEn": "I don’t want to show you, though.",
+                    "condition": null,
+                    "voiceFile": "SV288_0_技能2.mp3"
+                },
+                {
+                    "title": "技能 3",
+                    "text": "阳光就不能毁灭吗。",
+                    "textJp": "陽射し、滅びないかしら",
+                    "textEn": "The sunlight… Won’t it perish?",
+                    "condition": null,
+                    "voiceFile": "SV288_0_技能3.mp3"
+                },
+                {
+                    "title": "指令卡 1",
+                    "text": "你在开玩笑吗？",
+                    "textJp": "ふざけてるの？",
+                    "textEn": "Are you messing with me?",
+                    "condition": null,
+                    "voiceFile": "SV288_0_指令卡1.mp3"
+                },
+                {
+                    "title": "指令卡 2",
+                    "text": "你行你上啊。",
+                    "textJp": "お前がやりなさいよ",
+                    "textEn": "You do it.",
+                    "condition": null,
+                    "voiceFile": "SV288_0_指令卡2.mp3"
+                },
+                {
+                    "title": "指令卡 3",
+                    "text": "就当是舞蹈练习好了。",
+                    "textJp": "舞の練習って事で",
+                    "textEn": "A practice for my dance.",
+                    "condition": null,
+                    "voiceFile": "SV288_0_指令卡3.mp3"
+                },
+                {
+                    "title": "宝具卡 1",
+                    "text": "我的思念啊，请传达到——",
+                    "textJp": "我が想いよ……届け",
+                    "textEn": "Feelings of mine, reach.",
+                    "condition": null,
+                    "voiceFile": "SV288_0_宝具卡1.mp3"
+                },
+                {
+                    "title": "宝具卡 2",
+                    "text": "哈，就因为是夏天吗？　你看不起我吗？",
+                    "textJp": "はぁ？ 夏だから？ 舐めてるの？",
+                    "textEn": "Hah? Cause it’s summer? Are you making fun of me?",
+                    "condition": null,
+                    "voiceFile": "SV288_0_宝具卡2.mp3"
+                },
+                {
+                    "title": "宝具卡 3",
+                    "text": "啊啊，项羽大人——",
+                    "textJp": "あぁ……項羽様",
+                    "textEn": "Ah, Xiang Yu-sama…!",
+                    "condition": null,
+                    "voiceFile": "SV288_0_宝具卡3.mp3"
+                },
+                {
+                    "title": "攻击 1",
+                    "text": "你在看哪里？　消失吧。",
+                    "textJp": "どこを見ている。消えて",
+                    "textEn": "Where are you looking at? Disappear.",
+                    "condition": null,
+                    "voiceFile": "SV288_0_攻击1.mp3"
+                },
+                {
+                    "title": "攻击 2",
+                    "text": "你难道以为自己能触及吗！",
+                    "textJp": "触れられると思うてか！",
+                    "textEn": "Did you think you could touch?!",
+                    "condition": null,
+                    "voiceFile": "SV288_0_攻击2.mp3"
+                },
+                {
+                    "title": "攻击 3",
+                    "text": "真是个走运的家伙。",
+                    "textJp": "果報者め",
+                    "textEn": "Lucky guy.",
+                    "condition": null,
+                    "voiceFile": "SV288_0_攻击3.mp3"
+                },
+                {
+                    "title": "攻击 4",
+                    "text": "只是想让那位大人好好欣赏而已。",
+                    "textJp": "あの方の目を楽しませたいだけよ",
+                    "textEn": "I only want to entertain that person’s sight.",
+                    "condition": null,
+                    "voiceFile": "SV288_0_攻击4.mp3"
+                },
+                {
+                    "title": "攻击 5",
+                    "text": "干脆试着从上方旋转下来好了。",
+                    "textJp": "上からくるくるしてみようかしら",
+                    "textEn": "Should I try spinning from above?",
+                    "condition": null,
+                    "voiceFile": "SV288_0_攻击5.mp3"
+                },
+                {
+                    "title": "攻击 6",
+                    "text": "偶尔也要试试这种才行！",
+                    "textJp": "たまにはこういうのもね！",
+                    "textEn": "From time to time, something like this!",
+                    "condition": null,
+                    "voiceFile": "SV288_0_攻击6.mp3"
+                },
+                {
+                    "title": "Extra 1",
+                    "text": "好了——你可以去死了。",
+                    "textJp": "さ、もう死んでいいわよ",
+                    "textEn": "Now, you can die already.",
+                    "condition": null,
+                    "voiceFile": "SV288_0_Extra1.mp3"
+                },
+                {
+                    "title": "Extra 2",
+                    "text": "最后是这个！",
+                    "textJp": "最後にこう！",
+                    "textEn": "And this for the end!",
+                    "condition": null,
+                    "voiceFile": "SV288_0_Extra2.mp3"
+                },
+                {
+                    "title": "宝具 1",
+                    "text": "项羽大人托付给我的这把枪，必能将夏日魔物尽数击灭。吾之诅咒只为顺应此意！飞舞绽放疯狂凋零吧，犹如昔日的雏芥子！夏魔必灭枪舞！",
+                    "textJp": "項羽様より託されたこの槍は、夏の魔物を尽く撃滅せしめよう。我が呪いは、ただその意に従うのみ！ 舞咲き散り狂え！ 在りし日の雛芥子が如く！ 夏魔必滅槍舞！",
+                    "textEn": "This spear entrusted by Xiang Yu-sama shall exterminate every single demon of summer. My curse will only abide by those feelings. Bloom in dance and scatter wildly! Like the poppy of bygone days! “Summer Demonic Spear[Anti-Fling] Dance of Certain Death[Rondo]”!!",
+                    "condition": null,
+                    "voiceFile": "SV288_0_宝具1.mp3"
+                },
+                {
+                    "title": "宝具 2",
+                    "text": "吾之舞蹈只为献给项羽大人。也就是说看到了舞蹈的你们休想活下去！甚至不允许你们保留临终的记忆。若吾身一般，如尘土般消散吧！夏魔必灭枪舞！",
+                    "textJp": "我が舞は項羽様だけに捧げられるもの。即ち其れを見る貴様らに、命は無い！　末期の記憶として遺す事も赦さぬ。我が身と同じく芥と果てて散るが良い！　夏魔必滅槍舞！！",
+                    "textEn": "My dance is only dedicated to Xiang Yu-sama —— So you who see it are dead! I won’t allow you to leave it as a memory of your deathbed. Die with the garbage and be scattered, just like my body! “Summer Demonic Spear[Anti-Fling] Dance of Certain Death[Rondo]”!!",
+                    "condition": null,
+                    "voiceFile": "SV288_0_宝具2.mp3"
+                },
+                {
+                    "title": "宝具 3",
+                    "text": "虚拟项羽大人展开完毕。枪舞模拟开始！啊啊，项羽大人在对我点头，而且，那是……微……微笑！？虞……虞，虞真是太幸福了！",
+                    "textJp": "イマジナリー項羽様展開完了。装備シミュレーションスタート。は……項羽様が頷かれて……そしてあれは……！ ほ、微笑み！？ 虞は、虞は……幸せ者でございます！！",
+                    "textEn": "Imaginary Xiang Yu-sama deployment completed ——— Sublime simulation start. Ah… Xiang Yu-sama is nodding! And that’s…! A smile?! … Yu is… Yu is… Very happy!!",
+                    "condition": null,
+                    "voiceFile": "SV288_0_宝具3.mp3"
+                },
+                {
+                    "title": "受击 1",
+                    "text": "我才没兴奋过度呢……！",
+                    "textJp": "浮かれてんじゃないわよ！",
+                    "textEn": "Don’t get so festive!",
+                    "condition": null,
+                    "voiceFile": "SV288_0_受击1.mp3"
+                },
+                {
+                    "title": "受击 2",
+                    "text": "别碰我！",
+                    "textJp": "触るな！",
+                    "textEn": "Don’t touch me!",
+                    "condition": null,
+                    "voiceFile": "SV288_0_受击2.mp3"
+                },
+                {
+                    "title": "无法战斗 1",
+                    "text": "啊，不行。还是太热了。",
+                    "textJp": "あ、駄目。さすがに暑いわ",
+                    "textEn": "Ah, not good. As expected it’s hot.",
+                    "condition": null,
+                    "voiceFile": "SV288_0_无法战斗1.mp3"
+                },
+                {
+                    "title": "无法战斗 2",
+                    "text": "明明被托付了这把枪，却还这么不中用……！",
+                    "textJp": "槍まで、預かっておきながら、不甲斐ない……",
+                    "textEn": "Though I was even given a spear… I’m worthless…",
+                    "condition": null,
+                    "voiceFile": "SV288_0_无法战斗2.mp3"
+                },
+                {
+                    "title": "胜利 1",
+                    "text": "全都献给项羽大人……",
+                    "textJp": "項羽様に捧げます",
+                    "textEn": "I dedicate this to Xiang Yu-sama.",
+                    "condition": null,
+                    "voiceFile": "SV288_0_胜利1.mp3"
+                },
+                {
+                    "title": "胜利 2",
+                    "text": "这舞蹈还令人满意吗。",
+                    "textJp": "満足いただける舞になったかしら",
+                    "textEn": "Was it a satisfying dance?",
+                    "condition": null,
+                    "voiceFile": "SV288_0_胜利2.mp3"
+                }
+            ]
+        },
+        {
+            "section": "召唤和强化",
+            "table": [
+                {
+                    "title": "期间限定加入",
+                    "text": "话说在前面，这样子并不是因为兴奋过度哦。因为项羽大人希望我能充分享受夏日。换言之，这是因爱而生的泳装。明白了吗？妨碍我就意味着对项羽大人有意见。而我则毫不留情地一枪刺穿那种人，请知晓一下。",
+                    "textJp": "言っておくけど、この姿は浮かれたからじゃないわ。私が夏を満喫することを項羽様が望んだから。つまり愛ゆえの水着ってコト。わかる？私の邪魔をするってコトは項羽様に文句をつけるってコトよ。そんなヤツがいたら容赦なくぶっ刺すから、よろしく。",
+                    "textEn": "I’m telling you, this shape isn’t because I’m festive. It’s because Xiang Yu-sama wished for me to fully enjoy summer. In other words, it’s a swimsuit out of love. Understand? Getting in my way is complaining about Xiang Yu-sama. If there’s a guy like that I’ll mercilessly stab them, so best regards.",
+                    "condition": null,
+                    "voiceFile": "SV288_0_仮加入.mp3"
+                },
+                {
+                    "title": "召唤",
+                    "text": "……唉，这次倒是意外倒大霉了……话说你那眼神什么意思。想说我是问题的元凶吗？那么早以前的事我哪知道啊。我的记忆容量可是优先为项羽大人准备的！总之，这下总算能享受正常的夏季山间假日了。我打算尽情享受，作为对前辈的孝顺，你也得支援！明白了吗！？",
+                    "textJp": "……はぁ。今回は意外と大変な目に遭ったわ……。ちょっと何よその目は。私が元凶だとでも言いたいの？知らないわよあんな昔のことなんて！私の記憶容量は項羽様最優先なんだから！とにかく、これでようやく普通に夏の山のバカンスを楽しめるわ。全力で満喫するから、センパイ孝行と思ってサポート！いいわね！？",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV288_0_召唤.mp3"
+                },
+                {
+                    "title": "升级 1",
+                    "text": "对了对了，毕竟是夏天嘛。你当然应该比平时更加孝敬我。",
+                    "textJp": "そうそう、夏なんだもの。普段より気前よく貢いで当然よね",
+                    "textEn": "Yeah yeah. It’s summer. It’s natural to support financially more generously.",
+                    "condition": null,
+                    "voiceFile": "SV288_0_升级1.mp3"
+                },
+                {
+                    "title": "升级 2",
+                    "text": "快给我，我知道你囤了不少。啊。你该不会唯独不舍得给我用吧！？算歧视！？",
+                    "textJp": "さっさと寄越しなさい。お前が貯め込んでるの知ってるんだから。……あ、まさか私にだけ惜しんでるんじゃないでしょうね。差別？",
+                    "textEn": "Give it to me already. I know you’re stashing them away. Ah, could it be you’re not holding them for me alone? Differentiation?",
+                    "condition": null,
+                    "voiceFile": "SV288_0_升级2.mp3"
+                },
+                {
+                    "title": "灵基再临 1",
+                    "text": "我可没打算换衣服。因为……这套泳装……曾经得到过项羽大人的夸奖……",
+                    "textJp": "着替える気なんてないわよ。……だって、この水着、項羽様にお褒めいただいたんだもの",
+                    "textEn": "I don’t feel like changing. I mean, Xiang Yu-sama complimented this swimsuit…",
+                    "condition": null,
+                    "voiceFile": "SV288_0_灵基再临1.mp3"
+                },
+                {
+                    "title": "灵基再临 2",
+                    "text": "夏天的开销总是很大呢……但现在我可没有温柔到会对你手下留情。你也不要犹豫，尽管向我投放资源吧。我迟早会回报你的。",
+                    "textJp": "夏は色々物入りになるのね……でも、今の私に手加減をする優しさはないわ。お前も躊躇なく私にリソースを投入しなさい。……いつか返すから",
+                    "textEn": "Summer gets expensive in many ways… But, I don’t have the kindness to be easy on you now. You invest your resources on me without vacillation. I’ll return them some day.",
+                    "condition": null,
+                    "voiceFile": "SV288_0_灵基再临2.mp3"
+                },
+                {
+                    "title": "灵基再临 3",
+                    "text": "差不多想停手了？很遗憾，事已至此，已经停不下来了哦。人类所说的吸血鬼，就是无视人类的意愿吸干人类的存在吧？　我没说错吧？",
+                    "textJp": "そろそろやめたくなった？ おあいにく様。ここまで来たらノンストップよ。人間の都合なんて関係なく吸い尽くすのが、おまえたちの言う『吸血鬼』でしょ？ 違う？",
+                    "textEn": "Do you want to stop already? Too bad. If you’re coming this far it’s non-stop. The vampires you talk about suck you dry without any relation to humans’ circumstances, right? They don’t?",
+                    "condition": null,
+                    "voiceFile": "SV288_0_灵基再临3.mp3"
+                },
+                {
+                    "title": "灵基再临 4",
+                    "text": "唉……愚蠢。真是太愚蠢了。你明白什么叫愚蠢吗？　就是指老好人的笨蛋啦。被我这么利用敲诈，怎么还露出心满意足的笑容啦…………啊啊真是的，我可是对项羽大人一心一意的，才不会顾虑你的心情呢！事已至此，我可要狠狠差遣你啦！差遣到你一看到我的脸就会禁不住全身发抖的程度！",
+                    "textJp": "はぁ……愚かね。本当に愚か。『愚か』って意味、わかる？ 『お人好しの馬鹿』ってことだからね？ ここまでいいように吸い上げられたのに、なに満足げに笑ってるんだか。はあ……もう、私は！ 項羽様にぞっこんなんだから、おまえに気を使うなんてありえないの！ こうなったら、とことんこき使ってやるわ！ 私の顔を見たら震え上がるぐらい、たっぷりね",
+                    "textEn": "Haah… Stupid. Really stupid. Do you know what “stupid” means? It’s a friendly idiot. Even though you’ve been exploited this well, why are you laughing so contentedly…? Hah, jeez… I’m head over heels for Xiang Yu-sama, so it’s impossible for me to fuss about you! If it comes to this, I’ll work you hard to the end. Plenty, until you shudder up when you see my face!",
+                    "condition": null,
+                    "voiceFile": "SV288_0_灵基再临4.mp3"
+                }
+            ]
+        },
+        {
+            "section": "个人空间",
+            "table": [
+                {
+                    "title": "羁绊 Lv.1",
+                    "text": "这杆枪是为了击灭夏日的魔物，从项羽那里借来的东西。虽然我不知道那所谓的魔物是什么，但完全不需要害怕。我只会让它们发出凄厉的惨叫。",
+                    "textJp": "この槍は、夏の魔物を撃滅するために項羽様より貸し与えられたもの。その魔物が何なのかはよく知らないけど、とにかく恐れる必要は全くないわ。断末魔を響かせるのみよ",
+                    "textEn": "This spear was loaned to me by Xiang Yu-sama to exterminate the demons of summer. I don’t really know what those demons are, but anyways there’s no need to be scared. I’ll just make the throes of death resound.",
+                    "condition": null,
+                    "voiceFile": "SV288_0_羁绊Lv1.mp3"
+                },
+                {
+                    "title": "羁绊 Lv.2",
+                    "text": "夏日魔物，那个……指的是搭讪男，兴奋的心情那类吗？这么说来，项羽大人会担心我被那些东西侵袭，也就意味着他非常珍视我吧……呵呵，呵呵呵呵……",
+                    "textJp": "夏の魔物って、その……ナンパ男とか、浮かれた気持ちとか、そういうのなの？だとすると……項羽様は、私がそういうものに襲われることを気にかけてくださったということで？つまり、大事にされているということで……！？ふ、ふふ……",
+                    "textEn": "The demons of summer are… Er, seducer men, festive feelings, stuff like that? If so… Then Xiang Yu-sama was worried about me being struck by that stuff?  In other words! He’s taking care of me. … Ehe, ehehe…",
+                    "condition": null,
+                    "voiceFile": "SV288_0_羁绊Lv2.mp3"
+                },
+                {
+                    "title": "羁绊 Lv.3",
+                    "text": "我还以为御主肯定不会……但你偶尔也会做些奇怪的事呢。就是说你也会被夏日魔物吞噬啊。如果你胆敢有什么可疑的举动，我可是会直接给你一枪，小心点。你应该还没天真到觉得我会手下留情吧？",
+                    "textJp": "マスターに限って、とは思うけど、たまに奇行に走るものね、お前。夏の魔物に呑まれることもあるでしょ。不審な動きをしたら容赦なくぐっさり行くから、用心なさい。手加減してもらえる、なんて思うほど脳天気じゃないわよね？",
+                    "textEn": "I think it’s… only as a Master, but sometimes you run eccentrically. There’s also being swallowed by a demon of summer.  If you do any suspicious move, be cautious because I’ll mercilessly go after you. You are not careless enough to think I’ll hold back, are you?",
+                    "condition": null,
+                    "voiceFile": "SV288_0_羁绊Lv3.mp3"
+                },
+                {
+                    "title": "羁绊 Lv.4",
+                    "text": "虽说我对人类的文化毫无兴趣。但跳舞另当别论。因为小鸟和蜥蜴也会跳舞吧？所以，那啥……在心爱的人面前，我还是会模仿着跳跳舞的啦。",
+                    "textJp": "人間の文化に興味を全くないけれど、舞は別。小鳥だって、トカゲだって踊るでしょ？だから、まあ……愛する人の前でなら、見よう見まねで舞うことくらいはあるわよ",
+                    "textEn": "I’m not interested in human culture at all, but dance is different. Little birds and lizards dance too, right? That’s why, well… If it’s in front of the person I love, I could at least learn to dance by imitation.",
+                    "condition": null,
+                    "voiceFile": "SV288_0_羁绊Lv4.mp3"
+                },
+                {
+                    "title": "羁绊 Lv.5",
+                    "text": "下次想看我认真跳一次舞？你这蠢货，我不是说过了吗？我的舞蹈只会献给我心爱的项羽大人。非分之想是会搭上性命的……！虽然我本想这么说……但说到底，我们算是从者和御主？　有魔力供给才能更有力地跳舞吧？如果你只是在远处眺望我向项羽大人献舞的话，也行……不，我并没有允许哦。只是说如果你擅自偷看我也没办法的意思。但如果我心情不好，还是可能刺瞎你眼睛的，所以你偷看时务必考虑到这种风险。还有，千万别把你的感想告诉我。……事到如今，会很不好意思的啦。",
+                    "textJp": "今度、ちゃんとした舞を見たい？……阿呆め、言うたであろうが！我がそれは、ただ愛しき項羽様に捧げるためのもの。過ぎた望みは、その命が代償となろうぞ！……て、言いたいところだけど、結局サーヴァントとマスターだし？魔力供給あったほうがパワフルに踊れるし？項羽様に贈っているのを遠目で見る、くらいなら、まあ……。いいえ、別に許可はしないわ。勝手に盗み見るのなら、仕方ないという意味よ。でも、気分によっては目を潰すかもしれないから、その辺のリスクは考えた上で覗き見しなさいよね。あと、感想とかは間違っても私に言わないように。いまさら……恥ずかしいじゃない",
+                    "textEn": "This time, you want to see a proper dance? … Idiot, I thought I told you! My dance is only for dedicating it to my loved Xiang Yu-sama. Your excessive wish will cost you your life!  … It’s what I’d like to say, but after all we’re Servant and Master? If I have a mana supply I can dance more powerfully? If it’s at least watching what I’ll give to Xiang Yu-sama from afar, well… No, it’s not like I’m permitting it. it means that if you steal a glance on your own, it can’t be helped. But, depending on my mood I may crush your eyes, so peep if you’ve thought about that risk. And don’t tell me your thoughts by mistake. At this point… It’s not embarrassing.",
+                    "condition": null,
+                    "voiceFile": "SV288_0_羁绊Lv5.mp3"
+                },
+                {
+                    "title": "对话 1",
+                    "text": "我说你啊。就算我再怎么不了解人类的生活，也知道为了享受夏天，必须外出才行。然后呢，你躲在这里干什么？故意让我不爽？",
+                    "textJp": "あのねえ、いくら人間の営みに疎い私でも、夏を満喫するには外に出なくちゃいけないって事くらいは分かるわよ。で、お前はここに籠もって何をしてるの？ 私への嫌がらせ？",
+                    "textEn": "Listen here, as ignorant as I am about human activities, at least I know you have to go outside to enjoy summer. So, what are you doing all shut in here? Pestering me?",
+                    "condition": null,
+                    "voiceFile": "SV288_0_对话1.mp3"
+                },
+                {
+                    "title": "对话 2",
+                    "text": "我还是一如既往，是只属于项羽大人的存在。可不会像你们那样飘忽不定。",
+                    "textJp": "私はこれまでと同じように、ただ、ただ、項羽様のもの。おまえたちみたいにふらふらしないわ",
+                    "textEn": "Same as until now, I’m only and exclusively Xiang Yu-sama’s. I’m not as dizzy as you people.",
+                    "condition": null,
+                    "voiceFile": "SV288_0_对话2.mp3"
+                },
+                {
+                    "title": "对话 3",
+                    "text": "你好歹也是御主，有正确使用我的义务。而现在的我是为了尽享夏日的灵基。所以你……没错，从逻辑性角度来说，你就是为了让我能享受夏日而服务的「奴仆」。",
+                    "textJp": "曲がりなりにも、マスターなんだから、おまえは私を正しく使う義務がある。そして、今の私は夏を満喫するための霊基。だったらおまえは……そう、論理的に言って私に夏を楽しませるのが仕事の、下僕ってことになるわね",
+                    "textEn": "Somehow or other you’re the Master, so you have the duty of using me correctly. And, I now have a Spirit Origin to enjoy summer. In that case you… Right. Logically speaking, you will become “a manservant whose job is to make me enjoy summer”.",
+                    "condition": null,
+                    "voiceFile": "SV288_0_对话3.mp3"
+                },
+                {
+                    "title": "对话 4",
+                    "text": "啊啊，项羽大人……我能否依照您的愿望，尽情享受夏日呢……？",
+                    "textJp": "ああ、項羽様……。私は、貴方の望むままに夏を満喫出来ているでしょうか",
+                    "textEn": "Aah, Xiang Yu-sama. Will I be able to enjoy summer as you wished…?",
+                    "condition": "持有项羽",
+                    "voiceFile": "SV288_0_对话4.mp3"
+                },
+                {
+                    "title": "对话 5",
+                    "text": "看来你也有一套相当不错的夏装嘛。不过，远远不及获得了项羽大人夸奖的我哦！",
+                    "textJp": "あなたも中々夏らしい装いを持ってるみたいじゃない。まあ、項羽様にお褒めいただいた私ほどではないと思うけど",
+                    "textEn": "Seems you too have quite a summery outfit. Well, I think it’s not like mine which was praised by Xiang Yu-sama, though.",
+                    "condition": "持有兰陵王",
+                    "voiceFile": "SV288_0_对话5.mp3"
+                },
+                {
+                    "title": "对话 6",
+                    "text": "我说！　那个年轻的卫士长……不对，就是那家伙啦！最近说什么『想感受一下非人之物的枪术究竟如何……』死命追着我不放啊。能不能告诉他我的枪术不是他想的那种呢？",
+                    "textJp": "ちょっと、あの若い衛士長……じゃないけどあいつ！ 人ならざる者の槍術とは如何なるものか、とか言いながら最近追いかけてくるようになったんだけど！ 私のはそういうんじゃないって言っといてくれる？",
+                    "textEn": "Hey! That young Gate Guard Chief! Not that, but he! It seemed as if he was just chasing me while saying stuff like “I wonder how is the spearmanship of an inhuman one”. Could you tell him mine is not that kind of thing?",
+                    "condition": "持有李书文&通关Lostbelt No.3",
+                    "voiceFile": "SV288_0_对话6.mp3"
+                },
+                {
+                    "title": "对话 7",
+                    "text": "阎魔亲，你偶尔也休息一下放松一下自己吧？……果然。你真是太认真了。真拿你没办法，我会以这副打扮去拜访你那儿的。这样一来，阎魔亭也会多少增添几分夏日的风情了吧。",
+                    "textJp": "閻魔ちゃん、たまには貴女も休んで羽目を外したらどう？ ……やっぱりね。ほんっと真面目なんだから。しょうがないから、私がこの格好でそっちに行くことにするわ。そうすれば閻魔亭も少しは夏らしくなるでしょ",
+                    "textEn": "Enma-chan, how about you rest and cut loose some time? … I thought so. You really are serious. Can’t be helped, so I’ll go there with these looks. If I do so, Enma-tei will become a bit more summery.",
+                    "condition": "持有红阎魔",
+                    "voiceFile": "SV288_0_对话7.mp3"
+                },
+                {
+                    "title": "对话 8",
+                    "text": "什么八百比丘尼啊，装糊涂也该有点限度吧！？你不就是深海里的那个嘛！话说你到底吃了多少条人鱼啦！？又不是包子！",
+                    "textJp": "八百比丘尼って、白々しいにも程があるわね！ アンタ、深海にいるアレじゃない。っていうか何匹食べたのよ人魚。饅頭じゃあるまいし",
+                    "textEn": "That Yaobikuni, there’s a limit to how shameless one can be… You, you’re not that thing that is in the deep sea…. Rather, how many mermaids have you eaten? They’re not steamed buns…",
+                    "condition": "持有杀生院祈荒(MoonCancer)",
+                    "voiceFile": "SV288_0_对话8.mp3"
+                },
+                {
+                    "title": "喜欢的东西",
+                    "text": "喜欢的东西？那么一目了然的事，还用我特地说出口吗？",
+                    "textJp": "好きなもの？ そんな分かり切ってる事、言う必要ある？",
+                    "textEn": "Things I like? Do I need to say something you know?",
+                    "condition": null,
+                    "voiceFile": "SV288_0_喜欢的东西.mp3"
+                },
+                {
+                    "title": "讨厌的东西",
+                    "text": "如果你想知道我讨厌的东西，就凝视被我的枪尖刺穿的东西吧。项羽大人就是为此才把这个托付给我的。",
+                    "textJp": "私の嫌いなものが知りたいなら、この槍の穂先が穿つものを見つめていればいいわ。項羽様はその為に私にこれを託してくださったのだから",
+                    "textEn": "If you want to know what I hate, then fix your eyes on what I want to stab with the tip of this spear. Xiang Yu-sama entrusted me this for that purpose.",
+                    "condition": null,
+                    "voiceFile": "SV288_0_讨厌的东西.mp3"
+                },
+                {
+                    "title": "关于圣杯",
+                    "text": "我对那种可疑的圣杯毫无兴趣啦。而且，我的愿望……已经基本实现了。",
+                    "textJp": "胡乱な聖杯に興味なんてないわよ。……それに、私の願いはもう大体叶っているわ",
+                    "textEn": "I’m not interested in fishy Holy Grails. And my wish is mostly granted already.",
+                    "condition": null,
+                    "voiceFile": "SV288_0_关于圣杯.mp3"
+                },
+                {
+                    "title": "活动举行中",
+                    "text": "夏天总是伴随着祭典。也就是说只要发生了祭典，那就是夏天……难道不是吗？我可不允许你坐视不理哦。",
+                    "textJp": "夏には祭りが付き物。つまり祭りが起っていれば、それは夏。……ということじゃないの？見逃すことは許さないわよ",
+                    "textEn": "Festivals are an essential part of summer. In other words, if a festival is happening, it means it’s summer, doesn’t it? I won’t allow you to miss it.",
+                    "condition": null,
+                    "voiceFile": "SV288_0_活动举行中.mp3"
+                },
+                {
+                    "title": "生日",
+                    "text": "我说你啊……你该不会觉得我换上了泳装就会愿意为你庆祝生日了？你认真的吗？",
+                    "textJp": "あのねー……まさかだけど水着になったから、誕生日を祝ってもらえるとでも思ってたの？本気で？",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV288_0_生日.mp3"
+                }
+            ]
+        },
+        {
+            "section": "从者·夏令营！ ～迦勒底·惊悚之夜～",
+            "table": [
+                {
+                    "title": "对话 1",
+                    "text": "哼，你以为我能当得了店员吗？然而却可以……真令人垂头丧气……",
+                    "textJp": "ふん、この私に店番が務まると思った？これができちゃうのよね。へこむわ",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV288_0_活动1.mp3"
+                },
+                {
+                    "title": "对话 2",
+                    "text": "快做决定啦。只要找到了想要的东西，不顾一切地买不就行了嘛。",
+                    "textJp": "さっさと決めなさい。ほしいものがあったら、後先考えず買うだけじゃない",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV288_0_活动2.mp3"
+                },
+                {
+                    "title": "对话 3",
+                    "text": "给，拿着。反正你很快就会用完了。我明白。因为我就是这样的。",
+                    "textJp": "はい、どうぞ。そうせすぐ使え切るでしょうけど。分かるわ、私がそうだから",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV288_0_活动3.mp3"
+                },
+                {
+                    "title": "对话 4",
+                    "text": "哈？　赠品？　怎么可能有嘛。你就尽情哭闹叫唤吧，我甚至不会给你打折。",
+                    "textJp": "はあ？おまけ？あるわけないじゃない。泣き叫びなさい、割引すらしてやらないわ",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV288_0_活动4.mp3"
+                },
+                {
+                    "title": "对话 5",
+                    "text": "收下东西时你还真是一脸高兴呢。……再来光顾不就行了嘛？",
+                    "textJp": "受け取るとき、ほんと楽しそうな顔をするわよね、お前。また来れば？",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV288_0_活动5.mp3"
+                },
+                {
+                    "title": "对话 6",
+                    "text": "好嘞，真遗憾，世间罕见的真祖商店已经关门啦～。我要赶紧回项羽大人身边了。赶快，收摊收摊！",
+                    "textJp": "はい残念！世にも得難い真祖ショップはもうへいてーん。さっさと項羽様の元に帰るわよ。ほら、撤収撤収！",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV288_0_活动6.mp3"
+                },
+                {
+                    "title": "对话 7",
+                    "text": "发生在这里的事似乎很漫长，又似乎很短暂，有种奇妙的感觉。对于身在永恒中的我来说，或许已经算是常态了……哎，你也有一样的感觉？……唔。所谓的夏天，或许就是这样的吧。",
+                    "textJp": "ここでの出来事、長かったようで短かったような、不思議な感じ。永遠の中にいる私にとっては、いつものことといえば、いつものことなんだけど。　あ、お前も同じ？ふーん……夏というのは、そういうものなのかもしれないわね",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV288_0_活动7.mp3"
+                }
+            ]
+        }
+    ],
+    "bondCraft": -1,
+    "valentineCraft": [],
+    "icons": [
+        {
+            "key": "icon1",
+            "valueList": [
+                "虞美人(Lancer)_status_1.png",
+                "虞美人(Lancer)_status_2.png",
+                "虞美人(Lancer)_status_3.png"
+            ]
+        }
+    ],
+    "sprites": [
+        {
+            "key": "sprite1",
+            "valueList": [
+                "虞美人(Lancer)_model.png",
+                "虞美人(Lancer)_model.png",
+                "虞美人(Lancer)_model.png"
+            ]
+        }
+    ],
+    "fandomIcons": {
+        "fandom.S288Icon.png": "Stage 1-3",
+        "fandom.YuMiaoyiLancerFinalIcon.png": "Stage 4",
+        "fandom.S288 status servant 1.png": "Portrait (Stage 1-3)"
+    },
+    "fandomSprites": {
+        "fandom.Yu Miaoyi Lancer Sprite.png": "Stage 1-3",
+        "fandom.S288_card_servant_1.png": "Command Card (Stage 1-3)",
+        "fandom.ConsortYu Lancer Skill3 Sprite.png": "Skill 3",
+        "fandom.ConsortYu Lancer ExtraAttack Sprite.png": "Extra Attack"
+    },
+    "niceSkills": [
+        {
+            "id": 781551,
+            "num": 1,
+            "name": "夏の受肉精霊 A+",
+            "ruby": "なつのじゅにくせいれい",
+            "detail": "自身にガッツ状態を付与(1回・5ターン)＆NP獲得量をアップ(3ターン)＆〔水辺〕のあるフィールドにおいてのみNP獲得量をアップ(3ターン)＆〔陽射し〕のあるフィールドにおいてのみNP獲得量をアップ(3ターン)",
+            "type": "active",
+            "strengthStatus": 0,
+            "priority": 1,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "conLv": 0,
+            "condLimitCount": 0,
+            "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00404.png",
+            "coolDown": [
+                8,
+                8,
+                8,
+                8,
+                8,
+                7,
+                7,
+                7,
+                7,
+                6
+            ],
+            "functions": [
+                {
+                    "funcId": 292,
+                    "funcType": "addState",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "ガッツ",
+                    "buffs": [
+                        {
+                            "id": 180,
+                            "name": "ガッツ",
+                            "detail": "HPが0になった時、HPを回復して耐える",
+                            "type": "guts",
+                            "buffGroup": 600
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 5,
+                            "Count": 1,
+                            "Value": 3000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 5,
+                            "Count": 1,
+                            "Value": 3200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 5,
+                            "Count": 1,
+                            "Value": 3400
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 5,
+                            "Count": 1,
+                            "Value": 3600
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 5,
+                            "Count": 1,
+                            "Value": 3800
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 5,
+                            "Count": 1,
+                            "Value": 4000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 5,
+                            "Count": 1,
+                            "Value": 4200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 5,
+                            "Count": 1,
+                            "Value": 4400
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 5,
+                            "Count": 1,
+                            "Value": 4600
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 5,
+                            "Count": 1,
+                            "Value": 5000
+                        }
+                    ]
+                },
+                {
+                    "funcId": 336,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "player",
+                    "funcPopupText": "NP獲得アップ",
+                    "buffs": [
+                        {
+                            "id": 140,
+                            "name": "NP獲得アップ",
+                            "detail": "NP獲得量をアップ",
+                            "type": "upDropnp",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200
+                        }
+                    ]
+                },
+                {
+                    "funcId": 470,
+                    "funcType": "hastenNpturn",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "enemy",
+                    "funcPopupText": "チャージ増加",
+                    "buffs": [],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        }
+                    ]
+                },
+                {
+                    "funcId": 5642,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "player",
+                    "funcPopupText": "NP獲得アップ：水辺",
+                    "buffs": [
+                        {
+                            "id": 2941,
+                            "name": "NP獲得アップ：水辺",
+                            "detail": "〔水辺〕のあるフィールドにおいてのみ、NP獲得量をアップ",
+                            "type": "upDropnp",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 100,
+                            "ShowQuestNoEffect": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 110,
+                            "ShowQuestNoEffect": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 120,
+                            "ShowQuestNoEffect": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 130,
+                            "ShowQuestNoEffect": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 140,
+                            "ShowQuestNoEffect": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 150,
+                            "ShowQuestNoEffect": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 160,
+                            "ShowQuestNoEffect": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 170,
+                            "ShowQuestNoEffect": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 180,
+                            "ShowQuestNoEffect": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200,
+                            "ShowQuestNoEffect": 1
+                        }
+                    ]
+                },
+                {
+                    "funcId": 5645,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "player",
+                    "funcPopupText": "NP獲得アップ：陽射し",
+                    "buffs": [
+                        {
+                            "id": 2942,
+                            "name": "NP獲得アップ：陽射し",
+                            "detail": "〔陽射し〕のあるフィールドにおいてのみ、NP獲得量をアップ",
+                            "type": "upDropnp",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 100,
+                            "ShowQuestNoEffect": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 110,
+                            "ShowQuestNoEffect": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 120,
+                            "ShowQuestNoEffect": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 130,
+                            "ShowQuestNoEffect": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 140,
+                            "ShowQuestNoEffect": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 150,
+                            "ShowQuestNoEffect": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 160,
+                            "ShowQuestNoEffect": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 170,
+                            "ShowQuestNoEffect": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 180,
+                            "ShowQuestNoEffect": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200,
+                            "ShowQuestNoEffect": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 782650,
+            "num": 2,
+            "name": "覇王の姫 EX",
+            "ruby": "はおうのひめ",
+            "detail": "味方単体のNPを増やす ＋ 自身にターゲット集中状態を付与(1ターン)",
+            "type": "active",
+            "strengthStatus": 0,
+            "priority": 1,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "conLv": 0,
+            "condLimitCount": 1,
+            "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00601.png",
+            "coolDown": [
+                7,
+                7,
+                7,
+                7,
+                7,
+                6,
+                6,
+                6,
+                6,
+                5
+            ],
+            "functions": [
+                {
+                    "funcId": 463,
+                    "funcType": "gainNp",
+                    "funcTargetType": "ptOne",
+                    "funcTargetTeam": "player",
+                    "funcPopupText": "NP増加",
+                    "buffs": [],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Value": 1000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1300
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1400
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1500
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1600
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1700
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1800
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 2000
+                        }
+                    ]
+                },
+                {
+                    "funcId": 471,
+                    "funcType": "hastenNpturn",
+                    "funcTargetType": "ptOne",
+                    "funcTargetTeam": "enemy",
+                    "funcPopupText": "チャージ増加",
+                    "buffs": [],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        }
+                    ]
+                },
+                {
+                    "funcId": 358,
+                    "funcType": "addState",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "player",
+                    "funcPopupText": "タゲ集中アップ",
+                    "buffs": [
+                        {
+                            "id": 181,
+                            "name": "タゲ集中アップ",
+                            "detail": "敵からの狙われやすさをアップ",
+                            "type": "upHate",
+                            "buffGroup": 700
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 5000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 3000
+                        },
+                        {
+                            "Rate": 5000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 3000
+                        },
+                        {
+                            "Rate": 5000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 3000
+                        },
+                        {
+                            "Rate": 5000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 3000
+                        },
+                        {
+                            "Rate": 5000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 3000
+                        },
+                        {
+                            "Rate": 5000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 3000
+                        },
+                        {
+                            "Rate": 5000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 3000
+                        },
+                        {
+                            "Rate": 5000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 3000
+                        },
+                        {
+                            "Rate": 5000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 3000
+                        },
+                        {
+                            "Rate": 5000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 3000
+                        }
+                    ]
+                },
+                {
+                    "funcId": 2195,
+                    "funcType": "addState",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "enemy",
+                    "funcPopupText": "タゲ集中アップ",
+                    "buffs": [
+                        {
+                            "id": 487,
+                            "name": "タゲ集中アップ",
+                            "detail": "自身にターゲットを固定する",
+                            "type": "upHate",
+                            "buffGroup": 700
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 5000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 3000
+                        },
+                        {
+                            "Rate": 5000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 3000
+                        },
+                        {
+                            "Rate": 5000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 3000
+                        },
+                        {
+                            "Rate": 5000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 3000
+                        },
+                        {
+                            "Rate": 5000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 3000
+                        },
+                        {
+                            "Rate": 5000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 3000
+                        },
+                        {
+                            "Rate": 5000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 3000
+                        },
+                        {
+                            "Rate": 5000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 3000
+                        },
+                        {
+                            "Rate": 5000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 3000
+                        },
+                        {
+                            "Rate": 5000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 3000
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 783650,
+            "num": 3,
+            "name": "在りし日の舞 EX",
+            "ruby": "ありしひのまい",
+            "detail": "自身のQuickカード性能をアップ(3ターン) ＋ 味方全体のクリティカル威力をアップ(3ターン)",
+            "type": "active",
+            "strengthStatus": 0,
+            "priority": 1,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "conLv": 0,
+            "condLimitCount": 3,
+            "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00304.png",
+            "coolDown": [
+                7,
+                7,
+                7,
+                7,
+                7,
+                6,
+                6,
+                6,
+                6,
+                5
+            ],
+            "functions": [
+                {
+                    "funcId": 101,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "クイックアップ",
+                    "buffs": [
+                        {
+                            "id": 100,
+                            "name": "Quickアップ",
+                            "detail": "Quickカードの性能をアップ",
+                            "type": "upCommandall",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 110
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 120
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 130
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 140
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 150
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 160
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 170
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 180
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200
+                        }
+                    ]
+                },
+                {
+                    "funcId": 206,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "ptAll",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "クリティカル威力アップ",
+                    "buffs": [
+                        {
+                            "id": 142,
+                            "name": "クリティカル威力アップ",
+                            "detail": "クリティカル時のダメージをアップ",
+                            "type": "upCriticaldamage",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 300
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 320
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 340
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 360
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 380
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 400
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 420
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 440
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 460
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 500
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "niceClassPassive": [
+        {
+            "id": 34450,
+            "num": 1,
+            "name": "対魔力 B",
+            "ruby": "たいまりょく",
+            "detail": "自身の弱体耐性をアップ",
+            "type": "passive",
+            "strengthStatus": 1,
+            "priority": 1,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "conLv": 0,
+            "condLimitCount": 0,
+            "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00100.png",
+            "coolDown": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "functions": [
+                {
+                    "funcId": 388,
+                    "funcType": "addState",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "弱体耐性アップ",
+                    "buffs": [
+                        {
+                            "id": 162,
+                            "name": "弱体耐性アップ",
+                            "detail": "弱体耐性をアップ",
+                            "type": "upTolerance",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 175
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 175
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 175
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 175
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 175
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 175
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 175
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 175
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 175
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 175
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "niceNoblePhantasms": [
+        {
+            "id": 304401,
+            "num": 1,
+            "card": "quick",
+            "name": "夏魔必滅槍舞",
+            "ruby": "アンチフリング・ロンド",
+            "rank": "A",
+            "type": "対軍宝具",
+            "detail": "敵単体に超強力な〔男性〕特攻攻撃＆呪い状態を付与(3ターン)<オーバーチャージで効果アップ>＆やけど状態を付与(3ターン)<オーバーチャージで効果アップ>",
+            "npGain": {
+                "buster": [
+                    110,
+                    110,
+                    110,
+                    110,
+                    110
+                ],
+                "arts": [
+                    110,
+                    110,
+                    110,
+                    110,
+                    110
+                ],
+                "quick": [
+                    110,
+                    110,
+                    110,
+                    110,
+                    110
+                ],
+                "extra": [
+                    110,
+                    110,
+                    110,
+                    110,
+                    110
+                ],
+                "defence": [
+                    400,
+                    400,
+                    400,
+                    400,
+                    400
+                ],
+                "np": [
+                    110,
+                    110,
+                    110,
+                    110,
+                    110
+                ]
+            },
+            "npDistribution": [
+                6,
+                13,
+                20,
+                26,
+                35
+            ],
+            "strengthStatus": 0,
+            "priority": 101,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "individuality": [
+                {
+                    "id": 3002,
+                    "name": "attackMagical"
+                },
+                {
+                    "id": 4003,
+                    "name": "cardQuick"
+                },
+                {
+                    "id": 4007,
+                    "name": "cardNP"
+                }
+            ],
+            "functions": [
+                {
+                    "funcId": 16,
+                    "funcType": "damageNpIndividual",
+                    "funcTargetType": "enemy",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "なし",
+                    "buffs": [],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Value": 12000,
+                            "Target": 1,
+                            "Correction": 1500
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 16000,
+                            "Target": 1,
+                            "Correction": 1500
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 18000,
+                            "Target": 1,
+                            "Correction": 1500
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 19000,
+                            "Target": 1,
+                            "Correction": 1500
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 20000,
+                            "Target": 1,
+                            "Correction": 1500
+                        }
+                    ]
+                },
+                {
+                    "funcId": 320,
+                    "funcType": "addState",
+                    "funcTargetType": "enemy",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "呪い",
+                    "buffs": [
+                        {
+                            "id": 125,
+                            "name": "呪い",
+                            "detail": "ターン終了時にHPが減る",
+                            "type": "reduceHp",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 500
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 500
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 500
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 500
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 500
+                        }
+                    ]
+                },
+                {
+                    "funcId": 318,
+                    "funcType": "addState",
+                    "funcTargetType": "enemy",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "やけど",
+                    "buffs": [
+                        {
+                            "id": 124,
+                            "name": "やけど",
+                            "detail": "ターン終了時にHPが減る",
+                            "type": "reduceHp",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 500
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 500
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 500
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 500
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 500
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "atkGrowth": [
+        1649,
+        1805,
+        1970,
+        2135,
+        2300,
+        2457,
+        2622,
+        2778,
+        2935,
+        3092,
+        3240,
+        3389,
+        3537,
+        3686,
+        3826,
+        3958,
+        4098,
+        4222,
+        4354,
+        4469,
+        4593,
+        4700,
+        4807,
+        4914,
+        5005,
+        5104,
+        5186,
+        5269,
+        5343,
+        5417,
+        5475,
+        5533,
+        5582,
+        5632,
+        5673,
+        5706,
+        5731,
+        5747,
+        5764,
+        5772,
+        5780,
+        5788,
+        5797,
+        5805,
+        5830,
+        5863,
+        5904,
+        5953,
+        6003,
+        6061,
+        6118,
+        6193,
+        6267,
+        6349,
+        6432,
+        6531,
+        6621,
+        6729,
+        6836,
+        6943,
+        7067,
+        7182,
+        7314,
+        7438,
+        7578,
+        7710,
+        7850,
+        7999,
+        8147,
+        8296,
+        8444,
+        8601,
+        8757,
+        8914,
+        9079,
+        9236,
+        9401,
+        9566,
+        9731,
+        9896,
+        9994,
+        10102,
+        10201,
+        10308,
+        10415,
+        10514,
+        10621,
+        10728,
+        10827,
+        10935,
+        11042,
+        11141,
+        11248,
+        11355,
+        11454,
+        11561,
+        11669,
+        11768,
+        11875,
+        11982,
+        12081,
+        12188,
+        12295,
+        12394,
+        12502,
+        12609,
+        12708,
+        12815,
+        12922,
+        13021,
+        13128,
+        13236,
+        13334,
+        13442,
+        13549,
+        13648,
+        13755,
+        13862,
+        13961,
+        14068
+    ],
+    "hpGrowth": [
+        1799,
+        1978,
+        2167,
+        2356,
+        2545,
+        2724,
+        2913,
+        3093,
+        3272,
+        3452,
+        3622,
+        3792,
+        3962,
+        4132,
+        4292,
+        4443,
+        4604,
+        4746,
+        4897,
+        5029,
+        5171,
+        5294,
+        5416,
+        5539,
+        5643,
+        5756,
+        5851,
+        5945,
+        6030,
+        6115,
+        6181,
+        6248,
+        6304,
+        6361,
+        6408,
+        6446,
+        6474,
+        6493,
+        6512,
+        6522,
+        6531,
+        6540,
+        6550,
+        6559,
+        6588,
+        6625,
+        6673,
+        6729,
+        6786,
+        6852,
+        6918,
+        7003,
+        7088,
+        7183,
+        7277,
+        7391,
+        7494,
+        7617,
+        7740,
+        7863,
+        8005,
+        8137,
+        8288,
+        8430,
+        8590,
+        8741,
+        8902,
+        9072,
+        9242,
+        9412,
+        9582,
+        9761,
+        9941,
+        10120,
+        10309,
+        10489,
+        10678,
+        10867,
+        11056,
+        11245,
+        11358,
+        11481,
+        11594,
+        11717,
+        11840,
+        11953,
+        12076,
+        12199,
+        12312,
+        12435,
+        12557,
+        12671,
+        12794,
+        12916,
+        13030,
+        13153,
+        13275,
+        13389,
+        13512,
+        13634,
+        13748,
+        13870,
+        13993,
+        14107,
+        14229,
+        14352,
+        14466,
+        14588,
+        14711,
+        14825,
+        14947,
+        15070,
+        15183,
+        15306,
+        15429,
+        15542,
+        15665,
+        15788,
+        15901,
+        16024
+    ],
+    "figure": [
+        "https://static.atlasacademy.io/JP/CharaFigure/3044000/3044000_merged.png",
+        "https://static.atlasacademy.io/JP/CharaFigure/3044001/3044001_merged.png",
+        "https://static.atlasacademy.io/JP/CharaFigure/3044002/3044002_merged.png"
+    ],
+    "ascension": [
+        "https://static.atlasacademy.io/JP/CharaGraph/304400/304400a@1.png",
+        "https://static.atlasacademy.io/JP/CharaGraph/304400/304400a@2.png",
+        "https://static.atlasacademy.io/JP/CharaGraph/304400/304400b@1.png",
+        "https://static.atlasacademy.io/JP/CharaGraph/304400/304400b@2.png"
+    ]
+}

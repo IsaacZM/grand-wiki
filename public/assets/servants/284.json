@@ -1,0 +1,3677 @@
+{
+    "no": 284,
+    "svtId": 504500,
+    "mcLink": "阿尔托莉雅·卡斯特",
+    "icon": "Servant284.jpg",
+    "info": {
+        "gameId": 504500,
+        "name": "阿尔托莉雅·卡斯特",
+        "nameJp": "アルトリア・キャスター",
+        "nameEn": "Artoria Caster",
+        "namesOther": [
+            "阿尔托莉雅·卡斯特",
+            "阿尔托莉雅",
+            "アルトリア・キャスター"
+        ],
+        "namesJpOther": [
+            "アルトリア・キャスター",
+            "アルトリア"
+        ],
+        "namesEnOther": [
+            "Altria Caster"
+        ],
+        "nicknames": [
+            "术呆",
+            "蓝拐",
+            "caber",
+            "C呆"
+        ],
+        "obtain": "限定",
+        "obtains": [
+            "期间限定"
+        ],
+        "rarity": 5,
+        "rarity2": 5,
+        "weight": "42kg",
+        "height": "154cm",
+        "gender": "女性",
+        "illustrator": "武内崇",
+        "illustratorJp": null,
+        "illustratorEn": "Takeuchi Takashi",
+        "className": "Caster",
+        "attribute": "星",
+        "isHumanoid": true,
+        "isWeakToEA": false,
+        "isTDNS": false,
+        "cv": [
+            "川澄绫子"
+        ],
+        "cvJp": [
+            "川澄绫子"
+        ],
+        "cvEn": [
+            "Kawasumi Ayako"
+        ],
+        "alignments": [
+            "中立",
+            "善"
+        ],
+        "traits": [
+            "阿尔托莉雅脸",
+            "亚瑟",
+            "圆桌骑士",
+            "妖精 (通关LB6后篇)"
+        ],
+        "ability": {
+            "strength": "B",
+            "endurance": "D",
+            "agility": "B",
+            "mana": "A",
+            "luck": "B",
+            "np": "A++"
+        },
+        "illustrations": {
+            "第１阶段": "阿尔托莉雅·卡斯特初始.png",
+            "第２阶段": "阿尔托莉雅·卡斯特一破.png",
+            "第３阶段": "阿尔托莉雅·卡斯特三破.png",
+            "第４阶段": "阿尔托莉雅·卡斯特满破.png",
+            "愚人节": "愚人节-284.png"
+        },
+        "cards": [
+            "Quick",
+            "Arts",
+            "Arts",
+            "Arts",
+            "Buster"
+        ],
+        "cardHits": {
+            "Quick": 3,
+            "Arts": 3,
+            "Buster": 3,
+            "Extra": 5,
+            "NP": 0
+        },
+        "cardHitsDamage": {
+            "Quick": [
+                16,
+                33,
+                51
+            ],
+            "Arts": [
+                16,
+                33,
+                51
+            ],
+            "Buster": [
+                16,
+                33,
+                51
+            ],
+            "Extra": [
+                6,
+                13,
+                20,
+                26,
+                35
+            ],
+            "NP": []
+        },
+        "npRate": {
+            "Quick": "0.54%",
+            "Arts": "0.54%",
+            "Buster": "0.54%",
+            "Extra": "0.54%",
+            "NP": "0.54%",
+            "Defense": "3%"
+        },
+        "atkMin": 1629,
+        "hpMin": 2112,
+        "atkMax": 10546,
+        "hpMax": 14406,
+        "atk90": 10546,
+        "hp90": 14406,
+        "atk100": 11544,
+        "hp100": 15782,
+        "starRate": "11.0%",
+        "deathRate": "36.0%",
+        "criticalRate": "50"
+    },
+    "noblePhantasm": [
+        {
+            "state": "初始",
+            "openCondition": "",
+            "name": "环抱着你的希望之星",
+            "nameJp": "きみをいだく希望の星",
+            "upperName": "Around Caliburn",
+            "upperNameJp": "アラウンド・カリバーン",
+            "color": "Arts",
+            "category": "辅助",
+            "rank": "A",
+            "typeText": "对军宝具",
+            "effects": [
+                {
+                    "description": "己方全体的攻击力提升(3回合)<宝具升级效果提升>",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "30%",
+                        "40%",
+                        "45%",
+                        "47.5%",
+                        "50%"
+                    ]
+                },
+                {
+                    "description": "解除弱化状态",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "∅"
+                    ]
+                },
+                {
+                    "description": "付与对肃正防御状态<无视无敌贯通，令攻击造成的伤害为0的状态>(1次・3回合)<Over Charge时次数提升>",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "1次",
+                        "2次",
+                        "3次",
+                        "4次",
+                        "5次"
+                    ]
+                }
+            ]
+        },
+        {
+            "state": "灵基再临Ⅲ后",
+            "openCondition": "",
+            "name": "真圆集结誓约之星",
+            "nameJp": "真円集う約束の星",
+            "upperName": "Round of Avalon",
+            "upperNameJp": "ラウンド・オブ・アヴァロン",
+            "color": "Arts",
+            "category": "辅助",
+            "rank": "A",
+            "typeText": "对军宝具",
+            "effects": [
+                {
+                    "description": "己方全体的攻击力提升(3回合)<宝具升级效果提升>",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "30%",
+                        "40%",
+                        "45%",
+                        "47.5%",
+                        "50%"
+                    ]
+                },
+                {
+                    "description": "解除弱化状态",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "∅"
+                    ]
+                },
+                {
+                    "description": "付与对肃正防御状态<无视无敌贯通，令攻击造成的伤害为0的状态>(1次・3回合)<Over Charge时次数提升>",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "1次",
+                        "2次",
+                        "3次",
+                        "4次",
+                        "5次"
+                    ]
+                }
+            ]
+        }
+    ],
+    "noblePhantasmEn": [
+        {
+            "state": "Rank A",
+            "openCondition": null,
+            "name": "Around Caliburn",
+            "nameJp": null,
+            "upperName": "Around Caliburn",
+            "upperNameJp": null,
+            "color": "Arts",
+            "category": "",
+            "rank": "A",
+            "typeText": "Anti-Army",
+            "effects": [
+                {
+                    "description": "Increases party's attack for 3 turns.\n Removes party's debuffs.",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                },
+                {
+                    "description": " Attack +",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "30%",
+                        "40%",
+                        "45%",
+                        "47.5%",
+                        "50%"
+                    ]
+                },
+                {
+                    "description": "<Over Charge>\nGrants Party Anti-Purge Defense buff for N attacks, 3 turns.\n(Anti-Purge Defense: Nullifies  Pierce Invincibility and Damage.)\n(N: Based on Overcharge.)",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                },
+                {
+                    "description": " Anti-Purge Defense\nStack",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5"
+                    ]
+                }
+            ]
+        }
+    ],
+    "activeSkills": [
+        {
+            "cnState": 0,
+            "skills": [
+                {
+                    "state": "",
+                    "openCondition": "",
+                    "name": "希望的魅力",
+                    "nameJp": "希望のカリスマ",
+                    "nameEn": null,
+                    "rank": "B",
+                    "icon": "加攻.png",
+                    "cd": 8,
+                    "effects": [
+                        {
+                            "description": "己方全体的攻击力提升(3回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "10%",
+                                "11%",
+                                "12%",
+                                "13%",
+                                "14%",
+                                "15%",
+                                "16%",
+                                "17%",
+                                "18%",
+                                "20%"
+                            ]
+                        },
+                        {
+                            "description": "NP增加",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "20%",
+                                "21%",
+                                "22%",
+                                "23%",
+                                "24%",
+                                "25%",
+                                "26%",
+                                "27%",
+                                "28%",
+                                "30%"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "cnState": 0,
+            "skills": [
+                {
+                    "state": "初始",
+                    "openCondition": "",
+                    "name": "湖之加护",
+                    "nameJp": "湖の加護",
+                    "nameEn": null,
+                    "rank": "A",
+                    "icon": "充能.png",
+                    "cd": 7,
+                    "effects": [
+                        {
+                            "description": "己方单体的NP增加",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "10%",
+                                "11%",
+                                "12%",
+                                "13%",
+                                "14%",
+                                "15%",
+                                "16%",
+                                "17%",
+                                "18%",
+                                "20%"
+                            ]
+                        },
+                        {
+                            "description": "己方全体的NP获得量提升(3回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "20%",
+                                "21%",
+                                "22%",
+                                "23%",
+                                "24%",
+                                "25%",
+                                "26%",
+                                "27%",
+                                "28%",
+                                "30%"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "state": "通关Lostbelt No.6(后篇)后",
+                    "openCondition": "通关Lostbelt No.6 妖精圆桌领域 阿瓦隆·勒·菲(后篇)后技能名称变化。",
+                    "name": "阿瓦隆的妖精",
+                    "nameJp": "アヴァロンの妖精",
+                    "nameEn": null,
+                    "rank": "A",
+                    "icon": "充能.png",
+                    "cd": 7,
+                    "effects": [
+                        {
+                            "description": "己方单体的NP增加",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "10%",
+                                "11%",
+                                "12%",
+                                "13%",
+                                "14%",
+                                "15%",
+                                "16%",
+                                "17%",
+                                "18%",
+                                "20%"
+                            ]
+                        },
+                        {
+                            "description": "己方全体的NP获得量提升(3回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "20%",
+                                "21%",
+                                "22%",
+                                "23%",
+                                "24%",
+                                "25%",
+                                "26%",
+                                "27%",
+                                "28%",
+                                "30%"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "cnState": 0,
+            "skills": [
+                {
+                    "state": "初始",
+                    "openCondition": "",
+                    "name": "选定之剑",
+                    "nameJp": "選定の剣",
+                    "nameEn": null,
+                    "rank": "EX",
+                    "icon": "蓝放.png",
+                    "cd": 8,
+                    "effects": [
+                        {
+                            "description": "己方单体的Arts指令卡性能提升(3回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "30%",
+                                "32%",
+                                "34%",
+                                "36%",
+                                "38%",
+                                "40%",
+                                "42%",
+                                "44%",
+                                "46%",
+                                "50%"
+                            ]
+                        },
+                        {
+                            "description": "付与对〔人类的威胁〕的特攻状态(3回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "30%",
+                                "32%",
+                                "34%",
+                                "36%",
+                                "38%",
+                                "40%",
+                                "42%",
+                                "44%",
+                                "46%",
+                                "50%"
+                            ]
+                        },
+                        {
+                            "description": "付与无敌状态(1回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "∅"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "state": "通关Lostbelt No.6(后篇)后",
+                    "openCondition": "通关Lostbelt No.6 妖精圆桌领域 阿瓦隆·勒·菲(后篇)后技能名称变化。",
+                    "name": "圣剑铸造",
+                    "nameJp": "聖剣作成",
+                    "nameEn": null,
+                    "rank": "EX",
+                    "icon": "蓝放.png",
+                    "cd": 8,
+                    "effects": [
+                        {
+                            "description": "己方单体的Arts指令卡性能提升(3回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "30%",
+                                "32%",
+                                "34%",
+                                "36%",
+                                "38%",
+                                "40%",
+                                "42%",
+                                "44%",
+                                "46%",
+                                "50%"
+                            ]
+                        },
+                        {
+                            "description": "付与对〔人类的威胁〕的特攻状态(3回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "30%",
+                                "32%",
+                                "34%",
+                                "36%",
+                                "38%",
+                                "40%",
+                                "42%",
+                                "44%",
+                                "46%",
+                                "50%"
+                            ]
+                        },
+                        {
+                            "description": "付与无敌状态(1回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "∅"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "activeSkillsEn": [
+        {
+            "cnState": 0,
+            "skills": [
+                {
+                    "state": "",
+                    "openCondition": null,
+                    "name": "Charisma of Hope",
+                    "nameJp": null,
+                    "nameEn": null,
+                    "rank": "B",
+                    "icon": "加攻.png",
+                    "cd": 8,
+                    "effects": [
+                        {
+                            "description": "Increases party's attack for 3 turns.\nCharges party's NP gauge.",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": []
+                        },
+                        {
+                            "description": " Attack +",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "10%",
+                                "11%",
+                                "12%",
+                                "13%",
+                                "14%",
+                                "15%",
+                                "16%",
+                                "17%",
+                                "18%",
+                                "20%"
+                            ]
+                        },
+                        {
+                            "description": " NP +",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "20%",
+                                "21%",
+                                "22%",
+                                "23%",
+                                "24%",
+                                "25%",
+                                "26%",
+                                "27%",
+                                "28%",
+                                "30%"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "cnState": 0,
+            "skills": [
+                {
+                    "state": "",
+                    "openCondition": null,
+                    "name": "Protection of the Lake",
+                    "nameJp": null,
+                    "nameEn": null,
+                    "rank": "A",
+                    "icon": "充能.png",
+                    "cd": 7,
+                    "effects": [
+                        {
+                            "description": "Charges one ally's NP gauge.\nIncreases party's NP generation rate for 3 turns.",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": []
+                        },
+                        {
+                            "description": " NP +",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "10%",
+                                "11%",
+                                "12%",
+                                "13%",
+                                "14%",
+                                "15%",
+                                "16%",
+                                "17%",
+                                "18%",
+                                "20%"
+                            ]
+                        },
+                        {
+                            "description": " NP Rate +",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "20%",
+                                "21%",
+                                "22%",
+                                "23%",
+                                "24%",
+                                "25%",
+                                "26%",
+                                "27%",
+                                "28%",
+                                "30%"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "cnState": 0,
+            "skills": [
+                {
+                    "state": "",
+                    "openCondition": null,
+                    "name": "Caliburn (Active Skill)",
+                    "nameJp": null,
+                    "nameEn": null,
+                    "rank": "EX",
+                    "icon": "蓝放.png",
+                    "cd": 8,
+                    "effects": [
+                        {
+                            "description": "Increases one ally's Arts performance for 3 turns.\nIncreases their damage against Threat to Humanity enemies for 3 turns.\n Grants them Invincibility for 1 turn.",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": []
+                        },
+                        {
+                            "description": " Arts +",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "30%",
+                                "32%",
+                                "34%",
+                                "36%",
+                                "38%",
+                                "40%",
+                                "42%",
+                                "44%",
+                                "46%",
+                                "50%"
+                            ]
+                        },
+                        {
+                            "description": " Threat to Humanity Damage +",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "30%",
+                                "32%",
+                                "34%",
+                                "36%",
+                                "38%",
+                                "40%",
+                                "42%",
+                                "44%",
+                                "46%",
+                                "50%"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "passiveSkills": [
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "对魔力",
+            "nameJp": null,
+            "nameEn": null,
+            "rank": "A",
+            "icon": "对魔力.png",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": "自身的弱化耐性提升(20%)",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                }
+            ]
+        },
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "阵地建造",
+            "nameJp": null,
+            "nameEn": null,
+            "rank": "EX",
+            "icon": "阵地建造.png",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": "自身的Arts指令卡性能提升(12%)",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                }
+            ]
+        },
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "独自魔术",
+            "nameJp": null,
+            "nameEn": null,
+            "rank": "B",
+            "icon": "暴击威力提升.png",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": "自身的Arts指令卡暴击威力提升(10%)",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                }
+            ]
+        },
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "妖精眼",
+            "nameJp": null,
+            "nameEn": null,
+            "rank": "A",
+            "icon": "被暴击发生耐性提升.png",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": "自身的被暴击发生耐性提升(20%)",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                }
+            ]
+        }
+    ],
+    "passiveSkillsEn": [
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "Magic Resistance",
+            "nameJp": null,
+            "nameEn": null,
+            "rank": "A",
+            "icon": "fandom.anti magic.png",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": " Increases own debuff resistance by 20%.",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                }
+            ]
+        },
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "Territory Creation",
+            "nameJp": null,
+            "nameEn": null,
+            "rank": "EX",
+            "icon": "fandom.territory creation.png",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": " Increases own Arts performance by 12%.",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                }
+            ]
+        },
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "One's Own Magic",
+            "nameJp": null,
+            "nameEn": null,
+            "rank": "B",
+            "icon": "fandom.Critdmg.png",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": " Increases own critical damage of  Arts Cards by 10%.",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                }
+            ]
+        },
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "Fae Eyes",
+            "nameJp": null,
+            "nameEn": null,
+            "rank": "A",
+            "icon": "fandom.Criticalchanceresup.png",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": " Increases own critical attack chance resistance by 20%.",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                }
+            ]
+        }
+    ],
+    "appendSkills": [
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "追击技巧提升",
+            "nameJp": "追撃技巧向上",
+            "nameEn": "Extra Attack Finesse Improvement",
+            "rank": null,
+            "icon": "特攻",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": "自身的Extra Attack指令卡性能提升",
+                    "descriptionJp": "自身のExtra Attackカードの性能をアップする",
+                    "descriptionEn": "Increases own Extra Attack performance",
+                    "lvData": [
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "38%",
+                        "40%",
+                        "42%",
+                        "44%",
+                        "46%",
+                        "50%"
+                    ]
+                }
+            ]
+        },
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "魔力装填",
+            "nameJp": "魔力装填",
+            "nameEn": "Mana Loading",
+            "rank": null,
+            "icon": "充能",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": "自身以NP已达一定数值的状态开始战斗",
+                    "descriptionJp": "自身のNPをチャージした状態でバトルを開始する",
+                    "descriptionEn": "Starts battle with NP gauge",
+                    "lvData": [
+                        "10%",
+                        "11%",
+                        "12%",
+                        "13%",
+                        "14%",
+                        "15%",
+                        "16%",
+                        "17%",
+                        "18%",
+                        "20%"
+                    ]
+                }
+            ]
+        },
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "对Saber攻击适性",
+            "nameJp": "対Saber攻撃適性",
+            "nameEn": "Anti-Saber Attack Damage Aptitude",
+            "rank": null,
+            "icon": "加攻",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": "自身对Saber的攻击力提升",
+                    "descriptionJp": "自身の〔Saber〕クラスに対する攻撃力をアップする",
+                    "descriptionEn": "Increases own attack against Saber enemies",
+                    "lvData": [
+                        "20%",
+                        "21%",
+                        "22%",
+                        "23%",
+                        "24%",
+                        "25%",
+                        "26%",
+                        "27%",
+                        "28%",
+                        "30%"
+                    ]
+                }
+            ]
+        }
+    ],
+    "coinSummonNum": 90,
+    "itemCost": {
+        "ascension": [
+            {
+                "术阶银棋": 5,
+                "QP": 100000
+            },
+            {
+                "术阶银棋": 12,
+                "世界树之种": 9,
+                "QP": 300000
+            },
+            {
+                "术阶金像": 5,
+                "禁断书页": 10,
+                "精灵根": 2,
+                "QP": 1000000
+            },
+            {
+                "术阶金像": 12,
+                "精灵根": 4,
+                "煌星碎片": 5,
+                "QP": 3000000
+            }
+        ],
+        "skill": [
+            {
+                "术之辉石": 5,
+                "QP": 200000
+            },
+            {
+                "术之辉石": 12,
+                "QP": 400000
+            },
+            {
+                "术之魔石": 5,
+                "QP": 1200000
+            },
+            {
+                "术之魔石": 12,
+                "禁断书页": 5,
+                "QP": 1600000
+            },
+            {
+                "术之秘石": 5,
+                "禁断书页": 10,
+                "QP": 4000000
+            },
+            {
+                "术之秘石": 12,
+                "世界树之种": 6,
+                "QP": 5000000
+            },
+            {
+                "世界树之种": 12,
+                "真理之卵": 3,
+                "QP": 10000000
+            },
+            {
+                "真理之卵": 8,
+                "煌星碎片": 10,
+                "QP": 12000000
+            },
+            {
+                "传承结晶": 1,
+                "QP": 20000000
+            }
+        ],
+        "appendSkill": [
+            {
+                "术之辉石": 5,
+                "QP": 200000
+            },
+            {
+                "术之辉石": 12,
+                "QP": 400000
+            },
+            {
+                "术之魔石": 5,
+                "QP": 1200000
+            },
+            {
+                "术之魔石": 12,
+                "智慧之圣甲虫像": 2,
+                "QP": 1600000
+            },
+            {
+                "术之秘石": 5,
+                "智慧之圣甲虫像": 4,
+                "QP": 4000000
+            },
+            {
+                "术之秘石": 12,
+                "精灵根": 2,
+                "QP": 5000000
+            },
+            {
+                "精灵根": 4,
+                "赦免的小钟": 18,
+                "QP": 10000000
+            },
+            {
+                "赦免的小钟": 54,
+                "梦幻鳞粉": 24,
+                "QP": 12000000
+            },
+            {
+                "传承结晶": 1,
+                "QP": 20000000
+            }
+        ]
+    },
+    "costumeNos": [],
+    "bondPoints": [
+        5000,
+        15000,
+        10000,
+        2000,
+        18000,
+        150000,
+        430000,
+        340000,
+        320000,
+        405000,
+        1090000,
+        1230000,
+        1360000,
+        1500000,
+        1640000
+    ],
+    "profiles": [
+        {
+            "title": "0",
+            "description": "携『选定之杖』被选中的预言之子。\n是终将抵达卡美洛的\n余暇、途中与间隙的模样。\n\n「太棒了，终于轮到我出场了吧！\n　Caster·阿尔托莉雅，\n　会在力所能及的范围内努力！」",
+            "descriptionJp": "『選定の杖』と共に選ばれた予言の子。\nいずれキャメロットに至るまでの、\n合間と途中と隙間の姿。\n\n「やったぁ、ついに出番ですね！\n　キャスター・アルトリア、\n　できる範囲で頑張ります！」",
+            "descriptionEn": "The Child of Prophecy who was chosen along with the Staff of Selection. Her appearance is how she looked during the midway point in her journey of eventually arriving at Camelot.\n“Yaay, it’s finally my turn! Artoria Caster, I will do the best I can!”",
+            "condition": null,
+            "conditionEn": null
+        },
+        {
+            "title": "1",
+            "description": "身高／体重：154cm·42kg\n出处：亚瑟王传说、Fate/Grand Order\n地域：潮声的廷塔杰尔\n属性：中立·善　　性别：女性",
+            "descriptionJp": "身長／体重：154cm・42kg\n出典：アーサー王伝説、Fate/Grand Order\n地域：潮騒のティンタジェル\n属性：中立・善　　性別：女性",
+            "descriptionEn": "Height / Weight: 154cm / 42kg\n\nSource: The Legend of King Arthur, Fate/Grand Order\n\nRegion: The sea shore of Tintagel\n\nAlignment: Neutral Good\n\nSex: Female\n",
+            "condition": "羁绊达到Lv.1后开放",
+            "conditionEn": null
+        },
+        {
+            "title": "2",
+            "description": "天真烂漫精力充沛的少女。\n不服输、意志坚强，珍惜周围的气氛，将真话藏在心里不对任何人说，十分普通的少女形象。\n认真钻研魔术，会像少年一样在原野中奔走的实践派研究者。",
+            "descriptionJp": "純真爛漫な元気っ娘。\n負けず嫌いで、打たれ強くて、まわりの空気をなにより大切にして、本当のコトは誰にも言えずに隠している、ごく当たり前の少女像。\n魔術の研究に明け暮れて、少年のように野原を走り回る実践派の研究者。",
+            "descriptionEn": "An innocent and very energetic girl.\n \nArtoria has the figure of a perfectly commonplace girl who hates to lose, is strong in the face of criticism and adversity, values the surrounding atmosphere more than anything else, and hides her true feelings from everyone.",
+            "condition": "羁绊达到Lv.2后开放",
+            "conditionEn": null
+        },
+        {
+            "title": "3",
+            "description": "『环抱着你的希望之星』\n阶级：A　种类：对军宝具\n有效范围：0～50　最大捕捉：100人\n\nAround Caliburn\n由『选定之杖』开放的阿尔托莉雅内心印象世界。来自乐园的钟声守护、强化并肩战斗的同伴们。\n这名字的由来连她本人都不知晓。",
+            "descriptionJp": "『きみをいだく希望の星』\nランク：Ａ　種別：対軍宝具\nレンジ：０～５０　最大捕捉：１００人\n\nアラウンド・カリバーン。\n『選定の杖』によって開放される、アルトリアの心象世界。共に戦う者たちを守り、強化する、楽園より響く鐘の音。\nその名前の由来を、たとえ本人は知らずとも。",
+            "descriptionEn": "Around Caliburn: Hope's Radiant Embrace\n\nRank: A\n\nClassification: Anti-Army Noble Phantasm\n\nRange: 0~50\n\nMaximum Number of Targets: 100 people\n\nArtoria’s mental world, deployed by the Staff of Selection. The tolls of a bell resound from paradise, protecting and strengthening those she is fighting together with; even if Artoria herself does not know the origin of that name.",
+            "condition": "羁绊达到Lv.3后开放",
+            "conditionEn": null
+        },
+        {
+            "title": "4",
+            "description": "希望的魅力：B\n作为预言之子被抚养长大，并踏上旅途的她具备被他人依靠、期待的魅力。\n其效果接近魔术师梅林所展现的『梦境般的战意高昂』。\n\n湖之加护：A\n湖之妖精们的加护。\n赐予预言之子的祝福，或是誓约。\n\n选定之剑：EX\n表现了携选定之杖被选中的她最终到达的生活方式的技能。",
+            "descriptionJp": "○希望のカリスマ：Ｂ\n予言の子として育てられ、旅立った彼女には人々に頼られ、期待されるカリスマが具わっている。\nその効果は魔術師マーリンが見せる『夢のような戦意高揚』に近い。\n\n○湖の加護：Ａ\n湖の妖精たちによる加護。\n予言の子に与えられた祝福、あるいは誓約。\n\n○選定の剣：ＥＸ\n選定の杖と共に選ばれた彼女が、最後に辿り着く在り方を示したスキル。",
+            "descriptionEn": "Charisma of Hope: B\n\nRaised as the Child of Prophecy, Artoria, who began her journey, is endowed with a Charisma where the people feel like they can depend on and expect things from her. Its effect is similar to the “dreamlike charisma that raises one’s morale” that the mage Merlin displays.\n\nProtection of Vivian: A\n\nA protection given by the fairies of the Lake. This blessing, or oath, was given to the Child of Prophecy.\n\nCaliburn: Sword of Selection: EX\n\nA Skill that shows how Artoria, who was chosen along with the Staff of Selection, will eventually reach her fated conclusion.",
+            "condition": "羁绊达到Lv.4后开放",
+            "conditionEn": null
+        },
+        {
+            "title": "5",
+            "description": "灵基第三阶段后可使用众多宝剑作为魔术触媒。\n踏影的卡文南、闪电的斯普梅达，\n以及神话礼装玛米亚德兹。\n灵基第三状态的阿尔托莉雅手持的巨大杖子\n是传说由火神锻造，并献给大英雄的大剑。\n仅从威力来看，甚至比誓约胜利之剑更甚一筹，\n据说亚瑟王有时还会将誓约胜利之剑借给高文，\n自己则使用这把大剑。",
+            "descriptionJp": "霊基第三になると数多くの宝剣を魔術触媒として使用できるようになる。\n影踏みのカルンウェナン、稲妻のスピュメイダー、\nそして神話礼装マルミアドワーズ。\n霊基第三状態のアルトリアが手にする巨大な杖は\n火の神が鍛え、大英雄に与えたとされる大剣である。\n威力だけであればエクスカリバーより優れており、\nアーサー王はガウェインにエクスカリバーを貸し与え、\nこの大剣を使う時もあったという。",
+            "descriptionEn": "When Artoria reaches her Third Stage Ascension, she can use many of her treasured swords as catalysts for magecraft.\n \nThe Shadow-Treading Carnwennan, the Lightning Flash Spumador, and the Mythological Mystic Code Marmyadose.\n \nThe gigantic staff that Artoria carries in her Third Stage Ascension is a large sword that was forged by the God of Fire and given to great heroes.\n \nIt is said that this sword exceeds Excalibur in power alone, and during times when King Arthur would lend Excalibur to Gawain, she used this large sword as a substitute.",
+            "condition": "羁绊达到Lv.5后开放",
+            "conditionEn": null
+        },
+        {
+            "title": "6",
+            "description": "阿尔托莉雅先行一步被召唤至迦勒底。\n与其说她与御主的关系是『英雄与魔术师』，\n倒不如说是『可靠的朋友』。\n\n看到骑士王阿尔托莉雅会惊讶得双目圆睁，\n看到暴君阿尔托莉雅则会意志消沉，\n看到泳装阿尔托莉雅则会因由衷感到「真羡慕！」\n而开心地笑起来，她就是这样的阿尔托莉雅。",
+            "descriptionJp": "一足早くカルデアに召喚されたアルトリア。\nマスターとの関係は『英雄と魔術師』というより、\n『頼りになる友人同士』というもの。\n\n騎士王アルトリアを見て目を丸くし、\n暴君であるアルトリアを見て落ち込み、\n水着のアルトリアを見て心底から「いいなあ！」と\n楽しげに笑う、そんなアルトリア。",
+            "descriptionEn": "This Artoria was summoned to Chaldea slightly earlier before.\n \nHer relationship with the Master is said to be more along the lines of “a fellow friend one can rely on” rather than say “a hero and a mage”.\n\nStaring in wonder when looking at the King of Knights Artoria, becoming depressed when looking at the Artoria who became a tyrant, and happily smiling while saying “That looks nice!” from the bottom of her heart when looking at the swimsuit Artoria; such is this Artoria.",
+            "condition": "羁绊达到Lv.5后开放",
+            "conditionEn": "Unlock at Bond Level 5"
+        },
+        {
+            "title": "0",
+            "description": "拯救妖精国的『预言之子』。\n从星之内海……阿瓦隆，与『选定之杖』一起被派遣到地面上的特别的妖精。\n漂流到湖水地区之后，基于镜之氏族族长的判断，与大量宝物一同乘船到达廷塔杰尔的海岸，此后作为廷塔杰尔的妖精被抚养长大。\n\n在异闻带中，与泛人类史中终将肩负起圣剑的“某人”是同一存在。\n也是为了制造出作为对抗『星球的威胁』的决战兵器的圣剑，而收集地上信息的『收集装置』。",
+            "descriptionJp": "妖精國を救う『予言の子』。\n星の内海……アヴァロンから、『選定の杖』と共に地上に遣わされた特別な妖精。\n湖水地方に流れ着いた後、鏡の氏族の長の判断でたくさんの宝物と共に舟に乗せられ、ティンタジェルの海岸に辿り着き、以後はティンタジェルの妖精として育てられた。\n\n異聞帯において、汎人類史でいずれ聖剣を担う事になる“誰か”と同一の存在。\n『星の脅威』に対する決戦兵器である聖剣を造るため、地上の情報を集める『集積装置』でもある。",
+            "descriptionEn": null,
+            "condition": null,
+            "conditionEn": null
+        },
+        {
+            "title": "1",
+            "description": "身高／体重：154cm·42kg\n出处：Fate/Grand Order\n地域：星之内海、潮声的廷塔杰尔\n属性：中立·善　　性别：女性\n由于并非在妖精国不列颠产生的妖精，\n不列颠的妖精会没来由地对她见而生厌。\n相反，对不列颠妖精的一切都感到厌恶的妖精、\n或者并非六大氏族出身的妖精，本来就自我厌恶的妖精，\n对这类存在而言，\n『乐园的妖精』反而是一种宽慰。",
+            "descriptionJp": "身長／体重：154cm・42kg\n出典：Fate/Grand Order\n地域：星の内海、潮騒のティンタジェル\n属性：中立・善　　性別：女性\n妖精國ブリテンで発生した妖精ではないため、\nブリテンの妖精たちは本能的に彼女を毛嫌いする。\n逆に、ブリテンの妖精すべてを嫌っていた妖精や、\n６輪の氏族の生まれではない妖精、そもそも自らを\n憎んでいる妖精、といったものにとって、\n『楽園の妖精』は癒しとなる。",
+            "descriptionEn": null,
+            "condition": "羁绊达到Lv.1后开放",
+            "conditionEn": null
+        },
+        {
+            "title": "2",
+            "description": "天真烂漫精力充沛的少女。\n不服输、耐挫力强，\n（即使遇到令人不快的事情也能振作起来）\n很留意周遭的氛围，将真心话藏在心里不对任何人说，十分普通的少女形象。\n一心钻研魔术，会像少年一样在原野中奔走的实践派研究者。\n作为『预言之子』回应周围的期待，为了拯救不列颠而踏上旅程的故事主人公。\n\n……以上是表面的性格·性质。\n虽然泛人类史的阿尔托莉雅是表里如一的性格，但异闻带的阿尔托莉雅并没有那般强大，是内心相当脆弱，性格畏缩的悲观主义者。\n“无论是身为『预言之子』的自己，还是身边因为对自己寄予期望而死去的人们都像傻瓜一样”，心里面如此地叹息着。\n（既不是心灰意冷，也并没有轻视他人。单纯只是「唉……」地感觉心情十分沉重而已）",
+            "descriptionJp": "純真爛漫な元気っ娘。\n負けず嫌いで、打たれ強くて、\n（イヤな事があっても立ち上がって）\n周りの空気に気を遣って、本当のコトは誰にも言えずに隠している、ごく当たり前の少女像。\n魔術の研究に明け暮れて、少年のように野原を走り回る実践派の研究者。\n『予言の子』として周囲の期待に応え、ブリテンを救うために旅立つ、物語の主人公。\n\n……というのが表向きの性格・性質。\n汎人類史のアルトリアは裏表のない性格だったが、異聞帯のアルトリアはあそこまで強くなく、内面はとても弱く、いじけ気質で、悲観主義者。\n『予言の子』である自分も、そんなものに期待をよせて自滅する周りの人々もバカみたいだ、と内心では溜息をついている。\n（冷め切っている訳でも、バカにしている訳でもない。「はあ……」と、気持ちが重いだけ）",
+            "descriptionEn": null,
+            "condition": "羁绊达到Lv.2后开放",
+            "conditionEn": null
+        },
+        {
+            "title": "3",
+            "description": "然而在意周遭氛围的阿尔托莉雅没有坦露这样的内心，由于和谁都不想争吵，不想相互仇视，\n所以说着「好的，交给我吧！」这样的话，按照旁人的期待而行动，以此作为掩饰。\n做事笨拙，经常失败，一路磕磕绊绊的，勤奋努力的普通人。也就跌倒后能很快站起来这一点是她的长处。因此，\n「我这么弱小真的很抱歉。\n我会努力的，我会努力的」是她的口头禅。\n这时候她的内心独白会是，「战斗好可怕。彼此仇视心好累。平凡的生活就很幸福。」这样。\n虽然本人经常这样进行「自我批判」，但是无论遭遇何等恶劣的环境、恶劣的对待，都能保持「不堕入邪恶、不忘记礼节、能关心身边人」的性格不动摇，这本身就可以说是品格高尚之人的证明。\n与奥伯隆决定性的差别就在于这一点。",
+            "descriptionJp": "しかし周りの空気を気にするアルトリアはそんな内面を打ち明けられず、誰とも言い争いをしたくない、憎み合いたくない、という理由で、\n「はいっ、任せてください！」と周りが望むムーブをして取り繕ってしまう。\n要領悪くて、失敗が多く、道につまずいてばかりの努力家の一般人。転んだ後、立ち上がるのが早いだけが取り柄。なので、\n「弱くてごめんなさい。\n　がんばります、がんばります」が口癖だった。\nそんな時の内心のモノローグは、「戦いは恐いです。憎しみ合うのはしんどいです。普通の暮らしがハッピーです」というもの。\n本人はこんな感じで「自分にダメ出し」をしているが、どれほど酷い環境・酷い仕打ちをうけても「悪に落ちず、礼節を忘れず、周りを気遣える」性格がブレない事自体が貴人の証と言える。\nオベロンとの決定的な違いはその一点。",
+            "descriptionEn": null,
+            "condition": "羁绊达到Lv.3后开放",
+            "conditionEn": null
+        },
+        {
+            "title": "4",
+            "description": "在巡礼的旅途中，\n如果说虚假的预言之子是以『虽然害怕，但是我想要帮助大家所以努力』作为行事动机，\n那么预言之子则是以『虽然害怕，但如果我这样讲的话周围人会大失所望所以不得不努力』作为动机。\n\n『其他人都好可怕，社会又令人作呕，虽然被人说“去拯救世界吧”也完全提不起干劲，但又不想违逆他人所以就作为救世主加油吧』\n\n她将这种相当消极的精神状态掩藏了起来。\n即便就结果上来讲她做到了『在别人看来高尚的行为』『与亚瑟王同样的存在方式』，阿尔托莉雅·卡斯特的内心也是十分低三下四、悲观、消极的。\n因此总是会「虽然这次努力做到了，下次的话我肯定，半路就会放弃吧……」\n这样进行自我批判。\n\n如果说妖精国是摩根在心中所描绘的童话，\n巡礼之旅就是描绘阿尔托莉雅成长的童话。\n虽然看起来像是『绿野仙踪』中主人公多萝西一样的角色，实际上却带着走不好路（看不见脚下、缺乏智慧）的“稻草人”、心中空无一物的“樵夫”以及不愿鼓起勇气的“狮子”三者集合体一般的弱小特质。\n这样的阿尔托莉雅为何直到最后都依然是『预言之子』、又是为了什么而战斗至今，这个答案，将为她的故事画上句号。",
+            "descriptionJp": "巡礼の旅において、\n偽の予言の子が『怖いけど、みんなの力になりたくて頑張る』というモチベーションなら、\n予言の子は『怖いけど、それ言ったら周りがガッカリするから仕方なく頑張る』というモチベーションだった。\n\n『他人はみんな怖いし社会は気持ち悪いし、世界を救えと言われてもぜんぜんモチベあがらないけど、周りに逆らうのもイヤだから救世主として頑張ろう』\n\nという、とてもマイナスな精神状態を隠していた。\nそれでも結果的には『他人から見ると尊い行為』『アーサー王と同じ在り方』になるが、アルトリア・キャスターの内面はとても卑屈で、後ろ向きで、ネガティブ。なのでいつも\n「今回は頑張れたけど、次こそきっと、わたしは放り出しちゃうだろうなあ……」\nと自分にダメ出ししていた。\n\n妖精國がモルガンの思い描いた童話なら、\n巡礼の旅はアルトリアの成長を描いた童話。\n『オズの魔法使い』の主役のドロシー役に見せて、実はうまく歩けない（足下が見えない、智恵がない）カカシ、心ががらんどうの木こり、勇気を出したくないライオンの三者の集合体のような弱さを持っていた。\nそんなアルトリアがなぜ最後まで『予言の子』でいられるのか、何の為に戦っていたのか、その答えが、彼女の物語の終わりとなる。",
+            "descriptionEn": null,
+            "condition": "羁绊达到Lv.4后开放",
+            "conditionEn": null
+        },
+        {
+            "title": "5",
+            "description": "○希望的魅力：B\n作为预言之子被抚养长大，并踏上旅途的阿尔托莉雅具备被他人依靠、期待的魅力。\n\n○阿瓦隆的妖精：A\n被『湖之加护』之名所隐藏起来的力量。\n是乐园的妖精所拥有的，为对方的生命祈福，保护对方的命运力免于各种污秽的守护之力。\n\n○圣剑铸造：A\n被『选定之剑』之名所隐藏起来的力量。\n当这份力量真正觉醒时，她所制作的一切事物都将具有『剑』属性。\n\n○妖精眼：A\n并非人类所拥有的魔眼，而是妖精与生俱来的\n『改换世界』的视野。\n据说高等妖精所拥有的妖精眼，是可以看穿各种谎言，映照真实的眼睛。\n因为对于妖精而言，无论善意还是恶意都属于同一范畴所以是没什么意义的特殊能力，但是如果被会为善恶之别所扰的人类拥有，那就不是什么好事了。\n\n因为这双眼，阿尔托莉雅·卡斯特\n将他人的谎言和心声全部一览无余。\n对她而言，众生的世界即是『恶意的风暴』，\n无论妖精还是对人类都让她感到『可怕，令人作呕』\n也是这个缘故。\n在她入睡时，所梦见的唯有这股『恶意的风暴』。原本已是感到愤懑，就算对不列颠弃之不顾也不奇怪的状态，但对这样的她而言唯一的希望，就是在那风暴彼端闪耀的，仅此一颗的小小蔚蓝之星。",
+            "descriptionJp": "○希望のカリスマ：Ｂ\n予言の子として育てられ、旅立ったアルトリアには人々に頼られ、期待されるカリスマが具わっている。\n\n○アヴァロンの妖精：Ａ\n『湖の加護』の名で隠蔽されていた力。\n楽園の妖精が持つ、生命を祝福し、様々な汚れから対象の運命力を守る力。\n\n○聖剣作成：Ａ\n『選定の剣』の名で隠蔽されていた力。\nこの力が本格的に目覚めると、彼女の作るものはすべて『剣』属性になってしまう。\n\n○妖精眼：Ａ\nヒトが持つ魔眼ではなく、妖精が生まれつき持つ\n『世界を切り替える』視界。\n高位の妖精が持つ妖精眼は、あらゆる嘘を見抜き、真実を映す眼と言われている。\n妖精にとっては善意も悪意も同じくくりなので特に意味のない異能だが、善悪の違いに惑う人間がこの眼を持つとろくなことにならない。\n\nこの眼のため、アルトリア・キャスターには\n人々の嘘や本音がすべて見えていた。\n彼女にとってヒトの世界は『悪意の嵐』であり、\n妖精も人間も等しく『怖い、気持ち悪い』と\n感じていたのはこのため。\n彼女が眠った時、夢に見るのはこの『悪意の嵐』だけ。本来なら気が触れ、ブリテンを見捨ててもおかしくない状態だが、そんな彼女にとって唯一の希望が、嵐の向こうで一つだけ輝く、青く小さな星だった。",
+            "descriptionEn": null,
+            "condition": "羁绊达到Lv.5后开放",
+            "conditionEn": null
+        },
+        {
+            "title": "6",
+            "description": "『真圆集结誓约之星』\n阶级：A++　种类：对军宝具\n有效范围：1～999　最大捕捉：我方全体\n\nRound Of Avalon\n成为『不列颠的守护者』后阿尔托莉雅的宝具。\n显现出黄昏的卡美洛城，将『圆桌骑士』的恩赐赋予一同战斗的伙伴。\n（在游戏中就效果而言与『环抱着你的希望之星』相同）\n\n阿尔托莉雅·卡斯特完成了在妖精国的使命，消散了。\n将肉体献给圣剑，化作圣剑本身的她，\n今后将成为帮助『对抗对星球威胁之人』的人理辅助装置。\n其名为阿尔托莉雅·阿瓦隆。\n灵基第三阶段的形态是被召唤而来的她的本来面貌，而灵基第一、第二形态则是造就了她的“过去某人”的存在方式……并非是作为乐园妖精的记录，而是她把作为预言之子旅行的春日记忆……进行模拟后的产物。",
+            "descriptionJp": "『真円集う約束の星』\nランク：Ａ＋＋　種別：対軍宝具\nレンジ：１～９９９　最大捕捉：味方全て\n\nラウンド・オブ・アヴァロン。\n『ブリテンの守護者』となったアルトリアの宝具。\n黄昏のキャメロットを顕現させ、共に戦う者に『円卓の騎士』のギフトを与える。\n（ゲーム中での効果的にはアラウンド・カリバーンと同じ）\n\nアルトリア・キャスターは妖精國での使命を果たし、消滅した。\n聖剣に身を捧げ、聖剣そのものとなった彼女は以後、\n『星を脅かす脅威に対抗するもの』の助けになる人理補助装置となった。\nその名をアルトリア・アヴァロン。\n霊基第三の姿が召喚された彼女本来の姿であり、霊基第一・第二の姿は、彼女を造った“かつての誰か”の在り方……楽園の妖精としての記録ではなく、予言の子として旅をした春の記憶……を、彼女がエミュレートしたものである。",
+            "descriptionEn": null,
+            "condition": "羁绊达到Lv.5后开放",
+            "conditionEn": null
+        },
+        {
+            "title": "aprilfool",
+            "description": "阿尔托莉雅从者\n理应与阿尔托莉雅种同一类却又有所不同的谜之阿尔托莉雅。有传言称她是从异世界转生过来的。其特征在于她的面容比其他的阿尔托莉雅更加无忧无虑、懒懒散散。",
+            "descriptionJp": "アルトリアサーヴァント\nアルトリア種と同類のはずなのだが何かが違う謎多きアルトリア。異世界から転生して来たのではないかと噂されている。他のアルトリアより屈託のないほっこりフェイスが特徴だ。",
+            "descriptionEn": null,
+            "condition": null,
+            "conditionEn": null
+        }
+    ],
+    "voices": [
+        {
+            "section": "战斗(战斗形象1 2)",
+            "table": [
+                {
+                    "title": "开始 1",
+                    "text": "虽然我还不够成熟，但我会努力的！",
+                    "textJp": "まだまだ未熟者ですが、頑張ります！",
+                    "textEn": "I'm still just a novice, but I will do my best!",
+                    "condition": null,
+                    "voiceFile": "SV284_0_开始1.mp3"
+                },
+                {
+                    "title": "开始 2",
+                    "text": "没关系……冷静下来，像平时那样就行了……！",
+                    "textJp": "大丈夫、落ち着いて。普段通りに",
+                    "textEn": "It's ok, calm down, just do it like usual.",
+                    "condition": null,
+                    "voiceFile": "SV284_0_开始2.mp3"
+                },
+                {
+                    "title": "开始 3",
+                    "text": "大家，跟上我！",
+                    "textJp": "みんな、付いてきて！",
+                    "textEn": "Everyone, follow me!",
+                    "condition": null,
+                    "voiceFile": "SV284_0_开始3.mp3"
+                },
+                {
+                    "title": "技能 1",
+                    "text": "趁现在做好准备……！",
+                    "textJp": "今のうちに準備を……",
+                    "textEn": "Prepare while you can.",
+                    "condition": null,
+                    "voiceFile": "SV284_0_技能1.mp3"
+                },
+                {
+                    "title": "技能 2",
+                    "text": "毕竟是战斗……！",
+                    "textJp": "戦い、ですから",
+                    "textEn": "This is battle...",
+                    "condition": null,
+                    "voiceFile": "SV284_0_技能2.mp3"
+                },
+                {
+                    "title": "技能 3",
+                    "text": "…………真不愿意。",
+                    "textJp": "やだな……",
+                    "textEn": "I hate this...",
+                    "condition": null,
+                    "voiceFile": "SV284_0_技能3.mp3"
+                },
+                {
+                    "title": "技能 4",
+                    "text": "开始白刃战！",
+                    "textJp": "白兵戦、行きます！",
+                    "textEn": "Proceed to melee combat!",
+                    "condition": null,
+                    "voiceFile": "SV284_0_技能4.mp3"
+                },
+                {
+                    "title": "指令卡 1",
+                    "text": "当然啦！",
+                    "textJp": "勿論！",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV284_0_指令卡1.mp3"
+                },
+                {
+                    "title": "指令卡 2",
+                    "text": "我愿意做！",
+                    "textJp": "やります！",
+                    "textEn": "I am going for it!",
+                    "condition": null,
+                    "voiceFile": "SV284_0_指令卡2.mp3"
+                },
+                {
+                    "title": "指令卡 3",
+                    "text": "我可不会输哦！",
+                    "textJp": "負っけないぞー！",
+                    "textEn": "I'm not going to lose!",
+                    "condition": null,
+                    "voiceFile": "SV284_0_指令卡3.mp3"
+                },
+                {
+                    "title": "宝具卡 1",
+                    "text": "——毕竟，是命运。",
+                    "textJp": "運命……ですから",
+                    "textEn": "Because it's my... destiny...",
+                    "condition": null,
+                    "voiceFile": "SV284_0_宝具卡1.mp3"
+                },
+                {
+                    "title": "宝具卡 2",
+                    "text": "那些受期待的事备受人们期待一样。",
+                    "textJp": "望まれることを、望まれたように",
+                    "textEn": "What you want, how you wanted it.",
+                    "condition": null,
+                    "voiceFile": "SV284_0_宝具卡2.mp3"
+                },
+                {
+                    "title": "宝具卡 3",
+                    "text": "……究竟是……为了什么？",
+                    "textJp": "なんの……ために？",
+                    "textEn": "For... what...?",
+                    "condition": null,
+                    "voiceFile": "SV284_0_宝具卡3.mp3"
+                },
+                {
+                    "title": "攻击 1",
+                    "text": "嘿！",
+                    "textJp": "ええい！",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV284_0_攻击1.mp3"
+                },
+                {
+                    "title": "攻击 2",
+                    "text": "这里要笔直进攻！",
+                    "textJp": "ここで、まっすぐ！",
+                    "textEn": "Straight forward from here!",
+                    "condition": null,
+                    "voiceFile": "SV284_0_攻击2.mp3"
+                },
+                {
+                    "title": "攻击 3",
+                    "text": "既然你打算阻止我……！",
+                    "textJp": "立ちはだかるなら……！",
+                    "textEn": "If you stand in my way!",
+                    "condition": null,
+                    "voiceFile": "SV284_0_攻击3.mp3"
+                },
+                {
+                    "title": "攻击 4",
+                    "text": "塞克安斯！",
+                    "textJp": "セクエンス！",
+                    "textEn": "Sequence!",
+                    "condition": null,
+                    "voiceFile": "SV284_0_攻击4.mp3"
+                },
+                {
+                    "title": "攻击 5",
+                    "text": "唔啊啊啊！",
+                    "textJp": "うあああ！",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV284_0_攻击5.mp3"
+                },
+                {
+                    "title": "攻击 6",
+                    "text": "突破！",
+                    "textJp": "突破します！",
+                    "textEn": "Breaking through!",
+                    "condition": null,
+                    "voiceFile": "SV284_0_攻击6.mp3"
+                },
+                {
+                    "title": "攻击 7",
+                    "text": "迸发吧，查斯提佛尔！",
+                    "textJp": "弾けて、シャスティフォル！",
+                    "textEn": "Split it open! Chastiefol!",
+                    "condition": null,
+                    "voiceFile": "SV284_0_攻击7.mp3"
+                },
+                {
+                    "title": "攻击 8",
+                    "text": "喝、呀、哈——！",
+                    "textJp": "ふっ、やっ、だあー！",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV284_0_攻击8.mp3"
+                },
+                {
+                    "title": "攻击 9",
+                    "text": "你，不准动！",
+                    "textJp": "そこ、動かない！",
+                    "textEn": "You there, don't move!",
+                    "condition": null,
+                    "voiceFile": "SV284_0_攻击9.mp3"
+                },
+                {
+                    "title": "Extra 1",
+                    "text": "选定之杖啊，赐予光芒！",
+                    "textJp": "選定の杖よ、光を！",
+                    "textEn": "Oh Staff of Selection! Shine!",
+                    "condition": null,
+                    "voiceFile": "SV284_0_Extra1.mp3"
+                },
+                {
+                    "title": "Extra 2",
+                    "text": "既然做到这个地步……！",
+                    "textJp": "ここまでやれば……",
+                    "textEn": "If you can get this far!",
+                    "condition": null,
+                    "voiceFile": "SV284_0_Extra2.mp3"
+                },
+                {
+                    "title": "Extra 3",
+                    "text": "哼，觉悟吧！",
+                    "textJp": "ふんだ、覚悟しろー！",
+                    "textEn": "Hmm. Prepare yourself!",
+                    "condition": null,
+                    "voiceFile": "SV284_0_Extra3.mp3"
+                },
+                {
+                    "title": "宝具 1",
+                    "text": "此为终将到来的预兆之星。希望之地、乐园的遗迹。无需他人呼唤，你也会捧起星辰吧。命运为何人而存——环抱着你的希望之星。",
+                    "textJp": "それはいつか来る兆しの星、希望の地、楽園の跡。誰に呼ばれるまでもなく、あなたは星をかざすでしょう。運命は誰のために——『きみをいだく希望の星』",
+                    "textEn": "This is the star of omens, the land of hope, and the ruins of paradise that will come one day, without being called over by anyone, you will hold your hands out for that star, won't you? Your destiny starts here, \"The Ray of Hope Embraces You (Around Caliburn)\".",
+                    "condition": null,
+                    "voiceFile": "SV284_0_宝具1.mp3"
+                },
+                {
+                    "title": "宝具 2",
+                    "text": "那是曾经见过的终焉之星。诸多的言语，微弱的光辉。无论多么遥远，多么被玷污，我也会寻找我的星辰。来吧——拉开帷幕，环抱着你的希望之星！",
+                    "textJp": "あれはいつか見た終わりの星、多くの言葉、僅かな煌き。どれほど遠く汚れても、私は星を探すのです。さあ、幕を開けて——『きみをいだく希望の星』！",
+                    "textEn": "That is the star of the end, the many words, the tiny sparkle that you saw one day. No matter how sullied I get, I will search for that star. Now then, raise the curtain, \"The Ray of Hope Embraces You (Around Caliburn)\".",
+                    "condition": null,
+                    "voiceFile": "SV284_0_宝具2.mp3"
+                },
+                {
+                    "title": "受击 1",
+                    "text": "不要……！　我真的受够了！",
+                    "textJp": "やだ、もうやだ……！",
+                    "textEn": "No... No more!",
+                    "condition": null,
+                    "voiceFile": "SV284_0_受击1.mp3"
+                },
+                {
+                    "title": "受击 2",
+                    "text": "……唔！",
+                    "textJp": "……っ！",
+                    "textEn": "-tsk!",
+                    "condition": null,
+                    "voiceFile": "SV284_0_受击2.mp3"
+                },
+                {
+                    "title": "无法战斗 1",
+                    "text": "对不起……以我的能力果然……",
+                    "textJp": "こめんなさい、やっぱり、私じゃ……",
+                    "textEn": "I am sorry...... As I thought, I'm...",
+                    "condition": null,
+                    "voiceFile": "SV284_0_无法战斗1.mp3"
+                },
+                {
+                    "title": "无法战斗 2",
+                    "text": "好困啊……差不多可以了吧……？",
+                    "textJp": "眠いな……もうこのあたりでいいんじゃない？",
+                    "textEn": "I'm so sleepy... I can sleep now, right?",
+                    "condition": null,
+                    "voiceFile": "SV284_0_无法战斗2.mp3"
+                },
+                {
+                    "title": "胜利 1",
+                    "text": "呼……这次做得非常成功。",
+                    "textJp": "ふう、今回はうまくいきました！",
+                    "textEn": "Fu, this time it went really well!",
+                    "condition": null,
+                    "voiceFile": "SV284_0_胜利1.mp3"
+                },
+                {
+                    "title": "胜利 2",
+                    "text": "非常感谢。这都是多亏了大家！",
+                    "textJp": "ありがとうございます！皆さんのおかげです！",
+                    "textEn": "Thank you. It's thanked to everyone's help.",
+                    "condition": null,
+                    "voiceFile": "SV284_0_胜利2.mp3"
+                },
+                {
+                    "title": "胜利 3",
+                    "text": "啊啊……我听到钟声了……",
+                    "textJp": "あぁ、鐘の音が聞こえる……",
+                    "textEn": "Ahh, I can hear the sound of the Bells...",
+                    "condition": null,
+                    "voiceFile": "SV284_0_胜利3.mp3"
+                }
+            ]
+        },
+        {
+            "section": "召唤和强化(战斗形象1 2)",
+            "table": [
+                {
+                    "title": "召唤",
+                    "text": "你好！　我是Caster的阿尔托莉雅！其实，我不太懂什么是从者，但如果区区魔术能帮上您的忙的话，请尽情差遣我吧。哎？　不是什么『区区』魔术？呜哇……在这个世界里是这样的吗？",
+                    "textJp": "こんにちは！　キャスター、アルトリアと申します！実のところ、サーヴァントというのはよく分からないですが、魔術なんかでお役に立てるなら遠慮なくお使いください。え？　魔術は『なんか』じゃない？うわぁ……こっちの世界ではそうなんですか？",
+                    "textEn": "Hello. I am called Caster Artoria. To be honest, I don't really understand what it means to be a Servant, but if you say I will be of help with such a thing like magecraft, then by all means, please make use of me. Eh? Magecraft is not \"such a thing\"? Uwah, is this world in serious trouble?",
+                    "condition": null,
+                    "voiceFile": "SV284_0_召唤.mp3"
+                },
+                {
+                    "title": "升级 1",
+                    "text": "等级提升吗……？呃，那个……说得对！但愿能帮上大家更多的忙。",
+                    "textJp": "レベルアップ、ですか？ え、えっと……そ、そうですね、少しでも皆さんのお役に立てるようになればいいのですが",
+                    "textEn": "Level up...is it? Uh-uhmm, right, it's nice if I can become a bit more useful to everyone...",
+                    "condition": null,
+                    "voiceFile": "SV284_0_升级1.mp3"
+                },
+                {
+                    "title": "升级 2",
+                    "text": "提升基本能力是件好事。也能促进魔术研究的进展！",
+                    "textJp": "基本能力が上がるのはいい事です。魔術の研究も進みますから",
+                    "textEn": "It's good that my basic abilities have improved. I will be able to advance my magecraft's study even more!",
+                    "condition": null,
+                    "voiceFile": "SV284_0_升级2.mp3"
+                },
+                {
+                    "title": "升级 3",
+                    "text": "以我的灵基不指望能变得很强……但我会在可能的范围内尽量给出成果。",
+                    "textJp": "私の霊基ではそこまでの強さは望めませんが……できる範囲で成果を出していきますね",
+                    "textEn": "I can't epect my Spirit Origin to possess this kind of strength, but... I will deliver as much as I can.",
+                    "condition": null,
+                    "voiceFile": "SV284_0_升级3.mp3"
+                },
+                {
+                    "title": "灵基再临 1",
+                    "text": "灵基阶段提升了，所以说，我换上了这套衣服。这套衣服是非常特别的，会令人自然地绷紧神经。……话虽如此，性格并不会改变……所以我还是那么调皮。啊哈哈……",
+                    "textJp": "霊基段階が上がった……という事で、こちらの衣装になってみました。この衣装は特別なものなので、自然と気持ちが引き締まります。……とはいえ、性格は変わらないので、私自身、お転婆なままなのですが。あははは……",
+                    "textEn": "My Spirit Origin level has increased... For that reason, my outfit has turned into this. This outfit is special, so naturally, I am going to gear myself up. Having said that, my personalities haven't changed, so I am still this tomboy... Ahaha.",
+                    "condition": null,
+                    "voiceFile": "SV284_0_灵基再临1.mp3"
+                },
+                {
+                    "title": "灵基再临 2",
+                    "text": "请不要心急，慢慢来吧。就算再怎么着急，像我这样的也不会发生什么改变。我觉得现在这样刚刚好。巨大的力量或是责任什么的对我来说压力太大了啦。",
+                    "textJp": "どうぞ焦らず、のんびりと。私なんて、そう急いだところで変わりませんから。これくらいが丁度いい、と思うのです。大きな力とか責任とか、ちょっと荷が重すぎるので",
+                    "textEn": "Please do not fret and just relax. I won't change that fast. I think \"About this much is just right\". Because things like great power and responsibilities are quite the heavy load.",
+                    "condition": null,
+                    "voiceFile": "SV284_0_灵基再临2.mp3"
+                }
+            ]
+        },
+        {
+            "section": "个人空间(战斗形象1 2)",
+            "table": [
+                {
+                    "title": "羁绊 Lv.1",
+                    "text": "我听说过迦勒底这个组织。据说是个不仅会接受正统的英灵，还愿意接纳奇妙的、奇怪的、无处可去之人的广场。呵呵，的确是这样呢。只要在这里，我应该也能够埋头研究魔术了吧！",
+                    "textJp": "カルデア……という組織の事は聞いていました。正統な英霊だけでなく、不思議なもの、おかしなもの、ちょっと居場所がないものまで許容し、助け合う広場だって。ふふ、本当にそうなんですね。私もここなら、魔術の研究に没頭できそうです",
+                    "textEn": "I have heard about the organization called Chaldea. It's a place where not just proper Heroic Spirits, but even mysterious things, strange things, and things that don't quite belong are accepted and cooperate with each others..... Fufu, it seems to be true. If I'm here, then I might also be able to devote myself to magecraft's study.",
+                    "condition": null,
+                    "voiceFile": "SV284_0_羁绊Lv1.mp3"
+                },
+                {
+                    "title": "羁绊 Lv.2",
+                    "text": "问我为什么不用剑战斗？唔……我会用杖敲打，但剑啊……不好说呢。我从来没想过这个问题呢。因为你想啊，万一手上一滑可能会砍中自己的脚，而且如果不小心掉进湖里就麻烦了吧。",
+                    "textJp": "剣で戦わないのか、ですか？ うーん……杖で叩いたりはするけど、剣はなぁ……。どうだろうなぁ……考えたこともないかもだなぁ。だってほら、手が滑ったりしたら自分の脚を斬りそうだし、うっかり湖に落としでもしたら大変だし",
+                    "textEn": "You ask \"Why are you not fighting with a sword\"? Uhm.....I can strike with a staff, but with a sword would be... I don't know, maybe because I haven't thought about it...... You see, if the sword slips from my hand, then it might cut my foot, or if I carelessly drop it into a lake, I will be in trouble.",
+                    "condition": null,
+                    "voiceFile": "SV284_0_羁绊Lv2.mp3"
+                },
+                {
+                    "title": "羁绊 Lv.3",
+                    "text": "请问……我们该不会在召唤前就认识吧？如果是的话，真对不起……我不太了解被召唤前的事。并非没有记录，而是不知道。但我知道你是一个很好的朋友。因为，只要和你在一起，就会感到很轻松。",
+                    "textJp": "あの……。もしかして、召喚される前から知り合いだったりするのでしょうか。だとしたら、すみません。私、召喚される前のことはよく分からなくて……。「記録にない」のではなく、「分からない」んです。……でも、あなたがいい友人であることはわかります。だって、一緒にいると、気が楽になりますから",
+                    "textEn": "Excuse me... Could it be that we were acquaintances of some sorts before I was summoned? If that's the case, the I'm sorry. I don't know much about what happened before I was summoned...... Not that I don't have any memories, it's just that I don't know... But, what I do know is that you are a good friend. Because, I feel relaxed when we are together.",
+                    "condition": null,
+                    "voiceFile": "SV284_0_羁绊Lv3.mp3"
+                },
+                {
+                    "title": "羁绊 Lv.4",
+                    "text": "呵～啊～……啊，早上好，御主。我今天就是想偷个懒休息一天……哎嘿嘿。我觉得御主也该开始怀疑我『装作优等生的样子实际是个偷懒狂魔』了吧。嗯，说得没错！　因为我只是个普通的农村女孩嘛。和御主一样，是个随处可见的普通人嘛。肯定是这样。",
+                    "textJp": "ふわぁ～あ……。あ、おはようございます、マスター。今日は、ちょっとズルをしてお休みなど……えへへへ。そろそろマスターも私が、『優等生のフリをしたサボリ魔なのでは？』っと、怪しんでいると思います。ええ、その通りです！ 私、ただの村娘ですから！ マスターと同じ、「どこにでもいる誰か」なんですよ、きっと",
+                    "textEn": "Fuwah, good morning, Master. Let's take it slow today and take a break or something... Eheheh. I think soon, Master will also presume that I was \"a procrastinating devil pretending to be an honour student?\" That's right, I am! Because I'm just a normal village girl, that's why! I'm just \"a person that can be found anywhere\" like Master, definitely.",
+                    "condition": null,
+                    "voiceFile": "SV284_0_羁绊Lv4.mp3"
+                },
+                {
+                    "title": "羁绊 Lv.5",
+                    "text": "「只要我的魔术能帮上您的忙，我很乐意。让我为了送走毁灭的您，敲响六口钟吧——」……咦，奇怪了？　我到底在说什么啊？",
+                    "textJp": "私の魔術がお役に立つなら喜んで。滅びを見送るあなたの為に、六つの鐘を鳴らしましょう。 ……って、あれ？ 何か言いました、私？",
+                    "textEn": "If my magecraft can be of use to you then I'm very happy. For your sake, who follows the path of ruin, I shall ring the Six Bells...... Huh, did I say something?",
+                    "condition": null,
+                    "voiceFile": "SV284_0_羁绊Lv5.mp3"
+                },
+                {
+                    "title": "羁绊 Lv.5",
+                    "text": "我所见的星星，这个世界的任何角落都没有。无可代替之物、尊贵之物，也是不可能被找到的。但是，即便如此，也不要就此消沉和放弃。因为我，我们，为了自己还未实现的最后的希望，把握现在，活在当下。",
+                    "textJp": "私が見ていた星は、この世界のどこにもありません。かけがえのないものも、尊いものも、出会うことはないのです。でも、だからといって腐ったり、諦めたりはしないのです。私は、私たちは、最後まで叶うことのない自分だけの希望のために、今を投げ出さず、生きているのですから",
+                    "textEn": "The stars I was looking at are nowhere to be found in this world. The irreplaceable and precious things will never be found. But that doesn't mean I'm going to rot or give up. I believe that we are living without throwing out the present for our own personal hopesthat will never be fulfilled until the end.",
+                    "condition": "通关Lostbelt No.6",
+                    "voiceFile": "SV284_0_羁绊Lv5-2.mp3"
+                },
+                {
+                    "title": "对话 1",
+                    "text": "出任务吗？无论是探索还是战斗，我都能帮上一点忙！",
+                    "textJp": "クエストですか？探索でも戦闘でも、それなりにお役に立ちましょう！",
+                    "textEn": "We have a quest? Whether it is an investigation or a battle, I will be of help to you in my own way!",
+                    "condition": null,
+                    "voiceFile": "SV284_0_对话1.mp3"
+                },
+                {
+                    "title": "对话 2",
+                    "text": "我很庆幸御主能向我下达指令。因为我不太适合当什么指挥官……",
+                    "textJp": "マスターに指示を出してもらえるのは、とても助かります。私、あまり指揮官には向いてないので……",
+                    "textEn": "It's quite helpful to have Master giving out instructions. I am not really suited to become a commander so...",
+                    "condition": null,
+                    "voiceFile": "SV284_0_对话2.mp3"
+                },
+                {
+                    "title": "对话 3",
+                    "text": "我觉得与其说御主是司令官，倒不如说更像是可靠的朋友。关系不会太疏远，也不会太亲近，能保持恰到好处的距离感……因为我没什么朋友，所以这种关系对我来说十分新鲜。",
+                    "textJp": "マスターは司令官、というより、頼れる友人という気がします。遠すぎず、近すぎず、絶妙な距離感と言うか。友達はいなかったので、この関係はとても新鮮です",
+                    "textEn": "Rather than a commander, I feel that Master is more of a reliable friend. Or should I say you are neither too far nor too close, there is just this perfect amount of distance between us. I didn't have any friends, so this relationship feels very fresh to me.",
+                    "condition": null,
+                    "voiceFile": "SV284_0_对话3.mp3"
+                },
+                {
+                    "title": "对话 4",
+                    "text": "加雷斯亲，原来你是圆桌骑士呀！？呜哇～，呜哇～！好帅啊～！　铠甲好厉害！不知为什么，我高兴到想要跳舞了！",
+                    "textJp": "ガレスちゃん、円卓の騎士だったんだ！？ うわー、うわー、かっこいい、鎧すごーい！ なんだろう、私、踊り出しそうなくらい嬉しい！",
+                    "textEn": "Gareth-chan was a Knight of the Round Table! Uwah uwah! So cool! Your armour is amazing! How should I say this, I'm so happy I feel like dancing!",
+                    "condition": "持有加雷斯",
+                    "voiceFile": "SV284_0_对话4.mp3"
+                },
+                {
+                    "title": "对话 5",
+                    "text": "那位就是梅芙小姐吗？呜哇……不仅外表和性格，连口气都……和我认识的妖精过于相似，反而让人有点害怕呢。下次我带一些起司蛋糕送给她吧。",
+                    "textJp": "あの方が……メイヴさんですか？ うわぁ……姿形だけじゃなく、性格、口調まで……。私の知っている妖精とそっくりすぎて逆に引きます。今度、チーズケーキを差し入れに行きましょう",
+                    "textEn": "That person is, Medb-chan? Uwah... Not just her appearance, but also her personalities and her tone... She is just like a fairy I know, so I was taken back...... Let's go for a cheesecake supply run net time.",
+                    "condition": "持有女王梅芙(Saber)、女王梅芙",
+                    "voiceFile": "SV284_0_对话5.mp3"
+                },
+                {
+                    "title": "对话 6",
+                    "text": "是叫阿尔托莉雅·潘德拉贡吧。持有圣剑的王……嗯，我知道。肯定比任何人都了解。但是，对不起。我似乎看不到她。",
+                    "textJp": "アルトリア・ペンドラゴン……というのですね。聖剣を持つ王様……ええ、知っています。きっと誰よりも。でも、ごめんなさい。私には彼女は見えないようです",
+                    "textEn": "So she is called \"Artoria Pendragon\"? The King who possesses the Holy Sword. Yes, I know, more than anyone. But I'm sorry, it seems I can't see her.",
+                    "condition": "持有阿尔托莉雅·潘德拉贡",
+                    "voiceFile": "SV284_0_对话6.mp3"
+                },
+                {
+                    "title": "对话 7",
+                    "text": "梅林！　竟然在这边也没有丝毫改变，啊啊……！……啊啊？　原来如此，梅林在这边也是这种性格呢……看来，你一定也非常辛苦吧……",
+                    "textJp": "マーリン！こちらでも、何一つ変わらないなんて！はぁ……あ？そっか、こちらでも変わらずそういう性格なんですね。マーリン……。これは、あなたもさぞ苦労していることでしょう……",
+                    "textEn": "Merlin! Even when you are here, you have not changed at all! Ha... Ah? I see, so you are someone who would not change even if you come here. Merlin...... That must have been hard, even for you, isn't it......",
+                    "condition": "持有梅林",
+                    "voiceFile": "SV284_0_对话7.mp3"
+                },
+                {
+                    "title": "对话 8",
+                    "text": "摩根……泛人类史里我的姐姐……。这么一说，她的长相好像是和我有点相似……。啊，等我长大了，是不是也能成为她那样呢？",
+                    "textJp": "モルガン……汎人類史では、私の姉であった人……。言われてみれば、ちょっと顔が似ているような、似ていないような……。あ、私も大人になれば彼女くらいになれるのでしょうか",
+                    "textEn": "Morgan....... She was my sister in Panhuman history. Now that you mention it, she looks a bit like me, yet not like me. I wonder, will I become like her when I grow up into an adult as well?",
+                    "condition": "持有摩根",
+                    "voiceFile": "SV284_0_对话8.mp3"
+                },
+                {
+                    "title": "对话 9",
+                    "text": "巴格子……这是要跟我聊巴格子的事情吗。没错，我们合不来，非常合不来！光是说到妖精氏族的大小姐这一点就已经让我觉得“可恶啊——”了，更何况她那副天赐的身体是几个意思啊！巴格子她就是这种，凭着自己的一切在村姑面前获得优越感的高山妖精骑士。啊，巴格子这个称呼是仅限我内心对她的敬称啦，千万不要说漏嘴哦。毕竟要是她成了敌人，就太可怕了。",
+                    "textJp": "バゲ子……バゲ子さんの話を私に振りますか。ええ、苦手です。すっごく苦手！ 妖精氏族の令嬢と言うだけでもくっそー！なのに、なんなんだあの恵まれた体はァ！ 全てにおいて村娘にマウントを取るマウンテンな妖精騎士、それがバゲ子です。あ、バゲ子と言うのは私が心の中だけで呼んでいる敬称なので、決して口外しないで下さい。バゲ子、敵に回すと怖いので",
+                    "textEn": "Barghe-kid... You want to ask me about Barghekid-san? Yes, she's terrible. Extremely terrible! Even though she's the royal daughter of the Fairy Kingdom by name, & a crappy one at that, what's up with that blessed body of hers! Barghe-kid is a mountain-like fairy knight who would assert her dominance over the village girl who has to do everything! (Embarrassed look) Ahh, but Barghe-kid is what I personally call her, so please don't say it out loud. It would be scary... to turn Barghe-kid into an enemy.",
+                    "condition": "持有妖精骑士高文&通关Lostbelt No.6 第24节『摩根』",
+                    "voiceFile": "SV284_0_对话9.mp3"
+                },
+                {
+                    "title": "对话 10",
+                    "text": "染血之踵芭万·希……。我和她似乎不大合得来。虽说我没有讨厌她到那个份上……不如说，因为她很坦率所以并不觉得不愉快啦……好吧，下次我就用诅咒反弹，把她的情绪反弹回去好了。",
+                    "textJp": "血に濡れた踵の、バーヴァン・シー……。彼女とは、相性が良くないようです。私は、そこまで毛嫌いしてはいないのですが……むしろ、正直者なので不快ではないのですが……よし、今度呪詛返しというものをやって彼女の気持ちを返してみよっと",
+                    "textEn": "The bloody-heeled Baobhan Sith...... I don't get along well with her. It's not like I am that prejudiced against her, but... if I'm being honest, she's not that unpleasant either... Alright, let's try to return her feelings by returning her curse or something like that this time.",
+                    "condition": "持有妖精骑士崔斯坦&通关Lostbelt No.6 第24节『摩根』",
+                    "voiceFile": "SV284_0_对话10.mp3"
+                },
+                {
+                    "title": "对话 11",
+                    "text": "连奥伯龙也在呀。我只有关于他是什么人这方面的知识。他既是妖精王，也是调停者，是领导过不列颠的人，而且，还是我为数不多的知己。既然我在这里，所以他在这里也并没有什么不可思议的。",
+                    "textJp": "オベロンまでいるのですね。彼が何者なのか知識だけはあります。妖精王にして調停者、ブリテンを導いた者。そして、私の数少ない理解者。私がいるのですから、彼がいるのも不思議ではありません",
+                    "textEn": "So even Oberon is here. I am only knowledgeable as to who he is. The Fairy King, a mediator, the one who guided Britain. And one of my very few supporters. I am here, so it's no surprise that he is here too.",
+                    "condition": "持有奥伯龙",
+                    "voiceFile": "SV284_0_对话11.mp3"
+                },
+                {
+                    "title": "喜欢的东西",
+                    "text": "喜欢的东西……喜欢的东西……啊，巧克力！　我最喜欢以前吃过的巧克力了！比起种火，我更想要那种巧克力啦！",
+                    "textJp": "好きなもの……好きなもの……あ！ チョコレート！ いつか食べたチョコレートが大好きです！ 種火よりチョコが欲しい私でした！",
+                    "textEn": "Things that I like...... Things that I like..... Ah, chocolate! I love the chocolate that I've eaten before. That's me, I want that chocolate more than the embers.",
+                    "condition": null,
+                    "voiceFile": "SV284_0_喜欢的东西.mp3"
+                },
+                {
+                    "title": "讨厌的东西",
+                    "text": "我没什么讨厌的东西哦。善人与恶人一律平等。我觉得只要了解了内情，大家都会这样想的。",
+                    "textJp": "嫌いなものは特にないですよ。善人も悪人も分け隔てなく、内情を知ってしまえばみんなそうなると思います",
+                    "textEn": "I don't particularly have anything that I dislike. I also don't pick between good and bad people. If you were to be aware of what was deep inside them, you would think of everyone as the same.",
+                    "condition": null,
+                    "voiceFile": "SV284_0_讨厌的东西.mp3"
+                },
+                {
+                    "title": "讨厌的东西",
+                    "text": "讨厌的东西……有很多。但那是由于我的软弱所造成的。我希望有一天能成为一个有着能经受住一切谎言的心灵的人。",
+                    "textJp": "嫌いなもの……たくさんあります。でも、それは私の弱さに起因するもの。いつか、どんな嘘であろうと受け止められる、そんな心になりたいです",
+                    "textEn": "Things I don't like?.... There are many things. But that's due to my weakness. One day, I want to have a heart that can accept any kind of lie.",
+                    "condition": "通关Lostbelt No.6",
+                    "voiceFile": "SV284_0_讨厌的东西-2.mp3"
+                },
+                {
+                    "title": "关于圣杯",
+                    "text": "居然有圣杯这种存在呢。如果任何愿望都能实现的话，我希望身高能更高一些！只要一点点，只要一点点就够了！",
+                    "textJp": "聖杯というものがあるのですね。何でも願いが叶うのなら、どうか身長を！ 少しだけ！ 少しだけでいいので！",
+                    "textEn": "So there is such a thing called the Holy Grail. If it really can grant any wishes, then please make me taller! Just a bit, even just a little bit is fine!",
+                    "condition": null,
+                    "voiceFile": "SV284_0_关于圣杯.mp3"
+                },
+                {
+                    "title": "活动举行中",
+                    "text": "活动正在进行中呢！虽说我是和平主义者，但只要参加，就一定要全战全胜！哎哎～噢！",
+                    "textJp": "イベント真っ最中ですね。平和主義者な私ですが、参加するなら全勝したいです！えいえいおー！",
+                    "textEn": "There is an event going on, isn't it. I'm a pacifist, but if I were to participate, then I would want to win! Eieioh!",
+                    "condition": null,
+                    "voiceFile": "SV284_0_活动举行中.mp3"
+                },
+                {
+                    "title": "生日",
+                    "text": "生日……？　庆祝诞生的日子……？对不起，这和我没什么关系，所以我不是很了解……这种时候该怎么办呢……哎，约会？　只要陪你一起玩一天就可以了吗？",
+                    "textJp": "誕生日？生まれた日を祝う？……すみません、縁がなかったので詳しくなくて……。こういう時、どうすれば……？　えっ、デート？一日、一緒に遊びに行くだけでいいんですか？",
+                    "textEn": "Birthday? To celebrate the day that you were born...... I’m sorry, my relationships are non-existent, that’s why I am so clueless...... At times like this, what should I do...... Eh, a date? You are fine with just going out for a day having fun together?",
+                    "condition": null,
+                    "voiceFile": "SV284_0_生日.mp3"
+                }
+            ]
+        },
+        {
+            "section": "战斗(战斗形象3)",
+            "table": [
+                {
+                    "title": "开始 1",
+                    "text": "出击。全体人员，做好准备。",
+                    "textJp": "出陣します。総員、構えてください",
+                    "textEn": "We're heading to battle. All members, please prepare.",
+                    "condition": null,
+                    "voiceFile": "SV284_2_开始1.mp3"
+                },
+                {
+                    "title": "开始 2",
+                    "text": "倘若需要我的力量，我定会全力回应。",
+                    "textJp": "私の力が必要ならば、全力で応答します",
+                    "textEn": "If my power is needed then I will response with all I have.",
+                    "condition": null,
+                    "voiceFile": "SV284_2_开始2.mp3"
+                },
+                {
+                    "title": "开始 3",
+                    "text": "第二、第三宝具展开。阿尔托莉雅・阿瓦隆，出击！",
+                    "textJp": "第二、第三宝具展開。アルトリア・アヴァロン、出るぞ",
+                    "textEn": "Second and third treasure unfold. Artoria Avalon is out.",
+                    "condition": "通关Lostbelt No.6",
+                    "voiceFile": "SV284_2_开始3.mp3"
+                },
+                {
+                    "title": "技能 1",
+                    "text": "炙热起来吧，玛米亚德兹。",
+                    "textJp": "熱を帯びなさい、マルミアドワーズ",
+                    "textEn": "Heat up, Marmyadose.",
+                    "condition": null,
+                    "voiceFile": "SV284_2_技能1.mp3"
+                },
+                {
+                    "title": "技能 2",
+                    "text": "既然是拼上命运的战斗。",
+                    "textJp": "運命を懸けた戦いであれば",
+                    "textEn": "If it's a battle of destiny.",
+                    "condition": null,
+                    "voiceFile": "SV284_2_技能2.mp3"
+                },
+                {
+                    "title": "技能 3",
+                    "text": "疾驰吧，卡文南。",
+                    "textJp": "早駆けですよ、カルンウェナン",
+                    "textEn": "Charge, Carnwennan.",
+                    "condition": null,
+                    "voiceFile": "SV284_2_技能3.mp3"
+                },
+                {
+                    "title": "技能 4",
+                    "text": "妖精炉，接续！",
+                    "textJp": "妖精炉、接続",
+                    "textEn": "Fairy furnace, activate.",
+                    "condition": "通关Lostbelt No.6",
+                    "voiceFile": "SV284_2_技能4.mp3"
+                },
+                {
+                    "title": "指令卡 1",
+                    "text": "碾压敌军。",
+                    "textJp": "圧倒します",
+                    "textEn": "Overpower them.",
+                    "condition": null,
+                    "voiceFile": "SV284_2_指令卡1.mp3"
+                },
+                {
+                    "title": "指令卡 2",
+                    "text": "都退下。",
+                    "textJp": "下がっているように",
+                    "textEn": "Take them down.",
+                    "condition": null,
+                    "voiceFile": "SV284_2_指令卡2.mp3"
+                },
+                {
+                    "title": "指令卡 3",
+                    "text": "赌上尊严。",
+                    "textJp": "誇りにかけて",
+                    "textEn": "Be proud.",
+                    "condition": null,
+                    "voiceFile": "SV284_2_指令卡3.mp3"
+                },
+                {
+                    "title": "宝具卡 1",
+                    "text": "黄昏之刻再临。",
+                    "textJp": "黄昏の時よ、再び",
+                    "textEn": "Oh twilight hour, come once more.",
+                    "condition": null,
+                    "voiceFile": "SV284_2_宝具卡1.mp3"
+                },
+                {
+                    "title": "宝具卡 2",
+                    "text": "对终末、对肃正防御，开启。",
+                    "textJp": "対終末・対粛正防御、始め",
+                    "textEn": "Anti-termination, anti-enforced defense, begin.",
+                    "condition": null,
+                    "voiceFile": "SV284_2_宝具卡2.mp3"
+                },
+                {
+                    "title": "宝具卡 3",
+                    "text": "不该存在的妖精之王啊……",
+                    "textJp": "あり得ざる妖精の王よ",
+                    "textEn": "Oh unfathomable King of Fairies.",
+                    "condition": null,
+                    "voiceFile": "SV284_2_宝具卡3.mp3"
+                },
+                {
+                    "title": "攻击 1",
+                    "text": "是那里。",
+                    "textJp": "そこです",
+                    "textEn": "There.",
+                    "condition": null,
+                    "voiceFile": "SV284_2_攻击1.mp3"
+                },
+                {
+                    "title": "攻击 2",
+                    "text": "闪耀吧。",
+                    "textJp": "輝きを",
+                    "textEn": "Shine bright.",
+                    "condition": null,
+                    "voiceFile": "SV284_2_攻击2.mp3"
+                },
+                {
+                    "title": "攻击 3",
+                    "text": "喝、哈、呀——！",
+                    "textJp": "ふっ、はっ、やー！",
+                    "textEn": "Fu, hah, ya!",
+                    "condition": null,
+                    "voiceFile": "SV284_2_攻击3.mp3"
+                },
+                {
+                    "title": "攻击 4",
+                    "text": "是这边。",
+                    "textJp": "こちらです",
+                    "textEn": "Over here.",
+                    "condition": null,
+                    "voiceFile": "SV284_2_攻击4.mp3"
+                },
+                {
+                    "title": "攻击 5",
+                    "text": "攻击，玛米亚德兹。",
+                    "textJp": "撃て、マルミアドワーズ！",
+                    "textEn": "Attack, Marmyadose!",
+                    "condition": null,
+                    "voiceFile": "SV284_2_攻击5.mp3"
+                },
+                {
+                    "title": "攻击 6",
+                    "text": "接我这招！",
+                    "textJp": "受けるがいい",
+                    "textEn": "Take this.",
+                    "condition": null,
+                    "voiceFile": "SV284_2_攻击6.mp3"
+                },
+                {
+                    "title": "攻击 7",
+                    "text": "驰骋吧，斯普梅达",
+                    "textJp": "走れ、スピュメイダー",
+                    "textEn": "Run, Spumador.",
+                    "condition": null,
+                    "voiceFile": "SV284_2_攻击7.mp3"
+                },
+                {
+                    "title": "攻击 8",
+                    "text": "鹰。",
+                    "textJp": "イーグル",
+                    "textEn": "Eagle!",
+                    "condition": null,
+                    "voiceFile": "SV284_2_攻击8.mp3"
+                },
+                {
+                    "title": "攻击 9",
+                    "text": "瞄准脚步。",
+                    "textJp": "足を狙います",
+                    "textEn": "Aim at their feet.",
+                    "condition": null,
+                    "voiceFile": "SV284_2_攻击9.mp3"
+                },
+                {
+                    "title": "Extra 1",
+                    "text": "锁定！　骑兵装甲·切换！",
+                    "textJp": "ロック、カタフラクティ・シフト！",
+                    "textEn": "Lock! Cataphract shift!",
+                    "condition": null,
+                    "voiceFile": "SV284_2_Extra1.mp3"
+                },
+                {
+                    "title": "Extra 2",
+                    "text": "卡文南！　粉碎吧！",
+                    "textJp": "カルンウェナン、砕け散りなさい！",
+                    "textEn": "Carnwennan, break and scatter.",
+                    "condition": null,
+                    "voiceFile": "SV284_2_Extra2.mp3"
+                },
+                {
+                    "title": "Extra 3",
+                    "text": "好吧……由我出马！",
+                    "textJp": "いいでしょう。私が出ます",
+                    "textEn": "About time I set out.",
+                    "condition": null,
+                    "voiceFile": "SV284_2_Extra3.mp3"
+                },
+                {
+                    "title": "宝具 1",
+                    "text": "终焉之岛，罪恶之都。——最后之龙在吾心中。吾等不会屈服于任何毁灭。集结吧，圆桌的守护者们。真圆集结誓约之星！",
+                    "textJp": "最果ての島、罪の都。最後の竜は我が胸に。いかなる滅びにも我らは屈せず。集え、円卓の守護者たち——『真円集う約束の星』！",
+                    "textEn": "The furthest island, the capital of sins, and the last dragon is in my heart. We will not yield to any destruction. Gather, guardians of the Round Table \"The Promised Star Which Gathers The True Round (Round of Avalon)!\"",
+                    "condition": null,
+                    "voiceFile": "SV284_2_宝具1.mp3"
+                },
+                {
+                    "title": "宝具 2",
+                    "text": "异乡之国，时之终结。——然剑在他手。城墙坚硬，欢呼响彻万里。刻下冷峻的胜利——真圆集结誓约之星！",
+                    "textJp": "異邦の国、時の終わり、なれど剣は彼の手に。城壁は固く、勝どきは万里を駆ける。冷厳なる勝利を刻め——『真円集う約束の星』！",
+                    "textEn": "It's a foreign country, it's the end of time, however the sword is within my hands. The walls are strong, and the cries of triumph run through thousands of miles. Engrave this heartless victory to your mind \"The Promised Star Which Gathers The True Round (Round of Avalon)!\"",
+                    "condition": null,
+                    "voiceFile": "SV284_2_宝具2.mp3"
+                },
+                {
+                    "title": "受击 1",
+                    "text": "切换状态，请掩护……！",
+                    "textJp": "切り替えします。援護を！",
+                    "textEn": "Time to launch a counterattack, cover me!",
+                    "condition": null,
+                    "voiceFile": "SV284_2_受击1.mp3"
+                },
+                {
+                    "title": "受击 2",
+                    "text": "唔！",
+                    "textJp": "ぐっ！",
+                    "textEn": "Ugh.",
+                    "condition": null,
+                    "voiceFile": "SV284_2_受击2.mp3"
+                },
+                {
+                    "title": "无法战斗 1",
+                    "text": "脱离战线……",
+                    "textJp": "戦線を離脱します……",
+                    "textEn": "I'm withdrawing... from the frontline...",
+                    "condition": null,
+                    "voiceFile": "SV284_2_无法战斗1.mp3"
+                },
+                {
+                    "title": "无法战斗 2",
+                    "text": "被钻空子了……不该有这种失态……",
+                    "textJp": "隙を突かれました。あるまじき失態です……",
+                    "textEn": "They hit my weak spot... What an unbecoming blunder...",
+                    "condition": null,
+                    "voiceFile": "SV284_2_无法战斗2.mp3"
+                },
+                {
+                    "title": "胜利 1",
+                    "text": "虽说理所当然，但还是令人非常高兴。多亏了大家。",
+                    "textJp": "当然とはいえ、嬉しいものですね。皆さんのおかげです",
+                    "textEn": "It might be obvious to say, but I'm really happy. Thanks to everyone.",
+                    "condition": null,
+                    "voiceFile": "SV284_2_胜利1.mp3"
+                },
+                {
+                    "title": "胜利 2",
+                    "text": "继续前进吧。宴会待大获全胜后再举办吧。",
+                    "textJp": "先に進みましょう。宴会は大勝利の後に取って置きます",
+                    "textEn": "Let's go. We are going to have a banquet after a victorious battle.",
+                    "condition": null,
+                    "voiceFile": "SV284_2_胜利2.mp3"
+                }
+            ]
+        },
+        {
+            "section": "召唤和强化(战斗形象3)",
+            "table": [
+                {
+                    "title": "升级 1",
+                    "text": "连我都能够成长……这是世界拥有未来的证明吧。太美妙了。",
+                    "textJp": "私でも成長が出来るなんて……。未来ある世界の証ですね。素晴らしいです",
+                    "textEn": "Even someone like me is capable of growing up... It must be a sign that this world has a future, how wonderful.",
+                    "condition": null,
+                    "voiceFile": "SV284_2_升级1.mp3"
+                },
+                {
+                    "title": "升级 2",
+                    "text": "虽然幅度不大，但能力提升了。能更明确地帮上你的忙了。",
+                    "textJp": "僅かですが、能力が上がったようです。より確かに、あなたの役に立ちましょう",
+                    "textEn": "While it's just a little, it seems that my abilities have improved. I will most certainly become more useful to you.",
+                    "condition": null,
+                    "voiceFile": "SV284_2_升级2.mp3"
+                },
+                {
+                    "title": "升级 3",
+                    "text": "我有个提案……要不要给种火加点调味？不，我并没有什么不满意的。比方说甜味……或是口感……如果有的话，一定非常……",
+                    "textJp": "提案なのですが、種火に味を付けるというのは。……いえ、特に不満はないのですが、甘みとか、食感とか、あると、とても……",
+                    "textEn": "It's just a suggestion but, what do you think about adding some flavours to the embers? No, not that I'm dissatisfied with it or anything... Just that, if it has attributes like sweetness or food texture then it will be... very...",
+                    "condition": null,
+                    "voiceFile": "SV284_2_升级3.mp3"
+                },
+                {
+                    "title": "灵基再临 3",
+                    "text": "——啊啊，仿佛在做梦。还是说……迄今为止的一切，才是漫长的梦呢。我是注定要守护不列颠的存在。是那位少女未能实现的，却被期待成为的模样。呼唤黄昏的天空，没有宝座的无名之王。",
+                    "textJp": "ああ……夢を見ているようです。それとも、今までの全てが長い夢だったのでしょうか。私は、ブリテンの守護を定めとする者。あの少女では辿り着かなかった、そう在れと願われた姿。黄昏の空を呼ぶ、玉座なき無名の王",
+                    "textEn": "Ahh, it's like I'm dreaming. Or was everything until now a long dream? I am the one who is in charge of the protection of Britain. That girl was the form that I wished for, but couldn't reach. The Nameless King without a throne, calling out to the twilight sky.",
+                    "condition": null,
+                    "voiceFile": "SV284_2_灵基再临1.mp3"
+                },
+                {
+                    "title": "灵基再临 4",
+                    "text": "这里把去原野称作野餐吗？野餐，野餐……感觉有些可爱呢。这里没有外人，所以让我放轻松点？那就恭谨不如从命，我也把脚伸直一点好啦。呵呵，感觉表情都放松了呢。只通过交谈来消磨时间，我想象不到比这更奢侈的事了。现在就像这样，让我倾听你的未来吧。",
+                    "textJp": "野原に出かけることを、こちらではピクニックと呼ぶのですか？ピクニック、ピクニック……ちょっとかわいいです。『誰もいないから気を楽に』？じゃあ、お言葉に甘えて、私も足を伸ばしちゃおうっと。ふふ、なんだか頬が緩んでしまいます。ただ語り合うためだけに時間を過ごす、これ以上の贅沢はちょっと思いつきません。今はこうして、貴方の未来をお聞かせください",
+                    "textEn": "Going out to a field is called \"picnic\", isn't it? Picnic, picnic... It sounds quite cute. \"There's no one here so take it easy\"? Then, I will take you up on your kind offers and stretch my legs as well. Fufu, somehow I'm grinning. To spend time just to talk with each other, I can hardly think of anything more luxurious than that. Now that we're doing this, please tell me about your future.",
+                    "condition": null,
+                    "voiceFile": "SV284_2_灵基再临2.mp3"
+                }
+            ]
+        },
+        {
+            "section": "个人空间(战斗形象3)",
+            "table": [
+                {
+                    "title": "羁绊 Lv.1",
+                    "text": "我和此前的我……其实并非不同的人。存在本身虽不同，但基础想法与性能几乎是相同的。用你们的话来说，就像是成长了一轮，心情发生了改变的……阿尔托莉雅吧。",
+                    "textJp": "私は、今までの私と別人……というわけではありません。存在そのものは別のものですが、基本的な思考、性能はほぼ同じです。あなたたち風に言うならば、一つだけ年を取って気持ちを切り替えたアルトリア、というところでしょうか",
+                    "textEn": "I am not a different person from who I have been until now... Our very existence is different, however, our basic thinking and our abilities are roughly the same. As you people would say, it would be something like \"An Artoria who is just a year older but had a change of mind\".",
+                    "condition": null,
+                    "voiceFile": "SV284_2_羁绊Lv1.mp3"
+                },
+                {
+                    "title": "羁绊 Lv.2",
+                    "text": "……我拥有所有记忆。无论是作为空白状态的从者被召唤的「我」，与你共同经历了不列颠之旅的「我」，还是「我」未能成为的名为「我」的幻想，所有一切。……对不起。我这个字用得太多了吧。如果有人对我这么说，我一定也会一头雾水吧。",
+                    "textJp": "私には、全ての記憶が備わっています。まっさらな状態でサーヴァントとして召喚された私の事も、あなたとブリテンを共に旅した私の事も、私がなる事のなかったこの私という幻想の事も、全て。……すみません、私という単語が多すぎましたね。私も、こんな話をされたらふわっとしか理解できないと思います",
+                    "textEn": "I am provided with all the memories. Even of the me who was summoned as a Servant in a wholly fresh state. Even of the me who travelled Britain with you. Even of the me who I never become, or the visions of me, everything...... I'm sorry, there are just too many words to call \"me\". I think that if I got told this kind of thing, I could also only understand sparingly.",
+                    "condition": null,
+                    "voiceFile": "SV284_2_羁绊Lv2.mp3"
+                },
+                {
+                    "title": "羁绊 Lv.3",
+                    "text": "对我的态度可以再随意一点。来啊。你甚至可以随便使用令咒，让我乱放宝具。没道理顽皮的我能做到，我就做不到吧。唔？　这就是根本原因？　总是下意识紧张起来？……话说，我可不是你的敌人啊……",
+                    "textJp": "もっと気安く接しなさい。ほら、令呪も気軽に使って、宝具を乱発するのです。お転婆な私にはできて、私にはできない、という理由はないはずです。……ん、そういうところが理由？ つい構えてしまう？ あの、私は敵ではありませんが……",
+                    "textEn": "Please act more familiar towards me. Come on, you can use Command Seals more freely and fire off my Noble Phantasm more recklessly as well. You can treat the \"tomboy me\" that way but cannot to me is not a valid reason. Hn, \"That's exactly why\" and \"I just subconsciously tense up\"...? Excuse me, but I'm not your enemy.....",
+                    "condition": null,
+                    "voiceFile": "SV284_2_羁绊Lv3.mp3"
+                },
+                {
+                    "title": "羁绊 Lv.4",
+                    "text": "我起到作用了吗？很好。那我想听迦勒底的冒险故事作为报酬。我是『圣剑骑士』这个概念具现化的存在，几乎知晓全部有关于圣剑的故事……但在迦勒底发生的事件和那些并不类似。光是倾听，就会令人想要拿零食和饮料了。好想要啊。",
+                    "textJp": "私は役に立っていますか？ ……よろしい。では、報酬にカルデアの冒険譚を、もっと聞かせるように。私は、聖剣の騎士という概念が具現化したもの。聖剣にまつわる逸話であれば、ほぼコンプしている状態ですが……。カルデアで起きる事件は、どこにも類似したものがない。聞いているだけで、おやつと飲み物がほしくなります。ほしくなります",
+                    "textEn": "Am I helping? That's great, then as a reward, I wish to hear more of Chaldea's adventures. I am roughly almost at the state where I was materialized from the concept of the Knight of the Holy Sword and the anecdote surrounding the Holy Sword...... But the events at Chaldea are nothing like that at all. Listening to them make me crave sweets and drinks, it does!",
+                    "condition": null,
+                    "voiceFile": "SV284_2_羁绊Lv4.mp3"
+                },
+                {
+                    "title": "羁绊 Lv.5",
+                    "text": "修复人理的人们……说起来容易，执行起来一定非常困难吧。我也是守护「居住于星辰上生命」的存在。说实话，无论是泛人类史还是特异点或异闻带，我的评价都几乎相同。但是……现在，我个人比较为你们的未来担心。这就是偏袒吧。但也没办法吧？我的内在可是那个顽皮到无可救药的阿尔托莉雅嘛。",
+                    "textJp": "人理を修復する者たち……。言うは容易いですが、行うのは困難だったでしょう。私は、星に棲む命を守るもの。実のところ、汎人類史も特異点も異聞帯も、評価としては同じなのです。ですが……今は、個人的にあなたたちの未来を案じています。……えこひいき、ですね。でも仕方がないでしょう？ 私の中身は、あのどうしようもなくお転婆だった、アルトリアなのですから",
+                    "textEn": "Those who restore Human Foundation...... It was easier said than done, wasn't it? I protect the lives of those who live on this star. In fact, whether it was Pan-human History, Singularities, or Lostbelts, I view them as the same thing. But now, I am concerned about you guys' future in an individual level. That is... favouritism, isn't it? Because essentially, I'm Artoria the tomboy, there is nothing I can do about it.",
+                    "condition": null,
+                    "voiceFile": "SV284_2_羁绊Lv5.mp3"
+                },
+                {
+                    "title": "羁绊 Lv.5",
+                    "text": "圣剑是生命的光辉……。是来自未来的光。对星星而言，地表的生命就像是礼服一般。纵使地表的生命被燃烧殆尽或四分五裂，星星本身也不受任何影响。但，那些也都是珍贵的花纹。想必，我不是那颗星，而是向往那片花纹的某人。虽然我无法成为圣剑骑士，但是，请让我作为知晓那片光辉之人，成为你的剑吧。",
+                    "textJp": "聖剣とは命の輝き……。未来から届いた光。星にとって地表の命はドレスのようなもの。燃え尽きようと切り裂かれようと、星そのものには何の影響もない。ですが、そのどれもがかけがえのない紋様なのです。きっと、私は星ではなく、その紋様に焦がれた誰か。聖剣の騎士にはなれませんが、その輝きを知る者として、貴方の剣となりましょう",
+                    "textEn": "A Holy Sword is a spark of life. ......The light that arrived from the future. Life on the surface of the earth is like a dress for the stars. Whether it burns up or is torn apart, it has no effect on the star itself. But each of them is an irreplaceable pattern. I'm sure I'm not a star, but someone who is passionate about the pattern. I may not be a \"Knight of the Holy Sword,\" but as someone who knows its brilliance, I will be your sword.",
+                    "condition": "通关Lostbelt No.6",
+                    "voiceFile": "SV284_2_羁绊Lv5-2.mp3"
+                },
+                {
+                    "title": "对话 1",
+                    "text": "要出击了吧。好吧，跟我来。我会将敌人打得体无完肤。",
+                    "textJp": "出陣ですね。いいでしょう、私に続きなさい。完膚なきまでに殲滅します",
+                    "textEn": "It's time for battle, isn't it..... Good timing, please follow me. I'm going to annihilate them completely.",
+                    "condition": null,
+                    "voiceFile": "SV284_2_对话1.mp3"
+                },
+                {
+                    "title": "对话 2",
+                    "text": "虽说是是王，但既然为剑，自然要服从主人。只要你的指挥不会毁灭星辰，我就会不偏不倚地精准执行命令。",
+                    "textJp": "王といえど、剣であるなら持ち主に従うもの。貴方の采配が、星を滅ぼすものでない限り、一寸の狂いも無く、命令を遂行します",
+                    "textEn": "Even if I am a King, if I live as a sword, then I must obey the owner. If you command me to, stop short of destroying this star, I will execute your orders down to a T.",
+                    "condition": null,
+                    "voiceFile": "SV284_2_对话2.mp3"
+                },
+                {
+                    "title": "对话 3",
+                    "text": "和御主的关系？御主就是我的生命，除此以外还能是什么？",
+                    "textJp": "マスターとの関係？マスターは私の命ですが、他になにか？",
+                    "textEn": "The relationship with Master? Master is my life, is there anything else to it?",
+                    "condition": null,
+                    "voiceFile": "SV284_2_对话3.mp3"
+                },
+                {
+                    "title": "对话 4",
+                    "text": "梅林？就是我的魔术老师，在走的时候甩下一句「抱歉，交给你了！」并把凯茜·帕鲁格硬塞给我的梅林吗？唔，这边的似乎不太一样呢。不管怎么说，我告诉过他，下次再见面时我就会将他斩首。我已经编出了可以处刑死不了梦魔的魔术了。我觉得那个人还是死一次性格回炉重造比较好。",
+                    "textJp": "マーリン。私の魔術の教師であり、去り際にごめん任せたと私にキャスパリーグを押し付けたマーリンですか？ ……む。こちらでは違うのですね。いずれにせよ、次に会う時は斬首する、と告げてあります。死ねない夢魔を処する魔術は編み出しました。あの人物は、一度死んで性根を入れ替える他ないと思います",
+                    "textEn": "Merlin? My magecraft teacher, the one who pushed Cath Palug to me against my will and say \"Sorry, I leave it to you\" upon leaving, that Merlin? Uhn, the one here is a bit different. In any case, please inform him that \"I will decapitate him the next time we meet each other\". I have figured out a magecraft to deal with those who are unable to die. I think if that person was to die at least once, he would have no choice but to change his nature.",
+                    "condition": "持有梅林&通关第二部序章",
+                    "voiceFile": "SV284_2_对话4.mp3"
+                },
+                {
+                    "title": "对话 5",
+                    "text": "悲哀之阿尔比恩……。曾见证美丽之物的最后的龙。她能被召唤为从者，我非常开心。即使很短暂，也希望喜悦的眼泪能划过你的面庞。",
+                    "textJp": "哀しきアルビオン……。美しいものに出会ってしまった最後の竜。彼女がサーヴァントとして召喚されたことは、とても嬉しい。一時とはいえ、どうか、そのかんばせに、喜びの涙が流れんことを",
+                    "textEn": "Poor Albion....... The last dragon who met a beautiful thing. I am very happy that she has been summoned as a Servant. Please let tears of joy flow in her eyes, even if only temporarily.",
+                    "condition": "持有妖精骑士兰斯洛特&通关Lostbelt No.6",
+                    "voiceFile": "SV284_2_对话5.mp3"
+                },
+                {
+                    "title": "对话 6",
+                    "text": "让我说也不好形容，那种人当Beast候选人真的合适吗？只希望她不要和我们的凯茜帕鲁格相较量。",
+                    "textJp": "私が言うのもなんですが、ビースト候補があんなんでいいのでしょうか。うちのキャスパリーグと比べないでほしいんですけど",
+                    "textEn": "I don't know if I can say this, but is it okay for a Beast candidate to be like that? Please don't compare them to our Cath Palug.",
+                    "condition": "持有光之高扬斯卡娅&通关Lostbelt No.6",
+                    "voiceFile": "SV284_2_对话6.mp3"
+                },
+                {
+                    "title": "对话 7",
+                    "text": "妖精王奥伯龙。吾之宿敌，吾之同胞……。同为幻想，我不知晓人类，而他却过于知晓人类。如果能够实现的话，我希望再一次——",
+                    "textJp": "妖精王オベロン。我が宿敵、我が同胞……。同じ幻想でありながら、私は人を知らず、彼は人を知り過ぎた。叶うなら、もう一度───",
+                    "textEn": "Fairy King Oberon. My sworn enemy, my compatriot. Despite the same fantasy, but I don't know people, and he knows people too well. If it can be.... Once again...",
+                    "condition": "持有奥伯龙&通关Lostbelt No.6",
+                    "voiceFile": "SV284_2_对话7.mp3"
+                },
+                {
+                    "title": "喜欢的东西",
+                    "text": "我重复过很多遍了，我的外表固然很夸张，但内在仍然是一如既往的阿尔托莉雅。不要那么顾虑我。食物的话，只要不是虫子，我都能吃。",
+                    "textJp": "何度も言いますが、私は見た目が仰々しいだけで、中身はいつものアルトリアです。気を使わないでください。食事は虫料理以外なら何でも食べます",
+                    "textEn": "I will say it again and again, but this appearance is only an exaggeration, I am, at the core, Artoria. Please don't worry about me. Aside from bugs, I would eat anything.",
+                    "condition": null,
+                    "voiceFile": "SV284_2_喜欢的东西.mp3"
+                },
+                {
+                    "title": "讨厌的东西",
+                    "text": "虽说我没什么讨厌的东西……但没错。我稍微有些不太擅长应付阿尔比恩之龙。",
+                    "textJp": "嫌いなものはありませんが、そうですね、アルビオンの竜は少し苦手です",
+                    "textEn": "I don't dislike anything, but...... That's right. Albion's dragons are not my cup of tea.",
+                    "condition": null,
+                    "voiceFile": "SV284_2_讨厌的东西.mp3"
+                },
+                {
+                    "title": "关于圣杯",
+                    "text": "圣杯吗？　只要没有被玷污，还是宝贵的存在。我没有什么需要实现的愿望，一定要说的话，那就是假如能清除哪怕一个缠绕你的灾厄也好。",
+                    "textJp": "聖杯ですか。穢れていないものであれば、貴重なものです。私に叶えたい願いはありませんが、あなたに付いて回る厄災、その一つでも取り除ければ",
+                    "textEn": "The Holy Grail, is it? If there is something that can't be sullied, then it's indeed an invaluable object. I do not have any wishes that I want granted, but if I am allowed to say, I would remove that one thing if it turns into a calamity that haunts you.",
+                    "condition": null,
+                    "voiceFile": "SV284_2_关于圣杯.mp3"
+                },
+                {
+                    "title": "活动举行中",
+                    "text": "这欢呼声是……正在举办什么特别的大会吧。我们走吧。要将优胜奖品全部收入我们的囊中。",
+                    "textJp": "この歓声は……特別な大会が開かれているようですね。行きましょう、優勝賞品は全て、我々の手に",
+                    "textEn": "This cheer... It seems a special gathering is happening. Let's go, the championship prizes are all ours.",
+                    "condition": null,
+                    "voiceFile": "SV284_2_活动举行中.mp3"
+                },
+                {
+                    "title": "生日",
+                    "text": "生日快乐，御主。生日宴会要办得低调一些，对吧。我明白。在阿瓦隆的高台上摆一个席位吧。让我们一边眺望这星之内海，一边安静地用餐吧。",
+                    "textJp": "ハッピーバースデー、マスター。生誕祭は控えめに、ですね？わかります。アヴァロンの高台に席を設けました。星の内海の光を眺めながら、静かに食事をするのが良いでしょう",
+                    "textEn": "Happy birthday, Master. You said you would like a modest birthday celebration? Got it. I have prepared a place on Avalon’s high ground. It would be nice to have a meal quietly while watching the light of the sea of stars.",
+                    "condition": null,
+                    "voiceFile": "SV284_2_生日.mp3"
+                }
+            ]
+        }
+    ],
+    "bondCraft": -1,
+    "valentineCraft": [],
+    "icons": [
+        {
+            "key": "icon1",
+            "valueList": [
+                "阿尔托莉雅·卡斯特_status_1.png",
+                "阿尔托莉雅·卡斯特_status_2.png",
+                "阿尔托莉雅·卡斯特_status_3.png"
+            ]
+        }
+    ],
+    "sprites": [
+        {
+            "key": "sprite1",
+            "valueList": [
+                "阿尔托莉雅·卡斯特_model_1.png",
+                "阿尔托莉雅·卡斯特_model_2.png",
+                "阿尔托莉雅·卡斯特_model_3.png"
+            ]
+        }
+    ],
+    "fandomIcons": {
+        "fandom.S284Icon.png": "Stage 1",
+        "fandom.ArtoriaCasterStage2Icon.png": "Stage 2",
+        "fandom.ArtoriaCasterStage3Icon.png": "Stage 3",
+        "fandom.ArtoriaCasterFinalIcon.png": "Stage 4",
+        "fandom.S284 status servant 1.png": "Portrait (Stage 1)",
+        "fandom.S284 status servant 2.png": "Portrait (Stage 2)",
+        "fandom.S284 status servant 3.png": "Portrait (Stage 3)"
+    },
+    "fandomSprites": {
+        "fandom.Artoria Caster Sprite 1.png": "Stage 1",
+        "fandom.Artoria Caster Sprite 2.png": "Stage 2",
+        "fandom.Artoria Caster Sprite 3.png": "Stage 3",
+        "fandom.S284 card servant 1.png": "Command Card (Stage 1)",
+        "fandom.S284 card servant 2.png": "Command Card (Stage 2)",
+        "fandom.S284 card servant 3.png": "Command Card (Stage 3)",
+        "fandom.Nplogo284_1.png": "NP Logo (Stage 1-2)",
+        "fandom.Artoria Caster Stage3 NP Sprite.png": "NP Sprite (Stage 3)"
+    },
+    "niceSkills": [
+        {
+            "id": 761450,
+            "num": 1,
+            "name": "希望のカリスマ B",
+            "ruby": "きぼうのかりすま",
+            "detail": "味方全体の攻撃力をアップ(3ターン)＆NPを増やす",
+            "type": "active",
+            "strengthStatus": 0,
+            "priority": 1,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "conLv": 0,
+            "condLimitCount": 0,
+            "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00300.png",
+            "coolDown": [
+                8,
+                8,
+                8,
+                8,
+                8,
+                7,
+                7,
+                7,
+                7,
+                6
+            ],
+            "functions": [
+                {
+                    "funcId": 152,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "ptAll",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "攻撃力アップ",
+                    "buffs": [
+                        {
+                            "id": 126,
+                            "name": "攻撃力アップ",
+                            "detail": "攻撃力をアップ",
+                            "type": "upAtk",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 110
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 120
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 130
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 140
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 150
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 160
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 170
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 180
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200
+                        }
+                    ]
+                },
+                {
+                    "funcId": 466,
+                    "funcType": "gainNp",
+                    "funcTargetType": "ptAll",
+                    "funcTargetTeam": "player",
+                    "funcPopupText": "NP増加",
+                    "buffs": [],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Value": 2000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 2100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 2200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 2300
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 2400
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 2500
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 2600
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 2700
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 2800
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 3000
+                        }
+                    ]
+                },
+                {
+                    "funcId": 472,
+                    "funcType": "hastenNpturn",
+                    "funcTargetType": "ptAll",
+                    "funcTargetTeam": "enemy",
+                    "funcPopupText": "チャージ増加",
+                    "buffs": [],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 762550,
+            "num": 2,
+            "name": "湖の加護 A",
+            "ruby": "みずうみのかご",
+            "detail": "味方単体のNPを増やす ＋ 味方全体のNP獲得量をアップ(3ターン)",
+            "type": "active",
+            "strengthStatus": 0,
+            "priority": 1,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "conLv": 0,
+            "condLimitCount": 1,
+            "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00601.png",
+            "coolDown": [
+                7,
+                7,
+                7,
+                7,
+                7,
+                6,
+                6,
+                6,
+                6,
+                5
+            ],
+            "functions": [
+                {
+                    "funcId": 463,
+                    "funcType": "gainNp",
+                    "funcTargetType": "ptOne",
+                    "funcTargetTeam": "player",
+                    "funcPopupText": "NP増加",
+                    "buffs": [],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Value": 1000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1300
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1400
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1500
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1600
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1700
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1800
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 2000
+                        }
+                    ]
+                },
+                {
+                    "funcId": 340,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "ptAll",
+                    "funcTargetTeam": "player",
+                    "funcPopupText": "NP獲得アップ",
+                    "buffs": [
+                        {
+                            "id": 140,
+                            "name": "NP獲得アップ",
+                            "detail": "NP獲得量をアップ",
+                            "type": "upDropnp",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 210
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 220
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 230
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 240
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 250
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 260
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 270
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 280
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 300
+                        }
+                    ]
+                },
+                {
+                    "funcId": 472,
+                    "funcType": "hastenNpturn",
+                    "funcTargetType": "ptAll",
+                    "funcTargetTeam": "enemy",
+                    "funcPopupText": "チャージ増加",
+                    "buffs": [],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 763650,
+            "num": 3,
+            "name": "選定の剣 EX",
+            "ruby": "せんていのけん",
+            "detail": "味方単体のArtsカード性能をアップ(3ターン)＆〔人類の脅威〕特攻状態を付与(3ターン)＆無敵状態を付与(1ターン)",
+            "type": "active",
+            "strengthStatus": 0,
+            "priority": 1,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "conLv": 0,
+            "condLimitCount": 3,
+            "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00305.png",
+            "coolDown": [
+                8,
+                8,
+                8,
+                8,
+                8,
+                7,
+                7,
+                7,
+                7,
+                6
+            ],
+            "functions": [
+                {
+                    "funcId": 114,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "ptOne",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "アーツアップ",
+                    "buffs": [
+                        {
+                            "id": 101,
+                            "name": "Artsアップ",
+                            "detail": "Artsカードの性能をアップ",
+                            "type": "upCommandall",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 300
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 320
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 340
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 360
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 380
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 400
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 420
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 440
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 460
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 500
+                        }
+                    ]
+                },
+                {
+                    "funcId": 5617,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "ptOne",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "威力アップ・対人類の脅威",
+                    "buffs": [
+                        {
+                            "id": 1121,
+                            "name": "威力アップ〔人類の脅威〕",
+                            "detail": "〔人類の脅威〕に与えるダメージをアップ",
+                            "type": "upDamage",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 300
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 320
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 340
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 360
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 380
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 400
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 420
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 440
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 460
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 500
+                        }
+                    ]
+                },
+                {
+                    "funcId": 290,
+                    "funcType": "addState",
+                    "funcTargetType": "ptOne",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "無敵",
+                    "buffs": [
+                        {
+                            "id": 155,
+                            "name": "無敵",
+                            "detail": "必中を無視して、攻撃によるダメージを0にする",
+                            "type": "invincible",
+                            "buffGroup": 400
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "niceClassPassive": [
+        {
+            "id": 34550,
+            "num": 1,
+            "name": "対魔力 A",
+            "ruby": "たいまりょく",
+            "detail": "自身の弱体耐性をアップ",
+            "type": "passive",
+            "strengthStatus": 1,
+            "priority": 1,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "conLv": 0,
+            "condLimitCount": 0,
+            "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00100.png",
+            "coolDown": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "functions": [
+                {
+                    "funcId": 388,
+                    "funcType": "addState",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "弱体耐性アップ",
+                    "buffs": [
+                        {
+                            "id": 162,
+                            "name": "弱体耐性アップ",
+                            "detail": "弱体耐性をアップ",
+                            "type": "upTolerance",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 200
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 83650,
+            "num": 1,
+            "name": "陣地作成 EX",
+            "ruby": "じんちさくせい",
+            "detail": "自身のArtsカードの性能をアップ",
+            "type": "passive",
+            "strengthStatus": 1,
+            "priority": 1,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "conLv": 0,
+            "condLimitCount": 0,
+            "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00104.png",
+            "coolDown": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "functions": [
+                {
+                    "funcId": 109,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "アーツアップ",
+                    "buffs": [
+                        {
+                            "id": 101,
+                            "name": "Artsアップ",
+                            "detail": "Artsカードの性能をアップ",
+                            "type": "upCommandall",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 120
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 120
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 120
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 120
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 120
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 120
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 120
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 120
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 120
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 120
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 764450,
+            "num": 1,
+            "name": "独自魔術 B",
+            "ruby": "どくじまじゅつ",
+            "detail": "自身のArtsカードのクリティカル威力をアップ",
+            "type": "passive",
+            "strengthStatus": 1,
+            "priority": 1,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "conLv": 0,
+            "condLimitCount": 0,
+            "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00303.png",
+            "coolDown": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "functions": [
+                {
+                    "funcId": 3640,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "クリティカル威力アップ〔Arts〕",
+                    "buffs": [
+                        {
+                            "id": 1624,
+                            "name": "クリティカル威力アップ",
+                            "detail": "Artsカードのクリティカル時のダメージをアップ",
+                            "type": "upCriticaldamage",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "niceNoblePhantasms": [
+        {
+            "id": 504501,
+            "num": 1,
+            "card": "arts",
+            "name": "きみをいだく希望の星",
+            "ruby": "アラウンド・カリバーン",
+            "rank": "A",
+            "type": "対軍宝具",
+            "detail": "味方全体の攻撃力をアップ(3ターン)＆弱体状態を解除＆対粛正防御状態<無敵貫通を無視して攻撃によるダメージを0にする状態>を付与(1回・3ターン)<オーバーチャージで回数アップ>",
+            "npGain": {
+                "buster": [
+                    54,
+                    54,
+                    54,
+                    54,
+                    54
+                ],
+                "arts": [
+                    54,
+                    54,
+                    54,
+                    54,
+                    54
+                ],
+                "quick": [
+                    54,
+                    54,
+                    54,
+                    54,
+                    54
+                ],
+                "extra": [
+                    54,
+                    54,
+                    54,
+                    54,
+                    54
+                ],
+                "defence": [
+                    300,
+                    300,
+                    300,
+                    300,
+                    300
+                ],
+                "np": [
+                    54,
+                    54,
+                    54,
+                    54,
+                    54
+                ]
+            },
+            "npDistribution": [
+                100
+            ],
+            "strengthStatus": 0,
+            "priority": 101,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "individuality": [
+                {
+                    "id": 3002,
+                    "name": "attackMagical"
+                },
+                {
+                    "id": 4001,
+                    "name": "cardArts"
+                },
+                {
+                    "id": 4007,
+                    "name": "cardNP"
+                }
+            ],
+            "functions": [
+                {
+                    "funcId": 153,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "ptAll",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "攻撃力アップ",
+                    "buffs": [
+                        {
+                            "id": 126,
+                            "name": "攻撃力アップ",
+                            "detail": "攻撃力をアップ",
+                            "type": "upAtk",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 300
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 400
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 450
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 475
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 500
+                        }
+                    ]
+                },
+                {
+                    "funcId": 436,
+                    "funcType": "subState",
+                    "funcTargetType": "ptAll",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "弱体解除",
+                    "buffs": [],
+                    "svals": [
+                        {
+                            "Rate": 1000
+                        },
+                        {
+                            "Rate": 1000
+                        },
+                        {
+                            "Rate": 1000
+                        },
+                        {
+                            "Rate": 1000
+                        },
+                        {
+                            "Rate": 1000
+                        }
+                    ]
+                },
+                {
+                    "funcId": 5612,
+                    "funcType": "addState",
+                    "funcTargetType": "ptAll",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "対粛正防御",
+                    "buffs": [
+                        {
+                            "id": 2926,
+                            "name": "対粛正防御",
+                            "detail": "無敵貫通を無視して、攻撃によるダメージを0にする",
+                            "type": "specialInvincible",
+                            "buffGroup": 250
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 1
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "atkGrowth": [
+        1629,
+        1637,
+        1646,
+        1664,
+        1691,
+        1727,
+        1762,
+        1798,
+        1851,
+        1896,
+        1958,
+        2021,
+        2083,
+        2155,
+        2235,
+        2315,
+        2404,
+        2493,
+        2592,
+        2690,
+        2797,
+        2904,
+        3011,
+        3127,
+        3251,
+        3376,
+        3501,
+        3626,
+        3760,
+        3902,
+        4036,
+        4179,
+        4321,
+        4464,
+        4616,
+        4767,
+        4919,
+        5070,
+        5222,
+        5374,
+        5534,
+        5686,
+        5846,
+        6007,
+        6158,
+        6319,
+        6479,
+        6631,
+        6791,
+        6943,
+        7095,
+        7246,
+        7398,
+        7549,
+        7701,
+        7844,
+        7986,
+        8129,
+        8263,
+        8405,
+        8539,
+        8664,
+        8789,
+        8914,
+        9039,
+        9154,
+        9261,
+        9368,
+        9475,
+        9574,
+        9672,
+        9761,
+        9850,
+        9930,
+        10010,
+        10082,
+        10144,
+        10207,
+        10269,
+        10314,
+        10367,
+        10403,
+        10421,
+        10438,
+        10456,
+        10474,
+        10492,
+        10510,
+        10528,
+        10546,
+        10644,
+        10742,
+        10840,
+        10938,
+        11045,
+        11143,
+        11241,
+        11339,
+        11446,
+        11544,
+        11642,
+        11740,
+        11847,
+        11945,
+        12044,
+        12142,
+        12249,
+        12347,
+        12445,
+        12543,
+        12641,
+        12748,
+        12846,
+        12944,
+        13042,
+        13149,
+        13247,
+        13345,
+        13444,
+        13551
+    ],
+    "hpGrowth": [
+        2112,
+        2124,
+        2136,
+        2161,
+        2198,
+        2247,
+        2296,
+        2345,
+        2419,
+        2480,
+        2566,
+        2652,
+        2738,
+        2837,
+        2947,
+        3058,
+        3181,
+        3304,
+        3439,
+        3574,
+        3722,
+        3870,
+        4017,
+        4177,
+        4349,
+        4521,
+        4693,
+        4865,
+        5050,
+        5246,
+        5431,
+        5628,
+        5824,
+        6021,
+        6230,
+        6439,
+        6648,
+        6857,
+        7066,
+        7275,
+        7496,
+        7705,
+        7927,
+        8148,
+        8357,
+        8578,
+        8799,
+        9008,
+        9230,
+        9439,
+        9648,
+        9857,
+        10066,
+        10275,
+        10484,
+        10680,
+        10877,
+        11074,
+        11258,
+        11455,
+        11639,
+        11811,
+        11984,
+        12156,
+        12328,
+        12488,
+        12635,
+        12783,
+        12930,
+        13065,
+        13201,
+        13324,
+        13447,
+        13557,
+        13668,
+        13766,
+        13852,
+        13938,
+        14024,
+        14086,
+        14160,
+        14209,
+        14233,
+        14258,
+        14283,
+        14307,
+        14332,
+        14356,
+        14381,
+        14406,
+        14541,
+        14676,
+        14811,
+        14946,
+        15094,
+        15229,
+        15364,
+        15500,
+        15647,
+        15782,
+        15918,
+        16053,
+        16200,
+        16336,
+        16471,
+        16606,
+        16754,
+        16889,
+        17024,
+        17159,
+        17295,
+        17442,
+        17577,
+        17713,
+        17848,
+        17995,
+        18131,
+        18266,
+        18401,
+        18549
+    ],
+    "figure": [
+        "https://static.atlasacademy.io/JP/CharaFigure/5045000/5045000_merged.png",
+        "https://static.atlasacademy.io/JP/CharaFigure/5045001/5045001_merged.png",
+        "https://static.atlasacademy.io/JP/CharaFigure/5045002/5045002_merged.png"
+    ],
+    "ascension": [
+        "https://static.atlasacademy.io/JP/CharaGraph/504500/504500a@1.png",
+        "https://static.atlasacademy.io/JP/CharaGraph/504500/504500a@2.png",
+        "https://static.atlasacademy.io/JP/CharaGraph/504500/504500b@1.png",
+        "https://static.atlasacademy.io/JP/CharaGraph/504500/504500b@2.png"
+    ]
+}

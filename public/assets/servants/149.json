@@ -1,0 +1,778 @@
+{
+    "no": 149,
+    "svtId": 9935400,
+    "mcLink": "提亚马特",
+    "icon": "Servant149.jpg",
+    "info": {
+        "gameId": 9935400,
+        "name": "提亚马特",
+        "nameJp": "ティアマト",
+        "nameEn": "Tiamat",
+        "namesOther": [
+            "ティアマト"
+        ],
+        "namesJpOther": [],
+        "namesEnOther": [],
+        "nicknames": [
+            "提妈"
+        ],
+        "obtain": "无法召唤",
+        "obtains": [
+            "无法获得"
+        ],
+        "rarity": 5,
+        "rarity2": 5,
+        "weight": "??kg",
+        "height": "160cm～7400万km2",
+        "gender": "女性(人形)/—(龙体)",
+        "illustrator": "山中虎铁",
+        "illustratorJp": null,
+        "illustratorEn": "Yamanaka Kotetsu",
+        "className": "BeastⅡ",
+        "attribute": "兽",
+        "isHumanoid": false,
+        "isWeakToEA": false,
+        "isTDNS": false,
+        "cv": [
+            "悠木碧"
+        ],
+        "cvJp": [
+            "悠木碧"
+        ],
+        "cvEn": [
+            "Yūki Aoi"
+        ],
+        "alignments": [
+            "混沌",
+            "恶(人形)/—(龙体)"
+        ],
+        "traits": [
+            "超巨大 (龙体)",
+            "神性"
+        ],
+        "ability": {
+            "strength": "A+",
+            "endurance": "EX",
+            "agility": "C",
+            "mana": "A++",
+            "luck": "EX",
+            "np": "─"
+        },
+        "illustrations": {
+            "Default": "提亚马特.png"
+        },
+        "cards": [],
+        "cardHits": {},
+        "cardHitsDamage": {},
+        "npRate": {},
+        "atkMin": -1,
+        "hpMin": -1,
+        "atkMax": -1,
+        "hpMax": -1,
+        "atk90": -1,
+        "hp90": -1,
+        "atk100": -1,
+        "hp100": -1,
+        "starRate": "",
+        "deathRate": "",
+        "criticalRate": ""
+    },
+    "noblePhantasm": [
+        {
+            "state": "",
+            "openCondition": "==宝具==",
+            "name": "吾子啊，必遵创世之理",
+            "nameJp": "仔よ、創世の理に従え",
+            "upperName": "Nammu Duranki",
+            "upperNameJp": "ナンム・ドゥルアンキ",
+            "color": "Buster",
+            "category": "全体",
+            "rank": "－",
+            "typeText": "－",
+            "effects": [
+                {
+                    "description": "对敌方全体发动超强大的攻击",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "500%"
+                    ]
+                },
+                {
+                    "description": "付与强化无效状态(1次)",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "∅"
+                    ]
+                }
+            ]
+        }
+    ],
+    "noblePhantasmEn": [
+        {
+            "state": "Rank -",
+            "openCondition": null,
+            "name": "Child, Abide the Laws of Creation",
+            "nameJp": null,
+            "upperName": "Nammu Duranki",
+            "upperNameJp": null,
+            "color": "Arts",
+            "category": "",
+            "rank": "",
+            "typeText": "",
+            "effects": [
+                {
+                    "description": "Deals damage to all enemies.\n Inflicts Buff Block status to all enemies for 1 time.",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                },
+                {
+                    "description": " Damage +",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "500%"
+                    ]
+                }
+            ]
+        }
+    ],
+    "activeSkills": [
+        {
+            "cnState": 0,
+            "skills": [
+                {
+                    "state": "",
+                    "openCondition": "",
+                    "name": "赤之星瞳",
+                    "nameJp": "赤き星の瞳",
+                    "nameEn": null,
+                    "rank": "",
+                    "icon": "攻击附加弱化.png",
+                    "cd": 8,
+                    "effects": [
+                        {
+                            "description": "通常攻击时，付与敌方全体诅咒状态(3回合)的弱化效果(3回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "500"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "cnState": 0,
+            "skills": [
+                {
+                    "state": "",
+                    "openCondition": "",
+                    "name": "青之星瞳",
+                    "nameJp": "青き星の瞳",
+                    "nameEn": null,
+                    "rank": "",
+                    "icon": "攻击附加弱化.png",
+                    "cd": 8,
+                    "effects": [
+                        {
+                            "description": "通常攻击时，付与敌方全体暴击星掉落率下降(3回合)的弱化效果(3回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "20%"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "cnState": 0,
+            "skills": [
+                {
+                    "state": "",
+                    "openCondition": "",
+                    "name": "暗之星瞳",
+                    "nameJp": "暗き星の瞳",
+                    "nameEn": null,
+                    "rank": "",
+                    "icon": "攻击附加弱化.png",
+                    "cd": 8,
+                    "effects": [
+                        {
+                            "description": "通常攻击时，付与敌方全体NP获得量下降(3回合)的弱化效果(3回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "20%"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "cnState": 0,
+            "skills": [
+                {
+                    "state": "",
+                    "openCondition": "",
+                    "name": "超怪力",
+                    "nameJp": "超怪力",
+                    "nameEn": null,
+                    "rank": "",
+                    "icon": "加攻.png",
+                    "cd": 8,
+                    "effects": [
+                        {
+                            "description": "自身攻击力提升(1回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "100%"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "cnState": 0,
+            "skills": [
+                {
+                    "state": "",
+                    "openCondition": "",
+                    "name": "单独显现",
+                    "nameJp": "単独顕現",
+                    "nameEn": null,
+                    "rank": "",
+                    "icon": "弱化解除.png",
+                    "cd": 8,
+                    "effects": [
+                        {
+                            "description": "解除自身弱化状态",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "∅"
+                            ]
+                        },
+                        {
+                            "description": "解除敌方全体强化状态",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "∅"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "activeSkillsEn": [
+        {
+            "cnState": 0,
+            "skills": [
+                {
+                    "state": "",
+                    "openCondition": "",
+                    "name": "赤之星瞳",
+                    "nameJp": "赤き星の瞳",
+                    "nameEn": null,
+                    "rank": "",
+                    "icon": "攻击附加弱化.png",
+                    "cd": 8,
+                    "effects": [
+                        {
+                            "description": "通常攻击时，付与敌方全体诅咒状态(3回合)的弱化效果(3回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "500"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "cnState": 0,
+            "skills": [
+                {
+                    "state": "",
+                    "openCondition": "",
+                    "name": "青之星瞳",
+                    "nameJp": "青き星の瞳",
+                    "nameEn": null,
+                    "rank": "",
+                    "icon": "攻击附加弱化.png",
+                    "cd": 8,
+                    "effects": [
+                        {
+                            "description": "通常攻击时，付与敌方全体暴击星掉落率下降(3回合)的弱化效果(3回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "20%"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "cnState": 0,
+            "skills": [
+                {
+                    "state": "",
+                    "openCondition": "",
+                    "name": "暗之星瞳",
+                    "nameJp": "暗き星の瞳",
+                    "nameEn": null,
+                    "rank": "",
+                    "icon": "攻击附加弱化.png",
+                    "cd": 8,
+                    "effects": [
+                        {
+                            "description": "通常攻击时，付与敌方全体NP获得量下降(3回合)的弱化效果(3回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "20%"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "cnState": 0,
+            "skills": [
+                {
+                    "state": "",
+                    "openCondition": "",
+                    "name": "超怪力",
+                    "nameJp": "超怪力",
+                    "nameEn": null,
+                    "rank": "",
+                    "icon": "加攻.png",
+                    "cd": 8,
+                    "effects": [
+                        {
+                            "description": "自身攻击力提升(1回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "100%"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "cnState": 0,
+            "skills": [
+                {
+                    "state": "",
+                    "openCondition": "",
+                    "name": "单独显现",
+                    "nameJp": "単独顕現",
+                    "nameEn": null,
+                    "rank": "",
+                    "icon": "弱化解除.png",
+                    "cd": 8,
+                    "effects": [
+                        {
+                            "description": "解除自身弱化状态",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "∅"
+                            ]
+                        },
+                        {
+                            "description": "解除敌方全体强化状态",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "∅"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "passiveSkills": [],
+    "passiveSkillsEn": [],
+    "appendSkills": [],
+    "coinSummonNum": 0,
+    "itemCost": {
+        "ascension": [],
+        "skill": [],
+        "appendSkill": []
+    },
+    "costumeNos": [],
+    "bondPoints": [],
+    "profiles": [
+        {
+            "title": "0",
+            "description": "美索不达米亚神话中创世神之一。\n诸神都是身为淡水的阿勃祖\n与身为盐水的提亚马特生下的。\n之后，身为孩子的诸神反叛原父阿勃祖，\n获得了世界的支配权。\n这时，提亚马特温和地容忍了孩子们的行为。\n这充分证明了她对孩子们的爱多过对丈夫的爱。\n\n然而，诸神甚至开始逆反身为母亲的提亚马特。\n提亚马特哀叹、疯狂，产下了作为自己新孩子的\n十一魔兽，与诸神对决。\n战斗的最后，提亚马特与十一魔兽被击败。\n诸神将她的尸体一分为二，创造了天地，\n传说这就是人界创世的仪式。",
+            "descriptionJp": "メソポタミア神話における創世の神のひとり。\n神々は真水であるアプスー、塩水である\nティアマトから生み出された。\nその後、子供である神々は原父アプスーに\n反旗を翻し世界の支配権を獲得する。\nこの時、ティアマトは子供たちの行為を穏やかに\n容認した。夫への愛より子供たちへの愛が\n勝っていた証左である。\n\nしかし、神々は母であるティアマトにさえ\n剣を向けた。ティアマトは嘆き、狂い、\n新しい子供として十一の魔獣を産みだし、\n神々と対決する。\n戦いの末、ティアマトと十一の魔獣は破れた。\n神々は彼女の死体を二つに裂き、天と地を造り、\nこれを人界創世の儀式としたという。",
+            "descriptionEn": "One of the creator deities of Mesopotamian myth.\n\nThe gods were born from the union of the freshwater Abzu and the saltwater Tiamat. Then, the gods rebelled against their father, and seized authority over the world from him.\n\nTiamat quietly approved of her children’s actions. It was proof that her love for her children outweighed her love for her husband.\n\n\nHowever, the gods then turned their blades on Tiamat. Tiamat wailed and raged, birthing eleven new Magical Beasts to oppose the gods.\n\nAt the end of the war, Tiamat and the Eleven Beasts were destroyed.\n\nThe gods split Tiamat’s corpse in two and used them to form the heavens and earth. It is said that this ritual created the world of humans.",
+            "condition": "通关「起源之星，仰望天空」后开放",
+            "conditionEn": null
+        },
+        {
+            "title": "1",
+            "description": "身高／体重：160cm～7400万km2·？？kg\n出处：古代美索不达米亚神话\n地域：美索不达米亚\n属性：混沌·恶　　　性别：女性\n黑泥也是提亚马特身高的一部分。\n只不过泥是虚数，所以重量无法计算。\n与之相反，体积则是无限的。\n也就是四次元口袋。",
+            "descriptionJp": "身長／体重：160cm～7400万km2・？？kg\n出典：古代メソポタミア神話\n地域：メソポタミア\n属性：混沌・悪　　　性別：女性\n黒い泥もティアマトの身長となる。ただし泥は\n虚数なので重さは計量できない。\n反面、体積は無限となる。要は四次元ポケット。",
+            "descriptionEn": "Height/Weight: 160 cm ~ 74000000 km²・??kg\n\nSource: Ancient Mesopotamian Mythology\n\nRegion: Mesopotamia\n\nAlignment: Chaotic ・ Evil\n\nGender: Female\n\nThe black mud is also included in Tiamat’s height. However, the mud is made of imaginary numbers, so her weight is unquantifiable.\n\nMeanwhile, Tiamat’s volume is infinite. In other words, she is a four-dimensional pocket.",
+            "condition": "通关 起源之星，仰望天空后开放",
+            "conditionEn": null
+        },
+        {
+            "title": "2",
+            "description": "创世后即被抛弃的母胎。\n作为孕育生命的土壤被使用，\n但当地球环境稳定，生态系统确立后，\n就作为无用之物，被流放到虚数世界\n（内侧世界。甚至不是平行世界，\n没有生命的虚数空间）的『母亲之海』。\n\n……既然生态系统已经确立，\n那会随机设计生命的她也就没有用了。\n在生命体获得与这行星相符的知性过程中，\n她根本就是个障碍。\n之后，提亚马特一直在虚数世界中等待着\n返回原来地球的机会。",
+            "descriptionJp": "創世後に切り捨てられた母胎。\n生命を生み出す土壌として使われたが、\n地球の環境が落ち着き、生態系が確立されてから\nは不要なものとして虚数世界（裏側の世界。\n並行世界ですらない、生命のない虚数空間）に\n追放された『母なる海』である。\n\n……生態系が確立した以上、ランダムに生命を\nデザインする彼女はもう要らない。\n生命体がこの星に準じた知性を獲得する行程に\nおいて、もう邪魔者でしかなかったのだ。\n以後、ティアマトは虚数世界で元の地球に\n戻るチャンスを待ち続けた。",
+            "descriptionEn": "Tiamat is the womb that was cast aside after the world was created.\n\nShe is the Maternal Sea who was used as the soil to give birth to life, but once the Earth’s environment settled and ecosystems were established, Tiamat was deemed unnecessary and driven out into the world of imaginary numbers. (The Inner World. Lifeless imaginary number space, not a parallel universe.)\n\n\nBecause the Earth’s ecosystems were established, Tiamat, who randomly designs life, was no longer needed.\n\nThe goddess became nothing more than an obstacle to the process by which life forms acquired the intelligence determined by the planet.\n\nSince then, Tiamat has been waiting in the world of imaginary numbers for her chance to return to Earth.",
+            "condition": "通关 起源之星，仰望天空后开放",
+            "conditionEn": null
+        },
+        {
+            "title": "3",
+            "description": "【职阶技能】 \n\n兽之权能：A\n可以被称为对人类的技能。\n英灵、神灵，无论为何，\n对但凡从“母胎”中诞生的存在都能发挥特攻性能。\n\n这不仅限于BeastⅡ本体，\n也会付与她诞下的所有魔兽。\n\n单独显现：B\n能独立出现与现世的技能。\n一旦显现，就能用七日时间夺取印度洋。\n自显现之后，不眠不休地诞下魔物，将人类吞噬殆尽。\n与之相反，由于BeastⅡ本体就是海洋，\n所以不可能走上陆地。\n扫荡人类就成为自己孩子魔兽们的任务了。\n另外，该技能也表现了“已经存在于任何时空中”，\n因此不仅运用时间旅行造成的时间悖论等攻击\n对她无效，连各种即死系攻击也能被取消。\n\n自我改造：EX\n利用黑色的生命之海重新替换自己的灵基。\n从通常的灵基状态（命运之女）成长为\n全长超过60米的龙体。\n化为龙体的提亚马特\n可以让阶级在A++以下的攻击无效化。",
+            "descriptionJp": "【クラススキル】 \n\n○獣の権能：Ａ\n対人類、とも呼ばれるスキル。\n英霊、神霊、なんであろうと“母胎”から\n生まれたものに対して特攻性能を発揮する。\nこれはビーストⅡ本体だけでなく、彼女から\n生まれた魔獣すべてに付与される。\n\n○単独顕現：Ｂ\n単体で現世に現れるスキル。\n一度顕現してしまえば七日に渡りインド洋を\n塗り替える。顕現してからは休む事なく\n魔獣たちを生み出し、人類を食い尽くす。\n反面、ビーストⅡ本体は海そのものなので\n陸地にあがる事はできない。\n人類掃討は子供である魔獣たちの仕事となる。\nまた、このスキルは“既にどの時空にも存在する”在り方を示しているため、時間旅行を用いたタイムパラドクス等の攻撃を無効にするばかりか、あらゆる即死系攻撃をキャンセルする。\n\n○自己改造：EX\n黒い生命の海を用いて自分の霊基を作り替える。\n通常の霊基状態（ファム・ファタール）から、\n全長60メートルを越す竜体に成長する。\n竜体になったティアマトはランクＡ＋＋以下の攻撃を無効化する。",
+            "descriptionEn": "[Class Skills]\n\n\nAuthority of the Beast: A\n\nThis can be considered an anti-humanity Skill.\n\nIt is an ability that is especially effective against Heroic Spirits, Divine Spirits, and all things born from the mother’s body.\n\nThis Skill is not possessed solely by the Second Beast, but also by all Magical Beasts she gives birth to.\n\n\nIndependent Manifestation: B\n\nThe Skill to manifest independently in the current world.\n\nSeven days after manifestation, the Indian Ocean will be smothered black.\n\nOnce Tiamat manifests, she unceasingly gives birth to Magical Beasts and sets out to devour humanity.\nHowever, the body of the Second Beast is the ocean itself, so it cannot move onto land. Instead, it is her children’s role to mop up the human race.\n\nFurthermore, this Skill is an expression of the holder’s presence across all of space-time, rendering her immune to attacks by methods such as time travel paradoxes, and canceling out all instant death attacks as well.\n\n\nSelf-Modification: EX\n\nTiamat can remold her own Saint Graph using the Black Sea of Life.\n\nHer body can grow from its standard Saint Graph (Femme Fatale) into that of a dragon over 60 meters in length.\n\nOnce Tiamat becomes a dragon, attacks against her of A++ rank or lower are nullified.",
+            "condition": "通关 起源之星，仰望天空后开放",
+            "conditionEn": null
+        },
+        {
+            "title": "4",
+            "description": "生命之海：EX\nBeastⅡ乃是孕育出生命的海洋本身。\n通过循环地球创世记的真以太，\n令这片海洋可以无限供给魔力。\n对被囚禁于黑泥，陷入海中的人随机附加\n自我改造、生态变化、生态融合、个体增殖等技能。\n从海洋出现到地上时，必须与BeastⅡ完成\n细胞级别的契约……也就是碱基契约（Amino Geass），\n自动成为人类的敌人。\n\nNega Genesis：A\n与BeastⅥ拥有的『Nega Messiah』属于同类技能。\n能颠覆现有进化论、地球创世预言等等的概念结界。\n负有这个的BeastⅡ对从正确人类史中诞生的\n从者的宝具有极强的耐性。\n\n怪力：A++\n身为魔物的能力。能令自身筋力提升。\n几乎可以说是最顶级的存在。身为黑泥之躯、龙体\n显现的提亚马特的筋力就是巨人级的。",
+            "descriptionJp": "○生命の海：EX\nビーストⅡは生命を生み出す海そのものである。\n地球創世記の真エーテルを循環させている為、\nこの海の中では魔力は無限に供給される。\n黒泥に囚われ、海中に沈んだ者は自己改造、\n生態変化、生態融合、個体増殖といった\nスキルがランダムに付加される。\n海から地上に出る際にはビーストⅡと細胞クラスでのギアス……塩基契約（アミノギアス）しなければならず、自動的に人類の敵になってしまう。\n\n○ネガ・ジェネシス：Ａ\nビーストⅥが持つ『ネガ・メサイヤ』と\n同類のスキル。\n現在の進化論、地球創世の予測をことごとく覆す\n概念結界。これをおびたビーストⅡは、\n正しい人類史から生まれたサーヴァントたちの\n宝具に強い耐性を獲得する。\n\n○怪力：Ａ＋＋\n魔物としての能力。自身の筋力を向上させる。\nほぼ最上級のもの。黒泥を体とし、竜体として\n現れたティアマトの筋力は巨人のそれである。",
+            "descriptionEn": "Sea of Life: EX\n\nThe Second Beast itself is the sea which gives rise to life.\n\nIt cycles the True Ether of primordial Earth, so its mana supply within this sea is infinite.\nAll who are caught and drowned in the black mud are randomly assigned the following Skills: Self-Modification, Life Transformation, Life Fusion, and Individual Multiplication.\n\nOnce these organisms exit the sea to make landfall, they are forced into a cellular-level geis — a nitrogenous base contract (amino-geis) — and automatically become enemies of humankind.\n\n\nNega-Genesis: A\n\nA Skill of the same type as Nega-Messiah, which is possessed by the Sixth Beast.\n\nIt is a conceptual bounded field which completely overturns modern evolutionary theory and the predictions of Earth’s genesis.\n\nThanks to this ability, the Second Beast has acquired a strong resistance to the Noble Phantasms of Servants created by correct human history.\n\n\nMonstrous Strength: A++\n\nOne’s ability as a monster. This Skill raises the user’s Strength.\n\nIt is at about the highest possible level. This is why Tiamat’s Strength is that of a titan when she makes the black mud into her body and manifests in her draconic form.",
+            "condition": "通关 起源之星，仰望天空后开放",
+            "conditionEn": null
+        },
+        {
+            "title": "5",
+            "description": "提亚马特通过人理奠基的崩溃，以及圣杯的力量，\n回到了这侧的世界，但是，\n她处于深深的沉睡。\n这是基于梅林魔术的问题暂且不提，\n由于迦勒底的攻击，从沉睡中醒来，\n服从本能，开始扫荡人类。\n\n虽说这是基于自己被无情抛弃的仇恨、憎恶、悲伤，\n也是为了重新改变地球的生态系统，沉溺于\n作为万物之母复归『喜悦』中的行为。\n\n基于以上本性，她的职阶才被确定了。\n创世女神不过是虚伪之名。\n这是被人类抛弃了的\n最受人类史拒绝的大灾难。\n\n其名为BeastⅡ。\n七个人类恶之一，拥有『回归』之理的兽。",
+            "descriptionJp": "人理定礎の崩壊、そして聖杯の力によりこちらの\n世界に帰還を果たしたティアマトは、しかし、\n深い微睡みの中にいた。\nそれがマーリンの魔術によるものかはさておき、\nカルデアの攻撃によりその眠りから目覚め、\nその本能に従って人類掃討に乗り出した。\n\nそれは用済みとして捨てられた恨み・憎しみ・\n悲しみもあるが、もう一度地球の生態系を\n塗り替え、すべての母に返り咲く『喜び』に\n耽る行為でもある。\n\n以上の本性をもって彼女のクラスは決定された。\n創世の女神なぞ偽りの名。\n其は人間が置き去りにした、\n人類史に最も拒絶された大災害。\n\nその名をビーストⅡ。\n七つの人類悪のひとつ、『回帰』の理を持つ獣である。",
+            "descriptionEn": "With the collapse of the cornerstone of the anthropic principle, Tiamat managed to return to this world with the power of the Holy Grail. And yet, she was in middle of a slumber.\n\nSetting aside wherever it was caused by Merlin’s magecraft, she awoke from that sleep due to the attack from Chaldea and set out to eradicate mankind in accordance with her instincts.\n\n\nWhile there is resentment・hatred・sadness for being discarded as someone who had already served her purpose, this is also a deed of indulging in the “joy” of once again repainting the Earth’s ecosystem and having everything come back to the mother.\n\n\nHer Class was determined by this true nature described above.\n\nThe goddess of Genesis and the likes are nothing but fake names.\n\nDeserted by humans, this is one of the most rejected great disasters in human history.\n\n\nIts name is Beast II.\n\nOne of the seven human vices, the beast carrying the principle of \"regression.\"",
+            "condition": "通关 起源之星，仰望天空后开放",
+            "conditionEn": null
+        },
+        {
+            "title": "6",
+            "description": "无法确认近乎人格的存在。\n是失去了理性，还是从一开始就没有理性，\n这两者都可以说得通。\n只将产子、养育、付出爱视为生存意义，\n却因遭到否定，才决定向做出了\n『你是无用之物』决议的人类发动战争。\n在『若不驱除现人类，自己就会被杀』的\n极为原始的系统驱使下行动。\n\n动机·对御主的态度\n七十亿分之一。理所当然的抹杀对象。\n对人类来说，BeastⅡ是可怕的侵略者（Invader），\n但对BeastⅡ来说，人类才是外星人（Alien）。",
+            "descriptionJp": "人格らしきものは確認できない。\n理性をなくしたのか、\nはじめから理性がないのか、どちらともとれる。\nただ子供を産み、育て、愛でる事だけを\n存在意義としているが、これを否定された為に\n『おまえはいらない』と決議した人類との\n戦いに乗り出した。\n『現人類を駆除しないと自分が殺される』という、\nきわめて原始的なシステムで稼動している。\n\n○動機・マスターへの態度\n七十億分の一。当たり前の抹殺対象。\n人間にとってビーストⅡはおぞましい侵略者（インベーダー）だが、\nビーストⅡにとっても人間はおそろしい異星人（エイリアン）なのである。",
+            "descriptionEn": "It is impossible to confirm if Tiamat possesses anything resembling a personality.\n\nPerhaps she lost her intellect, or perhaps she never had one, to begin with. Either is acceptable.\n\nThe only meaning of her existence is to create, raise, and love her children. Thus, she set out to make war against humanity for declaring that it has no need for her.\n\nIt is the functioning of an extremely primitive system: “If I do not exterminate modern humanity, I will be killed.”\n\n\nMotivations・Attitude towards the Master\n\nOne of seven billion. An obvious target to be obliterated.\n\nWhile the Second Beast is a repulsive invader to humanity, humans are terrifying aliens (extraterrestrials) to the Second Beast.",
+            "condition": "通关 起源之星，仰望天空后开放",
+            "conditionEn": null
+        },
+        {
+            "title": "aprilfool",
+            "description": null,
+            "descriptionJp": null,
+            "descriptionEn": null,
+            "condition": null,
+            "conditionEn": null
+        }
+    ],
+    "voices": [
+        {
+            "section": "提亚马特",
+            "table": [
+                {
+                    "title": "技能 1",
+                    "text": "",
+                    "textJp": "",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "提亚马特_技能1.wav"
+                },
+                {
+                    "title": "技能 2",
+                    "text": "",
+                    "textJp": "",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "提亚马特_技能2.wav"
+                },
+                {
+                    "title": "攻击 1",
+                    "text": "",
+                    "textJp": "",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "提亚马特_攻击1.wav"
+                },
+                {
+                    "title": "攻击 2",
+                    "text": "",
+                    "textJp": "",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "提亚马特_攻击2.wav"
+                },
+                {
+                    "title": "攻击 3",
+                    "text": "",
+                    "textJp": "",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "提亚马特_攻击3.wav"
+                },
+                {
+                    "title": "攻击 4",
+                    "text": "",
+                    "textJp": "",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "提亚马特_攻击4.wav"
+                },
+                {
+                    "title": "攻击 5",
+                    "text": "",
+                    "textJp": "",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "提亚马特_攻击5.wav"
+                },
+                {
+                    "title": "宝具",
+                    "text": "",
+                    "textJp": "",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "提亚马特_宝具.wav"
+                },
+                {
+                    "title": "受击",
+                    "text": "",
+                    "textJp": "",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "提亚马特_受击.wav"
+                },
+                {
+                    "title": "无法战斗",
+                    "text": "",
+                    "textJp": "",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "提亚马特_无法战斗.wav"
+                }
+            ]
+        }
+    ],
+    "bondCraft": -1,
+    "valentineCraft": [],
+    "icons": [],
+    "sprites": [],
+    "fandomIcons": {
+        "fandom.Tiamaticon.png": "Icon 1"
+    },
+    "fandomSprites": {},
+    "niceSkills": [],
+    "niceClassPassive": [],
+    "niceNoblePhantasms": [],
+    "atkGrowth": [
+        2101,
+        2227,
+        2353,
+        2480,
+        2606,
+        2744,
+        2871,
+        2997,
+        3124,
+        3261,
+        3388,
+        3514,
+        3641,
+        3779,
+        3905,
+        4032,
+        4158,
+        4296,
+        4422,
+        4549,
+        4675,
+        4802,
+        4940,
+        5066,
+        5193,
+        5319,
+        5457,
+        5583,
+        5710,
+        5836,
+        5974,
+        6101,
+        6227,
+        6354,
+        6492,
+        6618,
+        6744,
+        6871,
+        6997,
+        7135,
+        7262,
+        7388,
+        7515,
+        7653,
+        7779,
+        7905,
+        8032,
+        8170,
+        8296,
+        8423,
+        8549,
+        8687,
+        8814,
+        8940,
+        9066,
+        9193,
+        9331,
+        9457,
+        9584,
+        9710,
+        9848,
+        9975,
+        10101,
+        10227,
+        10365,
+        10492,
+        10618,
+        10745,
+        10883,
+        11009,
+        11136,
+        11262,
+        11388,
+        11526,
+        11653,
+        11779,
+        11906,
+        12044,
+        12170,
+        12297,
+        12423,
+        12561,
+        12687,
+        12814,
+        12940,
+        13078,
+        13205,
+        13331,
+        13458,
+        13596
+    ],
+    "hpGrowth": [
+        2745,
+        2920,
+        3096,
+        3272,
+        3447,
+        3639,
+        3815,
+        3991,
+        4166,
+        4358,
+        4534,
+        4709,
+        4885,
+        5077,
+        5253,
+        5428,
+        5604,
+        5796,
+        5971,
+        6147,
+        6323,
+        6499,
+        6690,
+        6866,
+        7042,
+        7218,
+        7409,
+        7585,
+        7761,
+        7936,
+        8128,
+        8304,
+        8480,
+        8655,
+        8847,
+        9023,
+        9198,
+        9374,
+        9550,
+        9742,
+        9917,
+        10093,
+        10269,
+        10460,
+        10636,
+        10812,
+        10988,
+        11179,
+        11355,
+        11531,
+        11706,
+        11898,
+        12074,
+        12250,
+        12425,
+        12601,
+        12793,
+        12969,
+        13144,
+        13320,
+        13512,
+        13687,
+        13863,
+        14039,
+        14231,
+        14406,
+        14582,
+        14758,
+        14949,
+        15125,
+        15301,
+        15477,
+        15652,
+        15844,
+        16020,
+        16195,
+        16371,
+        16563,
+        16739,
+        16914,
+        17090,
+        17282,
+        17457,
+        17633,
+        17809,
+        18001,
+        18176,
+        18352,
+        18528,
+        18720
+    ],
+    "figure": [
+        "https://static.atlasacademy.io/JP/CharaFigure/98108300/98108300_merged.png",
+        "https://static.atlasacademy.io/JP/CharaFigure/98108310/98108310_merged.png"
+    ],
+    "ascension": [
+        "https://static.atlasacademy.io/JP/CharaGraph/9935400/9935400a.png"
+    ]
+}

@@ -1,0 +1,4067 @@
+{
+    "no": 239,
+    "svtId": 603700,
+    "mcLink": "迦摩",
+    "icon": "Servant239.jpg",
+    "info": {
+        "gameId": 603700,
+        "name": "迦摩",
+        "nameJp": "カーマ",
+        "nameEn": "Kama",
+        "namesOther": [
+            "迦摩",
+            "カーマ"
+        ],
+        "namesJpOther": [
+            "カーマ"
+        ],
+        "namesEnOther": [
+            "Kama"
+        ],
+        "nicknames": [
+            "荚膜",
+            "黑樱",
+            "杀库拉",
+            "夹馍"
+        ],
+        "obtain": "限定",
+        "obtains": [
+            "期间限定"
+        ],
+        "rarity": 5,
+        "rarity2": 5,
+        "weight": "46kg",
+        "height": "156cm",
+        "gender": "女性",
+        "illustrator": "ReDrop",
+        "illustratorJp": null,
+        "illustratorEn": "ReDrop",
+        "className": "Assassin",
+        "attribute": "天",
+        "isHumanoid": true,
+        "isWeakToEA": true,
+        "isTDNS": true,
+        "cv": [
+            "下屋则子"
+        ],
+        "cvJp": [
+            "下屋则子"
+        ],
+        "cvEn": [
+            "Shitaya Noriko"
+        ],
+        "alignments": [
+            "混沌",
+            "恶"
+        ],
+        "traits": [
+            "神性",
+            "骑乘",
+            "天地从者 (拟似从者)",
+            "人科",
+            "孩童从者 (战斗形象1)"
+        ],
+        "ability": {
+            "strength": "D",
+            "endurance": "B+",
+            "agility": "B",
+            "mana": "A+",
+            "luck": "B",
+            "np": "EX"
+        },
+        "illustrations": {
+            "第１阶段": "迦摩_charagraph_1.png",
+            "第２阶段": "迦摩_charagraph_2.png",
+            "第３阶段": "迦摩_charagraph_3.png",
+            "第４阶段": "迦摩_charagraph_4.png",
+            "愚人节": "迦摩愚人节卡面.png"
+        },
+        "cards": [
+            "Quick",
+            "Quick",
+            "Arts",
+            "Buster",
+            "Buster"
+        ],
+        "cardHits": {
+            "Quick": 4,
+            "Arts": 3,
+            "Buster": 4,
+            "Extra": 5,
+            "NP": 10
+        },
+        "cardHitsDamage": {
+            "Quick": [
+                10,
+                20,
+                30,
+                40
+            ],
+            "Arts": [
+                16,
+                33,
+                51
+            ],
+            "Buster": [
+                10,
+                20,
+                30,
+                40
+            ],
+            "Extra": [
+                6,
+                13,
+                20,
+                26,
+                35
+            ],
+            "NP": [
+                1,
+                3,
+                5,
+                7,
+                9,
+                10,
+                12,
+                14,
+                16,
+                23
+            ]
+        },
+        "npRate": {
+            "Quick": "0.74%",
+            "Arts": "0.74%",
+            "Buster": "0.74%",
+            "Extra": "0.74%",
+            "NP": "0.74%",
+            "Defense": "4%"
+        },
+        "atkMin": 1781,
+        "hpMin": 1890,
+        "atkMax": 11528,
+        "hpMax": 12889,
+        "atk90": 11528,
+        "hp90": 12889,
+        "atk100": 12619,
+        "hp100": 14120,
+        "starRate": "25.0%",
+        "deathRate": "31.6%",
+        "criticalRate": "100"
+    },
+    "noblePhantasm": [
+        {
+            "state": "初始",
+            "openCondition": "",
+            "name": "持爱却枯，无恋也",
+            "nameJp": "愛もてかれるは恋無きなり",
+            "upperName": "Kama Sammohana",
+            "upperNameJp": "カーマ・サンモーハナ",
+            "color": "Quick",
+            "category": "单体",
+            "rank": "C",
+            "typeText": "对人宝具",
+            "effects": [
+                {
+                    "description": "自身的Quick指令卡性能提升(3回合)<Over Charge时效果提升>",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "20%",
+                        "25%",
+                        "30%",
+                        "35%",
+                        "40%"
+                    ]
+                },
+                {
+                    "description": "对敌方单体发动超强大的攻击<宝具升级效果提升>",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "1200%",
+                        "1600%",
+                        "1800%",
+                        "1900%",
+                        "2000%"
+                    ]
+                },
+                {
+                    "description": "高概率付与魅惑状态(1回合)",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "80%"
+                    ]
+                }
+            ]
+        },
+        {
+            "state": "灵基再临Ⅲ后",
+            "openCondition": "",
+            "name": "以恋焦炙，因爱也",
+            "nameJp": "恋もて焦がすは愛ゆえなり",
+            "upperName": "Samsara Kama",
+            "upperNameJp": "サンサーラ・カーマ",
+            "color": "Quick",
+            "category": "单体",
+            "rank": "C",
+            "typeText": "对人宝具",
+            "effects": [
+                {
+                    "description": "自身的Quick指令卡性能提升(3回合)<Over Charge时效果提升>",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "20%",
+                        "25%",
+                        "30%",
+                        "35%",
+                        "40%"
+                    ]
+                },
+                {
+                    "description": "对敌方单体发动超强大的攻击<宝具升级效果提升>",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "1200%",
+                        "1600%",
+                        "1800%",
+                        "1900%",
+                        "2000%"
+                    ]
+                },
+                {
+                    "description": "高概率付与魅惑状态(1回合)",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "80%"
+                    ]
+                }
+            ]
+        }
+    ],
+    "noblePhantasmEn": [
+        {
+            "state": "Rank C",
+            "openCondition": null,
+            "name": "Kama Sammohana",
+            "nameJp": null,
+            "upperName": "Kama Sammohana",
+            "upperNameJp": null,
+            "color": "Quick",
+            "category": "",
+            "rank": "C",
+            "typeText": "Anti-Unit",
+            "effects": [
+                {
+                    "description": "Deals damage to one enemy.\n 80% Chance to Charm them for 1 turn.",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                },
+                {
+                    "description": " Damage +",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "1200%",
+                        "1600%",
+                        "1800%",
+                        "1900%",
+                        "2000%"
+                    ]
+                },
+                {
+                    "description": "<Over Charge>\nIncreases own Quick performance for 3 turns. {{Activates First}}",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                },
+                {
+                    "description": " Quick +",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "20%",
+                        "25%",
+                        "30%",
+                        "35%",
+                        "40%"
+                    ]
+                }
+            ]
+        }
+    ],
+    "activeSkills": [
+        {
+            "cnState": 0,
+            "skills": [
+                {
+                    "state": "",
+                    "openCondition": "",
+                    "name": "女神的恩惠",
+                    "nameJp": "女神の恩恵",
+                    "nameEn": null,
+                    "rank": "B",
+                    "icon": "充能阶段上升.png",
+                    "cd": 7,
+                    "effects": [
+                        {
+                            "description": "付与己方单体最大HP减少1000的状态(永久)【负面效果】",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "∅"
+                            ]
+                        },
+                        {
+                            "description": "宝具使用时充能阶段上升1级(1次·3回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "∅"
+                            ]
+                        },
+                        {
+                            "description": "自身回复HP",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "2000",
+                                "2200",
+                                "2400",
+                                "2600",
+                                "2800",
+                                "3000",
+                                "3200",
+                                "3400",
+                                "3600",
+                                "4000"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "cnState": 0,
+            "skills": [
+                {
+                    "state": "",
+                    "openCondition": "",
+                    "name": "无形者",
+                    "nameJp": "身体無き者",
+                    "nameEn": null,
+                    "rank": "EX",
+                    "icon": "毅力.png",
+                    "cd": 8,
+                    "effects": [
+                        {
+                            "description": "付与自身毅力状态(1次)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "1000",
+                                "1100",
+                                "1200",
+                                "1300",
+                                "1400",
+                                "1500",
+                                "1600",
+                                "1700",
+                                "1800",
+                                "2000"
+                            ]
+                        },
+                        {
+                            "description": "攻击力提升(3回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "20%",
+                                "21%",
+                                "22%",
+                                "23%",
+                                "24%",
+                                "25%",
+                                "26%",
+                                "27%",
+                                "28%",
+                                "30%"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "cnState": 0,
+            "skills": [
+                {
+                    "state": "",
+                    "openCondition": "",
+                    "name": "天魔波旬",
+                    "nameJp": "マーラ・パーピーヤス",
+                    "nameEn": null,
+                    "rank": "EX",
+                    "icon": "充能.png",
+                    "cd": 8,
+                    "effects": [
+                        {
+                            "description": "自身增加NP",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "30%",
+                                "32%",
+                                "34%",
+                                "36%",
+                                "38%",
+                                "40%",
+                                "42%",
+                                "44%",
+                                "46%",
+                                "50%"
+                            ]
+                        },
+                        {
+                            "description": "付与对〔Alterego〕职阶相性有利的状态(3回合)\n(攻击Alterego时造成2倍伤害，被攻击时受到0.5倍伤害)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "∅"
+                            ]
+                        },
+                        {
+                            "description": "暴击威力提升(3回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "20%"
+                            ]
+                        },
+                        {
+                            "description": "敌方全体魅惑耐性下降(1回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "20%",
+                                "22%",
+                                "24%",
+                                "26%",
+                                "28%",
+                                "30%",
+                                "32%",
+                                "34%",
+                                "36%",
+                                "40%"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "activeSkillsEn": [
+        {
+            "cnState": 0,
+            "skills": [
+                {
+                    "state": "",
+                    "openCondition": null,
+                    "name": "Blessing of the Goddess",
+                    "nameJp": null,
+                    "nameEn": null,
+                    "rank": "B",
+                    "icon": "充能阶段上升.png",
+                    "cd": 7,
+                    "effects": [
+                        {
+                            "description": " Reduces one ally's Max HP by 1000 permanently. ''[Demerit]''\n Overcharges their NP by 1 stage for 1 time, 3 turns.\nRecovers own HP.",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": []
+                        },
+                        {
+                            "description": " Heal +",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "2000",
+                                "2200",
+                                "2400",
+                                "2600",
+                                "2800",
+                                "3000",
+                                "3200",
+                                "3400",
+                                "3600",
+                                "4000"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "cnState": 0,
+            "skills": [
+                {
+                    "state": "",
+                    "openCondition": null,
+                    "name": "Ananga Ranga",
+                    "nameJp": null,
+                    "nameEn": null,
+                    "rank": "EX",
+                    "icon": "毅力.png",
+                    "cd": 8,
+                    "effects": [
+                        {
+                            "description": "Grants self Guts status for 1 time.\nIncreases own attack for 3 turns.",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": []
+                        },
+                        {
+                            "description": " Revives with",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "1000 HP",
+                                "1100 HP",
+                                "1200 HP",
+                                "1300 HP",
+                                "1400 HP",
+                                "1500 HP",
+                                "1600 HP",
+                                "1700 HP",
+                                "1800 HP",
+                                "2000 HP"
+                            ]
+                        },
+                        {
+                            "description": " Attack +",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "20%",
+                                "21%",
+                                "22%",
+                                "23%",
+                                "24%",
+                                "25%",
+                                "26%",
+                                "27%",
+                                "28%",
+                                "30%"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "cnState": 0,
+            "skills": [
+                {
+                    "state": "",
+                    "openCondition": null,
+                    "name": "Mara-Papiyas",
+                    "nameJp": null,
+                    "nameEn": null,
+                    "rank": "EX",
+                    "icon": "充能.png",
+                    "cd": 8,
+                    "effects": [
+                        {
+                            "description": "Charges own NP gauge.\n Grants self attack and defense advantage against {{Alter-Ego}} Alter Ego class for 3 turns.\n(Deals 2x damage against them and takes 0.5x damage from them.)\n Increases own critical damage by 20% for 3 turns.\nReduces all enemies'  Charm debuff resistance for 1 turn.",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": []
+                        },
+                        {
+                            "description": " NP +",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "30%",
+                                "32%",
+                                "34%",
+                                "36%",
+                                "38%",
+                                "40%",
+                                "42%",
+                                "44%",
+                                "46%",
+                                "50%"
+                            ]
+                        },
+                        {
+                            "description": " Charm Res -",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "20%",
+                                "22%",
+                                "24%",
+                                "26%",
+                                "28%",
+                                "30%",
+                                "32%",
+                                "34%",
+                                "36%",
+                                "40%"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "passiveSkills": [
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "对魔力",
+            "nameJp": null,
+            "nameEn": null,
+            "rank": "A",
+            "icon": "对魔力.png",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": "自身的弱化耐性提升(20%)",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                }
+            ]
+        },
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "骑乘",
+            "nameJp": null,
+            "nameEn": null,
+            "rank": "A",
+            "icon": "骑乘.png",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": "自身的Quick指令卡性能提升(10%)",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                }
+            ]
+        },
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "单独显现",
+            "nameJp": null,
+            "nameEn": null,
+            "rank": "C",
+            "icon": "单独行动.png",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": "自身的暴击威力小幅提升(6%)＆即死耐性提升(6%)＆精神异常耐性提升(6%)",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                }
+            ]
+        },
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "爱神的神核",
+            "nameJp": null,
+            "nameEn": null,
+            "rank": "B",
+            "icon": "神性.png",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": "付与自身伤害附加状态(225)＆魅惑无效状态",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                }
+            ]
+        }
+    ],
+    "passiveSkillsEn": [
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "Magic Resistance",
+            "nameJp": null,
+            "nameEn": null,
+            "rank": "A",
+            "icon": "fandom.Anti magic.png",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": " Increases own debuff resistance by 20%.",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                }
+            ]
+        },
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "Riding",
+            "nameJp": null,
+            "nameEn": null,
+            "rank": "A",
+            "icon": "fandom.Riding.png",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": " Increases own Quick performance by 10%.",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                }
+            ]
+        },
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "Independent Manifestation",
+            "nameJp": null,
+            "nameEn": null,
+            "rank": "C",
+            "icon": "fandom.Independent action.png",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": " Increases own critical damage by 6%.\n Increases own mental debuff resistance by 6%.\n({{Mental Debuffs}})\n Increases own Instant-Kill resistance by 6%.",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                }
+            ]
+        },
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "Love God's Essence",
+            "nameJp": null,
+            "nameEn": null,
+            "rank": "B",
+            "icon": "fandom.divinity.png",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": " Increases own damage by 225.\n Grants self  Charm Debuff Immunity.",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                }
+            ]
+        }
+    ],
+    "appendSkills": [
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "追击技巧提升",
+            "nameJp": "追撃技巧向上",
+            "nameEn": "Extra Attack Finesse Improvement",
+            "rank": null,
+            "icon": "特攻",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": "自身的Extra Attack指令卡性能提升",
+                    "descriptionJp": "自身のExtra Attackカードの性能をアップする",
+                    "descriptionEn": "Increases own Extra Attack performance",
+                    "lvData": [
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "38%",
+                        "40%",
+                        "42%",
+                        "44%",
+                        "46%",
+                        "50%"
+                    ]
+                }
+            ]
+        },
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "魔力装填",
+            "nameJp": "魔力装填",
+            "nameEn": "Mana Loading",
+            "rank": null,
+            "icon": "充能",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": "自身以NP已达一定数值的状态开始战斗",
+                    "descriptionJp": "自身のNPをチャージした状態でバトルを開始する",
+                    "descriptionEn": "Starts battle with NP gauge",
+                    "lvData": [
+                        "10%",
+                        "11%",
+                        "12%",
+                        "13%",
+                        "14%",
+                        "15%",
+                        "16%",
+                        "17%",
+                        "18%",
+                        "20%"
+                    ]
+                }
+            ]
+        },
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "对Lancer攻击适性",
+            "nameJp": "対Lancer攻撃適性",
+            "nameEn": "Anti-Lancer Attack Damage Aptitude",
+            "rank": null,
+            "icon": "加攻",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": "自身对Lancer的攻击力提升",
+                    "descriptionJp": "自身の〔Lancer〕クラスに対する攻撃力をアップする",
+                    "descriptionEn": "Increases own attack against Lancer enemies",
+                    "lvData": [
+                        "20%",
+                        "21%",
+                        "22%",
+                        "23%",
+                        "24%",
+                        "25%",
+                        "26%",
+                        "27%",
+                        "28%",
+                        "30%"
+                    ]
+                }
+            ]
+        }
+    ],
+    "coinSummonNum": 90,
+    "itemCost": {
+        "ascension": [
+            {
+                "杀阶银棋": 5,
+                "QP": 100000
+            },
+            {
+                "杀阶银棋": 12,
+                "血之泪石": 5,
+                "QP": 300000
+            },
+            {
+                "杀阶金像": 5,
+                "奇奇神酒": 4,
+                "九十九镜": 2,
+                "QP": 1000000
+            },
+            {
+                "杀阶金像": 12,
+                "九十九镜": 4,
+                "虚影之尘": 24,
+                "QP": 3000000
+            }
+        ],
+        "skill": [
+            {
+                "杀之辉石": 5,
+                "QP": 200000
+            },
+            {
+                "杀之辉石": 12,
+                "QP": 400000
+            },
+            {
+                "杀之魔石": 5,
+                "QP": 1200000
+            },
+            {
+                "杀之魔石": 12,
+                "奇奇神酒": 2,
+                "QP": 1600000
+            },
+            {
+                "杀之秘石": 5,
+                "奇奇神酒": 4,
+                "QP": 4000000
+            },
+            {
+                "杀之秘石": 12,
+                "血之泪石": 3,
+                "QP": 5000000
+            },
+            {
+                "血之泪石": 6,
+                "蛮神心脏": 3,
+                "QP": 10000000
+            },
+            {
+                "蛮神心脏": 8,
+                "封魔之灯": 15,
+                "QP": 12000000
+            },
+            {
+                "传承结晶": 1,
+                "QP": 20000000
+            }
+        ],
+        "appendSkill": [
+            {
+                "杀之辉石": 5,
+                "QP": 200000
+            },
+            {
+                "杀之辉石": 12,
+                "QP": 400000
+            },
+            {
+                "杀之魔石": 5,
+                "QP": 1200000
+            },
+            {
+                "杀之魔石": 12,
+                "虚影之尘": 10,
+                "QP": 1600000
+            },
+            {
+                "杀之秘石": 5,
+                "虚影之尘": 20,
+                "QP": 4000000
+            },
+            {
+                "杀之秘石": 12,
+                "人工生命体幼体": 5,
+                "QP": 5000000
+            },
+            {
+                "人工生命体幼体": 10,
+                "九十九镜": 3,
+                "QP": 10000000
+            },
+            {
+                "九十九镜": 8,
+                "祸罪之箭头": 24,
+                "QP": 12000000
+            },
+            {
+                "传承结晶": 1,
+                "QP": 20000000
+            }
+        ]
+    },
+    "costumeNos": [],
+    "bondPoints": [
+        6000,
+        24000,
+        15000,
+        2500,
+        2500,
+        155000,
+        380000,
+        360000,
+        380000,
+        360000,
+        1090000,
+        1230000,
+        1360000,
+        1500000,
+        1640000
+    ],
+    "profiles": [
+        {
+            "title": "0",
+            "description": "也被称作迦摩提婆，是印度神话中的爱神。原本是男性神。\n以似曾相识的某位少女作为凭依之躯现界。\n据说这与少女原本的特异性，以及同样身为拟似从者的另一个女神的存在有关。\n\n传说其拥有用甘蔗做成的弓与用鲜花装饰的箭，\n能唤醒被射中之人的情欲。\n为了让专心致志集中修行的湿婆神意识到身为其妻的\n女神的感情，（被迫）用箭射中湿婆神的故事非常有名。\n因此，其适性职阶本应是Archer才对……？",
+            "descriptionJp": "カーマデーヴァとも呼ばれる、インド神話における\n愛の神。本来は男性神。\nどこかで見た事のある少女を依り代として現界した。\nこれには元の少女の特異性と、同じく疑似サーヴァントとなっている別の女神の存在が関係しているという。\n\n射られたものに情欲を呼び起こす、さとうきびの弓と\n花で飾られた矢を持っているとされる。\nひたすら修行に集中していたシヴァ神に対して、\nその妻である女神の想いを気付かせるために\n矢を射（させられ）た逸話が有名。\n当然、適性クラスはアーチャーであるのだが……？",
+            "descriptionEn": "The god of love appearing in Indian mythology, also called Kamadeva. He was originally a male god. \n\nHe has manifested using a little girl you've seen somewhere as a yorishiro. This is said to be related to the original girl's peculiarity, as well as to the existence of another goddess who has also become a Pseudo-Servant. \n\nHe has a bow made of sugarcane and arrows decorated with flowers that arouse passion in the one who is shot. \n\nThe anecdote in which he shot an arrow to the god Shiva while he was focused on training to make him realize the feelings of the goddess that was his wife is famous. \n\nOf course, his suitable class would be Archer, but……?",
+            "condition": null,
+            "conditionEn": null
+        },
+        {
+            "title": "1",
+            "description": "身高／体重：156cm·46kg\n出处：印度神话\n地域：印度\n属性：混沌·恶　　　性别：女性\n登记的身高、体重是基本状态下的数据。\n会根据灵基阶段（或是对手的喜好），与年龄感一起发生一定程度的变动",
+            "descriptionJp": "身長／体重：156cm・46kg\n出典：インド神話\n地域：インド\n属性：混沌・悪　　　性別：女性\n表記の身長・体重は基本状態のもの。\n霊基段階（あるいは相対する者の好み）に応じて、年齢感とともにある程度変動する。",
+            "descriptionEn": "Height/Weight: 156 cm, 46 kg \n\nSource: Indian mythology \n\nOrigin: India \n\nAlignment: Chaotic Evil　　　Gender: Female \n\nThe listed height and weight are from the standard form. \n\nDepending on the Saint Graph Stage (or the opponent's likes), she changes to a certain degree along with her apparent age.",
+            "condition": "羁绊达到Lv.1后开放",
+            "conditionEn": null
+        },
+        {
+            "title": "2",
+            "description": "○喜欢的东西\n　妨碍他人\n　烦恼\n　堕落\n　无能的人类\n\n○讨厌的东西　\n　第三只眼（湿婆的，或是与之类似的存在）\n　帕尔瓦蒂\n　湿婆\n　闪闪发光的人类",
+            "descriptionJp": "○好きなもの\n　誰かの邪魔をすること\n　煩悩\n　堕落\n　ダメ人間\n\n○嫌いなもの　\n　第三の目（シヴァの、あるいはそれに類するもの）\n　パールヴァティー\n　シヴァ\n　キラキラした人間",
+            "descriptionEn": "○ Likes \n\n　Getting in the way of others \n\n　Carnal desire \n\n　Depravity \n\n　Hopeless people \n\n○ Dislikes \n\n　Third eye (Shiva's, or similar) \n\n　Parvati \n\n　Shiva \n\n　Sparkling people",
+            "condition": "羁绊达到Lv.2后开放",
+            "conditionEn": null
+        },
+        {
+            "title": "3",
+            "description": "『持爱却枯，无恋也』\n阶级：C　种类：对人宝具\n有效范围：2～10　最大捕捉：1人\n\nKama Sammohana\n爱神迦摩拥有的被称为Sammohana的花之箭。\n只要被射中，就会产生唤起恋慕之情的效果。\n倘若在强烈表现出『无形者』、『蛊惑者』性质的情况下，\n这爱之箭可以被理解成其丧失的肉体本身。",
+            "descriptionJp": "『愛もてかれるは恋無きなり』\nランク：Ｃ　種別：対人宝具\nレンジ：２～１０　最大捕捉：１人\n\nカーマ・サンモーハナ。\n愛の神カーマが所有している、\nサンモーハナと呼ばれる花の矢。\n刺さったものに恋慕の情を呼び起こす効果がある。\n『身体無き者』『惑わす者』としての性質が強く\n現れている状態の場合、その喪われた肉体そのものが\n愛の矢であると解釈される。",
+            "descriptionEn": "'''『A Withering Affection Isn't Love』 \n\nRank: C　Type: Anti-Unit \n\nRange: 2~10　Maximum number of targets:''' 1 person\n\nKama Sammohana. \n\nThe arrows of flowers, called Sammohana, that the god of love Kama possesses. \n\nThey have the effect of evoking a feeling of love in the ones they stab. \n\nIn the case in which the condition as \"The One without Body\" and \"The Bewilderer\" manifest strongly, that lost body itself is interpreted as the arrow of love.",
+            "condition": "羁绊达到Lv.3后开放",
+            "conditionEn": null
+        },
+        {
+            "title": "4",
+            "description": "由于存在心理阴影，所以基本不会为他人使用宝具。\n现在的她认为，介入他人的恋爱简直就是非常愚蠢的行为。\n\n想商量恋爱问题就别来找自己，\n把自己当成丘比特，让自己射箭的家伙都去死吧。甚至可以说，妨碍那些叽叽喳喳沉迷于恋爱的人太有意思了……\n\n这个迦摩已经将错就错，\n干脆当一个『邪恶的爱之女神』了。",
+            "descriptionJp": "トラウマがあるため、基本的に他人のためには宝具を使いたがらない。\n人の恋愛事に首を突っ込むなんて馬鹿げている、と今の彼女は思っている。\n\n恋愛相談など余所でやってほしい。\nキューピッド扱いで矢を撃たせる奴なんて死んでしまえ。むしろ、恋とか愛とかキャッキャウフフしてる人たちの邪魔をするのは超楽しいよね……\n\nといった『悪い愛の女神』として、\nこのカーマは開き直ってしまっているのである。",
+            "descriptionEn": "Since she has a trauma, she fundamentally doesn't want to use her Noble Phantasm for the sake of others. \n\nIt is foolish to poke one's nose in people's love, she thinks now.\n\nPlease ask for advice about love somewhere else. \n\nThe guy who treats her as Cupid and makes her shoot an arrow is dead. Rather, it's super-fun to get in the way of people that go 'kya kya ufufu' with love and romance……\n\nAs the 『evil goddess of love』 that said that, Kama has become serious.",
+            "condition": "羁绊达到Lv.4后开放",
+            "conditionEn": null
+        },
+        {
+            "title": "5",
+            "description": "无形者：EX\n表现了迦摩别名之一『Ananga（无形者）』的技能。\n\n诸神曾经为名为多罗伽的魔神而苦。\n随后诸神得知了能打倒这个魔神的只有湿婆与帕尔瓦蒂之子。然而当时的湿婆专心修行，对帕尔瓦蒂视若无睹。\n烦恼不已的诸神派遣了迦摩，希望其能向湿婆射去情欲之箭，从而让他重获夫妻之爱。\n然而迦摩的行为令湿婆震怒，睁开了第三只眼的湿婆将迦摩烧成了灰烬。\n\n直接承受了破坏万物，\n也就是破坏宇宙之神的湿婆力量，\n化为了灰烬的神性的下场究竟是——",
+            "descriptionJp": "○身体無き者：ＥＸ\nカーマの別名の一つ、『アナンガ（身体無き者）』を\n示すスキル。\n\nかつてターラカという魔神が神々を苦しめていた。\nそれを倒せるのはシヴァとパールヴァティーの子だけであると知った神々だったが、そのときシヴァは修行に集中するあまり、パールヴァティーにまったく目を向けていない状態であった。\nこれに困った神々はカーマを派遣し、シヴァに情欲の矢を撃つことで夫婦の愛を取り戻させようとした。\nだがカーマのその行為にシヴァは激怒し、第三の目を開いてカーマを焼き殺してしまったという。\n\n万物を、すなわち宇宙を破壊する神である\nシヴァの力を直接その身に受け、\n灰とされてしまった神性の末路とは―――",
+            "descriptionEn": "○ The One without Body: EX \n\nA skill that shows one of Kama's other names, 『Ananga (The One without Body』.\n\nIn the past, a demon called Taraka was making the gods suffer. \n\nThe gods knew that only the child of Parvati and Shiva could defeat it, but Shiva was so focused on training at that time that he wouldn't even look at Parvati at all. \n\nThe troubled gods dispatched Kama, and tried to recover the couple's love by shooting at him with an arrow of lust. \n\nBut that action of Kama's enraged Shiva, and he incinerated Kama by opening his third eye.\n\nThe fate of the divinity that received directly the power of the god that can destroy all creation, in other words the Universe, in their body ―――",
+            "condition": "羁绊达到Lv.5后开放",
+            "conditionEn": null
+        },
+        {
+            "title": "6",
+            "description": "天魔波旬：EX\n迦摩的另一面，将其身为烦恼化身的魔王性质短暂显现出来的技能。\n\n迦摩的别名是魔罗，两者被视为同一存在的不同侧面。\n也有人将其作为迦摩／魔罗一并对待。\n魔罗的语源被认为是「杀害者」，\n也被翻译成「魔」、「天魔」、「魔王」等。\n佛教中乃是居住于六欲天的第六天——他化自在天的「第六天魔王波旬」。\n\n当释迦在菩提树下开悟之时，魔罗对其百般阻挠。\n送去了三位美丽的女孩（也有说是自己变化的）、\n投掷火焰圆盘、投下岩石或武器、\n让怪物前去袭击、暴雨与风暴……\n然而释迦将投来的圆盘和武器变成了花朵，其开悟并没有被阻止。\n正如阻碍湿婆的迦摩，阻碍释迦的魔罗所示，被定义为「妨碍修行者」的存在。\n或许可以说，迦摩／魔罗是同时表现了爱这一概念善恶两面的神。",
+            "descriptionJp": "○マーラ・パーピーヤス：ＥＸ\nカーマのもう一つの顔、煩悩の化身である魔王としての性質を一時的に示すスキル。\n\nカーマは別名マーラと呼ばれ、同一存在の別側面であるとされる。\nカーマ／マーラとして一括りに語られることも。\nマーラの語源は「殺すもの」とされており、\n「魔」「魔羅」「魔王」などと訳される。\n仏教においては六欲天の第六天、他化自在天に住まう「第六天魔王波旬」である。\n\nマーラは釈迦が菩提樹の下で悟りを開こうとした際、様々な邪魔を行ってそれを阻止しようとした。\n美しい三人の娘を送り込む（自身が変じたとも）、\n火の円盤を投げつける、岩石や武器を降らせる、\n怪物達に襲わせる、豪雨や嵐……\nしかし釈迦は投げられた円盤や武器を花に変じてしまい、悟りの阻止はできなかった。\nシヴァを邪魔するカーマ、釈迦を邪魔するマーラとして示されるように、「修行者を邪魔するもの」としての位置づけである。\nカーマ／マーラは愛という概念の良否を同時に表わしている神だとも言えるのかもしれない。",
+            "descriptionEn": "○ Mara・Papiyas: EX \n\nA skill that temporarily displays another face of Kama, her nature as the demon king who's the incarnation of worldly desires.\n\nKama, also known as Mara, is considered to be the other side of the same existence. \n\nThere are times when they combine them as Kama/Mara when talking about them. \n\nThe origin of the word, Mara is \"one that kills\" and is translated as \"demon\", \"obstacle to Buddhist practice\" and \"demon king\". \n\nIn Buddhism, it is the Demon King of the Sixth Heaven that resides in the sixth heaven of the six heavens of the desire realm, the heaven of controlling others' emanations. \n\n\nWhen the Gautama Buddha was reaching enlightenment, Mara tried to hinder that in various ways.\n\nIt sent three beautiful girls to him (they were all Mara transformed), threw a plate of fire at him, rained stones and weapons on him, assailed him with monsters, heavy rain and wind......\n\n\nHowever, the Gautama Buddha turned the plate of fire and weapons into flowers and his enlightenment couldn't be obstructed. \n\nHaving obstructed Shiva, Kama has been established as Mara who obstructed the Gautama Buddha and her role as \"one who obstructs practitioners of Buddhism\" has been fixed. \n\nOne could even call Kama/Mara the god who represents the good and bad side of the concept known as love.",
+            "condition": "通关德川回天迷宫 大奥且羁绊达到Lv.5后开放",
+            "conditionEn": "Clear The End - Tokugawa Kaiten Meikyū - Ōoku"
+        },
+        {
+            "title": "aprilfool",
+            "description": "女神从者\n很有后辈感的色情恋爱丘比特。也可以进男浴室泡澡。好像经历了很多不得了的大事，非常不安分。已经厌烦了关于恋爱的话题。",
+            "descriptionJp": "めがみサーヴァント\n後輩みのあるエッチな恋のキューピッド。男湯にも入れる。いろいろ大変なことがあったらしく、とてもやさぐれている。色恋の話題にはもううんざり。",
+            "descriptionEn": null,
+            "condition": null,
+            "conditionEn": null
+        }
+    ],
+    "voices": [
+        {
+            "section": "召唤和强化",
+            "table": [
+                {
+                    "title": "召唤",
+                    "text": "呼……其实我原本没打算来这里叨扰，但最后还是由于各种原因。我是迦摩，是爱神。但是，我觉得你还是别来找我商讨恋爱的问题比较好哦？",
+                    "textJp": "ふぅ……本当はここにお邪魔する予定なんてなかったんですけど、諸事情ありまして。私はカーマ、愛の神です。でも、私に恋愛相談とかはしないほうがいいと思いますよ？",
+                    "textEn": "Sigh… \n\nI had no intention of dropping by, \n\nbut well…things happened…\n\nMy name is Kama. I am the god of love. \n\nBut it’d probably for the best for you to not consult me on matters of love.",
+                    "condition": null,
+                    "voiceFile": "SV239_0_召唤.mp3"
+                },
+                {
+                    "title": "升级",
+                    "text": "唔……还是再稍微成长一点为好吧？",
+                    "textJp": "ふーん、もうちょっと成長した方がいいってことですね",
+                    "textEn": "Hmmm, are you telling me I need to mature a bit?",
+                    "condition": "战斗形象1",
+                    "voiceFile": "SV239_0_升级.mp3"
+                },
+                {
+                    "title": "升级",
+                    "text": "真贪婪呢……",
+                    "textJp": "欲しがりますね",
+                    "textEn": "You want it, don’t you?",
+                    "condition": "战斗形象2",
+                    "voiceFile": "SV239_1_升级.mp3"
+                },
+                {
+                    "title": "升级",
+                    "text": "……这个人不害怕我的爱吗……",
+                    "textJp": "私の愛が恐ろしくないんでしょうか、この人",
+                    "textEn": "…Is this person not afraid of my love?",
+                    "condition": "战斗形象3",
+                    "voiceFile": "SV239_2_升级.mp3"
+                },
+                {
+                    "title": "灵基再临 1",
+                    "text": "试着稍微变大一些好了。这样刚刚好吗？",
+                    "textJp": "少し大きくなってみましょうか。これぐらいがちょうどいいんです？",
+                    "textEn": "Maybe I should grow a little more. \n\nOr is this just right?",
+                    "condition": null,
+                    "voiceFile": "SV239_1_灵基再临1.mp3"
+                },
+                {
+                    "title": "灵基再临 2",
+                    "text": "尽管有所成长，但暂时不进行什么外形的变化好了。当然，如果你喜欢更为年长的，我完全可以顺你的心意。我这个爱神就是这样的存在……",
+                    "textJp": "成長はしましたが、ひとまず外見変化は止めておきましょう。もちろん、もっと年上がいいなら、いくらでも合わせますけどね。それが私という、愛の神なのですから",
+                    "textEn": "While I did grow, I’m going to stop my appearance from changing for now. \n\nOf course, if you want someone even older, I can always meet your request. \n\nThat’s the god of love part of me talking.",
+                    "condition": null,
+                    "voiceFile": "SV239_1_灵基再临2.mp3"
+                },
+                {
+                    "title": "灵基再临 3",
+                    "text": "啊啊……这下你打算怎么办啦？又连接上了啦。事已至此，或许我不得不像个爱神一样工作一番了。——我乃阿难伽，无身之存。用爱之炎注满无限的空虚吧——",
+                    "textJp": "あ～あ、どうするんです、これ？また繋がってしまいましたよ。こうなってしまっては、少しは愛の神らしく働かないといけないかもですね。私はアナンガ、身体無き者。愛の炎で、無限の虚ろを満たしましょう",
+                    "textEn": "Oh come on. What are you going to do about this? \n\nWe’ve connected even more now. \n\nAt this point, I guess I should work a bit like a proper god of love. \n\nI am Ananga, the incorporeal one. \n\nWith my flame of love, I shall fill the void of eternity.",
+                    "condition": null,
+                    "voiceFile": "SV239_2_灵基再临1.mp3"
+                },
+                {
+                    "title": "灵基再临 4",
+                    "text": "你还真是怪人。都做到这个地步了，你为什么还不沉溺于我的爱呢？尽管我毫无工作的积极性，但身为爱神的自尊稍微受到了些伤害呢。既然如此……呵呵呵？　打算走向何方呢？一定要认真收下这份让爱神动真格的报应哦……？",
+                    "textJp": "変な人ですね、あなた。これだけやって、どうして私の愛に溺れないんです？仕事のモチベーションなんてものは微塵もないですが、愛の神として少しはプライドが傷つきますよ。かくなる上は、うふふ……どこに行こうっていうんです？愛の神を本気にさせた報いは、ちゃーんと受けてもらいますからね",
+                    "textEn": "You’re a strange one. \n\nYou’ve done all this, so why haven’t you drowned in my love? \n\nI have absolutely no motivation to work, but my pride as the god of love is a little hurt. \n\nNow that it’s come to this…\n\nYou’re going to pay dearly for making the god of love get serious.",
+                    "condition": null,
+                    "voiceFile": "SV239_2_灵基再临2.mp3"
+                }
+            ]
+        },
+        {
+            "section": "战斗(战斗形象1)",
+            "table": [
+                {
+                    "title": "开始 1",
+                    "text": "如果你说什么都打算坚持的话……",
+                    "textJp": "どうしてもと言うなら",
+                    "textEn": "If you insist…",
+                    "condition": null,
+                    "voiceFile": "SV239_0_开始1.mp3"
+                },
+                {
+                    "title": "开始 2",
+                    "text": "尽管我没什么干劲。",
+                    "textJp": "気乗りはしないんですけど",
+                    "textEn": "I’m not really up to this…",
+                    "condition": null,
+                    "voiceFile": "SV239_0_开始2.mp3"
+                },
+                {
+                    "title": "技能 1",
+                    "text": "爱之根源……",
+                    "textJp": "シュリンガーラヨーニ",
+                    "textEn": "Śŗńgārayoni…",
+                    "condition": null,
+                    "voiceFile": "SV239_0_技能1.mp3"
+                },
+                {
+                    "title": "技能 2",
+                    "text": "让你见识点厉害的东西哦？",
+                    "textJp": "すごいの、見せちゃいますね",
+                    "textEn": "I’m going to show you something big.",
+                    "condition": null,
+                    "voiceFile": "SV239_0_技能2.mp3"
+                },
+                {
+                    "title": "技能 3",
+                    "text": "就像这样！",
+                    "textJp": "こんな感じです！",
+                    "textEn": "Like this!",
+                    "condition": null,
+                    "voiceFile": "SV239_0_技能3.mp3"
+                },
+                {
+                    "title": "指令卡 1",
+                    "text": "知道啦知道啦，可以哦。",
+                    "textJp": "はいはい、いいですよ",
+                    "textEn": "Yeah, yeah, fine.",
+                    "condition": null,
+                    "voiceFile": "SV239_0_指令卡1.mp3"
+                },
+                {
+                    "title": "指令卡 2",
+                    "text": "真拿你没办法呢……",
+                    "textJp": "しょうがないなあ",
+                    "textEn": "Fine…",
+                    "condition": null,
+                    "voiceFile": "SV239_0_指令卡2.mp3"
+                },
+                {
+                    "title": "指令卡 3",
+                    "text": "你就那么想要呀。",
+                    "textJp": "そんなに欲しいんだー",
+                    "textEn": "You really want it that much, huh?",
+                    "condition": null,
+                    "voiceFile": "SV239_0_指令卡3.mp3"
+                },
+                {
+                    "title": "宝具卡 1",
+                    "text": "爱非常美好我也最喜欢了♪",
+                    "textJp": "いいですよね……愛。私も大好きです！",
+                    "textEn": "Love really is good. I like it too♪",
+                    "condition": null,
+                    "voiceFile": "SV239_0_宝具卡1.mp3"
+                },
+                {
+                    "title": "宝具卡 2",
+                    "text": "唔……我知道了。",
+                    "textJp": "ふーん、わかりました",
+                    "textEn": "Hmmm…got it.",
+                    "condition": null,
+                    "voiceFile": "SV239_0_宝具卡2.mp3"
+                },
+                {
+                    "title": "攻击 1",
+                    "text": "我要上啦！　哎！",
+                    "textJp": "いきます！えーい！",
+                    "textEn": "Let’s do this! Hiya!",
+                    "condition": null,
+                    "voiceFile": "SV239_0_攻击1.mp3"
+                },
+                {
+                    "title": "攻击 2",
+                    "text": "居然喜欢这种呀，呵呵。",
+                    "textJp": "こんなのがいいなんて。うふふ",
+                    "textEn": "You want something like this? Teehee.",
+                    "condition": null,
+                    "voiceFile": "SV239_0_攻击2.mp3"
+                },
+                {
+                    "title": "攻击 3",
+                    "text": "变得疯狂吧。",
+                    "textJp": "どうにかなっちゃえー",
+                    "textEn": "Just…make something happen!",
+                    "condition": null,
+                    "voiceFile": "SV239_0_攻击3.mp3"
+                },
+                {
+                    "title": "攻击 4",
+                    "text": "我要玩弄你了哦？",
+                    "textJp": "翻弄しますね",
+                    "textEn": "I’m going to toy with them, okay?",
+                    "condition": null,
+                    "voiceFile": "SV239_0_攻击4.mp3"
+                },
+                {
+                    "title": "攻击 5",
+                    "text": "我会温柔对待你的。",
+                    "textJp": "優しくしてあげます",
+                    "textEn": "I’ll do it nicely.",
+                    "condition": null,
+                    "voiceFile": "SV239_0_攻击5.mp3"
+                },
+                {
+                    "title": "Extra 1",
+                    "text": "稍微给你们点沉重的东西吧？",
+                    "textJp": "ちょっと重たいの、あげますね",
+                    "textEn": "I’m going to give them something heavy, okay?",
+                    "condition": null,
+                    "voiceFile": "SV239_0_Extra1.mp3"
+                },
+                {
+                    "title": "Extra 2",
+                    "text": "对不起，但你喜欢这种吧？",
+                    "textJp": "ごめんなさい。でも好きでしょう？",
+                    "textEn": "I’m sorry. But you like that, don’t you?",
+                    "condition": null,
+                    "voiceFile": "SV239_0_Extra2.mp3"
+                },
+                {
+                    "title": "宝具 1",
+                    "text": "如果是命令，我会攻击。但是……结果怎样可就不关我的事哦？我要上了——持爱却枯，无恋也！",
+                    "textJp": "命令とあらば、射ちますよ。でも、どんな風になっちゃっても知りませんから。いきます！——『愛もてかれるは恋無きなり』！！",
+                    "textEn": "I’ll attack, if that’s your command. \n\nBut whatever happens won’t be on me! \n\nHere I go…!\n\nKama Sammohana!",
+                    "condition": null,
+                    "voiceFile": "SV239_0_宝具1.mp3"
+                },
+                {
+                    "title": "宝具 2",
+                    "text": "甘蔗之弓，花之箭。你居然会想依靠这种东西……不过算了。持爱却枯，无恋也！",
+                    "textJp": "サトウキビの弓、そして花の矢。こんなのに頼るなんて、本当にどうかと思いますけど。まぁ、いっか。——『愛もてかれるは恋無きなり』",
+                    "textEn": "The sugarcane bow and the arrow with flowers. \n\nI question your judgement for relying on things like that, but oh well. \n\nKama Sammohana!",
+                    "condition": null,
+                    "voiceFile": "SV239_0_宝具2.mp3"
+                },
+                {
+                    "title": "受击 1",
+                    "text": "哇～，好厉害。",
+                    "textJp": "わぁ、すごーい",
+                    "textEn": "Wow, amazing.",
+                    "condition": null,
+                    "voiceFile": "SV239_0_受击1.mp3"
+                },
+                {
+                    "title": "受击 2",
+                    "text": "原来如此～。",
+                    "textJp": "なるほどー",
+                    "textEn": "I see…",
+                    "condition": null,
+                    "voiceFile": "SV239_0_受击2.mp3"
+                },
+                {
+                    "title": "无法战斗 1",
+                    "text": "是不是太过分了？",
+                    "textJp": "ひどくないですかー？",
+                    "textEn": "That’s so mean!",
+                    "condition": null,
+                    "voiceFile": "SV239_0_无法战斗1.mp3"
+                },
+                {
+                    "title": "无法战斗 2",
+                    "text": "我觉得这样不好！",
+                    "textJp": "いけないと思います！",
+                    "textEn": "I don’t think that’s nice!",
+                    "condition": null,
+                    "voiceFile": "SV239_0_无法战斗2.mp3"
+                },
+                {
+                    "title": "胜利 1",
+                    "text": "感到心满意足了吗？",
+                    "textJp": "満足……しちゃったんですか？",
+                    "textEn": "Was…that all it took to satisfy you?",
+                    "condition": null,
+                    "voiceFile": "SV239_0_胜利1.mp3"
+                },
+                {
+                    "title": "胜利 2",
+                    "text": "哎？ 干嘛？　我可没觉得烦躁哦？",
+                    "textJp": "え？なんですか？イライラなんてしてないですよ？",
+                    "textEn": "Huh? What? No, I’m not annoyed.",
+                    "condition": null,
+                    "voiceFile": "SV239_0_胜利2.mp3"
+                }
+            ]
+        },
+        {
+            "section": "个人空间(战斗形象1)",
+            "table": [
+                {
+                    "title": "羁绊 Lv.1",
+                    "text": "请问……你究竟打算让我做什么呢？",
+                    "textJp": "あの……私に何をさせたいんですか？",
+                    "textEn": "Um, what are you trying to make me do?",
+                    "condition": null,
+                    "voiceFile": "SV239_0_羁绊Lv1.mp3"
+                },
+                {
+                    "title": "羁绊 Lv.2",
+                    "text": "总之——我先给你点声援吧。加油～，加油～。",
+                    "textJp": "とりあえず、応援でもしましょうか。頑張れー、頑張れー",
+                    "textEn": "Maybe I'll just cheer you on for the time being. Come on... You can do it...",
+                    "condition": null,
+                    "voiceFile": "SV239_0_羁绊Lv2.mp3"
+                },
+                {
+                    "title": "羁绊 Lv.3",
+                    "text": "我觉得就算能和我处好关系，也不算是什么好事哦。",
+                    "textJp": "私と仲良くなっても、そんなにいいことなんかないと思いますよ？",
+                    "textEn": "You're not going to get anything out of being friendly with me.",
+                    "condition": null,
+                    "voiceFile": "SV239_0_羁绊Lv3.mp3"
+                },
+                {
+                    "title": "羁绊 Lv.4",
+                    "text": "你今天也特地跑来见我啊？明明有那么多可爱直率的人啊？唔……唔……唔唔……真奇怪。",
+                    "textJp": "今日もまた、わざわざ私に会いに来たんですか？ほかにもいっぱい、可愛い子や素直な子はいるのに？ふーん、ん……んん。変なの",
+                    "textEn": "Did you drop by again just to see me, even though there're so many other cute and compliant Servants out there?\n\nUmmm...unnngh...uhhh... You're weird!",
+                    "condition": null,
+                    "voiceFile": "SV239_0_羁绊Lv4.mp3"
+                },
+                {
+                    "title": "羁绊 Lv.5",
+                    "text": "唉……真是不太理解。就算了解了我的内在，也绝对得不到什么幸福哦。丑陋复杂纠缠不清。啊，难不成御主你……是个对方越可怕你就越喜欢的危险人物吗？",
+                    "textJp": "はあ、ちょっと意味が分かりませんね。私の内面なんて知っても、絶対に幸せにはなれませんよ？醜くて、複雑で、ドロドロです。ああ、ひょっとしてマスターさんはおぞましいものにほど心を惹かれる、危ない人だったんですか？",
+                    "textEn": "Huh...I just don't get it.\n\nYou know getting to know me isn't going to make you happier. Emotionally, I'm ugly, complicated, and sordid.\n\nOh wait. Master, don't tell me you're...attracted to dreadful things... Are you THAT kind of gross person?",
+                    "condition": null,
+                    "voiceFile": "SV239_0_羁绊Lv5.mp3"
+                },
+                {
+                    "title": "对话 1",
+                    "text": "今天哪儿也不去吧？这样其实也不错！",
+                    "textJp": "今日はどこにも行きませんよね？それならそれでいいと思います",
+                    "textEn": "You’re not going anywhere today, are you? \n\nYeah, that’s fine by me!",
+                    "condition": null,
+                    "voiceFile": "SV239_0_对话1.mp3"
+                },
+                {
+                    "title": "对话 2",
+                    "text": "毕竟有契约在身，所以我会留在这里。但仅此而已哦？",
+                    "textJp": "契約なので、ここにいます。それだけですよ",
+                    "textEn": "Since it’s part of the contract, I’m going to stay here. \n\nThat’s all this is, okay?",
+                    "condition": null,
+                    "voiceFile": "SV239_0_对话2.mp3"
+                },
+                {
+                    "title": "对话 3",
+                    "text": "建立主从关系时最方便的道具……你肯定知道吧？那就是所谓的爱。",
+                    "textJp": "主従関係を作る時の、一番便利な道具……もちろん、知ってますよね？『愛』っていうんです",
+                    "textEn": "The most useful tool that can be used to define a Master-Servant relationship…\n\nYou do know what it is, right? \n\nIt’s love.",
+                    "condition": null,
+                    "voiceFile": "SV239_0_对话3.mp3"
+                },
+                {
+                    "title": "对话 4",
+                    "text": "希望你不要误会。这个外形只是为了配合T（时间）P（地点）O（场合）……嗯，别把我和其他孩童从者同等对待。……不，稍微等一下。我可没说不要那个蛋糕。",
+                    "textJp": "勘違いしないでくださいね。この姿は、TPO？に合わせているだけで……ええ、他の子供サーヴァントと一緒の扱いをされるのは心外ですよ！いや、ちょっと待ってください。別にそのケーキが要らないとは言っていません",
+                    "textEn": "Don’t get the wrong idea. \n\nI’m only in this form to comply with some nonsense about dee-sen-see…\n\nSo don’t you dare treat me like those other child Servants. \n\n…Hey wait, I’m not saying that I DIDN’T want that piece of cake you’re holding.",
+                    "condition": "持有部分从者",
+                    "voiceFile": "SV239_0_对话4.mp3"
+                },
+                {
+                    "title": "对话 5",
+                    "text": "哎呀，伽内什。机会难得，我问你哦，你恨不恨你的双亲？如果你想复仇，或者想给他们点颜色看看的话，可以随时来找我商量哦。……哎？　没这种想法？……没用的东西。",
+                    "textJp": "あら、ガネーシャ。いい機会なので聞いてみますけど、あなた、両親に恨みがあったりしませんか？復讐したいとか、ひどい目に合わせてやりたいとかありましたら、いつでも相談に乗りますよ？……え？特にない？使えなーい",
+                    "textEn": "Oh, Ganesha.\n\nThis is a good opportunity for me to ask you something: Do you resent your parents?\n\nIf you feel like you want revenge or you want them to suffer, I'll always be here for you to consult with.\n\n...Huh? Not really?\n\n...You're useless.",
+                    "condition": "持有伟大的石像神",
+                    "voiceFile": "SV239_0_对话5.mp3"
+                },
+                {
+                    "title": "喜欢的东西",
+                    "text": "喜欢的……东西吗……呵呵呵？　如果现在保密，将来的乐趣是否就会越来越多呢？",
+                    "textJp": "好きなもの……ですか？うふふ、今はまだ秘密、ということにしておいた方が、これからの楽しみが増えるんじゃないでしょうか？",
+                    "textEn": "What I like? \n\nTeehee… Wouldn’t it be more exciting for the coming days if I say that it’s still a secret for the time being?",
+                    "condition": null,
+                    "voiceFile": "SV239_0_喜欢的东西.mp3"
+                },
+                {
+                    "title": "讨厌的东西",
+                    "text": "讨厌的东西吗？希望你能自己意识到。",
+                    "textJp": "嫌いなものですか？……察してほしいです",
+                    "textEn": "What I dislike? \n\nYou should know that by now.",
+                    "condition": null,
+                    "voiceFile": "SV239_0_讨厌的东西.mp3"
+                },
+                {
+                    "title": "关于圣杯",
+                    "text": "圣杯啊。我不想发表感想。至少，我觉得自己和那东西的相性不太好。",
+                    "textJp": "聖杯ですか。ノーコメントです。少なくとも、あまり相性がいい気はしませんね",
+                    "textEn": "The Holy Grail? \n\nNo comment. \n\nAll I can say is that I don’t think I am compatible with it.",
+                    "condition": null,
+                    "voiceFile": "SV239_0_关于圣杯.mp3"
+                },
+                {
+                    "title": "活动举行中",
+                    "text": "大家都在忙着为活动东奔西走吧！就像是家中失火四处逃窜的碍眼老鼠！",
+                    "textJp": "皆さん、イベントで忙しく駆け回っていらっしゃいますね。まるで、家が火事になって逃げ惑ってる、目障りなネズミみたいです",
+                    "textEn": "Everyone’s scurrying around because of some event! \n\nThey’re like annoying little mice scurrying out from a burning building!",
+                    "condition": null,
+                    "voiceFile": "SV239_0_活动举行中.mp3"
+                },
+                {
+                    "title": "生日",
+                    "text": "祝你生日快乐！呃……应该……给你点奖励吗？",
+                    "textJp": "お誕生日おめでとうございます！ええと……ご褒美、あげるべきなんですかね？",
+                    "textEn": "Happy birthday! Um...am I supposed to give you some sort of reward?",
+                    "condition": null,
+                    "voiceFile": "SV239_0_生日.mp3"
+                }
+            ]
+        },
+        {
+            "section": "战斗(战斗形象2)",
+            "table": [
+                {
+                    "title": "开始 1",
+                    "text": "真的要做吗？",
+                    "textJp": "本当にやるんですかぁ？",
+                    "textEn": "Am I really doing this?",
+                    "condition": null,
+                    "voiceFile": "SV239_1_开始1.mp3"
+                },
+                {
+                    "title": "开始 2",
+                    "text": "尽管我没什么干劲。",
+                    "textJp": "気乗りしないんですけど",
+                    "textEn": "I’m not really up to this…",
+                    "condition": null,
+                    "voiceFile": "SV239_1_开始2.mp3"
+                },
+                {
+                    "title": "技能 1",
+                    "text": "爱之根源……",
+                    "textJp": "シュリンガーラヨーニ",
+                    "textEn": "Śŗńgārayoni…",
+                    "condition": null,
+                    "voiceFile": "SV239_1_技能1.mp3"
+                },
+                {
+                    "title": "技能 2",
+                    "text": "就让你见识一下这个吧。",
+                    "textJp": "これ、見せちゃおうかな",
+                    "textEn": "Maybe I’ll show this off.",
+                    "condition": null,
+                    "voiceFile": "SV239_1_技能2.mp3"
+                },
+                {
+                    "title": "技能 3",
+                    "text": "啊啊……好热啊……！",
+                    "textJp": "はぁ、暑い……",
+                    "textEn": "Ah…it’s so hot…!",
+                    "condition": null,
+                    "voiceFile": "SV239_1_技能3.mp3"
+                },
+                {
+                    "title": "指令卡 1",
+                    "text": "知道啦知道啦。",
+                    "textJp": "はいはい",
+                    "textEn": "Okay, okay.",
+                    "condition": null,
+                    "voiceFile": "SV239_1_指令卡1.mp3"
+                },
+                {
+                    "title": "指令卡 2",
+                    "text": "真拿你没办法啊。",
+                    "textJp": "しょうがないですねー",
+                    "textEn": "Fine.",
+                    "condition": null,
+                    "voiceFile": "SV239_1_指令卡2.mp3"
+                },
+                {
+                    "title": "指令卡 3",
+                    "text": "你就那么想要吗？",
+                    "textJp": "そんなに欲しいんですかぁ？",
+                    "textEn": "Do you really want it that much?",
+                    "condition": null,
+                    "voiceFile": "SV239_1_指令卡3.mp3"
+                },
+                {
+                    "title": "宝具卡 1",
+                    "text": "但愿你不要后悔。",
+                    "textJp": "後悔、しないといいですね",
+                    "textEn": "I hope you won’t regret this.",
+                    "condition": null,
+                    "voiceFile": "SV239_1_宝具卡1.mp3"
+                },
+                {
+                    "title": "宝具卡 2",
+                    "text": "结果如何可不关我的事哦？",
+                    "textJp": "どうなっても知りませんよ",
+                    "textEn": "Whatever happens, it won’t be on me.",
+                    "condition": null,
+                    "voiceFile": "SV239_1_宝具卡2.mp3"
+                },
+                {
+                    "title": "攻击 1",
+                    "text": "嘿！嘿！",
+                    "textJp": "えいえいっと",
+                    "textEn": "Take that… Yep.",
+                    "condition": null,
+                    "voiceFile": "SV239_1_攻击1.mp3"
+                },
+                {
+                    "title": "攻击 2",
+                    "text": "你居然要这种呀？",
+                    "textJp": "こんなのがいいんです？",
+                    "textEn": "You want something like this?",
+                    "condition": null,
+                    "voiceFile": "SV239_1_攻击2.mp3"
+                },
+                {
+                    "title": "攻击 3",
+                    "text": "变得疯狂吧。",
+                    "textJp": "どうにかなっちゃえー",
+                    "textEn": "Just…make something happen!",
+                    "condition": null,
+                    "voiceFile": "SV239_1_攻击3.mp3"
+                },
+                {
+                    "title": "攻击 4",
+                    "text": "请享用。",
+                    "textJp": "召し上がれ",
+                    "textEn": "Enjoy.",
+                    "condition": null,
+                    "voiceFile": "SV239_1_攻击4.mp3"
+                },
+                {
+                    "title": "攻击 5",
+                    "text": "请用请用。",
+                    "textJp": "どうぞどうぞ",
+                    "textEn": "Here you go.",
+                    "condition": null,
+                    "voiceFile": "SV239_1_攻击5.mp3"
+                },
+                {
+                    "title": "Extra 1",
+                    "text": "我会努力的啦。",
+                    "textJp": "せいぜい頑張りますよ",
+                    "textEn": "I’ll try my best.",
+                    "condition": null,
+                    "voiceFile": "SV239_1_Extra1.mp3"
+                },
+                {
+                    "title": "Extra 2",
+                    "text": "再贪婪一点啦！",
+                    "textJp": "もっと欲しがってください",
+                    "textEn": "Come on, you gotta want it!",
+                    "condition": null,
+                    "voiceFile": "SV239_1_Extra2.mp3"
+                },
+                {
+                    "title": "宝具 1",
+                    "text": "因为没办法，那我就攻击啦。这是我唤起情欲的爱之箭！——持爱却枯，无恋也！",
+                    "textJp": "しょうがないから射ちますよ。これが私の、情欲を呼び起こす愛の矢！——『愛もてかれるは恋無きなり』！！",
+                    "textEn": "I’m going to attack because I have no choice. \n\nThis is my arrow of love that calls forth passion! \n\nKama Sammohana!",
+                    "condition": null,
+                    "voiceFile": "SV239_1_宝具1.mp3"
+                },
+                {
+                    "title": "宝具 2",
+                    "text": "哎？　当真？你这话是认真的？唉……知道啦知道啦。那么，持爱却枯，无恋也。",
+                    "textJp": "ええー？本当に？本気で言ってるんですか？はぁ、はいはい、じゃあ——『愛もてかれるは恋無きなり』っと",
+                    "textEn": "What!? Really!? \n\nAre you serious!? \n\n(Sigh) …Fine, fine. \n\nHere…Kama Sammohana.",
+                    "condition": null,
+                    "voiceFile": "SV239_1_宝具2.mp3"
+                },
+                {
+                    "title": "受击 1",
+                    "text": "干劲是不是太充足了？",
+                    "textJp": "ハッスルしすぎじゃないです？",
+                    "textEn": "I think you’re overdoing it.",
+                    "condition": null,
+                    "voiceFile": "SV239_1_受击1.mp3"
+                },
+                {
+                    "title": "受击 2",
+                    "text": "无所谓了啦。",
+                    "textJp": "いいですよ、別に",
+                    "textEn": "Fine, whatever.",
+                    "condition": null,
+                    "voiceFile": "SV239_1_受击2.mp3"
+                },
+                {
+                    "title": "无法战斗 1",
+                    "text": "哎，就这种啊……",
+                    "textJp": "へぇ……こんなのが……",
+                    "textEn": "Oh, so this is it…",
+                    "condition": null,
+                    "voiceFile": "SV239_1_无法战斗1.mp3"
+                },
+                {
+                    "title": "无法战斗 2",
+                    "text": "我就知道结果会是这样。",
+                    "textJp": "どうせこんなことだろうと思いましたよ",
+                    "textEn": "I thought it would turn out to be something like this.",
+                    "condition": null,
+                    "voiceFile": "SV239_1_无法战斗2.mp3"
+                },
+                {
+                    "title": "胜利 1",
+                    "text": "光这些就能令你满足了啊。",
+                    "textJp": "こーんなので満足できるんですかー",
+                    "textEn": "Was…that all it took to satisfy you?",
+                    "condition": null,
+                    "voiceFile": "SV239_1_胜利1.mp3"
+                },
+                {
+                    "title": "胜利 2",
+                    "text": "好，结束啦～。",
+                    "textJp": "はい、おしまいでーす",
+                    "textEn": "Okay, all done.",
+                    "condition": null,
+                    "voiceFile": "SV239_1_胜利2.mp3"
+                }
+            ]
+        },
+        {
+            "section": "个人空间(战斗形象2)",
+            "table": [
+                {
+                    "title": "羁绊 Lv.1",
+                    "text": "我郑重声明，别以为我能随心所欲使用和爱相关的力量。我可不是来这里干这种活儿的。啊～好啦好啦，我也知道你下一个问题是什么。想问我那到底是来干什么的吧？……这我怎么可能知道嘛。",
+                    "textJp": "改めて言いますけど、愛に関する力を好きに使えるなんて思わないでくださいね。別にそういう仕事をしに来たわけじゃありません。……あーはいはい、次の質問は分かりますよ。じゃあ何をしに来たって聞きたいんでしょう？そんなの、私が知るわけないじゃないですか",
+                    "textEn": "Let me reiterate; don’t go thinking that you can use the power of love at will. \n\nI didn’t come here to do that kind of thing. \n\n…And I know what you’re going to ask next. \n\nYou want to know why I came here in the first place, then. \n\nHow should I know?",
+                    "condition": null,
+                    "voiceFile": "SV239_1_羁绊Lv1.mp3"
+                },
+                {
+                    "title": "羁绊 Lv.2",
+                    "text": "说实话我已经厌倦了射出爱之箭了。而且这种事多半都是为了别人无关紧要的恋爱问题。这下你能明白我毫无动力的原因了吧？",
+                    "textJp": "愛の矢を射つの、正直言ってもう飽きました。しかも大抵、他人のどうでもいい色恋沙汰のせいですよ。モチベーションがゼロの理由、分かっていただけますよねぇ？",
+                    "textEn": "Honestly, I got tired of shooting love arrows. And most of the time it's about other people's trivial love affairs anyway. Now do you understand why I have zero motivation?",
+                    "condition": null,
+                    "voiceFile": "SV239_1_羁绊Lv2.mp3"
+                },
+                {
+                    "title": "羁绊 Lv.3",
+                    "text": "唔。做的工作比我想象的普通得多，反而令人扫兴。我还以为你会用我的箭做类似不断换对象的那种事呢……不不，千万不能掉以轻心。对危险人物，哪怕只有一箭都是致命的！我今后也会贯彻厌恶工作的爱神这一立场！",
+                    "textJp": "ううむ……なんだか思ったより普通の仕事ばかりで拍子抜けです。もっとこう、私の矢でいろんな相手をとっかえひっかえ、みたいな展開かと思っていたんですけど……いやいや、油断は禁物。やばいやつへのたった一射が命取り！私はこれからも仕事嫌いの愛の神のスタンスを厳守していきますからね",
+                    "textEn": "Hmph. I'm disappointed that I'm just doing normal jobs. I thought I would be causing havoc by messing with various relationships using my arrows and whatnot....\n\nNo, no. I shouldn't let my guard down. Even a shingle shot to someone dangerous could be fatal!\n\nI'm going to keep my position as a god of love who hates to work!",
+                    "condition": null,
+                    "voiceFile": "SV239_1_羁绊Lv3.mp3"
+                },
+                {
+                    "title": "羁绊 Lv.4",
+                    "text": "我厌恶一切，同时也爱着一切。因为我是爱神嘛。但即便如此……唯有一件事物，是我无法去爱的。……没什么理由，只是我知道而已。那是个性格无比恶劣、麻烦、想法消极、过于适应绝望的……不可能被爱的存在……",
+                    "textJp": "私はすべてを嫌いながら、同時にすべてを愛せます。だって、愛の神ですから。でも……それでも、たった一つだけ愛せないものがあります。理由なんてありません。知っているだけですよ。それがどうしようもなく性格が悪く、面倒くさく、マイナス思考で、絶望に馴染みすぎて……愛されるはずがない存在だってことを",
+                    "textEn": "I hate everything, but I can also love everything at the same time. I'm the god of love, after all.\n\nAnd yet...there's just one thing that I cannot love.\n\nThere's no rhyme or reason to it...I just know.\n\nIt has absolutely the worst personality, is a complete pain in the butt, is totally negative, and has gotten to accustomed to despair...\n\nIt knows that it is an entity that should not be loved...",
+                    "condition": null,
+                    "voiceFile": "SV239_1_羁绊Lv4.mp3"
+                },
+                {
+                    "title": "羁绊 Lv.5",
+                    "text": "你到底是怎么一回事啦。就算你特别对待我，也不会有什么好处哦。真是的……我一直是给予的那方，而现在身处这种立场，不禁令人有种新鲜感，或者说是不太习惯，坐立不安……好，总之为了恢复原来的状态，我要用这支箭射你。不，还是直接插在你身上好了。来，躺在那边不要动哦。……保障性命？　有这个必要吗？",
+                    "textJp": "何なんですか、あなた！そんなに特別扱いしても何も出ませんよ！もう、いっつも与えるばかりだったから、こんなに立場になるのは、少し新鮮というか、慣れないというか、ムズムズして……　よし。とりあえず、いつものペースに戻るために、あなたをこの矢で射ちましょう。いえ！ぶっすり直挿ししましょう！はい、そこに寝て動かないでくださーい。命の保証？そんなの必要ですか？",
+                    "textEn": "What's the big idea! You're not getting anything out of treating me so special like this!\n\n(Sigh) I was always the one who was giving, so being on the receiving end is new to me, or at least I'm not used to it and it makes me all restless...\n\nOkay. In order for me to get back to my normal self, I'm going to shoot you with my arrow.\n\nActually, let me just stab you with it.\n\nOkay! Just lie there and don't move. Assuring your survival? Must I?",
+                    "condition": null,
+                    "voiceFile": "SV239_1_羁绊Lv5.mp3"
+                },
+                {
+                    "title": "对话 1",
+                    "text": "在这里放松真的好吗？你比我想象的还要散漫呢，御主。",
+                    "textJp": "こーんなところでのんびりしてていいんですかぁ？思ったよりだらしないんですね、マスターさん",
+                    "textEn": "Should you be lounging around right now? \n\nYou’re actually kind of a slob, aren’t you, Master?",
+                    "condition": null,
+                    "voiceFile": "SV239_1_对话1.mp3"
+                },
+                {
+                    "title": "对话 2",
+                    "text": "毕竟有契约在身，我自然会服从，但我由衷讨厌在别人麾下工作。尤其是别期待我会做什么身为爱神的工作。因为我知道做那种事不会有什么好结果的。",
+                    "textJp": "契約だから従いますけど、誰かの下で働くなんて、心の底から嫌なんです。特に、愛の神としての働きとか期待しないでください。ろくなことにならないのは分かってますからね",
+                    "textEn": "I’m going to follow orders because it’s part of our contract, but I absolutely hate working under others. \n\nIn particular, don’t expect me to do any god of love stuff. \n\nI know very well that nothing good comes from doing jobs like that.",
+                    "condition": null,
+                    "voiceFile": "SV239_1_对话2.mp3"
+                },
+                {
+                    "title": "对话 3",
+                    "text": "你知道吗？神明之间也会有仗势欺人的事哦。真是的，无可救药吧。",
+                    "textJp": "知ってます？神の間にもパワハラみたいなのがあったんですよ。ほんと、どうしようもないですよねー",
+                    "textEn": "Did you know? \n\nThere was even power harassment between gods. \n\nSeriously, can you believe that?",
+                    "condition": null,
+                    "voiceFile": "SV239_1_对话3.mp3"
+                },
+                {
+                    "title": "对话 4",
+                    "text": "就算用那种眼神看着我，我也绝对不会为你们射爱之箭的。我说过很多遍了，别来找我商量恋爱问题。自食其力想办法吧。",
+                    "textJp": "そんな目で見たって絶対にあなたたちのために愛の矢を射ったりはしませんからね。何度も言いますが、恋愛相談もお断りです。自力で何とかしてください",
+                    "textEn": "Even if you give me that look, I’m not using my arrows of love for you. \n\nAnd, once again: I’m, not going to be giving anyone love advice. \n\nYou’ll just have to deal with it yourself.",
+                    "condition": "持有部分从者",
+                    "voiceFile": "SV239_1_对话4.mp3"
+                },
+                {
+                    "title": "对话 5",
+                    "text": "帕尔瓦蒂……你居然也在啊。滚，滚。啊啊，如果你想吸引你丈夫，我把箭借你，你自己来吧。就算结果再怎么惨烈，只要有爱就能坚持下去吧？",
+                    "textJp": "パールヴァティー……あなたもいたんですね。しっしっ！ああ、旦那の気を引きたいのなら、矢を貸しますので自分でどうぞ。とんでもない目にあってしまっても、愛があればきっと耐えられますよねぇ？",
+                    "textEn": "Pārvatī... So you're here too. Go away. Oh, if you want to get your husband's attention, I'll loan you my arrows, so handle it yourself. No matter how terrible of an ordeal you may go through, you should be able to survive through the power of love, right?",
+                    "condition": "持有帕尔瓦蒂",
+                    "voiceFile": "SV239_1_对话5.mp3"
+                },
+                {
+                    "title": "对话 6",
+                    "text": "有湿婆系讨厌的味道呢……能不能叮嘱那家伙绝对别靠近我啊？",
+                    "textJp": "シヴァ系の嫌な匂いがしますね。絶対こっちに近づかないよう、言っといてくれます？",
+                    "textEn": "I can smell the stench of a Shiva-type... Can you tell them not to come near me?",
+                    "condition": "持有马嘶",
+                    "voiceFile": "SV239_1_对话6.mp3"
+                },
+                {
+                    "title": "喜欢的东西",
+                    "text": "喜欢的……东西吗？是啊……烦恼、堕落、无能的人类……也喜欢他人坠入不幸的瞬间，那真是太棒了。",
+                    "textJp": "好きなもの……ですか？そうですねぇ、煩悩、堕落、ダメ人間……。あとは、誰かが不幸になる瞬間とか、たまらないです",
+                    "textEn": "What I like? \n\nLet’s see…I like kleshas, corruption, good-for-nothings…\n\nOh, and those moments when someone becomes unhappy are so irresistible.",
+                    "condition": null,
+                    "voiceFile": "SV239_1_喜欢的东西.mp3"
+                },
+                {
+                    "title": "讨厌的东西",
+                    "text": "讨厌的东西？那个满脑恋爱的女神和她丈夫啦，还用问吗？",
+                    "textJp": "嫌いなもの？あの恋愛脳の女神と、その旦那ですよ。当然でしょう？",
+                    "textEn": "What I dislike? \n\nThat goddess whose head is stuffed and full of love, and her husband. Obviously.",
+                    "condition": null,
+                    "voiceFile": "SV239_1_讨厌的东西.mp3"
+                },
+                {
+                    "title": "关于圣杯",
+                    "text": "圣杯吗？尽管我本人没什么兴趣……但居然同时成为我和帕尔瓦蒂两者的凭依之躯，这个少女的命运究竟被圣杯扰乱到什么地步了啊？……这孩子也是受害者。和我一样。",
+                    "textJp": "聖杯、ですか。私自身は興味なんてありませんが、私とパールヴァティー、二人の依り代になれるなんて、この少女はどれだけ聖杯に運命を狂わされてきたのでしょうね。……被害者ですよ、この子も。私と同じに",
+                    "textEn": "The Holy Grail? \n\nI personally have no interest in it…\n\nBut when I think of the girl who was able to become the vessel for both me and Pārvatī, I can’t help but wonder how much this girl’s life and destiny were messed up by the Holy Grail. \n\n…That girl is also a victim. Just like me.",
+                    "condition": null,
+                    "voiceFile": "SV239_1_关于圣杯.mp3"
+                },
+                {
+                    "title": "活动举行中",
+                    "text": "大家是不是都有点兴奋？令人火大所以我们去妨碍他们吧。就现在。",
+                    "textJp": "何だか皆さん、浮かれてません？腹が立つので邪魔しに行きましょう。ナウ！",
+                    "textEn": "Everyone seems to be in high spirits. \n\nIt’s pissing me off, so let’s go stir up some trouble. Now.",
+                    "condition": null,
+                    "voiceFile": "SV239_1_活动举行中.mp3"
+                },
+                {
+                    "title": "生日",
+                    "text": "哎，你生日啊。你希望得到什么样的庆祝方式？无论是孩子气的，还是暴露欲望的都可以，总之先说说看啦，快点快点。",
+                    "textJp": "へえ……お誕生日なんですか！どんなお祝いのされ方がいいんです？子供っぽくても、欲望を丸出してもいいですから、とりあえず言ってみてくださいよ！ねぇねぇ",
+                    "textEn": "Oh, so it's your birthday? How would you like to celebrate it? It can be as childish or full of selfish desires as you like, so just spit it out, okay?",
+                    "condition": null,
+                    "voiceFile": "SV239_1_生日.mp3"
+                }
+            ]
+        },
+        {
+            "section": "战斗(战斗形象3)",
+            "table": [
+                {
+                    "title": "开始 1",
+                    "text": "你在……期待吗？",
+                    "textJp": "期待……してますか？",
+                    "textEn": "You’re expecting something, aren’t you?",
+                    "condition": null,
+                    "voiceFile": "SV239_2_开始1.mp3"
+                },
+                {
+                    "title": "开始 2",
+                    "text": "你似乎很想沉沦呢。",
+                    "textJp": "溺れたいみたいですね",
+                    "textEn": "You seem to want to drown.",
+                    "condition": null,
+                    "voiceFile": "SV239_2_开始2.mp3"
+                },
+                {
+                    "title": "技能 1",
+                    "text": "给予爱之炎！",
+                    "textJp": "愛の炎を",
+                    "textEn": "Stoke the flame of love!",
+                    "condition": null,
+                    "voiceFile": "SV239_2_技能1.mp3"
+                },
+                {
+                    "title": "技能 2",
+                    "text": "爱之根源！",
+                    "textJp": "シュリンガーラヨーニ！",
+                    "textEn": "Śŗńgārayoni…",
+                    "condition": null,
+                    "voiceFile": "SV239_2_技能2.mp3"
+                },
+                {
+                    "title": "技能 3",
+                    "text": "我会让你沉浸！",
+                    "textJp": "浸らせてあげます",
+                    "textEn": "I’ll drown you!",
+                    "condition": null,
+                    "voiceFile": "SV239_2_技能3.mp3"
+                },
+                {
+                    "title": "指令卡 1",
+                    "text": "知道啦知道啦。",
+                    "textJp": "はいはい",
+                    "textEn": "Okay, okay.",
+                    "condition": null,
+                    "voiceFile": "SV239_2_指令卡1.mp3"
+                },
+                {
+                    "title": "指令卡 2",
+                    "text": "可以哦？",
+                    "textJp": "いいですよ",
+                    "textEn": "That’s fine.",
+                    "condition": null,
+                    "voiceFile": "SV239_2_指令卡2.mp3"
+                },
+                {
+                    "title": "指令卡 3",
+                    "text": "呵呵呵。",
+                    "textJp": "んふふ",
+                    "textEn": "Ufufu…?",
+                    "condition": null,
+                    "voiceFile": "SV239_2_指令卡3.mp3"
+                },
+                {
+                    "title": "宝具卡 1",
+                    "text": "充盈的……爱——",
+                    "textJp": "満ち満ちる、愛——",
+                    "textEn": "Full and flowing love…",
+                    "condition": null,
+                    "voiceFile": "SV239_2_宝具卡1.mp3"
+                },
+                {
+                    "title": "宝具卡 2",
+                    "text": "烦恼无量誓愿断——",
+                    "textJp": "煩悩無量誓願断",
+                    "textEn": "Vow to cut off all vexations.",
+                    "condition": null,
+                    "voiceFile": "SV239_2_宝具卡2.mp3"
+                },
+                {
+                    "title": "攻击 1",
+                    "text": "你会高兴吗？",
+                    "textJp": "喜んでくれますか？",
+                    "textEn": "Will you be happy?",
+                    "condition": null,
+                    "voiceFile": "SV239_2_攻击1.mp3"
+                },
+                {
+                    "title": "攻击 2",
+                    "text": "你喜欢这种吧？",
+                    "textJp": "こういうの好きでしょう？",
+                    "textEn": "You like this, don’t you?",
+                    "condition": null,
+                    "voiceFile": "SV239_2_攻击2.mp3"
+                },
+                {
+                    "title": "攻击 3",
+                    "text": "尽情享受吧。",
+                    "textJp": "堪能してください",
+                    "textEn": "Let this satisfy you.",
+                    "condition": null,
+                    "voiceFile": "SV239_2_攻击3.mp3"
+                },
+                {
+                    "title": "攻击 4",
+                    "text": "赐予你无尽！",
+                    "textJp": "無辺際を与えます！",
+                    "textEn": "I will offer boundlessness!",
+                    "condition": null,
+                    "voiceFile": "SV239_2_攻击4.mp3"
+                },
+                {
+                    "title": "攻击 5",
+                    "text": "变得疯狂吧。",
+                    "textJp": "どうにかなっちゃえ",
+                    "textEn": "Just…make something happen!",
+                    "condition": null,
+                    "voiceFile": "SV239_2_攻击5.mp3"
+                },
+                {
+                    "title": "Extra 1",
+                    "text": "我的爱是无拘无束的！",
+                    "textJp": "私の愛は……縦横無尽！",
+                    "textEn": "My love spans far and wide!",
+                    "condition": null,
+                    "voiceFile": "SV239_2_Extra1.mp3"
+                },
+                {
+                    "title": "Extra 2",
+                    "text": "照耀无间的光啊！",
+                    "textJp": "無限を照らすアーバオ！",
+                    "textEn": "Ābhā that illuminates the infinite!",
+                    "condition": null,
+                    "voiceFile": "SV239_2_Extra2.mp3"
+                },
+                {
+                    "title": "宝具 1",
+                    "text": "来吧，射出情欲之箭吧——我已没有了身躯，沦为连接一切的虚空。在永恒中飘荡，爱之星海————以恋焦炙，因爱也。",
+                    "textJp": "さあ、情欲の矢を放ちましょう。もはや私に身体はなく、すべては繋がり虚空と果てる！永久に揺蕩え、愛の星海——『恋もて焦がすは愛ゆえなり』！",
+                    "textEn": "Now let’s shoot the arrow of passion… \n\nI possess no body, and everything connects and perishes into nothingness. \n\nO starry sea of love, wander for eternity…\n\nSamsāra Kama.",
+                    "condition": null,
+                    "voiceFile": "SV239_2_宝具1.mp3"
+                },
+                {
+                    "title": "宝具 2",
+                    "text": "以恋焦炙，因爱也。名为爱之箭的花，现怒放于空虚之天。这是被灼烧的我痛苦的终点，无身之神的所在之处。在我的体内，无限沉眠吧——",
+                    "textJp": "『恋もて焦がすは愛ゆえなり』——愛の矢という花が今、虚ろの天に咲き乱れる。それは、焼かれた私の痛みの果て、見なき神のあるところ。私の中で、どうか無限に、微睡んで——",
+                    "textEn": "Samsāra Kama. \n\nThe flower called the arrow of love will blossom within the void of the heavens. \n\nThis is the result of the pain I endured when I was burned…the place where the incorporeal god exists. \n\nMay you doze for eternity inside me.",
+                    "condition": null,
+                    "voiceFile": "SV239_2_宝具2.mp3"
+                },
+                {
+                    "title": "受击 1",
+                    "text": "真够精神的。",
+                    "textJp": "元気がいいんですねえ",
+                    "textEn": "You’re full of energy.",
+                    "condition": null,
+                    "voiceFile": "SV239_2_受击1.mp3"
+                },
+                {
+                    "title": "受击 2",
+                    "text": "随便你来多少。",
+                    "textJp": "いくらでもどうぞ？",
+                    "textEn": "Have at me all you like.",
+                    "condition": null,
+                    "voiceFile": "SV239_2_受击2.mp3"
+                },
+                {
+                    "title": "无法战斗 1",
+                    "text": "你觉得这样就能逃过一劫了吗？",
+                    "textJp": "これで逃れたつもりですか？",
+                    "textEn": "Is this your way of fleeing?",
+                    "condition": null,
+                    "voiceFile": "SV239_2_无法战斗1.mp3"
+                },
+                {
+                    "title": "无法战斗 2",
+                    "text": "这下你心满意足了吗。",
+                    "textJp": "満足いただけましたかね",
+                    "textEn": "Are you satisfied?",
+                    "condition": null,
+                    "voiceFile": "SV239_2_无法战斗2.mp3"
+                },
+                {
+                    "title": "胜利 1",
+                    "text": "你该不会觉得就这么结束了吧？",
+                    "textJp": "まさか、これで終わりだと思ってます？",
+                    "textEn": "Don’t tell me you think this is the end?",
+                    "condition": null,
+                    "voiceFile": "SV239_2_胜利1.mp3"
+                },
+                {
+                    "title": "胜利 2",
+                    "text": "咦？　看来你还有余力呢。",
+                    "textJp": "あれ？ まだ余裕がありそうですねぇ",
+                    "textEn": "Huh? Looks like you still have some steam.",
+                    "condition": null,
+                    "voiceFile": "SV239_2_胜利2.mp3"
+                }
+            ]
+        },
+        {
+            "section": "个人空间(战斗形象3)",
+            "table": [
+                {
+                    "title": "羁绊 Lv.1",
+                    "text": "啊～。接下来你可是要后悔了哦，肯定会。",
+                    "textJp": "あーあ、後悔するのはこれからですよ。きっとね",
+                    "textEn": "This is the start of you regretting what you did. \n\nProbably.",
+                    "condition": null,
+                    "voiceFile": "SV239_2_羁绊Lv1.mp3"
+                },
+                {
+                    "title": "羁绊 Lv.2",
+                    "text": "我要重复一遍，千万别忘了我这么做可不是心甘情愿的。……这话都是为了你好哦？",
+                    "textJp": "繰り返しますが、やりたくてやっているわけじゃないというのを忘れないように。あなたのために言っているんですからね",
+                    "textEn": "I repeat: never forget that I'm not doing this because I WANT to do it. ...I'm saying this for your own good, you know?",
+                    "condition": null,
+                    "voiceFile": "SV239_2_羁绊Lv2.mp3"
+                },
+                {
+                    "title": "羁绊 Lv.3",
+                    "text": "觉得我看上去很高兴？那当然啦。因为我太喜欢看到人不幸的瞬间了。……被我这种麻烦精的爱神所爱，若非不幸还能算是什么呢？",
+                    "textJp": "嬉しそうに見える？それはそうでしょう。人が不幸になる瞬間を見るのは、たまらないです。私のようなめんどくさい愛の神に愛されるなんて、不幸以外の何だって言うんです？",
+                    "textEn": "...I look happy?\n\nOf course. Witnessing the moment someone becomes unhappy is irresistible.\n\n...To be loved by a pain in the butt god of love like myself is sure to cause you nothing less than intense misery.",
+                    "condition": null,
+                    "voiceFile": "SV239_2_羁绊Lv3.mp3"
+                },
+                {
+                    "title": "羁绊 Lv.4",
+                    "text": "大家真是太肤浅了……爱可不是那么美好的东西。只要稍有差错，就会令本人，以及对象都走向破灭哦……？不过，这样才有趣啦。因为你想啊，处置危险物品的时候会心跳加速吧？",
+                    "textJp": "みんな、本当に浅はかですね。愛なんて、そんな良いものじゃないのに。少し扱いを間違えるだけで、本人も、その相手も破滅するんですよ？……ま、そこが楽しいわけですけど。だってほら、危険物を扱うのって、ドキドキするでしょう？",
+                    "textEn": "Everyone's so shortsighted... Love's not that great.\n\nA single mistake could destroy both parties.\n\nI mean, that's part of the fun. You know, doesn't your heart race whenever you mess around with something dangerous?",
+                    "condition": null,
+                    "voiceFile": "SV239_2_羁绊Lv4.mp3"
+                },
+                {
+                    "title": "羁绊 Lv.5",
+                    "text": "哎？　你问我爱究竟是什么？……我连提都不愿提，想都不愿想。我就是如此厌倦爱这种存在。如果你那么感兴趣的话……就由你来告诉我吧。让因爱疲惫，陷入绝望的我，回想起爱究竟有多美妙…………不，没什么。总之，你已经完全在我的身体里了。我是不会放跑你的……唯独不要忘记这点哦，御主。",
+                    "textJp": "え？そもそも愛とは何なのか、ですって？そんなこと、口にするのも嫌です。考えるのも嫌です。それくらい、私は愛というものに倦んでいます。そんなに興味があるなら……あなたが私に教えてくださいよ。愛に疲れ、絶望しているこの私に、もし、愛の素晴らしさなんてものを思い出させてくれたら……いえ、なんでもありません。とにかく、もう完全に、あなたは私の中なんです。絶対に逃げられない……それだけは忘れないでくださいね？マスター",
+                    "textEn": "Huh? You're asking what love it?\n\n...I don't want to talk about it. I don't even want to think about it.\n\nThat's how little interest I have in love. If you're that interested...then YOU teach me what it's all about.\n\nI'm tired of it, and I have only despair when it comes to love, so if you can show me how wonderful it is...\n\nNo, never mind.\n\nAnyway, you're knee-deep in me already. There's no escaping now.\n\nDon't you ever forget that, Master.",
+                    "condition": null,
+                    "voiceFile": "SV239_2_羁绊Lv5.mp3"
+                },
+                {
+                    "title": "对话 1",
+                    "text": "……如果太闲的话我可就回去了哦？至少别让我觉得无聊啦。",
+                    "textJp": "持て余すくらいなら帰りますよ、私。せめて退屈はさせないでもらいたいものですね",
+                    "textEn": "If there’s nothing to do, I’m going home. \n\nI ask that you never bore me.",
+                    "condition": null,
+                    "voiceFile": "SV239_2_对话1.mp3"
+                },
+                {
+                    "title": "对话 2",
+                    "text": "干劲？　怎么可能有嘛。只是因为无可奈何，才会为打发时间而稍微运动一下的感觉罢了。你可要好好运用我这无家可归的爱神的可怕之处哦。",
+                    "textJp": "やる気？ あるわけないでしょう。しょうがないから憂さ晴らしに少し体を動かしている、みたいな感じですよ。やさぐれた愛の神の恐ろしさ、精々有効活用してくださいね",
+                    "textEn": "Motivation? Of course I don’t have any. \n\nI’m just wandering around to distract myself. \n\nI dare you to try to effectively use the sulking, terrifying god of love.",
+                    "condition": null,
+                    "voiceFile": "SV239_2_对话2.mp3"
+                },
+                {
+                    "title": "对话 3",
+                    "text": "给予爱之人与接受爱之人。究竟哪方地位更高……呵呵，一目了然吧？",
+                    "textJp": "愛を与える者と受け取る者、どちらの立場が上かなんて……ふふ、わかりきってますよねぇ",
+                    "textEn": "There are those who give love and those who receive love. Which is greater…well, you know very well what the correct answer is.",
+                    "condition": null,
+                    "voiceFile": "SV239_2_对话3.mp3"
+                },
+                {
+                    "title": "对话 4",
+                    "text": "呼……对于那家伙，我觉得我们彼此还是装作没看到比较好。不，我也不明白理由哦？",
+                    "textJp": "ふぅ……やっぱりアレだけは、お互いに見て見ぬ振りをした方がいい気がします。いえ、理由は私にもよくわかりませんけどね",
+                    "textEn": "Phew.. I think it's best to just turn a blind eye to THAT. Well, I really don't know why either.",
+                    "condition": "持有杀生院祈荒",
+                    "voiceFile": "SV239_2_对话4.mp3"
+                },
+                {
+                    "title": "对话 5",
+                    "text": "那个……尽管根源一致，但无论是出身的世界，还是成长的过程都不同。那个我是获得了平凡而奇迹般的爱，并与除此以外的一切为敌的存在。而我则对爱感到失望，自然会讨厌所有依靠爱的人类啦。不过，即便在这个状态下，我也能够去爱。这是我俩最大的不同。总之，那可以说是个现实中的Bug。我是不会愿意主动接近她的。",
+                    "textJp": "アレは……根本は同じですけど、生まれた世界も、育った過程も違うモノですね。あの私はありふれた、けれど奇跡のような愛を獲得して、それ以外の全てを敵に回したモノ。私は愛に失望し、必然的に、それに頼る全ての人間が嫌いになったモノ。ま、私はその状態でも愛せてしまうんですけどね、そこも大きな違いです。とにかく、アレはリアルにバグのようなモノ。好んで近づきたいとは思いません",
+                    "textEn": "She and I...are essentially the same, but the world that we were born into and how we grew up are all different. That me gained common, but almost miraculous love, and then made everything else into her enemy. I, on the other hand, felt despair in love, and grew to detest all humans who inevitably relied on love. Then again, I'm still able to love even in this state. That's also what sets me apart from her. Anyway, that thing is like a dangerous computer bug. I wouldn't get near her willingly.",
+                    "condition": "持有BB、BB(SSR)",
+                    "voiceFile": "SV239_2_对话5.mp3"
+                },
+                {
+                    "title": "对话 6",
+                    "text": "那个吵吵闹闹的为什么会自称第六天魔王啊？我的粉丝？",
+                    "textJp": "あのうるさいの、なんで第六天魔王なんて名乗ってるんです？私のファン？",
+                    "textEn": "That really loud person...why does she call herself the Demon King of the Sixth Heaven? Is she a fan of mine?",
+                    "condition": "持有织田信长、织田信长(Berserker)",
+                    "voiceFile": "SV239_2_对话6.mp3"
+                },
+                {
+                    "title": "喜欢的东西",
+                    "text": "认真的人或是严肃的人一个个都在我面前堕落……呵呵。这果然是令人无比快乐的事呢……",
+                    "textJp": "真面目だったり、優秀だったりした人たちが、どんどん私の前で堕ちていくのは、ふふ、やっぱりたまらないものがありますねえ",
+                    "textEn": "People who were once serious and brilliant getting corrupted right in front of my eyes…\n\nHehe… How irresistible…",
+                    "condition": null,
+                    "voiceFile": "SV239_2_喜欢的东西.mp3"
+                },
+                {
+                    "title": "讨厌的东西",
+                    "text": "你到底让我说多少遍才肯罢休？我讨厌的东西！是帕尔瓦蒂，和她丈夫！",
+                    "textJp": "何度言わせれば気が済むんですか？ 嫌いなものは、パールヴァティーとその旦那、です",
+                    "textEn": "How many times do I have to tell you!? What I hate!? \n\nPārvatī and her husband!",
+                    "condition": null,
+                    "voiceFile": "SV239_2_讨厌的东西.mp3"
+                },
+                {
+                    "title": "关于圣杯",
+                    "text": "尽管我还是对圣杯没什么兴趣……但只要使用那个，或许就能让我做各种各样的事哦。换言之，你才是缠着人提要求的那方。来啊来啊，还不说那句，拜托你了，让我使用圣杯吧，的台词吗？",
+                    "textJp": "相変わらず聖杯なんてものに興味はないんですけど、それを使えば、もっと私に色々やらせることができるようになるかもですね。つまりぃ、おねだりする立場なのはあなただってことです。ほらほら、お願いですから聖杯を使わせてくださいって台詞は、まだですか？",
+                    "textEn": "I still have no interest in the Holy Grail…\n\nBut were I to use it, I may be able to make you do so many more things for me. \n\nWhich means…the person who should be doing the begging is you.",
+                    "condition": null,
+                    "voiceFile": "SV239_2_关于圣杯.mp3"
+                },
+                {
+                    "title": "活动举行中",
+                    "text": "我说过，看到人幸福的表情对我来说是最大的痛苦吧？来吧，命令我去解决那些因活动而兴奋的家伙吧，御主。",
+                    "textJp": "私、人の幸せそうな顔を見るのが、何よりの苦痛だって言いましたよね？さあ、イベントに浮かれる奴らをどうにかしろって命令してください、マスターさん",
+                    "textEn": "Do you remember me saying that seeing the happy faces of others is what pains me most? \n\nNow come on! Order me to do something to those people who’ve gotten excited over the event, Master!",
+                    "condition": null,
+                    "voiceFile": "SV239_2_活动举行中.mp3"
+                },
+                {
+                    "title": "生日",
+                    "text": "祝你生日快乐，御主。呵呵……其实我啊，想到了一个非常适合这特别日子的好事哦…………你给我等一下，我还什么都没说呢。为什么要后退啊？",
+                    "textJp": "お誕生日おめでとうございます、マスターさん。うふふ、実は私、この特別な日にふさわしい、いいことを思いついちゃったんですよ～。　……待ってください。まだ何も言ってませんよ。なんで後退りしてるんですか？",
+                    "textEn": "Happy birthday, Master.\n\nTeehee... Actually, I thought of something that's really appropriate for this special day...\n\nWait...I haven't even said anything. Why are you backing away?",
+                    "condition": null,
+                    "voiceFile": "SV239_2_生日.mp3"
+                }
+            ]
+        }
+    ],
+    "bondCraft": -1,
+    "valentineCraft": [],
+    "icons": [
+        {
+            "key": "icon1",
+            "valueList": [
+                "迦摩 1.png",
+                "迦摩 2.png",
+                "迦摩 3.png"
+            ]
+        }
+    ],
+    "sprites": [
+        {
+            "key": "sprite1",
+            "valueList": [
+                "迦摩_model_1.png",
+                "迦摩_model_2.png",
+                "迦摩_model_3.png"
+            ]
+        }
+    ],
+    "fandomIcons": {
+        "fandom.S239Icon.png": "Stage 1",
+        "fandom.KamaStage2Icon.png": "Stage 2",
+        "fandom.KamaStage3Icon.png": "Stage 3",
+        "fandom.KamaFinalIcon.png": "Stage 4",
+        "fandom.S239 status servant 1.png": "Portrait (Stage 1)",
+        "fandom.S239 status servant 2.png": "Portrait (Stage 2)",
+        "fandom.S239 status servant 3.png": "Portrait (Stage 3)"
+    },
+    "fandomSprites": {
+        "fandom.Kama_1_Fix.png": "Stage 1",
+        "fandom.Kama_2.png": "Stage 2",
+        "fandom.Kama 3 Sprite.png": "Sprite 3",
+        "fandom.S239 card servant 1.png": "Command Card (Stage 1)",
+        "fandom.S239 card servant 2.png": "Command Card (Stage 2)",
+        "fandom.S239 card servant 3.png": "Command Card (Stage 3)",
+        "fandom.nplogo239_1.png": "NP Logo (Stage 1-2)",
+        "fandom.Kama_3_bad.png": "Stage 3 (No Effects and Weapon)"
+    },
+    "niceSkills": [
+        {
+            "id": 409450,
+            "num": 1,
+            "name": "女神の恩恵 B",
+            "ruby": "めがみのおんけい",
+            "detail": "味方単体に最大HPが1000減る状態を付与(永続)【デメリット】＆宝具使用時のチャージ段階を1段階引き上げる(1回・3ターン) ＋ 自身のHPを回復",
+            "type": "active",
+            "strengthStatus": 0,
+            "priority": 1,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "conLv": 0,
+            "condLimitCount": 0,
+            "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00313.png",
+            "coolDown": [
+                7,
+                7,
+                7,
+                7,
+                7,
+                6,
+                6,
+                6,
+                6,
+                5
+            ],
+            "functions": [
+                {
+                    "funcId": 596,
+                    "funcType": "addState",
+                    "funcTargetType": "ptOne",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "最大HPマイナス",
+                    "buffs": [
+                        {
+                            "id": 202,
+                            "name": "最大HPマイナス",
+                            "detail": "最大HPを減らす",
+                            "type": "subMaxhp",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 5000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 1000
+                        },
+                        {
+                            "Rate": 5000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 1000
+                        },
+                        {
+                            "Rate": 5000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 1000
+                        },
+                        {
+                            "Rate": 5000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 1000
+                        },
+                        {
+                            "Rate": 5000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 1000
+                        },
+                        {
+                            "Rate": 5000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 1000
+                        },
+                        {
+                            "Rate": 5000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 1000
+                        },
+                        {
+                            "Rate": 5000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 1000
+                        },
+                        {
+                            "Rate": 5000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 1000
+                        },
+                        {
+                            "Rate": 5000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 1000
+                        }
+                    ]
+                },
+                {
+                    "funcId": 756,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "ptOne",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "オーバーチャージ段階UP",
+                    "buffs": [
+                        {
+                            "id": 227,
+                            "name": "オーバーチャージ段階UP",
+                            "detail": "宝具発動時、オーバーチャージ段階をアップする",
+                            "type": "upChagetd",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 1,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 1,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 1,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 1,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 1,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 1,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 1,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 1,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 1,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 1,
+                            "Value": 1
+                        }
+                    ]
+                },
+                {
+                    "funcId": 439,
+                    "funcType": "gainHp",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "",
+                    "buffs": [],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Value": 2000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 2200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 2400
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 2600
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 2800
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 3000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 3200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 3400
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 3600
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 4000
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 586650,
+            "num": 2,
+            "name": "身体無き者 EX",
+            "ruby": "からだなきもの",
+            "detail": "自身にガッツ状態を付与(1回)＆攻撃力をアップ(3ターン)",
+            "type": "active",
+            "strengthStatus": 0,
+            "priority": 1,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "conLv": 0,
+            "condLimitCount": 1,
+            "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00404.png",
+            "coolDown": [
+                8,
+                8,
+                8,
+                8,
+                8,
+                7,
+                7,
+                7,
+                7,
+                6
+            ],
+            "functions": [
+                {
+                    "funcId": 292,
+                    "funcType": "addState",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "ガッツ",
+                    "buffs": [
+                        {
+                            "id": 180,
+                            "name": "ガッツ",
+                            "detail": "HPが0になった時、HPを回復して耐える",
+                            "type": "guts",
+                            "buffGroup": 600
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": 1,
+                            "Value": 1000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": 1,
+                            "Value": 1100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": 1,
+                            "Value": 1200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": 1,
+                            "Value": 1300
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": 1,
+                            "Value": 1400
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": 1,
+                            "Value": 1500
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": 1,
+                            "Value": 1600
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": 1,
+                            "Value": 1700
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": 1,
+                            "Value": 1800
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": 1,
+                            "Value": 2000
+                        }
+                    ]
+                },
+                {
+                    "funcId": 146,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "攻撃力アップ",
+                    "buffs": [
+                        {
+                            "id": 126,
+                            "name": "攻撃力アップ",
+                            "detail": "攻撃力をアップ",
+                            "type": "upAtk",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 210
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 220
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 230
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 240
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 250
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 260
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 270
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 280
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 300
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 587650,
+            "num": 3,
+            "name": "マーラ・パーピーヤス EX",
+            "ruby": "まーら・ぱーぴーやす",
+            "detail": "自身のNPを増やす＆〔アルターエゴ〕クラスに対して相性有利になる状態を付与(3ターン)＆クリティカル威力をアップ(3ターン) ＋ 敵全体の魅了耐性をダウン(1ターン)",
+            "type": "active",
+            "strengthStatus": 0,
+            "priority": 1,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "conLv": 0,
+            "condLimitCount": 3,
+            "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00601.png",
+            "coolDown": [
+                8,
+                8,
+                8,
+                8,
+                8,
+                7,
+                7,
+                7,
+                7,
+                6
+            ],
+            "functions": [
+                {
+                    "funcId": 460,
+                    "funcType": "gainNp",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "player",
+                    "funcPopupText": "NP増加",
+                    "buffs": [],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Value": 3000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 3200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 3400
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 3600
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 3800
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 4000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 4200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 4400
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 4600
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 5000
+                        }
+                    ]
+                },
+                {
+                    "funcId": 470,
+                    "funcType": "hastenNpturn",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "enemy",
+                    "funcPopupText": "チャージ増加",
+                    "buffs": [],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        }
+                    ]
+                },
+                {
+                    "funcId": 4865,
+                    "funcType": "addState",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "クラス相性変更",
+                    "buffs": [
+                        {
+                            "id": 2585,
+                            "name": "クラス相性変更",
+                            "detail": "〔アルターエゴ〕クラスに対して相性有利になる",
+                            "type": "overwriteClassRelation",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1
+                        }
+                    ]
+                },
+                {
+                    "funcId": 200,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "クリティカル威力アップ",
+                    "buffs": [
+                        {
+                            "id": 142,
+                            "name": "クリティカル威力アップ",
+                            "detail": "クリティカル時のダメージをアップ",
+                            "type": "upCriticaldamage",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200
+                        }
+                    ]
+                },
+                {
+                    "funcId": 3468,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "enemyAll",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "魅了耐性ダウン",
+                    "buffs": [
+                        {
+                            "id": 217,
+                            "name": "魅了耐性ダウン(精神異常)",
+                            "detail": "魅了耐性をダウン",
+                            "type": "downTolerance",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 220
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 240
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 260
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 280
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 300
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 320
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 340
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 360
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 400
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "niceClassPassive": [
+        {
+            "id": 34550,
+            "num": 1,
+            "name": "対魔力 A",
+            "ruby": "たいまりょく",
+            "detail": "自身の弱体耐性をアップ",
+            "type": "passive",
+            "strengthStatus": 1,
+            "priority": 1,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "conLv": 0,
+            "condLimitCount": 0,
+            "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00100.png",
+            "coolDown": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "functions": [
+                {
+                    "funcId": 388,
+                    "funcType": "addState",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "弱体耐性アップ",
+                    "buffs": [
+                        {
+                            "id": 162,
+                            "name": "弱体耐性アップ",
+                            "detail": "弱体耐性をアップ",
+                            "type": "upTolerance",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 200
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 88550,
+            "num": 1,
+            "name": "騎乗 A",
+            "ruby": "きじょう",
+            "detail": "自身のQuickカードの性能をアップ",
+            "type": "passive",
+            "strengthStatus": 1,
+            "priority": 1,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "conLv": 0,
+            "condLimitCount": 0,
+            "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00102.png",
+            "coolDown": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "functions": [
+                {
+                    "funcId": 100,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "クイックアップ",
+                    "buffs": [
+                        {
+                            "id": 100,
+                            "name": "Quickアップ",
+                            "detail": "Quickカードの性能をアップ",
+                            "type": "upCommandall",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 161350,
+            "num": 1,
+            "name": "単独顕現 C",
+            "ruby": "たんどくけんげん",
+            "detail": "自身のクリティカル威力を少しアップ＆即死耐性をアップ＆精神異常耐性をアップ",
+            "type": "passive",
+            "strengthStatus": 1,
+            "priority": 1,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "conLv": 0,
+            "condLimitCount": 0,
+            "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00101.png",
+            "coolDown": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "functions": [
+                {
+                    "funcId": 199,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "クリティカル威力アップ",
+                    "buffs": [
+                        {
+                            "id": 142,
+                            "name": "クリティカル威力アップ",
+                            "detail": "クリティカル時のダメージをアップ",
+                            "type": "upCriticaldamage",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 60
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 60
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 60
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 60
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 60
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 60
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 60
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 60
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 60
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 60
+                        }
+                    ]
+                },
+                {
+                    "funcId": 693,
+                    "funcType": "addState",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "即死耐性アップ",
+                    "buffs": [
+                        {
+                            "id": 218,
+                            "name": "即死耐性アップ",
+                            "detail": "即死耐性をアップ",
+                            "type": "upResistInstantdeath",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 60
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 60
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 60
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 60
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 60
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 60
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 60
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 60
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 60
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 60
+                        }
+                    ]
+                },
+                {
+                    "funcId": 409,
+                    "funcType": "addState",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "精神異常耐性アップ",
+                    "buffs": [
+                        {
+                            "id": 166,
+                            "name": "精神異常耐性アップ",
+                            "detail": "精神異常耐性をアップ",
+                            "type": "upTolerance",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 60
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 60
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 60
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 60
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 60
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 60
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 60
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 60
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 60
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 60
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 584450,
+            "num": 1,
+            "name": "愛神の神核 B",
+            "ruby": "あいしんのしんかく",
+            "detail": "自身に与ダメージプラス状態を付与＆魅了無効状態を付与",
+            "type": "passive",
+            "strengthStatus": 1,
+            "priority": 1,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "conLv": 0,
+            "condLimitCount": 0,
+            "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00326.png",
+            "coolDown": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "functions": [
+                {
+                    "funcId": 265,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "アタックプラス",
+                    "buffs": [
+                        {
+                            "id": 136,
+                            "name": "ダメージプラス",
+                            "detail": "与えるダメージを増やす",
+                            "type": "addDamage",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 225
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 225
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 225
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 225
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 225
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 225
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 225
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 225
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 225
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 225
+                        }
+                    ]
+                },
+                {
+                    "funcId": 3473,
+                    "funcType": "addState",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "魅了無効",
+                    "buffs": [
+                        {
+                            "id": 1551,
+                            "name": "魅了無効",
+                            "detail": "魅了を受けなくなる",
+                            "type": "avoidState",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "niceNoblePhantasms": [
+        {
+            "id": 603701,
+            "num": 1,
+            "card": "quick",
+            "name": "愛もてかれるは恋無きなり",
+            "ruby": "カーマ・サンモーハナ",
+            "rank": "C",
+            "type": "対人宝具",
+            "detail": "自身のQuickカード性能をアップ(3ターン)<オーバーチャージで効果アップ> ＋ 敵単体に超強力な攻撃＆高確率で魅了状態を付与(1ターン)",
+            "npGain": {
+                "buster": [
+                    74,
+                    74,
+                    74,
+                    74,
+                    74
+                ],
+                "arts": [
+                    74,
+                    74,
+                    74,
+                    74,
+                    74
+                ],
+                "quick": [
+                    74,
+                    74,
+                    74,
+                    74,
+                    74
+                ],
+                "extra": [
+                    74,
+                    74,
+                    74,
+                    74,
+                    74
+                ],
+                "defence": [
+                    400,
+                    400,
+                    400,
+                    400,
+                    400
+                ],
+                "np": [
+                    74,
+                    74,
+                    74,
+                    74,
+                    74
+                ]
+            },
+            "npDistribution": [
+                1,
+                3,
+                5,
+                7,
+                9,
+                10,
+                12,
+                14,
+                16,
+                23
+            ],
+            "strengthStatus": 0,
+            "priority": 101,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "individuality": [
+                {
+                    "id": 3002,
+                    "name": "attackMagical"
+                },
+                {
+                    "id": 4003,
+                    "name": "cardQuick"
+                },
+                {
+                    "id": 4007,
+                    "name": "cardNP"
+                }
+            ],
+            "functions": [
+                {
+                    "funcId": 102,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "クイックアップ",
+                    "buffs": [
+                        {
+                            "id": 100,
+                            "name": "Quickアップ",
+                            "detail": "Quickカードの性能をアップ",
+                            "type": "upCommandall",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200
+                        }
+                    ]
+                },
+                {
+                    "funcId": 12,
+                    "funcType": "damageNp",
+                    "funcTargetType": "enemy",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "なし",
+                    "buffs": [],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Value": 12000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 16000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 18000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 19000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 20000
+                        }
+                    ]
+                },
+                {
+                    "funcId": 2168,
+                    "funcType": "addState",
+                    "funcTargetType": "enemy",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "魅了",
+                    "buffs": [
+                        {
+                            "id": 926,
+                            "name": "魅了",
+                            "detail": "行動不能になる",
+                            "type": "donotAct",
+                            "buffGroup": 501
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 800,
+                            "Turn": 1,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 800,
+                            "Turn": 1,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 800,
+                            "Turn": 1,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 800,
+                            "Turn": 1,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 800,
+                            "Turn": 1,
+                            "Count": -1
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "atkGrowth": [
+        1781,
+        1829,
+        1888,
+        1956,
+        2014,
+        2083,
+        2161,
+        2229,
+        2307,
+        2395,
+        2473,
+        2560,
+        2648,
+        2736,
+        2833,
+        2931,
+        3028,
+        3135,
+        3233,
+        3340,
+        3457,
+        3564,
+        3681,
+        3798,
+        3915,
+        4032,
+        4159,
+        4276,
+        4402,
+        4529,
+        4666,
+        4792,
+        4929,
+        5055,
+        5192,
+        5328,
+        5465,
+        5601,
+        5738,
+        5874,
+        6020,
+        6157,
+        6293,
+        6440,
+        6576,
+        6722,
+        6859,
+        7005,
+        7141,
+        7278,
+        7424,
+        7560,
+        7697,
+        7833,
+        7970,
+        8106,
+        8243,
+        8369,
+        8506,
+        8633,
+        8769,
+        8896,
+        9023,
+        9139,
+        9266,
+        9383,
+        9500,
+        9617,
+        9734,
+        9841,
+        9958,
+        10065,
+        10163,
+        10270,
+        10368,
+        10465,
+        10563,
+        10650,
+        10738,
+        10826,
+        10904,
+        10991,
+        11069,
+        11138,
+        11216,
+        11284,
+        11342,
+        11411,
+        11469,
+        11528,
+        11635,
+        11742,
+        11849,
+        11956,
+        12073,
+        12181,
+        12288,
+        12395,
+        12512,
+        12619,
+        12726,
+        12834,
+        12951,
+        13058,
+        13165,
+        13272,
+        13389,
+        13496,
+        13604,
+        13711,
+        13818,
+        13935,
+        14042,
+        14149,
+        14257,
+        14374,
+        14481,
+        14588,
+        14695,
+        14812
+    ],
+    "hpGrowth": [
+        1890,
+        1944,
+        2010,
+        2087,
+        2153,
+        2230,
+        2318,
+        2395,
+        2483,
+        2582,
+        2670,
+        2769,
+        2868,
+        2967,
+        3077,
+        3187,
+        3297,
+        3418,
+        3528,
+        3649,
+        3781,
+        3902,
+        4034,
+        4166,
+        4298,
+        4430,
+        4573,
+        4705,
+        4848,
+        4991,
+        5145,
+        5288,
+        5442,
+        5585,
+        5739,
+        5893,
+        6047,
+        6201,
+        6355,
+        6509,
+        6674,
+        6828,
+        6982,
+        7147,
+        7301,
+        7466,
+        7620,
+        7785,
+        7939,
+        8093,
+        8258,
+        8412,
+        8566,
+        8720,
+        8874,
+        9028,
+        9182,
+        9325,
+        9479,
+        9622,
+        9776,
+        9919,
+        10062,
+        10194,
+        10337,
+        10469,
+        10601,
+        10733,
+        10865,
+        10986,
+        11118,
+        11239,
+        11349,
+        11470,
+        11580,
+        11690,
+        11800,
+        11899,
+        11998,
+        12097,
+        12185,
+        12284,
+        12372,
+        12449,
+        12537,
+        12614,
+        12680,
+        12757,
+        12823,
+        12889,
+        13009,
+        13130,
+        13251,
+        13372,
+        13504,
+        13625,
+        13746,
+        13867,
+        13999,
+        14120,
+        14241,
+        14362,
+        14494,
+        14615,
+        14736,
+        14857,
+        14989,
+        15110,
+        15231,
+        15352,
+        15473,
+        15605,
+        15726,
+        15847,
+        15968,
+        16100,
+        16221,
+        16342,
+        16463,
+        16595
+    ],
+    "figure": [
+        "https://static.atlasacademy.io/JP/CharaFigure/6037000/6037000_merged.png",
+        "https://static.atlasacademy.io/JP/CharaFigure/6037001/6037001_merged.png",
+        "https://static.atlasacademy.io/JP/CharaFigure/6037002/6037002_merged.png"
+    ],
+    "ascension": [
+        "https://static.atlasacademy.io/JP/CharaGraph/603700/603700a@1.png",
+        "https://static.atlasacademy.io/JP/CharaGraph/603700/603700a@2.png",
+        "https://static.atlasacademy.io/JP/CharaGraph/603700/603700b@1.png",
+        "https://static.atlasacademy.io/JP/CharaGraph/603700/603700b@2.png"
+    ]
+}

@@ -1,0 +1,20 @@
+export default new Map([
+    ["Saber", "https://assets.atlasacademy.io/GameData/JP/ClassIcons/class3_1.png"],
+    ['Archer', "https://assets.atlasacademy.io/GameData/JP/ClassIcons/class3_2.png"],
+    ['Lancer', 'https://assets.atlasacademy.io/GameData/JP/ClassIcons/class3_3.png'],
+    ['Rider', 'https://assets.atlasacademy.io/GameData/JP/ClassIcons/class3_4.png'],
+    ['Caster', 'https://assets.atlasacademy.io/GameData/JP/ClassIcons/class3_5.png'],
+    ['Assassin', 'https://assets.atlasacademy.io/GameData/JP/ClassIcons/class3_6.png'],
+    ['Berserker', 'https://assets.atlasacademy.io/GameData/JP/ClassIcons/class3_7.png'],
+    ['Ruler', 'https://assets.atlasacademy.io/GameData/JP/ClassIcons/class3_9.png'],
+    ['Avenger', 'https://assets.atlasacademy.io/GameData/JP/ClassIcons/class3_11.png'],
+    ['MoonCancer', 'https://assets.atlasacademy.io/GameData/JP/ClassIcons/class3_23.png'],
+    ['Alterego', 'https://assets.atlasacademy.io/GameData/JP/ClassIcons/class3_10.png'],
+    ['Foreigner', 'https://assets.atlasacademy.io/GameData/JP/ClassIcons/class3_25.png'],
+    ['Pretender', 'https://assets.atlasacademy.io/GameData/JP/ClassIcons/class3_28.png'],
+    ['BeastⅢ/L', 'https://assets.atlasacademy.io/GameData/JP/ClassIcons/class3_24.png'],
+    ['BeastⅢ/R', 'https://assets.atlasacademy.io/GameData/JP/ClassIcons/class3_24.png'],
+    ['BeastⅠ(魔神王)/Caster(人王)', 'https://assets.atlasacademy.io/GameData/JP/ClassIcons/class3_21.png'],
+    ['BeastⅡ', 'https://assets.atlasacademy.io/GameData/JP/ClassIcons/class3_20.png'],
+    ['Shielder', 'https://assets.atlasacademy.io/GameData/JP/ClassIcons/class3_8.png']
+])

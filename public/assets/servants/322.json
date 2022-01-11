@@ -1,0 +1,3479 @@
+{
+    "no": 322,
+    "svtId": 404500,
+    "mcLink": "凯妮斯(Rider)",
+    "icon": "Servant322.jpg",
+    "info": {
+        "gameId": 404500,
+        "name": "凯妮斯",
+        "nameJp": "カイニス",
+        "nameEn": "Caenis (Rider)",
+        "namesOther": [
+            "凯妮斯",
+            "カイニス"
+        ],
+        "namesJpOther": [
+            "カイニス"
+        ],
+        "namesEnOther": [
+            "Caenis"
+        ],
+        "nicknames": [],
+        "obtain": "限定",
+        "obtains": [
+            "期间限定"
+        ],
+        "rarity": 4,
+        "rarity2": 4,
+        "weight": "59kg",
+        "height": "174cm",
+        "gender": "其他",
+        "illustrator": "Azusa",
+        "illustratorJp": "Azusa",
+        "illustratorEn": "Azusa",
+        "className": "Rider",
+        "attribute": "地",
+        "isHumanoid": true,
+        "isWeakToEA": true,
+        "isTDNS": false,
+        "cv": [
+            "小松未可子"
+        ],
+        "cvJp": [
+            "小松未可子"
+        ],
+        "cvEn": [
+            "Komatsu Mikako"
+        ],
+        "alignments": [
+            "中立",
+            "夏"
+        ],
+        "traits": [
+            "神性",
+            "骑乘",
+            "天地从者",
+            "所爱之人",
+            "王",
+            "阿耳戈船相关人员"
+        ],
+        "ability": {
+            "strength": "C",
+            "endurance": "B+",
+            "agility": "A",
+            "mana": "D",
+            "luck": "A",
+            "np": "B"
+        },
+        "illustrations": {
+            "第１阶段": "カイニス初始.png",
+            "第２阶段": "カイニス一破.png",
+            "第３阶段": "カイニス三破.png",
+            "第４阶段": "カイニス满破.png"
+        },
+        "cards": [
+            "Quick",
+            "Arts",
+            "Arts",
+            "Buster",
+            "Buster"
+        ],
+        "cardHits": {
+            "Quick": 3,
+            "Arts": 3,
+            "Buster": 3,
+            "Extra": 4,
+            "NP": 3
+        },
+        "cardHitsDamage": {
+            "Quick": [
+                16,
+                33,
+                51
+            ],
+            "Arts": [
+                16,
+                33,
+                51
+            ],
+            "Buster": [
+                16,
+                33,
+                51
+            ],
+            "Extra": [
+                10,
+                20,
+                30,
+                40
+            ],
+            "NP": [
+                16,
+                33,
+                51
+            ]
+        },
+        "npRate": {
+            "Quick": "0.66%",
+            "Arts": "0.66%",
+            "Buster": "0.66%",
+            "Extra": "0.66%",
+            "NP": "0.66%",
+            "Defense": "3%"
+        },
+        "atkMin": 1584,
+        "hpMin": 1736,
+        "atkMax": 9506,
+        "hpMax": 10854,
+        "atk90": 10504,
+        "hp90": 12002,
+        "atk100": 11510,
+        "hp100": 13160,
+        "starRate": "9.1%",
+        "deathRate": "45.0%",
+        "criticalRate": "204"
+    },
+    "noblePhantasm": [
+        {
+            "state": "",
+            "openCondition": "==宝具==\n{{参阅|{{PAGENAME}}/宝具动画|该从者的宝具动画}}",
+            "name": "疾驰吧，吾之海色大牙",
+            "nameJp": "疾駆せよ、わが海色の大牙",
+            "upperName": "Sea Serpent Storm Blue",
+            "upperNameJp": "シーサーペント・ストームブルー",
+            "color": "Buster",
+            "category": "单体",
+            "rank": "B+",
+            "typeText": "对人宝具",
+            "effects": [
+                {
+                    "description": "自身的宝具威力提升(3回合)",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "20%"
+                    ]
+                },
+                {
+                    "description": "暴击威力提升(3回合)<Over Charge时效果提升>",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "50%",
+                        "62.5%",
+                        "75%",
+                        "87.5%",
+                        "100%"
+                    ]
+                },
+                {
+                    "description": "仅在〔水边〕场地上时，攻击力提升(1回合)",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "20%"
+                    ]
+                },
+                {
+                    "description": "对敌方单体发动超强大的攻击<宝具升级效果提升>",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "600%",
+                        "800%",
+                        "900%",
+                        "950%",
+                        "1000%"
+                    ]
+                }
+            ]
+        }
+    ],
+    "noblePhantasmEn": [
+        {
+            "state": "Rank B+",
+            "openCondition": null,
+            "name": "Sea Serpent Storm Blue",
+            "nameJp": null,
+            "upperName": "Sea Serpent Storm Blue",
+            "upperNameJp": null,
+            "color": "Buster",
+            "category": "",
+            "rank": "B+",
+            "typeText": "Anti-Unit",
+            "effects": [
+                {
+                    "description": " Increases own NP damage by 20% for 3 turns. {{Activates First}}\n Increases own attack by 20% on  Waterside Battlefield for 3 turns. {{Activates First}}\nDeals damage to one enemy.",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                },
+                {
+                    "description": " Damage +",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "600%",
+                        "800%",
+                        "900%",
+                        "950%",
+                        "1000%"
+                    ]
+                },
+                {
+                    "description": "<Over Charge>\nIncreases own critical damage for 3 turns. {{Activates First}}",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                },
+                {
+                    "description": " Crit Damage +",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "50%",
+                        "62.5%",
+                        "75%",
+                        "87.5%",
+                        "100%"
+                    ]
+                }
+            ]
+        }
+    ],
+    "activeSkills": [
+        {
+            "cnState": 0,
+            "skills": [
+                {
+                    "state": "",
+                    "openCondition": "",
+                    "name": "沙滩危机（波塞冬）",
+                    "nameJp": "ビーチクライシス（ポセイドン）",
+                    "nameEn": null,
+                    "rank": "EX",
+                    "icon": "加攻.png",
+                    "cd": 7,
+                    "effects": [
+                        {
+                            "description": "己方全体的攻击力提升(3回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "10%",
+                                "11%",
+                                "12%",
+                                "13%",
+                                "14%",
+                                "15%",
+                                "16%",
+                                "17%",
+                                "18%",
+                                "20%"
+                            ]
+                        },
+                        {
+                            "description": "己方全体〔〔男性〕·〔性别不明〕〕的暴击威力提升(3回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "20%",
+                                "21%",
+                                "22%",
+                                "23%",
+                                "24%",
+                                "25%",
+                                "26%",
+                                "27%",
+                                "28%",
+                                "30%"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "cnState": 0,
+            "skills": [
+                {
+                    "state": "",
+                    "openCondition": "",
+                    "name": "海王流",
+                    "nameJp": "海王流",
+                    "nameEn": null,
+                    "rank": "B",
+                    "icon": "红蓝放.png",
+                    "cd": 8,
+                    "effects": [
+                        {
+                            "description": "自身的Arts指令卡性能提升(3回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "20%",
+                                "21%",
+                                "22%",
+                                "23%",
+                                "24%",
+                                "25%",
+                                "26%",
+                                "27%",
+                                "28%",
+                                "30%"
+                            ]
+                        },
+                        {
+                            "description": "Buster指令卡性能提升(3回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "20%",
+                                "21%",
+                                "22%",
+                                "23%",
+                                "24%",
+                                "25%",
+                                "26%",
+                                "27%",
+                                "28%",
+                                "30%"
+                            ]
+                        },
+                        {
+                            "description": "获得暴击星",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "5",
+                                "6",
+                                "7",
+                                "8",
+                                "9",
+                                "10",
+                                "11",
+                                "12",
+                                "13",
+                                "15"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "cnState": 0,
+            "skills": [
+                {
+                    "state": "",
+                    "openCondition": "",
+                    "name": "夏日战斗",
+                    "nameJp": "サマータイム・コンバット",
+                    "nameEn": null,
+                    "rank": "B+",
+                    "icon": "毅力.png",
+                    "cd": 8,
+                    "effects": [
+                        {
+                            "description": "付与自身毅力状态(1次·3回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "1000",
+                                "1200",
+                                "1400",
+                                "1600",
+                                "1800",
+                                "2000",
+                                "2200",
+                                "2400",
+                                "2600",
+                                "3000"
+                            ]
+                        },
+                        {
+                            "description": "付与毎回合获得暴击星状态(3回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "5",
+                                "6",
+                                "6",
+                                "7",
+                                "7",
+                                "8",
+                                "8",
+                                "9",
+                                "9",
+                                "10"
+                            ]
+                        },
+                        {
+                            "description": "仅在〔水边〕场地上时，暴击星集中度提升(3回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "300%",
+                                "320%",
+                                "340%",
+                                "360%",
+                                "380%",
+                                "400%",
+                                "420%",
+                                "440%",
+                                "460%",
+                                "500%"
+                            ]
+                        },
+                        {
+                            "description": "仅在〔水边〕场地上时，付与毎回合获得暴击星状态(3回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "5",
+                                "6",
+                                "6",
+                                "7",
+                                "7",
+                                "8",
+                                "8",
+                                "9",
+                                "9",
+                                "10"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "activeSkillsEn": [
+        {
+            "cnState": 0,
+            "skills": [
+                {
+                    "state": "",
+                    "openCondition": null,
+                    "name": "Beach Crisis (Poseidon)",
+                    "nameJp": null,
+                    "nameEn": null,
+                    "rank": "EX",
+                    "icon": "加攻.png",
+                    "cd": 7,
+                    "effects": [
+                        {
+                            "description": "Increases party's attack for 3 turns.\nIncreases the critical damage of Male or Unknown Gender allies for 3 turns.",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": []
+                        },
+                        {
+                            "description": " Attack +",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "10%",
+                                "11%",
+                                "12%",
+                                "13%",
+                                "14%",
+                                "15%",
+                                "16%",
+                                "17%",
+                                "18%",
+                                "20%"
+                            ]
+                        },
+                        {
+                            "description": " Male or Unknown Gender Crit Damage +",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "20%",
+                                "21%",
+                                "22%",
+                                "23%",
+                                "24%",
+                                "25%",
+                                "26%",
+                                "27%",
+                                "28%",
+                                "30%"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "cnState": 0,
+            "skills": [
+                {
+                    "state": "",
+                    "openCondition": null,
+                    "name": "Sea King-Style",
+                    "nameJp": null,
+                    "nameEn": null,
+                    "rank": "B",
+                    "icon": "红蓝放.png",
+                    "cd": 8,
+                    "effects": [
+                        {
+                            "description": "Increases own Arts performance for 3 turns.\nIncreases own Buster performance for 3 turns.\nGains critical stars.",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": []
+                        },
+                        {
+                            "description": " Arts +",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "20%",
+                                "21%",
+                                "22%",
+                                "23%",
+                                "24%",
+                                "25%",
+                                "26%",
+                                "27%",
+                                "28%",
+                                "30%"
+                            ]
+                        },
+                        {
+                            "description": " Buster +",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "20%",
+                                "21%",
+                                "22%",
+                                "23%",
+                                "24%",
+                                "25%",
+                                "26%",
+                                "27%",
+                                "28%",
+                                "30%"
+                            ]
+                        },
+                        {
+                            "description": " Stars +",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "5",
+                                "6",
+                                "7",
+                                "8",
+                                "9",
+                                "10",
+                                "11",
+                                "12",
+                                "13",
+                                "15"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "cnState": 0,
+            "skills": [
+                {
+                    "state": "",
+                    "openCondition": null,
+                    "name": "Summertime Combat",
+                    "nameJp": null,
+                    "nameEn": null,
+                    "rank": "B+",
+                    "icon": "毅力.png",
+                    "cd": 8,
+                    "effects": [
+                        {
+                            "description": "Grants self Guts status for 1 time, 3 turns.\nGains critical stars every turn for 3 turns.\nIncreases own critical star absorption on  Waterside Battlefield for 3 turns.\nGains critical stars every turn on  Waterside Battlefield for 3 turns.",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": []
+                        },
+                        {
+                            "description": " Revives with",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "1000 HP",
+                                "1200 HP",
+                                "1400 HP",
+                                "1600 HP",
+                                "1800 HP",
+                                "2000 HP",
+                                "2200 HP",
+                                "2400 HP",
+                                "2600 HP",
+                                "3000 HP"
+                            ]
+                        },
+                        {
+                            "description": " Star Regen +",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "5",
+                                "6",
+                                "6",
+                                "7",
+                                "7",
+                                "8",
+                                "8",
+                                "9",
+                                "9",
+                                "10"
+                            ]
+                        },
+                        {
+                            "description": " Waterside Absorption +",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "300%",
+                                "320%",
+                                "340%",
+                                "360%",
+                                "380%",
+                                "400%",
+                                "420%",
+                                "440%",
+                                "460%",
+                                "500%"
+                            ]
+                        },
+                        {
+                            "description": " Waterside Star Regen +",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "5",
+                                "6",
+                                "6",
+                                "7",
+                                "7",
+                                "8",
+                                "8",
+                                "9",
+                                "9",
+                                "10"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "passiveSkills": [
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "骑乘",
+            "nameJp": null,
+            "nameEn": null,
+            "rank": "EX",
+            "icon": "骑乘.png",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": "自身的Quick指令卡性能提升(12%)",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                }
+            ]
+        },
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "海神的神核",
+            "nameJp": null,
+            "nameEn": null,
+            "rank": "B",
+            "icon": "神性.png",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": "付与自身伤害附加状态(225)＆Arts指令卡性能提升(8%)",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                }
+            ]
+        }
+    ],
+    "passiveSkillsEn": [
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "Riding",
+            "nameJp": null,
+            "nameEn": null,
+            "rank": "EX",
+            "icon": "fandom.riding.png",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": " Increases own Quick performance by 12%.",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                }
+            ]
+        },
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "Sea God's Essence",
+            "nameJp": null,
+            "nameEn": null,
+            "rank": "B",
+            "icon": "fandom.divinity.png",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": " Increases own damage by 225.\n Increases own Arts performance by 8%.",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                }
+            ]
+        }
+    ],
+    "appendSkills": [
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "追击技巧提升",
+            "nameJp": "追撃技巧向上",
+            "nameEn": "Extra Attack Finesse Improvement",
+            "rank": null,
+            "icon": "特攻",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": "自身的Extra Attack指令卡性能提升",
+                    "descriptionJp": "自身のExtra Attackカードの性能をアップする",
+                    "descriptionEn": "Increases own Extra Attack performance",
+                    "lvData": [
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "38%",
+                        "40%",
+                        "42%",
+                        "44%",
+                        "46%",
+                        "50%"
+                    ]
+                }
+            ]
+        },
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "魔力装填",
+            "nameJp": "魔力装填",
+            "nameEn": "Mana Loading",
+            "rank": null,
+            "icon": "充能",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": "自身以NP已达一定数值的状态开始战斗",
+                    "descriptionJp": "自身のNPをチャージした状態でバトルを開始する",
+                    "descriptionEn": "Starts battle with NP gauge",
+                    "lvData": [
+                        "10%",
+                        "11%",
+                        "12%",
+                        "13%",
+                        "14%",
+                        "15%",
+                        "16%",
+                        "17%",
+                        "18%",
+                        "20%"
+                    ]
+                }
+            ]
+        },
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "对Lancer攻击适性",
+            "nameJp": "対Lancer攻撃適性",
+            "nameEn": "Anti-Lancer Attack Damage Aptitude",
+            "rank": null,
+            "icon": "加攻",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": "自身对Lancer的攻击力提升",
+                    "descriptionJp": "自身の〔Lancer〕クラスに対する攻撃力をアップする",
+                    "descriptionEn": "Increases own attack against Lancer enemies",
+                    "lvData": [
+                        "20%",
+                        "21%",
+                        "22%",
+                        "23%",
+                        "24%",
+                        "25%",
+                        "26%",
+                        "27%",
+                        "28%",
+                        "30%"
+                    ]
+                }
+            ]
+        }
+    ],
+    "coinSummonNum": 50,
+    "itemCost": {
+        "ascension": [
+            {
+                "骑阶银棋": 4,
+                "QP": 50000
+            },
+            {
+                "骑阶银棋": 10,
+                "追忆的贝壳": 6,
+                "QP": 150000
+            },
+            {
+                "骑阶金像": 4,
+                "愚者之锁": 24,
+                "战马的幼角": 3,
+                "QP": 500000
+            },
+            {
+                "骑阶金像": 10,
+                "战马的幼角": 5,
+                "蛮神心脏": 4,
+                "QP": 1500000
+            }
+        ],
+        "skill": [
+            {
+                "骑之辉石": 4,
+                "QP": 100000
+            },
+            {
+                "骑之辉石": 10,
+                "QP": 200000
+            },
+            {
+                "骑之魔石": 4,
+                "QP": 600000
+            },
+            {
+                "骑之魔石": 10,
+                "愚者之锁": 12,
+                "QP": 800000
+            },
+            {
+                "骑之秘石": 4,
+                "愚者之锁": 24,
+                "QP": 2000000
+            },
+            {
+                "骑之秘石": 10,
+                "追忆的贝壳": 4,
+                "QP": 2500000
+            },
+            {
+                "追忆的贝壳": 8,
+                "陨蹄铁": 5,
+                "QP": 5000000
+            },
+            {
+                "陨蹄铁": 15,
+                "神脉灵子": 20,
+                "QP": 6000000
+            },
+            {
+                "传承结晶": 1,
+                "QP": 10000000
+            }
+        ],
+        "appendSkill": [
+            {
+                "骑之辉石": 4,
+                "QP": 100000
+            },
+            {
+                "骑之辉石": 10,
+                "QP": 200000
+            },
+            {
+                "骑之魔石": 4,
+                "QP": 600000
+            },
+            {
+                "骑之魔石": 10,
+                "混沌之爪": 3,
+                "QP": 800000
+            },
+            {
+                "骑之秘石": 4,
+                "混沌之爪": 5,
+                "QP": 2000000
+            },
+            {
+                "骑之秘石": 10,
+                "黑兽脂": 3,
+                "QP": 2500000
+            },
+            {
+                "黑兽脂": 5,
+                "光银之冠": 5,
+                "QP": 5000000
+            },
+            {
+                "光银之冠": 15,
+                "永远结冰": 20,
+                "QP": 6000000
+            },
+            {
+                "传承结晶": 1,
+                "QP": 10000000
+            }
+        ]
+    },
+    "costumeNos": [],
+    "bondPoints": [
+        3500,
+        8500,
+        7000,
+        6000,
+        2500,
+        272500,
+        330000,
+        310000,
+        290000,
+        286000,
+        1090000,
+        1230000,
+        1360000,
+        1500000,
+        1640000
+    ],
+    "profiles": [
+        {
+            "title": "0",
+            "description": "换上泳装成为Rider灵基的凯妮斯。\n承担着戈尔德鲁夫雇来的临时护卫一职。\n\n身为夏日迦勒底的临时保安，\n她打算一边完成任务一边在闲暇时间里好好享受。\n如果是Lancer灵基的话，基本不会独自靠近海边，但这次的灵基或许能让她抱着「稍微去看看」的想法抓起冲浪板冲向海边。",
+            "descriptionJp": "水着に着替えたことでライダー霊基となったカイニス。\nゴルドルフに雇われた臨時保安要員というポジション。\n\n夏のカルデア臨時保安要員として任務を全うしつつ、\n合間ではそれなりに楽しむつもりである。\nランサー霊基であれば海辺に一人で近づくことはまずないが、今回の霊基では「ちょっと行ってくる」とサーフボードを持って海に入っていくこともなくもない。",
+            "descriptionEn": null,
+            "condition": null,
+            "conditionEn": null
+        },
+        {
+            "title": "1",
+            "description": "身高／体重：174cm・59kg\n出典：希腊神话\n地域：欧洲\n属性：中立・夏　　性別：―\n讨厌的东西还是大海。",
+            "descriptionJp": "身長／体重：174cm・59kg\n出典：ギリシャ神話\n地域：欧州\n属性：中立・夏　　性別：―\n嫌いなものは相変わらず海のまま。",
+            "descriptionEn": null,
+            "condition": "羁绊达到Lv.1后开放",
+            "conditionEn": null
+        },
+        {
+            "title": "2",
+            "description": "因为换上了泳装，凯妮斯的灵基发生了变化。\n性格倒是和原来一样……\n非要说的话，出于被戈尔德鲁夫雇来当夏季迦勒底临时保安的原因，比平常更平易近人了。\n\n实际上是因为不怎么找茬儿打架了。\n（也不是完全不打了）",
+            "descriptionJp": "水着に着替えたことでカイニスの霊基は変化した。\n性格に根本的な変化はないが……\n強いて言えば、夏のカルデア臨時保安要員としてゴルドルフに雇われた結果、普段よりも比較的とっつきやすくなっている模様。\n\n実際、さほど喧嘩を売って来ない。\n（まったく売って来ない訳ではない）",
+            "descriptionEn": null,
+            "condition": "羁绊达到Lv.2后开放",
+            "conditionEn": null
+        },
+        {
+            "title": "3",
+            "description": "○骑乘：EX\n凯妮斯的坐骑是水龙―――\n传说中的大海蛇（sea serpent），龙种的亚种。\n虽是亚种但能够自在驾驭龙种的凯尼斯，骑乘技能高出规格。\n\n○海滩危机（波塞冬）：EX\n和海滨之花，海滨危机等夏日灵基技能相似但有区别的技能。\n被楚楚动人的少女的容貌吸引的所有人都将被海神诅咒。\n「和平常相比露出度明明没什么变化，为什么会有这个技能呢？」\n说出此言的弗格斯荣获诅咒大礼包。",
+            "descriptionJp": "○騎乗：ＥＸ\nカイニスの乗騎は水竜―――\n伝説上の大海蛇（シーサーペント）であり、\n竜種の亜種である。\n亜種とはいえ竜種を自在に乗りこなすため、騎乗スキルのランクは規格外となる。\n\n○ビーチクライシス（ポセイドン）：ＥＸ\nビーチフラワー、ビーチクライシス等の夏霊基スキルに似て非なるスキル。\n美しく完成された乙女の姿に惹かれた者は、\nことごとく海神の呪詛を浴びる。\n「普段とさして露出も変わらんだろうに、なぜこんなスキルが？」と言いながらフェルグスは呪われた。",
+            "descriptionEn": null,
+            "condition": "羁绊达到Lv.3后开放",
+            "conditionEn": null
+        },
+        {
+            "title": "4",
+            "description": "○海王流：B\n和柳生但马守共同开发的原创战斗技巧。\n强化了使用者在水边的战斗。\n凯尼斯声称「这也就是玩玩，玩玩而已」。\n不是通过切磋研究出来的，也不是能流传到后世的东西。\n只是想试试看尝尝鲜的恶作剧。是仅属于此夏的梦。\n\n○夏日战斗：B+\n由夏日迦勒底临时保安的心得形成的技能。\n增强战斗性能，特别是在水边的战斗，使用时可获得额外加成。",
+            "descriptionJp": "○海王流：Ｂ\n柳生但馬守と共に共同開発したオリジナル戦闘術。\n水辺での戦闘に特化している。\nカイニスいわく「こんなもんは遊びだ、遊び」。\n切磋琢磨して生み出したものでもなければ、後の時代に残るものでもない。\nちょっとやってみようか、うむやってみよう、\nで試してみただけの悪ふざけ。一夏の夢。\n\n○サマータイム・コンバット：Ｂ＋\n夏のカルデア臨時保安要員としての心得が\nカタチとなったスキル。\n戦闘性能の増強。特に、水辺での戦闘時には追加の\nボーナスが加わることになる。",
+            "descriptionEn": null,
+            "condition": "羁绊达到Lv.4后开放",
+            "conditionEn": null
+        },
+        {
+            "title": "5",
+            "description": "『疾驰吧，吾之海色巨牙』\n等级：B+　种类：对人宝具\n范围：１～５０　最大捕捉：１人\n\nSea Serpent Storm Blue。\n利用坐骑水龙在海面疾驰，使出全力投掷。\n被投出去的鱼叉附加了水龙形状的魔力\n直击对手，进行破坏。\n据说在水边真名解放时，攻击力会进一步强化。\n\n以及，凯妮斯使用的鱼叉\n是Lancer时的宝具『海神的三叉戟』变化而来的。\n第３再临时可以通过外观窥探出原型。",
+            "descriptionJp": "『疾駆せよ、わが海色の大牙』\nランク：Ｂ＋　種別：対人宝具\nレンジ：１～５０　最大捕捉：１人\n\nシーサーペント・ストームブルー。\n乗騎である水竜で海面を疾駆しながらの全力投擲。\n放たれた銛は、水竜が如き形状の魔力を纏いながら\n対象を直撃、破壊する。\n水辺での真名解放時には攻撃力が強化されるという。\n\nなお、使用される銛は\nランサー時の宝具『海神の三叉矛』が変化したもの。\n第３再臨時の外観でその片鱗を窺うことができる。",
+            "descriptionEn": null,
+            "condition": "羁绊达到Lv.5后开放",
+            "conditionEn": null
+        },
+        {
+            "title": "6",
+            "description": "「今年夏天的我，就是被迦勒底雇佣的\n　所谓的临时安保人员了―――」\n本灵基的凯妮斯对此有着强烈的自觉。\n\n这是拜戈尔德鲁夫的直接委托所赐。\n所以，不管是对Master还是对其他泳装英灵，都抱有一点保护者心态……\n不过这种心态很难从外表察觉到，\n在别人眼中她还是那个往常的凯妮斯。",
+            "descriptionJp": "「今年の夏のオレはカルデアに雇われた、\n　臨時保安要員って奴なんだとさ―――」\n\n本霊基のカイニスにはそういう意識が強い。\nゴルドルフから直々に依頼されたが故である。\nなので、マスターに対しても、他の水着英霊に対しても、やや保護者視点を抱いているのだが……\nぱっと見はわかりにくく、\nいつも通りのカイニスに見えるのであった。",
+            "descriptionEn": null,
+            "condition": "通关 迦勒底·夏日大冒险！ ～追梦少年与怀梦少女～ 且 羁绊达到Lv.5开放",
+            "conditionEn": null
+        },
+        {
+            "title": "aprilfool",
+            "description": null,
+            "descriptionJp": null,
+            "descriptionEn": null,
+            "condition": null,
+            "conditionEn": null
+        }
+    ],
+    "voices": [
+        {
+            "section": "战斗",
+            "table": [
+                {
+                    "title": "开始 1",
+                    "text": "",
+                    "textJp": "さあて、やるか！",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV322_0_开始1.mp3"
+                },
+                {
+                    "title": "开始 2",
+                    "text": "",
+                    "textJp": "たたむぜ！",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV322_0_开始2.mp3"
+                },
+                {
+                    "title": "开始 3",
+                    "text": "",
+                    "textJp": "行くぜ",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV322_0_开始3.mp3"
+                },
+                {
+                    "title": "开始 4",
+                    "text": "",
+                    "textJp": "とっとと片付けっか",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV322_0_开始4.mp3"
+                },
+                {
+                    "title": "技能 1",
+                    "text": "",
+                    "textJp": "ッハハ！",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV322_0_技能1.mp3"
+                },
+                {
+                    "title": "技能 2",
+                    "text": "",
+                    "textJp": "海王流だ！",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV322_0_技能2.mp3"
+                },
+                {
+                    "title": "技能 3",
+                    "text": "",
+                    "textJp": "いくぞオラ！",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV322_0_技能3.mp3"
+                },
+                {
+                    "title": "指令卡 1",
+                    "text": "",
+                    "textJp": "あぁ？",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV322_0_指令卡1.mp3"
+                },
+                {
+                    "title": "指令卡 2",
+                    "text": "",
+                    "textJp": "そうかよ！",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV322_0_指令卡2.mp3"
+                },
+                {
+                    "title": "指令卡 3",
+                    "text": "",
+                    "textJp": "うるせェ！",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV322_0_指令卡3.mp3"
+                },
+                {
+                    "title": "宝具卡 1",
+                    "text": "",
+                    "textJp": "好きにやるぜ",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV322_0_宝具卡1.mp3"
+                },
+                {
+                    "title": "宝具卡 2",
+                    "text": "",
+                    "textJp": "さーてとー！",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV322_0_宝具卡2.mp3"
+                },
+                {
+                    "title": "攻击 1",
+                    "text": "",
+                    "textJp": "そおりゃ！",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV322_0_攻击1.mp3"
+                },
+                {
+                    "title": "攻击 2",
+                    "text": "",
+                    "textJp": "フン！",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV322_0_攻击2.mp3"
+                },
+                {
+                    "title": "攻击 3",
+                    "text": "",
+                    "textJp": "づぇい！",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV322_0_攻击3.mp3"
+                },
+                {
+                    "title": "攻击 4",
+                    "text": "",
+                    "textJp": "どらァ！",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV322_0_攻击4.mp3"
+                },
+                {
+                    "title": "攻击 5",
+                    "text": "",
+                    "textJp": "ハハハ！",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV322_0_攻击5.mp3"
+                },
+                {
+                    "title": "攻击 6",
+                    "text": "",
+                    "textJp": "そらよォ！",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV322_0_攻击6.mp3"
+                },
+                {
+                    "title": "Extra 1",
+                    "text": "",
+                    "textJp": "シーサーペント！",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV322_0_Extra1.mp3"
+                },
+                {
+                    "title": "Extra 2",
+                    "text": "",
+                    "textJp": "くらえ！",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV322_0_Extra2.mp3"
+                },
+                {
+                    "title": "Extra 3",
+                    "text": "",
+                    "textJp": "そらそらァ！",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV322_0_Extra3.mp3"
+                },
+                {
+                    "title": "宝具 1",
+                    "text": "",
+                    "textJp": "行くぜオラァ！ 海原を往くは我！ 大海を征すは我！ 『疾駆せよ、わが海色の大牙』！！",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV322_0_宝具1.mp3"
+                },
+                {
+                    "title": "宝具 2",
+                    "text": "",
+                    "textJp": "来い、水竜───！ 何処までも往け！ 何もかも貫け！ 『疾駆せよ、わが海色の大牙』！！",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV322_0_宝具2.mp3"
+                },
+                {
+                    "title": "受击 1",
+                    "text": "",
+                    "textJp": "クソッ！",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV322_0_受击1.mp3"
+                },
+                {
+                    "title": "受击 2",
+                    "text": "",
+                    "textJp": "つッ……",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV322_0_受击2.mp3"
+                },
+                {
+                    "title": "受击 3",
+                    "text": "",
+                    "textJp": "ッてぇーなァ！",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV322_0_受击3.mp3"
+                },
+                {
+                    "title": "受击 4",
+                    "text": "",
+                    "textJp": "……ぐッ！",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV322_0_受击4.mp3"
+                },
+                {
+                    "title": "无法战斗 1",
+                    "text": "",
+                    "textJp": "ちっと休む……",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV322_0_无法战斗1.mp3"
+                },
+                {
+                    "title": "无法战斗 2",
+                    "text": "",
+                    "textJp": "つっかれちまった……",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV322_0_无法战斗2.mp3"
+                },
+                {
+                    "title": "无法战斗 3",
+                    "text": "",
+                    "textJp": "くっそォ……",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV322_0_无法战斗3.mp3"
+                },
+                {
+                    "title": "无法战斗 4",
+                    "text": "",
+                    "textJp": "マジ、かよ……",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV322_0_无法战斗4.mp3"
+                },
+                {
+                    "title": "胜利 1",
+                    "text": "",
+                    "textJp": "ハハ！ 勝ちだ！",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV322_0_胜利1.mp3"
+                },
+                {
+                    "title": "胜利 2",
+                    "text": "",
+                    "textJp": "当然だよなァ！ オイ！",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV322_0_胜利2.mp3"
+                },
+                {
+                    "title": "胜利 3",
+                    "text": "",
+                    "textJp": "こんなもんだろ！",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV322_0_胜利3.mp3"
+                },
+                {
+                    "title": "胜利 4",
+                    "text": "",
+                    "textJp": "ッハハハハハハ！",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV322_0_胜利4.mp3"
+                }
+            ]
+        },
+        {
+            "section": "召唤和强化",
+            "table": [
+                {
+                    "title": "召唤",
+                    "text": "",
+                    "textJp": "───神霊カイニス、ライダー霊基っと。にしても、なァ……どいつもこいつも浮かれやがって。ったく、カルデアってのはいつもこうかよ？仕方ねえ。オレくらいは気を引き締めてやんねぇと……あ？　オレの格好？そりゃ水着っちゃ水着だが、オレのは保安要員だ。───必要だろうが。なァ？",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV322_0_召唤.mp3"
+                },
+                {
+                    "title": "升级 1",
+                    "text": "",
+                    "textJp": "おう",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV322_0_升级1.mp3"
+                },
+                {
+                    "title": "升级 2",
+                    "text": "",
+                    "textJp": "悪いな",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV322_0_升级2.mp3"
+                },
+                {
+                    "title": "升级 3",
+                    "text": "",
+                    "textJp": "ま、ありがとよ",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV322_0_升级3.mp3"
+                },
+                {
+                    "title": "灵基再临 1",
+                    "text": "",
+                    "textJp": "よし、どうだ。ちっとは保安要員っぽくできたろう？ いいねぇ。……似合ってる？ ハッ、そいつはどうも",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV322_0_灵基再临1.mp3"
+                },
+                {
+                    "title": "灵基再临 2",
+                    "text": "",
+                    "textJp": "おう。と、この段階じゃ姿は変わらないか",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV322_0_灵基再临2.mp3"
+                },
+                {
+                    "title": "灵基再临 3",
+                    "text": "",
+                    "textJp": "これだこれ！ やっとガチの保安要員っぽくなったな。悪くない。どうだ？ 似合ってるだろ？ ハハ！ そうだろ！",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV322_0_灵基再临3.mp3"
+                },
+                {
+                    "title": "灵基再临 4",
+                    "text": "",
+                    "textJp": "霊基が変わるとか、なぁ？ 話に聞いちゃいたが、いざ自分がそうなるとおかしなもんだぜ。ま、そう悪くはねぇ。季節の度にコロコロ変わるわけでもなさそうだしな。とりあえず、この夏は付き合ってやるよ",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV322_0_灵基再临4.mp3"
+                }
+            ]
+        },
+        {
+            "section": "个人空间",
+            "table": [
+                {
+                    "title": "羁绊 Lv.1",
+                    "text": "",
+                    "textJp": "夏の霊基ねぇ……いまいちまだピンと来ねぇが、乗りかかった船だ。ゴッフのおっさんにも頭下げられたしな。保安要員として働いてやるよ！ ただし……オレは高いぜ？ 覚悟しとけよ！",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV322_0_羁绊Lv1.mp3"
+                },
+                {
+                    "title": "羁绊 Lv.2",
+                    "text": "",
+                    "textJp": "はしゃぐのは好きにしろ。たまの休みなんだろ？ だが、海をあんまりナメんじゃねぇぞ。いいな？ ……返事！ ……よし",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV322_0_羁绊Lv2.mp3"
+                },
+                {
+                    "title": "羁绊 Lv.3",
+                    "text": "",
+                    "textJp": "キャンプ……キャンプねぇ。屋根のない場所での野営なんぞは昔にもあったが……『レジャー』っつーのか？ 兵士でも盗賊でもなけりゃあ、旅人でもない身の上で、ガキまで混ざって楽しむ野営の類。人間様ってのはほんと、何でもそういう風にできちまうんだな。いや、非難してるわけじゃねぇ……褒めてもねぇが",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV322_0_羁绊Lv3.mp3"
+                },
+                {
+                    "title": "羁绊 Lv.4",
+                    "text": "",
+                    "textJp": "今夜、なんか食いたいモンあるか？ 気が向いたら作ってやんよ。ああ、厨房の連中みたいに凝ったモンはできねぇから、そう思え。……ん？ カレー？ ああ、あれ気に入ったのか！ フン、わかった。今夜はカレーにしてやる。楽しみにしてろ",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV322_0_羁绊Lv4.mp3"
+                },
+                {
+                    "title": "羁绊 Lv.5",
+                    "text": "",
+                    "textJp": "面倒見が良い……？ オレが？ ハッ、冗談言うな、笑えねぇよ。……あ？ なんだ真顔で。……なっ……はあ！？ じ、冗談言ってんじゃねぇぞ馬鹿！ ガキに声掛けすんのも、飯作ってやんのも、全部保安要員の仕事のうちだ馬鹿！ わかったらさっさと寝ろ！ ……ったく",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV322_0_羁绊Lv5.mp3"
+                },
+                {
+                    "title": "对话 1",
+                    "text": "",
+                    "textJp": "どっか行くのか？ 一人であんま遠くへ行くんじゃねえぞ",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV322_0_对话1.mp3"
+                },
+                {
+                    "title": "对话 2",
+                    "text": "",
+                    "textJp": "今のオレは保安要員、護衛役だ。コイツはコイツで分かりやすいよな",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV322_0_对话2.mp3"
+                },
+                {
+                    "title": "对话 3",
+                    "text": "",
+                    "textJp": "お前が何かする、オレが守る。ハハ！ 普段よりよほどしっくりくるぜ！ ……つっても、ぶっちゃけ守るより攻める方が好きなんだけどな……",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV322_0_对话3.mp3"
+                },
+                {
+                    "title": "对话 4",
+                    "text": "",
+                    "textJp": "おう、アーラシュ。仕事終わったらビール飲もうや。おう！",
+                    "textEn": null,
+                    "condition": "持有阿拉什",
+                    "voiceFile": "SV322_0_对话4.mp3"
+                },
+                {
+                    "title": "对话 5",
+                    "text": "",
+                    "textJp": "ああ、ガキ。そこのガキ。あんま遅くまで遊び歩いてんじゃねえぞ。日が暮れるまでには帰れ。いいな？ いーいーな？",
+                    "textEn": null,
+                    "condition": "持有部分从者",
+                    "voiceFile": "SV322_0_对话5.mp3"
+                },
+                {
+                    "title": "对话 6",
+                    "text": "",
+                    "textJp": "よお、厨房の。後でちょっといいか？ キャンプで作りやすいメニューってのをよ。おお、頼むわ",
+                    "textEn": null,
+                    "condition": "持有部分从者",
+                    "voiceFile": "SV322_0_对话6.mp3"
+                },
+                {
+                    "title": "对话 7",
+                    "text": "",
+                    "textJp": "お前らと酒飲むの、悪かねぇんだが……なんつーか、なぁ……",
+                    "textEn": null,
+                    "condition": "持有部分从者",
+                    "voiceFile": "SV322_0_对话7.mp3"
+                },
+                {
+                    "title": "对话 8",
+                    "text": "",
+                    "textJp": "あん？ なんだよ。保安要員気取ってると、まるで昔みたいだって？ ハハ！ 冗談言うなイアソン。昔のオレは……うーん、オレとしちゃあ切り込み隊長くらいの……うーん？",
+                    "textEn": null,
+                    "condition": "持有伊阿宋",
+                    "voiceFile": "SV322_0_对话8.mp3"
+                },
+                {
+                    "title": "对话 9",
+                    "text": "",
+                    "textJp": "なんだよマルタ、今日のオレは一味違うぜ？ 叱られる筋合いはねえなぁ。……なに？ いつもそうしていてくれればいいのにだあ？ こんなもんは今だけだ！ 今だけ！",
+                    "textEn": null,
+                    "condition": "持有玛尔达、玛尔达(Ruler)",
+                    "voiceFile": "SV322_0_对话9.mp3"
+                },
+                {
+                    "title": "对话 10",
+                    "text": "",
+                    "textJp": "お、モードレッド！ ヒマしてんならちょっと手伝え。モヤシも連れてこい。どっちも保安要員の予備だ！ 予備！",
+                    "textEn": null,
+                    "condition": "持有莫德雷德、莫德雷德(Rider)",
+                    "voiceFile": "SV322_0_对话10.mp3"
+                },
+                {
+                    "title": "对话 11",
+                    "text": "",
+                    "textJp": "トリトンよぉ……なぁ、いいんだぜ？ そんなナリしてんだ、ガキどもと一緒にはしゃいだって、マスターも何も言わねえんじゃねえか？ ……いーやぁ？ からかってなんかねえぜぇ？ ガキはガキらしく、走り回って遊んでりゃいいんじゃねえかぁ？",
+                    "textEn": null,
+                    "condition": "持有尼莫",
+                    "voiceFile": "SV322_0_对话11.mp3"
+                },
+                {
+                    "title": "对话 12",
+                    "text": "",
+                    "textJp": "お、いたいた。アルゴー号の昔馴染み同士、後で酒でも飲むか？",
+                    "textEn": null,
+                    "condition": "持有部分从者",
+                    "voiceFile": "SV322_0_对话12.mp3"
+                },
+                {
+                    "title": "对话 13",
+                    "text": "",
+                    "textJp": "但馬のジジイ！ 後で一つ、手合わせ頼むぜ。またいいのを思いついたからよ。おう、ハハ！ 頼む！",
+                    "textEn": null,
+                    "condition": "持有柳生但马守宗矩",
+                    "voiceFile": "SV322_0_对话13.mp3"
+                },
+                {
+                    "title": "对话 14",
+                    "text": "",
+                    "textJp": "よお、金時の坊ちゃん。どうだ？ テメェも保安要員……って、なにそっぽなんざ向いてやがる。あ？ シカトか？ ……なに？ 露出？ オレの？ 何言ってんだテメェ？",
+                    "textEn": null,
+                    "condition": "持有坂田金时(Rider)、坂田金时",
+                    "voiceFile": "SV322_0_对话14.mp3"
+                },
+                {
+                    "title": "对话 15",
+                    "text": "",
+                    "textJp": "よ、ダ・ヴィンチ。あんま遅くまで遊んでんじゃねーぞ。さっさと寝ろ",
+                    "textEn": null,
+                    "condition": "持有莱昂纳多·达·芬奇(Ruler)",
+                    "voiceFile": "SV322_0_对话15.mp3"
+                },
+                {
+                    "title": "对话 16",
+                    "text": "",
+                    "textJp": "よぉ、ダ・ヴィンチ。どうだ？ 遊び足りたか？ ……そうか。……ああ。……そうだな",
+                    "textEn": null,
+                    "condition": "持有莱昂纳多·达·芬奇(Ruler)",
+                    "voiceFile": "SV322_0_对话16.mp3"
+                },
+                {
+                    "title": "喜欢的东西",
+                    "text": "",
+                    "textJp": "魚？ ……まあ、食うぞ。……好きか嫌いか？ まあ、好きな部類だな。ああ、オレはな、海は大っ嫌いだが、海に生きてるもんまで嫌っちゃいねえ。美味いもんは美味いし、愛嬌あるやつは愛嬌がある",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV322_0_喜欢的东西.mp3"
+                },
+                {
+                    "title": "讨厌的东西",
+                    "text": "",
+                    "textJp": "海は当然好きじゃねえし、世界中の海なんざ死ねばいいが",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV322_0_讨厌的东西.mp3"
+                },
+                {
+                    "title": "关于圣杯",
+                    "text": "",
+                    "textJp": "聖杯なぁ……ああそうだ、冷えた酒注ぐのは良さそうだ。ビールだビール、ありゃ冷やすと美味い。ピルスナー……だったか？ フッ、そいつだ！",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV322_0_关于圣杯.mp3"
+                },
+                {
+                    "title": "活动举行中",
+                    "text": "",
+                    "textJp": "イベントだったか。やるなら当然全力だ。そうだろ？",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV322_0_活动举行中.mp3"
+                },
+                {
+                    "title": "生日",
+                    "text": "",
+                    "textJp": "誕生日？ ああ……じゃあ、なんか作ってやるか。つっても大したモンはできねぇが……ん？ なんだ。希望があるなら言えよ。……カレー？ ハハハハハ、お前カレー好きだなぁ！",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV322_0_生日.mp3"
+                }
+            ]
+        }
+    ],
+    "bondCraft": -1,
+    "valentineCraft": [],
+    "icons": [
+        {
+            "key": "icon1",
+            "valueList": [
+                "カイニス_status_1.png",
+                "カイニス_status_2.png",
+                "カイニス_status_3.png"
+            ]
+        }
+    ],
+    "sprites": [
+        {
+            "key": "sprite1",
+            "valueList": [
+                "カイニス_model_1.png",
+                "カイニス_model_2.png",
+                "カイニス_model_3.png"
+            ]
+        }
+    ],
+    "fandomIcons": {
+        "fandom.S322Icon.png": "Stage 1",
+        "fandom.S322A2Icon.png": "Stage 2",
+        "fandom.S322A3Icon.png": "Stage 3",
+        "fandom.S322A4Icon.png": "Stage 4",
+        "fandom.S322 portrait servant 1.png": "Portrait (Stage 1)",
+        "fandom.S322 portrait servant 2.png": "Portrait (Stage 2)",
+        "fandom.S322 portrait servant 3.png": "Portrait (Stage 3)"
+    },
+    "fandomSprites": {
+        "fandom.Caenis_Rider_1_Sprite.png": "stage 1",
+        "fandom.Caenis_Rider_2_Sprite.png": "stage 2",
+        "fandom.Caenis_Rider_3_Sprite.png": "stage 3",
+        "fandom.S322 card servant 1.png": "Command Card (Stage 1)",
+        "fandom.S322 card servant 2.png": "Command Card (Stage 2)",
+        "fandom.S322 card servant 3.png": "Command Card (Stage 3)"
+    },
+    "niceSkills": [
+        {
+            "id": 933650,
+            "num": 1,
+            "name": "ビーチクライシス（ポセイドン） EX",
+            "ruby": "びーちくらいしす（ぽせいどん）",
+            "detail": "味方全体の攻撃力をアップ(3ターン) ＋ 味方全体の〔男性・性別不明〕のクリティカル威力をアップ(3ターン)",
+            "type": "active",
+            "strengthStatus": 0,
+            "priority": 1,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "conLv": 0,
+            "condLimitCount": 0,
+            "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00300.png",
+            "coolDown": [
+                7,
+                7,
+                7,
+                7,
+                7,
+                6,
+                6,
+                6,
+                6,
+                5
+            ],
+            "functions": [
+                {
+                    "funcId": 152,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "ptAll",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "攻撃力アップ",
+                    "buffs": [
+                        {
+                            "id": 126,
+                            "name": "攻撃力アップ",
+                            "detail": "攻撃力をアップ",
+                            "type": "upAtk",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 110
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 120
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 130
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 140
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 150
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 160
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 170
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 180
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200
+                        }
+                    ]
+                },
+                {
+                    "funcId": 7598,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "ptAll",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "クリティカル威力アップ",
+                    "buffs": [
+                        {
+                            "id": 142,
+                            "name": "クリティカル威力アップ",
+                            "detail": "クリティカル時のダメージをアップ",
+                            "type": "upCriticaldamage",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 210
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 220
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 230
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 240
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 250
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 260
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 270
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 280
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 300
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 934450,
+            "num": 2,
+            "name": "海王流 B",
+            "ruby": "かいおうりゅう",
+            "detail": "自身のArtsカード性能をアップ(3ターン)＆Busterカード性能をアップ(3ターン) ＋ スターを獲得",
+            "type": "active",
+            "strengthStatus": 0,
+            "priority": 1,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "conLv": 0,
+            "condLimitCount": 1,
+            "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00315.png",
+            "coolDown": [
+                8,
+                8,
+                8,
+                8,
+                8,
+                7,
+                7,
+                7,
+                7,
+                6
+            ],
+            "functions": [
+                {
+                    "funcId": 110,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "アーツアップ",
+                    "buffs": [
+                        {
+                            "id": 101,
+                            "name": "Artsアップ",
+                            "detail": "Artsカードの性能をアップ",
+                            "type": "upCommandall",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 210
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 220
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 230
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 240
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 250
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 260
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 270
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 280
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 300
+                        }
+                    ]
+                },
+                {
+                    "funcId": 119,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "バスターアップ",
+                    "buffs": [
+                        {
+                            "id": 102,
+                            "name": "Busterアップ",
+                            "detail": "Busterカードの性能をアップ",
+                            "type": "upCommandall",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 210
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 220
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 230
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 240
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 250
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 260
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 270
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 280
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 300
+                        }
+                    ]
+                },
+                {
+                    "funcId": 476,
+                    "funcType": "gainStar",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "player",
+                    "funcPopupText": "スター獲得",
+                    "buffs": [],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Value": 5
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 6
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 7
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 8
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 9
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 10
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 11
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 12
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 13
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 15
+                        }
+                    ]
+                },
+                {
+                    "funcId": 215,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "enemy",
+                    "funcPopupText": "クリティカル発生アップ",
+                    "buffs": [
+                        {
+                            "id": 144,
+                            "name": "クリティカル発生アップ",
+                            "detail": "クリティカルの発生率をアップ",
+                            "type": "upCriticalrate",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 2,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 2,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 2,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 2,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 2,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 2,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 2,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 2,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 2,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 2,
+                            "Count": -1,
+                            "Value": 200
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 935451,
+            "num": 3,
+            "name": "サマータイム・コンバット B+",
+            "ruby": "さまーたいむ・こんばっと",
+            "detail": "自身にガッツ状態を付与(1回・3ターン)＆毎ターンスター獲得状態を付与(3ターン)＆〔水辺〕のあるフィールドにおいてのみ、スター集中度をアップ(3ターン)＆〔水辺〕のあるフィールドにおいてのみ、毎ターンスター獲得状態を付与(3ターン)",
+            "type": "active",
+            "strengthStatus": 0,
+            "priority": 1,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "conLv": 0,
+            "condLimitCount": 3,
+            "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00404.png",
+            "coolDown": [
+                8,
+                8,
+                8,
+                8,
+                8,
+                7,
+                7,
+                7,
+                7,
+                6
+            ],
+            "functions": [
+                {
+                    "funcId": 292,
+                    "funcType": "addState",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "ガッツ",
+                    "buffs": [
+                        {
+                            "id": 180,
+                            "name": "ガッツ",
+                            "detail": "HPが0になった時、HPを回復して耐える",
+                            "type": "guts",
+                            "buffGroup": 600
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 1,
+                            "Value": 1000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 1,
+                            "Value": 1200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 1,
+                            "Value": 1400
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 1,
+                            "Value": 1600
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 1,
+                            "Value": 1800
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 1,
+                            "Value": 2000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 1,
+                            "Value": 2200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 1,
+                            "Value": 2400
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 1,
+                            "Value": 2600
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 1,
+                            "Value": 3000
+                        }
+                    ]
+                },
+                {
+                    "funcId": 334,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "player",
+                    "funcPopupText": "毎ターンスター獲得",
+                    "buffs": [
+                        {
+                            "id": 121,
+                            "name": "毎ターンスター獲得",
+                            "detail": "ターン終了時にスターを獲得する",
+                            "type": "regainStar",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 5
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 6
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 6
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 7
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 7
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 8
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 8
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 9
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 9
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 10
+                        }
+                    ]
+                },
+                {
+                    "funcId": 215,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "enemy",
+                    "funcPopupText": "クリティカル発生アップ",
+                    "buffs": [
+                        {
+                            "id": 144,
+                            "name": "クリティカル発生アップ",
+                            "detail": "クリティカルの発生率をアップ",
+                            "type": "upCriticalrate",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 100
+                        }
+                    ]
+                },
+                {
+                    "funcId": 7579,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "player",
+                    "funcPopupText": "スター集中アップ：水辺",
+                    "buffs": [
+                        {
+                            "id": 3822,
+                            "name": "スター集中アップ",
+                            "detail": "〔水辺〕のあるフィールドにおいてのみ、スターの集まりやすさをアップ",
+                            "type": "upStarweight",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 3000,
+                            "ShowQuestNoEffect": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 3200,
+                            "ShowQuestNoEffect": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 3400,
+                            "ShowQuestNoEffect": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 3600,
+                            "ShowQuestNoEffect": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 3800,
+                            "ShowQuestNoEffect": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 4000,
+                            "ShowQuestNoEffect": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 4200,
+                            "ShowQuestNoEffect": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 4400,
+                            "ShowQuestNoEffect": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 4600,
+                            "ShowQuestNoEffect": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 5000,
+                            "ShowQuestNoEffect": 1
+                        }
+                    ]
+                },
+                {
+                    "funcId": 7582,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "player",
+                    "funcPopupText": "毎ターンスター獲得：水辺",
+                    "buffs": [
+                        {
+                            "id": 3823,
+                            "name": "毎ターンスター獲得",
+                            "detail": "〔水辺〕のあるフィールドにおいてのみ、ターン終了時にスターを獲得する",
+                            "type": "regainStar",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 5,
+                            "ShowQuestNoEffect": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 6,
+                            "ShowQuestNoEffect": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 6,
+                            "ShowQuestNoEffect": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 7,
+                            "ShowQuestNoEffect": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 7,
+                            "ShowQuestNoEffect": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 8,
+                            "ShowQuestNoEffect": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 8,
+                            "ShowQuestNoEffect": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 9,
+                            "ShowQuestNoEffect": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 9,
+                            "ShowQuestNoEffect": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 10,
+                            "ShowQuestNoEffect": 1
+                        }
+                    ]
+                },
+                {
+                    "funcId": 7585,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "enemy",
+                    "funcPopupText": "クリティカル発生アップ：水辺",
+                    "buffs": [
+                        {
+                            "id": 3824,
+                            "name": "クリティカル発生アップ",
+                            "detail": "〔水辺〕のあるフィールドにおいてのみ、クリティカルの発生率をアップ",
+                            "type": "upCriticalrate",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200,
+                            "ShowQuestNoEffect": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200,
+                            "ShowQuestNoEffect": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200,
+                            "ShowQuestNoEffect": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200,
+                            "ShowQuestNoEffect": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200,
+                            "ShowQuestNoEffect": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200,
+                            "ShowQuestNoEffect": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200,
+                            "ShowQuestNoEffect": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200,
+                            "ShowQuestNoEffect": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200,
+                            "ShowQuestNoEffect": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200,
+                            "ShowQuestNoEffect": 1
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "niceClassPassive": [
+        {
+            "id": 88650,
+            "num": 1,
+            "name": "騎乗 EX",
+            "ruby": "きじょう",
+            "detail": "自身のQuickカードの性能をアップ",
+            "type": "passive",
+            "strengthStatus": 1,
+            "priority": 1,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "conLv": 0,
+            "condLimitCount": 0,
+            "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00102.png",
+            "coolDown": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "functions": [
+                {
+                    "funcId": 100,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "クイックアップ",
+                    "buffs": [
+                        {
+                            "id": 100,
+                            "name": "Quickアップ",
+                            "detail": "Quickカードの性能をアップ",
+                            "type": "upCommandall",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 120
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 120
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 120
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 120
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 120
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 120
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 120
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 120
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 120
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 120
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 749450,
+            "num": 1,
+            "name": "海神の神核 B",
+            "ruby": "かいしんのしんかく",
+            "detail": "自身に与ダメージプラス状態を付与＆Artsカード性能をアップ",
+            "type": "passive",
+            "strengthStatus": 1,
+            "priority": 1,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "conLv": 0,
+            "condLimitCount": 0,
+            "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00326.png",
+            "coolDown": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "functions": [
+                {
+                    "funcId": 265,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "アタックプラス",
+                    "buffs": [
+                        {
+                            "id": 136,
+                            "name": "ダメージプラス",
+                            "detail": "与えるダメージを増やす",
+                            "type": "addDamage",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 225
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 225
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 225
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 225
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 225
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 225
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 225
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 225
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 225
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 225
+                        }
+                    ]
+                },
+                {
+                    "funcId": 109,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "アーツアップ",
+                    "buffs": [
+                        {
+                            "id": 101,
+                            "name": "Artsアップ",
+                            "detail": "Artsカードの性能をアップ",
+                            "type": "upCommandall",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 80
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 80
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 80
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 80
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 80
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 80
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 80
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 80
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 80
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 80
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "niceNoblePhantasms": [
+        {
+            "id": 404501,
+            "num": 1,
+            "card": "buster",
+            "name": "疾駆せよ、わが海色の大牙",
+            "ruby": "シーサーペント・ストームブルー",
+            "rank": "B+",
+            "type": "対人宝具",
+            "detail": "自身の宝具威力をアップ(3ターン)＆クリティカル威力をアップ(3ターン)<オーバーチャージで効果アップ>＆〔水辺〕のあるフィールドにおいてのみ、攻撃力をアップ(1ターン) ＋ 敵単体に超強力な攻撃",
+            "npGain": {
+                "buster": [
+                    66,
+                    66,
+                    66,
+                    66,
+                    66
+                ],
+                "arts": [
+                    66,
+                    66,
+                    66,
+                    66,
+                    66
+                ],
+                "quick": [
+                    66,
+                    66,
+                    66,
+                    66,
+                    66
+                ],
+                "extra": [
+                    66,
+                    66,
+                    66,
+                    66,
+                    66
+                ],
+                "defence": [
+                    300,
+                    300,
+                    300,
+                    300,
+                    300
+                ],
+                "np": [
+                    66,
+                    66,
+                    66,
+                    66,
+                    66
+                ]
+            },
+            "npDistribution": [
+                16,
+                33,
+                51
+            ],
+            "strengthStatus": 0,
+            "priority": 101,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "individuality": [
+                {
+                    "id": 3002,
+                    "name": "attackMagical"
+                },
+                {
+                    "id": 4002,
+                    "name": "cardBuster"
+                },
+                {
+                    "id": 4007,
+                    "name": "cardNP"
+                }
+            ],
+            "functions": [
+                {
+                    "funcId": 248,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "宝具威力アップ",
+                    "buffs": [
+                        {
+                            "id": 138,
+                            "name": "宝具威力アップ",
+                            "detail": "宝具で与えるダメージをアップ",
+                            "type": "upNpdamage",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200
+                        }
+                    ]
+                },
+                {
+                    "funcId": 201,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "クリティカル威力アップ",
+                    "buffs": [
+                        {
+                            "id": 142,
+                            "name": "クリティカル威力アップ",
+                            "detail": "クリティカル時のダメージをアップ",
+                            "type": "upCriticaldamage",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 500
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 500
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 500
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 500
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 500
+                        }
+                    ]
+                },
+                {
+                    "funcId": 7616,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "攻撃力アップ：水辺",
+                    "buffs": [
+                        {
+                            "id": 296,
+                            "name": "攻撃力アップ",
+                            "detail": "〔水辺〕のあるフィールドにおいてのみ、攻撃力をアップ",
+                            "type": "upAtk",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 200,
+                            "ShowQuestNoEffect": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 200,
+                            "ShowQuestNoEffect": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 200,
+                            "ShowQuestNoEffect": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 200,
+                            "ShowQuestNoEffect": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 200,
+                            "ShowQuestNoEffect": 1
+                        }
+                    ]
+                },
+                {
+                    "funcId": 12,
+                    "funcType": "damageNp",
+                    "funcTargetType": "enemy",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "なし",
+                    "buffs": [],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Value": 6000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 8000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 9000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 9500
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 10000
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "atkGrowth": [
+        1584,
+        1734,
+        1892,
+        2051,
+        2209,
+        2360,
+        2518,
+        2669,
+        2819,
+        2970,
+        3112,
+        3255,
+        3398,
+        3540,
+        3675,
+        3802,
+        3936,
+        4055,
+        4182,
+        4293,
+        4412,
+        4515,
+        4618,
+        4721,
+        4808,
+        4903,
+        4982,
+        5061,
+        5133,
+        5204,
+        5259,
+        5315,
+        5362,
+        5410,
+        5449,
+        5481,
+        5505,
+        5521,
+        5537,
+        5545,
+        5552,
+        5560,
+        5568,
+        5576,
+        5600,
+        5632,
+        5671,
+        5719,
+        5766,
+        5822,
+        5877,
+        5949,
+        6020,
+        6099,
+        6178,
+        6273,
+        6360,
+        6463,
+        6566,
+        6669,
+        6788,
+        6899,
+        7026,
+        7145,
+        7279,
+        7406,
+        7541,
+        7683,
+        7826,
+        7969,
+        8111,
+        8262,
+        8412,
+        8563,
+        8721,
+        8872,
+        9030,
+        9189,
+        9347,
+        9506,
+        9601,
+        9704,
+        9799,
+        9902,
+        10005,
+        10100,
+        10203,
+        10306,
+        10401,
+        10504,
+        10607,
+        10702,
+        10805,
+        10908,
+        11003,
+        11106,
+        11209,
+        11304,
+        11407,
+        11510,
+        11605,
+        11708,
+        11811,
+        11906,
+        12009,
+        12112,
+        12207,
+        12310,
+        12413,
+        12508,
+        12611,
+        12714,
+        12809,
+        12912,
+        13015,
+        13110,
+        13213,
+        13316,
+        13411,
+        13514
+    ],
+    "hpGrowth": [
+        1736,
+        1909,
+        2091,
+        2273,
+        2456,
+        2629,
+        2811,
+        2985,
+        3158,
+        3331,
+        3495,
+        3659,
+        3824,
+        3988,
+        4143,
+        4289,
+        4444,
+        4580,
+        4726,
+        4854,
+        4991,
+        5109,
+        5228,
+        5346,
+        5447,
+        5556,
+        5647,
+        5738,
+        5820,
+        5902,
+        5966,
+        6030,
+        6085,
+        6139,
+        6185,
+        6222,
+        6249,
+        6267,
+        6285,
+        6295,
+        6304,
+        6313,
+        6322,
+        6331,
+        6358,
+        6395,
+        6440,
+        6495,
+        6550,
+        6614,
+        6677,
+        6760,
+        6842,
+        6933,
+        7024,
+        7133,
+        7234,
+        7352,
+        7471,
+        7589,
+        7726,
+        7854,
+        8000,
+        8136,
+        8291,
+        8437,
+        8592,
+        8756,
+        8920,
+        9085,
+        9249,
+        9422,
+        9595,
+        9768,
+        9951,
+        10124,
+        10306,
+        10489,
+        10671,
+        10854,
+        10963,
+        11081,
+        11191,
+        11309,
+        11428,
+        11537,
+        11656,
+        11774,
+        11884,
+        12002,
+        12121,
+        12230,
+        12349,
+        12467,
+        12577,
+        12695,
+        12814,
+        12923,
+        13042,
+        13160,
+        13270,
+        13388,
+        13507,
+        13616,
+        13735,
+        13853,
+        13963,
+        14081,
+        14200,
+        14309,
+        14428,
+        14546,
+        14656,
+        14774,
+        14893,
+        15002,
+        15121,
+        15239,
+        15349,
+        15467
+    ],
+    "figure": [
+        "https://static.atlasacademy.io/JP/CharaFigure/4045000/4045000_merged.png",
+        "https://static.atlasacademy.io/JP/CharaFigure/4045001/4045001_merged.png",
+        "https://static.atlasacademy.io/JP/CharaFigure/4045002/4045002_merged.png"
+    ],
+    "ascension": [
+        "https://static.atlasacademy.io/JP/CharaGraph/404500/404500a@1.png",
+        "https://static.atlasacademy.io/JP/CharaGraph/404500/404500a@2.png",
+        "https://static.atlasacademy.io/JP/CharaGraph/404500/404500b@1.png",
+        "https://static.atlasacademy.io/JP/CharaGraph/404500/404500b@2.png"
+    ]
+}
