@@ -1,18 +1,38 @@
 <script type="ts">
   import { Link } from "svelte-routing";
-  import { fade } from "svelte/transition";
+
+  export let servantId = 0;
+
+  const LoadServantImage = async () => {
+    const response = await fetch(`https://api.atlasacademy.io/nice/JP/servant/${servantId}`);
+    const { extraAssets } = await response.json();
+    const { charaFigure } = extraAssets;
+    const url = charaFigure.ascension['3'].replace('_merged', '');
+
+    return url
+  };
+
+  $: if(servantId !== 0) {
+    LoadServantImage().then(url => {
+      imageServant = url
+    });
+  }
+
+  $: imageServant = ""
+
 </script>
 
 <div class="hero text-center">
   <div class="overflow-hidden" style="">
     <div class="container" style="padding-left: 0; padding-right: 0;">
-      <Link to="/servant/324">
+      <Link to="/servant/{servantId}">
         <img
           alt="logo"
           height="764px"
           width="1024px"
-          src="https://i.imgur.com/uGtIFEE.png"
+          src="{imageServant || "https://i.imgur.com/xfU11sF.png"}"
           class="img-fluid"
+          style="object-position: 0px 55px; transform: scale(1.3);"
           loading="lazy"
         />
       </Link>

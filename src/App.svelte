@@ -18,6 +18,7 @@
   // Variables
   let servants: index[] = [];
   let filteredServants: index[] = [];
+  let LastestServant: index;
 
   // Functions
   const loadHandler = async () => {
@@ -30,6 +31,9 @@
     filteredServants = respuesta.sort((a, b) => {
       return b.id - a.id;
     });
+    LastestServant = respuesta.sort((a, b) => {
+      return b.id - a.id;
+    })[0];
   };
 
   const getIcon = (id): string => {
@@ -60,7 +64,7 @@
 
     <Route path="/">
       <TransitionModule>
-        <Home {servants} {filteredServants} />
+        <Home {LastestServant} {servants} {filteredServants} />
       </TransitionModule>
     </Route>
 

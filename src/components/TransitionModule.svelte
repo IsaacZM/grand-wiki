@@ -1,7 +1,6 @@
 <script>
   import { onMount } from "svelte";
   import { fly } from "svelte/transition";
-  import { scrollToTop } from "svelte-scrollto";
 
   $: show = false;
   onMount(() => (show = true));

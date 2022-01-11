@@ -6,6 +6,13 @@
   export let servants: index[];
   export let filteredServants: index[];
   export let refresh: string = "";
+  export let LastestServant: index;
+  
+  let lastServant: number;
+  
+  $: if(LastestServant !== undefined) {
+    lastServant = LastestServant.id;
+  }
 
   // Components
   import Hero from "./components/hero.svelte";
@@ -22,7 +29,7 @@
 <main id="home">
   <div id={refresh}>
     <Navbar />
-    <Hero />
+    <Hero servantId={lastServant} />
     <!-- <AlgoliaSearch servants={servantsToSearch} /> -->
     <Search bind:servants bind:filteredServants />
     <Filter {servants} bind:filteredServants />
