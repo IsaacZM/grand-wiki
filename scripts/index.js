@@ -159,28 +159,28 @@ const rebuildIndex = async () => {
 
 const updateDataSet = async () => {
   console.log(
-    "SERVIDOR: Obteniendo nuevo dataset del repositorio de chaldea center"
+    "✨ Obteniendo nuevo dataset del repositorio de chaldea center"
   );
   const request = await octokit.request(
-    "GET /repos/{owner}/{repo}/releases/latest",
+    "GET /repos/{owner}/{repo}/releases",
     {
       owner: "chaldea-center",
       repo: "chaldea-dataset",
     }
   );
 
-  const download = await fetch(request.data.assets[0].browser_download_url);
+  const download = await fetch(request.data[0].assets[0].browser_download_url);
 
   await streamPipeline(
     download.body,
     fs.createWriteStream("./scripts/download/dataset.zip")
   );
-  await fs
+  fs
     .createReadStream("./scripts/download/dataset.zip")
     .pipe(unzipper.Extract({ path: "./scripts/" }));
   console.log(
-    "SERVIDOR: Dataset actualizado a la build " +
-      request.data.tag_name +
+    "✔ Dataset actualizado a la build " +
+      request.data[0].tag_name +
       " con exito!"
   );
 };
