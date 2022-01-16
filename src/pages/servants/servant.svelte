@@ -12,11 +12,6 @@
   export let tab = "stats";
   let servant: Servant;
 
-  seo.set({
-    title: `${id} | Proyecto Grand Order`,
-    description: "Wikia en español del juego de movil Fate / Grand Order.",
-  });
-
   // States
   // import Loading from "./states/loading.svelte";
   // import Notfound from "./states/notfound.svelte";
@@ -36,10 +31,6 @@
 
       const servantResponse: Servant = await request.json();
       servant = servantResponse;
-      seo.set({
-        title: ``,
-        description: "Wikia en español del juego de movil Fate / Grand Order.",
-      });
     } catch (e) {
       navigate("/error/" + e.message);
     }
@@ -51,6 +42,11 @@
 <svelte:head>
   {#if servant}
   <title>{servant.info.nameEn || servant.info.nameJp} | Proyecto Grand Order</title>
+  <meta name="title" content={servant.info.nameEn || servant.info.nameJp + ' | Proyecto Grand Order'}>
+  <meta name="description" content="Wikia en español del juego de movil Fate / Grand Order.">
+  <meta property="og:image" content="https://image.thum.io/get/auth/54712-https:/https://wiki.proyectograndorder.es/servant/{id}" >
+  <meta property="twitter:image" content="https://image.thum.io/get/auth/54712-https:/https://wiki.proyectograndorder.es/servant/{id}" >
+
   {/if}
 </svelte:head>
 
