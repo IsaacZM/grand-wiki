@@ -46,7 +46,6 @@
   <meta name="description" content="Wikia en español del juego de movil Fate / Grand Order.">
   <meta property="og:image" content="https://image.thum.io/get/auth/54712-https:/https://wiki.proyectograndorder.es/servant/{id}" >
   <meta property="twitter:image" content="https://image.thum.io/get/auth/54712-https:/https://wiki.proyectograndorder.es/servant/{id}" >
-
   {/if}
 </svelte:head>
 
