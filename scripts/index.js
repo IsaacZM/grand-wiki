@@ -30,7 +30,9 @@ const rebuildRepository = async () => {
 
       // Figure
       if (svt.extraAssets.charaFigure.ascension === undefined) {
-        figures.push(...Object.values(svt.extraAssets.charaFigure.story));
+        if(svt.extraAssets.charaFigure.story) {
+          figures.push(...Object.values(svt.extraAssets.charaFigure.story));
+        }
       } else {
         figures.push(...Object.values(svt.extraAssets.charaFigure.ascension));
 
