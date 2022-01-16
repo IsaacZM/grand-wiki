@@ -1,0 +1,3356 @@
+{
+    "no": 197,
+    "svtId": 202200,
+    "mcLink": "阿蒂拉·the·San〔ta〕",
+    "icon": "Servant197.jpg",
+    "info": {
+        "gameId": 202200,
+        "name": "阿蒂拉·the·San〔ta〕",
+        "nameJp": "アルテラ・ザ・サン〔タ〕",
+        "nameEn": "Altera the San(ta)",
+        "namesOther": [
+            "阿蒂拉",
+            "阿蒂拉·Santa",
+            "アルテラ・ザ・サンタ"
+        ],
+        "namesJpOther": [
+            "アルテラ・サンタ",
+            "アルテラ"
+        ],
+        "namesEnOther": [
+            "Altera"
+        ],
+        "nicknames": [
+            "二王",
+            "咩咩咩",
+            "咩大王",
+            "咩提拉",
+            "A提拉",
+            "圣诞大王",
+            "咩王",
+            "羊王",
+            "弓大王"
+        ],
+        "obtain": "活动",
+        "obtains": [
+            "活动赠送"
+        ],
+        "rarity": 4,
+        "rarity2": 4,
+        "weight": "48kg",
+        "height": "160cm",
+        "gender": "女性",
+        "illustrator": "huke",
+        "illustratorJp": null,
+        "illustratorEn": "huke",
+        "className": "Archer",
+        "attribute": "星",
+        "isHumanoid": true,
+        "isWeakToEA": false,
+        "isTDNS": false,
+        "cv": [
+            "能登麻美子"
+        ],
+        "cvJp": [
+            "能登麻美子"
+        ],
+        "cvEn": [
+            "Noto Mamiko"
+        ],
+        "alignments": [
+            "混沌",
+            "善"
+        ],
+        "traits": [
+            "神性",
+            "骑乘",
+            "王",
+            "人科"
+        ],
+        "ability": {
+            "strength": "C",
+            "endurance": "B",
+            "agility": "A+",
+            "mana": "A",
+            "luck": "A",
+            "np": "EX"
+        },
+        "illustrations": {
+            "第１阶段": "阿蒂拉圣诞初始状态.png",
+            "第２阶段": "阿蒂拉圣诞初始状态.png",
+            "第３阶段": "阿蒂拉圣诞初始状态.png",
+            "第４阶段": "阿蒂拉圣诞灵基再临Ⅳ.png",
+            "愚人节": "阿蒂拉圣诞愚人节.png"
+        },
+        "cards": [
+            "Quick",
+            "Quick",
+            "Arts",
+            "Arts",
+            "Buster"
+        ],
+        "cardHits": {
+            "Quick": 3,
+            "Arts": 3,
+            "Buster": 3,
+            "Extra": 4,
+            "NP": 10
+        },
+        "cardHitsDamage": {
+            "Quick": [
+                16,
+                33,
+                51
+            ],
+            "Arts": [
+                16,
+                33,
+                51
+            ],
+            "Buster": [
+                16,
+                33,
+                51
+            ],
+            "Extra": [
+                10,
+                20,
+                30,
+                40
+            ],
+            "NP": [
+                1,
+                3,
+                5,
+                7,
+                9,
+                10,
+                12,
+                14,
+                16,
+                23
+            ]
+        },
+        "npRate": {
+            "Quick": "0.59%",
+            "Arts": "0.59%",
+            "Buster": "0.59%",
+            "Extra": "0.59%",
+            "NP": "0.59%",
+            "Defense": "3%"
+        },
+        "atkMin": 1626,
+        "hpMin": 1862,
+        "atkMax": 9759,
+        "hpMax": 11637,
+        "atk90": 10783,
+        "hp90": 12868,
+        "atk100": 11816,
+        "hp100": 14110,
+        "starRate": "8.1%",
+        "deathRate": "27.0%",
+        "criticalRate": "153"
+    },
+    "noblePhantasm": [
+        {
+            "state": "",
+            "openCondition": "==宝具==\n{{参阅|{{PAGENAME}}/宝具动画|该从者的宝具动画}}",
+            "name": "圣夜之虹，军神之剑",
+            "nameJp": "聖夜の虹、軍神の剣",
+            "upperName": "Candy Star Photon Ray",
+            "upperNameJp": "キャンディスター・フォトン・レイ",
+            "color": "Quick",
+            "category": "单体",
+            "rank": "EX",
+            "typeText": "对界宝具",
+            "effects": [
+                {
+                    "description": "对敌方单体发动强大的攻击<宝具升级效果提升>",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "1200%",
+                        "1600%",
+                        "1800%",
+                        "1900%",
+                        "2000%"
+                    ]
+                },
+                {
+                    "description": "获得大量暴击星<Over Charge时效果提升>",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "20",
+                        "25",
+                        "30",
+                        "35",
+                        "40"
+                    ]
+                }
+            ]
+        }
+    ],
+    "noblePhantasmEn": [
+        {
+            "state": "Rank EX",
+            "openCondition": null,
+            "name": "Candy Star Photon Ray",
+            "nameJp": null,
+            "upperName": "Candy Star Photon Ray",
+            "upperNameJp": null,
+            "color": "Quick",
+            "category": "",
+            "rank": "EX",
+            "typeText": "Anti-World",
+            "effects": [
+                {
+                    "description": "Deals damage to one enemy.",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                },
+                {
+                    "description": " Damage+",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "1200%",
+                        "1600%",
+                        "1800%",
+                        "1900%",
+                        "2000%"
+                    ]
+                },
+                {
+                    "description": "<Over Charge>\nGains critical stars.",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                },
+                {
+                    "description": " Stars +",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "20",
+                        "25",
+                        "30",
+                        "35",
+                        "40"
+                    ]
+                }
+            ]
+        }
+    ],
+    "activeSkills": [
+        {
+            "cnState": 0,
+            "skills": [
+                {
+                    "state": "",
+                    "openCondition": "",
+                    "name": "星者的礼物",
+                    "nameJp": "星者の贈り物",
+                    "nameEn": null,
+                    "rank": "B",
+                    "icon": "充能.png",
+                    "cd": 7,
+                    "effects": [
+                        {
+                            "description": "己方单体的NP增加",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "10%",
+                                "11%",
+                                "12%",
+                                "13%",
+                                "14%",
+                                "15%",
+                                "16%",
+                                "17%",
+                                "18%",
+                                "20%"
+                            ]
+                        },
+                        {
+                            "description": "暴击星掉落率提升(3回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "30%"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "cnState": 0,
+            "skills": [
+                {
+                    "state": "",
+                    "openCondition": "",
+                    "name": "虹之糖艺",
+                    "nameJp": "虹の飴細工",
+                    "nameEn": null,
+                    "rank": "B",
+                    "icon": "宝具威力提升.png",
+                    "cd": 7,
+                    "effects": [
+                        {
+                            "description": "己方单体的宝具威力提升(1回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "20%",
+                                "21%",
+                                "22%",
+                                "23%",
+                                "24%",
+                                "25%",
+                                "26%",
+                                "27%",
+                                "28%",
+                                "30%"
+                            ]
+                        },
+                        {
+                            "description": "暴击威力提升(1回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "20%",
+                                "21%",
+                                "22%",
+                                "23%",
+                                "24%",
+                                "25%",
+                                "26%",
+                                "27%",
+                                "28%",
+                                "30%"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "cnState": 0,
+            "skills": [
+                {
+                    "state": "",
+                    "openCondition": "",
+                    "name": "耀星之纹章",
+                    "nameJp": "きら星の紋章",
+                    "nameEn": null,
+                    "rank": "EX",
+                    "icon": "无敌贯通.png",
+                    "cd": 7,
+                    "effects": [
+                        {
+                            "description": "付与自身无敌贯通状态(3回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "∅"
+                            ]
+                        },
+                        {
+                            "description": "暴击星集中度提升(3回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "300%",
+                                "330%",
+                                "360%",
+                                "390%",
+                                "420%",
+                                "450%",
+                                "480%",
+                                "510%",
+                                "540%",
+                                "600%"
+                            ]
+                        },
+                        {
+                            "description": "防御力提升(3回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "20%",
+                                "21%",
+                                "22%",
+                                "23%",
+                                "24%",
+                                "25%",
+                                "26%",
+                                "27%",
+                                "28%",
+                                "30%"
+                            ]
+                        },
+                        {
+                            "description": "3回合后付与自身晕眩状态(1回合)【负面效果】",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "∅"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "activeSkillsEn": [
+        {
+            "cnState": 0,
+            "skills": [
+                {
+                    "state": "",
+                    "openCondition": null,
+                    "name": "Starman's Gift",
+                    "nameJp": null,
+                    "nameEn": null,
+                    "rank": "B",
+                    "icon": "充能.png",
+                    "cd": 7,
+                    "effects": [
+                        {
+                            "description": "Charges one ally's NP gauge.\n Increases their critical star generation rate by 30% for 3 turns.",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": []
+                        },
+                        {
+                            "description": " NP +",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "10%",
+                                "11%",
+                                "12%",
+                                "13%",
+                                "14%",
+                                "15%",
+                                "16%",
+                                "17%",
+                                "18%",
+                                "20%"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "cnState": 0,
+            "skills": [
+                {
+                    "state": "",
+                    "openCondition": null,
+                    "name": "Rainbow Candy Crafts",
+                    "nameJp": null,
+                    "nameEn": null,
+                    "rank": "B",
+                    "icon": "宝具威力提升.png",
+                    "cd": 7,
+                    "effects": [
+                        {
+                            "description": "Increases one ally's NP damage for 1 turn.\nIncreases their critical damage for 1 turn.",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": []
+                        },
+                        {
+                            "description": " NP Damage +",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "20%",
+                                "21%",
+                                "22%",
+                                "23%",
+                                "24%",
+                                "25%",
+                                "26%",
+                                "27%",
+                                "28%",
+                                "30%"
+                            ]
+                        },
+                        {
+                            "description": " Crit Damage +",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "20%",
+                                "21%",
+                                "22%",
+                                "23%",
+                                "24%",
+                                "25%",
+                                "26%",
+                                "27%",
+                                "28%",
+                                "30%"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "cnState": 0,
+            "skills": [
+                {
+                    "state": "",
+                    "openCondition": null,
+                    "name": "Twinkling Star Emblem",
+                    "nameJp": null,
+                    "nameEn": null,
+                    "rank": "EX",
+                    "icon": "无敌贯通.png",
+                    "cd": 7,
+                    "effects": [
+                        {
+                            "description": " Ignores Invincibility for 3 turns.\nIncreases own critical star absorption for 3 turns.\nIncreases own defense for 3 turns.\n 500% Chance to grant self Altera Timer Delayed debuff for 3 turns. ''[Demerit]''\n(Altera Timer:  500% Chance to Stun self for 1 turn after 3 turns.) ''[Demerit]''",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": []
+                        },
+                        {
+                            "description": " Absorption +",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "300%",
+                                "330%",
+                                "360%",
+                                "390%",
+                                "420%",
+                                "450%",
+                                "480%",
+                                "510%",
+                                "540%",
+                                "600%"
+                            ]
+                        },
+                        {
+                            "description": " Defense +",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "20%",
+                                "21%",
+                                "22%",
+                                "23%",
+                                "24%",
+                                "25%",
+                                "26%",
+                                "27%",
+                                "28%",
+                                "30%"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "passiveSkills": [
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "对魔力",
+            "nameJp": null,
+            "nameEn": null,
+            "rank": "C",
+            "icon": "对魔力.png",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": "自身的弱化状态耐性少量提升(15%)",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                }
+            ]
+        },
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "骑乘",
+            "nameJp": null,
+            "nameEn": null,
+            "rank": "EX",
+            "icon": "骑乘.png",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": "自身的Quick指令卡性能提升(12%)",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                }
+            ]
+        },
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "文明侵蚀",
+            "nameJp": null,
+            "nameEn": null,
+            "rank": "EX",
+            "icon": "暴击威力提升.png",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": "自身的暴击威力提升(10%)",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                }
+            ]
+        },
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "神性",
+            "nameJp": null,
+            "nameEn": null,
+            "rank": "B",
+            "icon": "神性.png",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": "付与自身伤害附加状态(175)",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                }
+            ]
+        }
+    ],
+    "passiveSkillsEn": [
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "Magic Resistance",
+            "nameJp": null,
+            "nameEn": null,
+            "rank": "C",
+            "icon": "fandom.anti magic.png",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": " Increases own debuff resistance by 15%.",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                }
+            ]
+        },
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "Riding",
+            "nameJp": null,
+            "nameEn": null,
+            "rank": "EX",
+            "icon": "fandom.riding.png",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": " Increases own Quick performance by 12%.",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                }
+            ]
+        },
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "Decline of Civilization",
+            "nameJp": null,
+            "nameEn": null,
+            "rank": "EX",
+            "icon": "fandom.critdmg.png",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": " Increases own critical damage by 10%.",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                }
+            ]
+        },
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "Divinity",
+            "nameJp": null,
+            "nameEn": null,
+            "rank": "B",
+            "icon": "fandom.divinity.png",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": " Increases own damage by 175.",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                }
+            ]
+        }
+    ],
+    "appendSkills": [
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "追击技巧提升",
+            "nameJp": "追撃技巧向上",
+            "nameEn": "Extra Attack Finesse Improvement",
+            "rank": null,
+            "icon": "特攻",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": "自身的Extra Attack指令卡性能提升",
+                    "descriptionJp": "自身のExtra Attackカードの性能をアップする",
+                    "descriptionEn": "Increases own Extra Attack performance",
+                    "lvData": [
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "38%",
+                        "40%",
+                        "42%",
+                        "44%",
+                        "46%",
+                        "50%"
+                    ]
+                }
+            ]
+        },
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "魔力装填",
+            "nameJp": "魔力装填",
+            "nameEn": "Mana Loading",
+            "rank": null,
+            "icon": "充能",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": "自身以NP已达一定数值的状态开始战斗",
+                    "descriptionJp": "自身のNPをチャージした状態でバトルを開始する",
+                    "descriptionEn": "Starts battle with NP gauge",
+                    "lvData": [
+                        "10%",
+                        "11%",
+                        "12%",
+                        "13%",
+                        "14%",
+                        "15%",
+                        "16%",
+                        "17%",
+                        "18%",
+                        "20%"
+                    ]
+                }
+            ]
+        },
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "对Foreigner攻击适性",
+            "nameJp": "対Foreigner攻撃適性",
+            "nameEn": "Anti-Foreigner Attack Damage Aptitude",
+            "rank": null,
+            "icon": "加攻",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": "自身对Foreigner的攻击力提升",
+                    "descriptionJp": "自身の〔Foreigner〕クラスに対する攻撃力をアップする",
+                    "descriptionEn": "Increases own attack against Foreigner enemies",
+                    "lvData": [
+                        "20%",
+                        "21%",
+                        "22%",
+                        "23%",
+                        "24%",
+                        "25%",
+                        "26%",
+                        "27%",
+                        "28%",
+                        "30%"
+                    ]
+                }
+            ]
+        }
+    ],
+    "coinSummonNum": 0,
+    "itemCost": {
+        "ascension": [
+            {
+                "圣诞老人胡子": 1,
+                "QP": 50000
+            },
+            {
+                "圣诞老人胡子": 1,
+                "QP": 150000
+            },
+            {
+                "圣诞老人胡子": 1,
+                "QP": 500000
+            },
+            {
+                "圣诞老人胡子": 1,
+                "QP": 1500000
+            }
+        ],
+        "skill": [
+            {
+                "弓之辉石": 4,
+                "QP": 100000
+            },
+            {
+                "弓之辉石": 10,
+                "QP": 200000
+            },
+            {
+                "弓之魔石": 4,
+                "QP": 600000
+            },
+            {
+                "弓之魔石": 10,
+                "世界树之种": 5,
+                "QP": 800000
+            },
+            {
+                "弓之秘石": 4,
+                "世界树之种": 10,
+                "QP": 2000000
+            },
+            {
+                "弓之秘石": 10,
+                "陨蹄铁": 4,
+                "QP": 2500000
+            },
+            {
+                "陨蹄铁": 8,
+                "精灵根": 2,
+                "QP": 5000000
+            },
+            {
+                "精灵根": 6,
+                "起源的胎毛": 12,
+                "QP": 6000000
+            },
+            {
+                "传承结晶": 1,
+                "QP": 10000000
+            }
+        ],
+        "appendSkill": [
+            {
+                "弓之辉石": 4,
+                "QP": 100000
+            },
+            {
+                "弓之辉石": 10,
+                "QP": 200000
+            },
+            {
+                "弓之魔石": 4,
+                "QP": 600000
+            },
+            {
+                "弓之魔石": 10,
+                "愚者之锁": 12,
+                "QP": 800000
+            },
+            {
+                "弓之秘石": 4,
+                "愚者之锁": 24,
+                "QP": 2000000
+            },
+            {
+                "弓之秘石": 10,
+                "鬼魂提灯": 4,
+                "QP": 2500000
+            },
+            {
+                "鬼魂提灯": 8,
+                "永远结冰": 5,
+                "QP": 5000000
+            },
+            {
+                "永远结冰": 15,
+                "煌星碎片": 8,
+                "QP": 6000000
+            },
+            {
+                "传承结晶": 1,
+                "QP": 10000000
+            }
+        ]
+    },
+    "costumeNos": [],
+    "bondPoints": [
+        1500,
+        2250,
+        3000,
+        3750,
+        4500,
+        225000,
+        260000,
+        270000,
+        300000,
+        395000,
+        1090000,
+        1230000,
+        1360000,
+        1500000,
+        1640000
+    ],
+    "profiles": [
+        {
+            "title": "0",
+            "description": "仰望天空吧。\n向平安夜许愿之人一定能看到。\n看到驰骋过夜空的彩虹，咩咩叫的羊群，\n以及身着大胆服饰，\n似乎有点感冒倾向的美丽圣诞老人的身影……！\n\n其名为阿蒂拉·the·San〔ta〕。\n西方大王，拥有星之纹章的剑姬从多舛的命运中\n觉醒了身为圣诞老人的使命，克服了起初的身体不适（低烧），毅然挺身而出的令人倍感可靠的第三位圣诞英灵。\n\n这次在大王轶事中多次登场的游牧骑兵也随侍左右。\n……然而，它们都长着可爱绵羊（只不过是宇宙规格）的\n样子。这究竟是为什么呢。",
+            "descriptionJp": "空を見よ。\n聖夜に祈りを抱く者であれば見えるはずだ。\n夜空を駆ける一条の虹を。\nメーメーなく羊たちの群を。\nそして大胆な衣装に身を包んだ、\nちょっと風邪気味の、麗しいサンタの姿を……！\n\nその名はアルテラ・ザ・サン〔タ〕。\n西方大王、星の紋章を持つ剣姫が数奇な運命から\nサンタクロースとしての使命に目覚め、はじめての体調不良（微熱）にも負けず立ち上がった、\n頼もしき三人目のクリスマスの英霊である。\n\n今回は大王としての逸話から多くの遊牧騎馬兵たちを従えている。……のだが、それらはすべて愛らしい羊（ただし宇宙仕様）の姿になっている。なぜだろう。",
+            "descriptionEn": "Look at the sky.\n\nIf you are one who holds prayers for the Holy Night, you should be able to see it.\n\nThe lone rainbow soaring through the night sky.\n\nThe group of bleating sheep.\n\nAnd her body wrapped in a daring costume, the beautiful figure of Santa, who's feeling a little cold...!\n\n\nHer name is Altera the San(ta).\n\nThe western king, the sword princess possessing the Star Emblem, was awakened to the duty of Santa Claus by an ill-omened destiny, taking action without losing to the fact that she is in a poor physical condition (slight fever); she's the reliable third Heroic Spirit of Christmas.\n\n\nThis time, she is accompanied by a large number of horse-riding soldiers from the great king's anecdotes... However, they are all in the shapes of adorable sheep (space version). Why is it like this?",
+            "condition": null,
+            "conditionEn": null
+        },
+        {
+            "title": "1",
+            "description": "身高／体重：160cm·48kg\n出处：冥界的圣诞快乐\n地域：芬兰（自称）\n属性：混沌·善　　　性别：女性\n骑乘的羊名为茨尔戈。\n擅长模仿圣诞老人长老。\n※圣诞老人长老是阿蒂拉想象的生物。",
+            "descriptionJp": "身長／体重：160cm・48kg\n出典：冥界のメリークリスマス\n地域：フィンランド（自称）\n属性：混沌・善　　　性別：女性\n騎乗する羊の名はツェルコ。\n得意技はサンタクロース長老のモノマネ。\n※サンタクロース長老はアルテラの想像上の生物です。",
+            "descriptionEn": "Height/Weight: 160cm/48kg\n\nSource: Merry Christmas from the Underworld\n\nOrigin: Finland (Self-Proclaimed)\n\nAlignment: Chaotic・Good\n\nGender: Female\n\nThe name of the sheep she mounts on is Zerco.\n\nIt's signature move is the imitation of Elder Santa Claus.\n\n※Elder Santa Claus is Altera's imaginary being.",
+            "condition": null,
+            "conditionEn": null
+        },
+        {
+            "title": "2",
+            "description": "拥有过度健康的肉体与过度健全的精神，\n以及些许无知……\n不，是无瑕性格的她得到了一个千载难逢的机会。\n当迦勒底的工作人员们因为谜之热病倒下之时，\n阿蒂拉·the·San〔ta〕作为唯一『能动的从者』，\n为了迦勒底的和平与圣诞节，骑着名羊茨尔戈飞驰而出。\n\n对于早就想要评估圣诞节这种文明的阿蒂拉来说，\n这乃是求之不得的工作。\n换上华美的圣诞服饰，她潜入冥界的天空。\n唯一令人不安的要素就是圣诞老人服饰不够保暖，\n「和平时的衣服相比，面积是不是太少了……？」\n阿蒂拉不禁歪着头感到疑惑。",
+            "descriptionJp": "健康すぎる肉体と健全すぎる精神、\nそしてちょっと無知……否、無垢な性格が彼女にまたとない機会をもたらした。\nカルデアスタッフが謎の熱病に倒れた時、アルテラ・ザ・サン〔タ〕は唯一の『動けるサーヴァント』として、カルデアの平和とクリスマスの為に名羊ツェルコの背に乗って飛び出した。\n\nかねてからクリスマスという文明を見定めたかったアルテラにとって、この役回りは望むところ。\n華やかなサンタ服に着替え、彼女は冥界の空にダイブしたのである。\n唯一の不安点はサンタ服の肌寒さで、\n「普段の服に比べると、面積が少なすぎるのではないだろうか……？」\nと首をかしげるアルテラであった。",
+            "descriptionEn": "An overly healthy body and mind,\n\nand a little ignorant... no, pure disposition was given to her as a once-in-a-lifetime opportunity.\n\nWhen Chaldea's staff was suffering from a mysterious fever, since Altera the San(ta) was the only \"Servant able to move\", for the sake of the peace of Chaldea and Christmas, riding on the back of a sheep called Zerco, she rushed out.\n\n\nFor Altera, who wanted to ascertain the civilization called Christmas for some time now, this role was something she wished for.\n\nChanging into showy Santa clothes, she dove into the Underworld.\n\nThe only thing making her anxious is the chilliness of the Santa clothes.\n\n\"Doesn't it cover too little compared to normal clothing...?\"\n\nsays Altera, tilting her head.",
+            "condition": null,
+            "conditionEn": null
+        },
+        {
+            "title": "3",
+            "description": "性格基本还是阿蒂拉的，因为有些低烧，\n所以判断力不如平时，也很容易糊弄过去。\n外表看上去惹人怜爱、可爱程度似乎有所提升。\n由于（多亏了）发烧，文明破坏属性显著低下。\n\n平时的阿蒂拉身为战士的人格占9成，\n身为少女的人格占1成，\n而圣诞老人阿蒂拉身为战士的人格占4成，\n身为少女的人格占了6成。\n阿蒂拉本质还是有少女的性质和浪漫主义色彩的，\n所以能担任圣诞老人的工作让她非常高兴＆激动不已。\n\n或许因为她将御主视为可靠的搭档兼美丽的羊，\n所以称御主为「软绵绵的御主」。\n由于她说服自己，现在的自己不仅是阿蒂拉，\n更是圣诞老人，所以在对人处事上比平时更为柔和。\n为了将闪耀的羊托付给自己的『重要礼物』送达目的地，\n她很直率地请求御主帮助。",
+            "descriptionJp": "性格は基本的にアルテラのものだが、微熱を持っているため、普段より判断力が落ち、言い含められやすくなっている。見た目の可憐さ・愛らしさが増している気もする。\n熱のせいで（おかげで）文明破壊メーターが著しく低下している。\n\n普段のアルテラは戦士としての人格９割、少女としての人格１割だが、\nアルテラサンタは戦士としての人格４割、少女としての人格６割となっている。\nアルテラの根っこは少女チックにロマンチストなので、サンタクロース役を任されて嬉しい＆ドキドキしているのだ。\n\nマスターの事は頼もしい相棒にして美しい羊に見えているのか、「ふわふわのマスター」と呼ぶ。\n今の自分はアルテラである前にサンタクロースである、と自分に言い聞かせているので、普段より物腰・対応が柔らかい。\n輝ける羊から預かった『大切な贈り物』を届ける為、ストレートにマスターを頼ってくる。",
+            "descriptionEn": "The personality is basically Altera's, but as a result of having a fever, her decision-making ability is lower than usual, so it's easier to give her detailed instructions. It even feels like she got sweeter and more charming.\n\nDue to the fever (thankfully), her civilization destroying meter has lowered considerably.\n\n\nThe usual Altera's personality is 90% that of a warrior and 10% of a girl,\n\nwhile Altera Santa's 40% warrior and 60% girl.\n\nAltera's core is that of a romanticist maiden, so being entrusted with the role of Santa Claus makes her happy and excited.\n\n\nSince the Master is a reliable partner, they are seen as a lovely sheep and she refers to them as \"fluffy Master\".\n\nSince \"I am Santa Claus before I am Altera now\" is what she tells herself, her demeanor and responses are softer.\n\nIn order to deliver \"precious gifts\" that were entrusted to her by the shining sheep, she relies on her straightforward Master.",
+            "condition": null,
+            "conditionEn": null
+        },
+        {
+            "title": "4",
+            "description": "对魔力：C\n由于其天生的温柔，\n在受到『这不是我想要的礼物』这种投诉时无法反驳，\n导致魔力抗性比身为Saber时明显低下。\n\n骑乘：EX\n被选为圣诞节的英灵，内心平静地燃起了使命感之火的\n阿蒂拉的骑乘技能大幅提升、变化。\n具体来说，就是成了羊大师。\n她骑乘着非名马的名羊茨尔戈疾驰的样子，\n令人不禁联想起过去驰骋于西方世界的\n游牧骑马民族·匈族最强的王……\n联想……能联想到吗……\n\n文明侵蚀：EX\n英灵阿蒂拉本人毫无自觉地发动的技能。\n能将手持的东西变化成对现在自己而言最好的属性。\n『最好』并不是『优秀』的意思，\n而是指阿蒂拉本人最喜欢的东西。\n这次阿蒂拉最喜欢的东西应该不言而喻了吧。\n原本麾下率领的马匹都变化成了羊（之类的东西），\n而爱剑军神之剑则变形成了拐杖糖（杖）。",
+            "descriptionJp": "○対魔力：Ｃ\n持ち前の優しさからか、『望んだプレゼントと違う』というクレームを受けた時に反論できないため、魔力抵抗はセイバー時より低下してしまっている。\n\n○騎乗：ＥＸ\nクリスマスの英霊に選ばれ、静かな使命感の炎に包まれたアルテラはその騎乗スキルを大きく向上・変化させた。\n具体的には羊マスターになった。\n名馬ならぬ名羊ツェルコを駆る姿は、かつて西方世界を駆け巡った遊牧騎馬民族・フン族最強の王を連想させ……連想……するだろうか……。\n\n○文明浸食：ＥＸ\n英霊アルテラ本人が無自覚に発動しているスキル。手にしたものを今の自分にとって最高の属性に変質させてしまう。『最高』とは『優れている』という意味ではなく、アルテラ本人のマイブーム的なものを指している。\n今回のアルテラのマイブームはいわずもがな。\n本来、配下として引き連れる筈の馬たちはみな羊（のようなもの）に変化し、逆に愛剣である軍神の剣は軍神のケイン（杖）へと変形した。",
+            "descriptionEn": "Magic Resistance: C\n\nSince she is unable to refuse when receiving a complaint of \"It's different from the present I wanted\" due to her gentle nature, her magical resistance has been lowered compared to her time as a Saber.\n\n\nRiding: EX\n\nChosen as the Heroic Spirit of Christmas, burning with a quiet determination, Altera greatly improved and altered her Riding skill.\nSpecifically, she became a sheep master.\n\nSeeing the figure that can't help spurring on the sheep called Zerco as if it was a fine horse, one is reminded of the strongest King of the nomadic tribe that galloped through the Western World, the Huns...one is reminded of that...right?\n\n\nCivilization Erosion: EX\n\nA skill that's used by Altera unconsciously. Anything in Altera's grasp is transformed into its 'best' form currently most suited for herself. 'Best' does not necessarily mean 'most excellent', since it is based on Altera's own perspective (her current obsession).\n\nIt goes without saying what Altera is obsessed with right now.\n\nThe subordinates she was expected to take along were originally horses, but turned into sheep (-like creatures) and her beloved sword, the Sword of the God of War, transformed into the Cane of the God of War.",
+            "condition": null,
+            "conditionEn": null
+        },
+        {
+            "title": "5",
+            "description": "星者的礼物：B\n通过化身为圣诞老人从而获得的技能。\n赠送礼物，滋润心灵。\n尽管阿蒂拉很想赠送他人礼物，但总是无法掌握对方的\n愿望，再加上她内向的性格，技能等级比圣诞Alter\n（阿尔托莉雅）较低，而且不知为何，\n技能名也发生了些许变化。\n\n虹之糖艺：B\n圣诞树顶装饰的星星被称为伯利恒之星，\n据称其象征着救世主。\n据说只要用阿蒂拉的杖砰地敲打一下，\n就会赐予该人极大的祝福与恩惠。\n\n耀星之纹章：EX\n刻印在阿蒂拉身体上的独特纹样与圣诞节的概念\n融合变化而成的技能。\n通过这种强大的祝福力量，能令刻印在阿蒂拉灵基上的\n潜力觉醒，让圣诞阿蒂拉能在地球上行动3分钟！\n只能持续3回合的舍身超强化。\n\n天性的肉体：－\n由于成为圣诞节英灵，被付与了冬天的概念，\n以至于体温无法正常调整，遗憾地失去了这个能力。",
+            "descriptionJp": "○星者の贈り物：Ｂ\nサンタクロースになりきる事で取得したスキル。\nプレゼントを贈り、心を潤す。\nアルテラとてプレゼントを贈りたいものの、いまいち相手の欲求を把握できず、また奥ゆかしい性格のため、スキルランクはサンタオルタ（アルトリア）より低くなっており、なぜかスキル名も若干変化している。\n\n○虹の飴細工：Ｂ\nクリスマスツリーの先端に付いている星はベツレヘムの星と呼ばれ、救世主の誕生を象徴するものとされる。\nアルテラの杖にこつん、と叩かれると、その者には大いなる祝福と恩恵が与えられるという。\n\n○きら星の紋章：ＥＸ\nアルテラの体に刻まれた独特の紋様と、クリスマスの概念が融合した事によって変化したスキル。\nその強力な祝福パワーにより、アルテラは霊基に刻まれた潜在能力を覚醒させ、地球上では三分間のみアルテラ・サンタとして活動できるのだ！\n３ターンだけの、捨て身の超パワーアップ。\n\n○天性の肉体：－\nクリスマスの英霊となり、冬の概念を付加された事で体温調整がうまくできない為、残念ながら失われている。",
+            "descriptionEn": "'''Starman's Gift: B'''\n\nA skill obtained by completely turning into Santa Claus.\n\nGiving presents and enriching the heart.\n\nEven though Altera wants to deliver presents, since she does not understand the desires of others due to her reserved nature, the skill's rank has been lowered compared to Santa Alter (Artoria)'s and even the name has changed to some extent.\n\n\nRainbow Candy Crafts: B\n\nThe star attached to the tip of the Christmas tree is called the Star of Bethlehem and it symbolizes the birth of the Messiah.\n\nIt is said that those who are struck by Altera's cane will be granted great blessings and graces.\n\n\nTwinkling Star Emblem: EX\n\nA skill that transformed due to the fusion of the unique patterns engraved on Altera's body and the concept of Christmas.\n\nWith the power of this powerful blessing, Altera can awaken the potential carved into her Spirit Origin and she can act as Santa Altera on Earth for just 3 minutes!\n\nA super power-up of giving everything she's got for 3 turns.\n\n\nNatural Body: -\n\nAs the Heroic Spirit of Christmas, the concept of Winter was added and she became unable to skillfully regulate her temperature, causing the unfortunate loss of this skill.",
+            "condition": null,
+            "conditionEn": null
+        },
+        {
+            "title": "6",
+            "description": "『圣夜之虹，军神之剑』\n阶级：EX　种类：对界宝具\n有效范围：30～300　最大捕捉：1000人\nCandy Star Photon Ray\n通过将阿蒂拉持有的军神之剑变化为拐杖糖\n从而创造的新宝具。\nPhoton Ray也叫Photon Lamb。\n希望大家能享受阿蒂拉麾下羊群们表演的\n华丽坂野马戏团。\n内心暗暗将俄刻阿诺斯的Caster的宝具，\n也就是仔猪大进军视为对手，但这已经算别的故事了。\n\n\n远离石室。\n哪怕无法连接记忆与记录，\n巨大的孤独现在仍未得到治愈。\n梦中的羊，犹如划过夜空的彩虹。",
+            "descriptionJp": "『聖夜の虹、軍神の剣』\nランク：ＥＸ　種別：対界宝具\nレンジ：３０～３００　最大捕捉：１０００人\nキャンディスター・フォトン・レイ。\nアルテラが持つ軍神の剣がキャンディケインとして変化した事で編み出された新宝具。\nフォトン・レイはフォトン・ラムとも。\nアルテラ配下の羊たちによる華麗なるイタノー・サーカスを楽しんでほしい。\n密かにオケアノスのキャスターの宝具・ブタ大行進をライバル視しているが、それはまた別のエピソードである。\n\n\n石室から遠く離れ。\n記憶も記録も繋がらず、\n巨いなる孤独は今も癒やされないとしても。\n夢見る羊は、夜空にかかる虹のように。",
+            "descriptionEn": "Candy Star Photon Ray: Rainbow of the Holy Night, Sword of the War God\n\nRank: EX\n\nClass: Anti-World\n\nRange: 30~300\n\nNumber of Target: 1000\n\nA new Noble Phantasm invented by changing Altera's Sword of the God of War into a candy cane.\n\nPhoton Ray is also Photon Ram.\n\nHope you enjoy the Great Itano Circus performed by Altera sheep followers.\nIn secret, it is regarded as the rival of Caster of Okeanos's Great March of Pigs Noble Phantasm, but that will be in a different episode.\n\n\n\nFar separated from the stone chamber,\n\nwith neither memories nor records connected,\n\nand even if that vast loneliness is yet unhealed.\n\nThe sheep in her dreams span the night sky like a rainbow.",
+            "condition": "通关 第1节 雪降冥界后开放",
+            "conditionEn": null
+        },
+        {
+            "title": "aprilfool",
+            "description": "大王从者\n如同游牧民一般乘着羊飞翔在天空的阿蒂拉。或许是发热的缘故，她的言谈比起平时更像一名少女，软绵绵的。好可爱。",
+            "descriptionJp": "だいおうサーヴァント\n遊牧民らしく羊に乗って飛べるようになったアルテラ。熱っぽいためか発言がいつもより乙女チックでふわふわしているぞ。かわいい。",
+            "descriptionEn": "Hun-Type Servant\n\nShe rides a flying sheep through the air like a true king of a nomadic people. It seems she has a fever, which is somehow making her sound softer and more girlish. That's so adorable.",
+            "condition": null,
+            "conditionEn": null
+        }
+    ],
+    "voices": [
+        {
+            "section": "战斗",
+            "table": [
+                {
+                    "title": "开始 1",
+                    "text": "让你见识一下匈人的圣诞节。",
+                    "textJp": "フンヌのクリスマスを見せてやろう",
+                    "textEn": "I'll show you a Hun Christmas.",
+                    "condition": null,
+                    "voiceFile": "阿蒂拉圣诞·开始1.mp3"
+                },
+                {
+                    "title": "开始 2",
+                    "text": "如果你胆敢妨碍我，我会毫不留情地干掉你。",
+                    "textJp": "邪魔をするのなら、容赦なくやっつけるぞ",
+                    "textEn": "If you get in my way, I won't hold back!",
+                    "condition": null,
+                    "voiceFile": "阿蒂拉圣诞·开始2.mp3"
+                },
+                {
+                    "title": "技能 1",
+                    "text": "嚯～嚯～嚯～。我是圣诞老人哦？",
+                    "textJp": "ふぉっふぉっふぉっ、サンタじゃぞ",
+                    "textEn": "Ho ho ho, I'm Santa.",
+                    "condition": null,
+                    "voiceFile": "阿蒂拉圣诞·技能1.mp3"
+                },
+                {
+                    "title": "技能 2",
+                    "text": "礼物赠与你。",
+                    "textJp": "プレゼントフォーユー",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "阿蒂拉圣诞·技能2.mp3"
+                },
+                {
+                    "title": "指令卡 1",
+                    "text": "咩～。",
+                    "textJp": "めぇ～",
+                    "textEn": "Baaa.",
+                    "condition": null,
+                    "voiceFile": "阿蒂拉圣诞·指令卡1.mp3"
+                },
+                {
+                    "title": "指令卡 2",
+                    "text": "嗯。可以做到。",
+                    "textJp": "うん。できるとも",
+                    "textEn": "Yeah. I can do that.",
+                    "condition": null,
+                    "voiceFile": "阿蒂拉圣诞·指令卡2.mp3"
+                },
+                {
+                    "title": "指令卡 3",
+                    "text": "……脑袋有些恍惚……",
+                    "textJp": "頭がぼーっとする",
+                    "textEn": "...My head feels fuzzy...",
+                    "condition": null,
+                    "voiceFile": "阿蒂拉圣诞·指令卡3.mp3"
+                },
+                {
+                    "title": "宝具卡 1",
+                    "text": "圣诞老人特效，发动……吸，呼……",
+                    "textJp": "サンタエフェクト発動！ はぁ～、ふぅ～",
+                    "textEn": "Deploying Santa effect. (Breathe in...breathe out...)",
+                    "condition": null,
+                    "voiceFile": "阿蒂拉圣诞·宝具卡1.mp3"
+                },
+                {
+                    "title": "宝具卡 2",
+                    "text": "该你出场了，茨尔戈。让御主见识你帅气的一面。",
+                    "textJp": "出番だツェルコ。マスターにカッコいい所を見せるぞ",
+                    "textEn": "It's our turn, Zerco. We're going to show Master how we shine.",
+                    "condition": null,
+                    "voiceFile": "阿蒂拉圣诞·宝具卡2.mp3"
+                },
+                {
+                    "title": "攻击 1",
+                    "text": "要上了。",
+                    "textJp": "ゆくぞっ！",
+                    "textEn": "Here we go!",
+                    "condition": null,
+                    "voiceFile": "阿蒂拉圣诞·攻击1.mp3"
+                },
+                {
+                    "title": "攻击 2",
+                    "text": "拐杖糖！",
+                    "textJp": "キャンディケイン！",
+                    "textEn": "Candy cane!",
+                    "condition": null,
+                    "voiceFile": "阿蒂拉圣诞·攻击2.mp3"
+                },
+                {
+                    "title": "攻击 3",
+                    "text": "羊就该这么使用……！",
+                    "textJp": "ヒツジはこう使う！",
+                    "textEn": "This is how you use sheep!",
+                    "condition": null,
+                    "voiceFile": "阿蒂拉圣诞·攻击3.mp3"
+                },
+                {
+                    "title": "攻击 4",
+                    "text": "礼物要等睡着了才能送……！",
+                    "textJp": "贈り物は眠ってからだ！",
+                    "textEn": "You have to go to bed to get your presents!",
+                    "condition": null,
+                    "voiceFile": "阿蒂拉圣诞·攻击4.mp3"
+                },
+                {
+                    "title": "Extra 1",
+                    "text": "糖果、饼干、卷蛋糕！",
+                    "textJp": "キャンディ、クッキー、ロールケーキ！",
+                    "textEn": "Candy, cookie, yule log cake!",
+                    "condition": null,
+                    "voiceFile": "阿蒂拉圣诞·额外攻击1.mp3"
+                },
+                {
+                    "title": "Extra 2",
+                    "text": "咻啪，咻啪啪。你是逃不出圣诞老人的手掌心的！",
+                    "textJp": "しゅばしゅばば！ サンタからは逃げられない！",
+                    "textEn": "Shooom! Pchooo!\nYou can't escape from Santa!",
+                    "condition": null,
+                    "voiceFile": "阿蒂拉圣诞·额外攻击2.mp3"
+                },
+                {
+                    "title": "宝具 1",
+                    "text": "……好嘞。要开始啦。一、二、三。梦之羊在夜空中驰骋——圣夜之虹，军神之剑！咩～",
+                    "textJp": "よし、やるぞ。いち、に、さん。夢の羊は夜空を駆ける。『聖夜の虹、軍神の剣』！（羊たちの鳴き声）",
+                    "textEn": "...Okay. Let's do this. One...two...three\n\nFantastical sheep streak across the night sky!\n\nCandy Star Photon Ray!\n\nBaaa...\n\nBaaa...\n\nBaaa baaa? Baaa baaa baa!!!",
+                    "condition": null,
+                    "voiceFile": "阿蒂拉圣诞·宝具1.mp3"
+                },
+                {
+                    "title": "宝具 2",
+                    "text": "不破坏约定，粉碎其孤独。一只羊，很多羊……圣夜之虹，军神之剑！咩～",
+                    "textJp": "約束は壊さない。その孤独を粉砕する。羊が一匹、羊がmany。『聖夜の虹、軍神の剣』！（羊たちの鳴き声）",
+                    "textEn": "I never break promises. I will pulverize the loneliness. \n\nOne sheep... many sheeps... \n\nCandy Star Photon Ray! \n\nBaaa... \n\nBaaa... \n\nBaaa baaa? Baaa baaa baa!!!",
+                    "condition": null,
+                    "voiceFile": "阿蒂拉圣诞·宝具2.mp3"
+                },
+                {
+                    "title": "受击 1",
+                    "text": "非常痛，但还能忍受！",
+                    "textJp": "とても痛い……！ だが耐えるぞ！",
+                    "textEn": "That hurt a lot...but I can take it!",
+                    "condition": null,
+                    "voiceFile": "阿蒂拉圣诞·受击1.mp3"
+                },
+                {
+                    "title": "受击 2",
+                    "text": "好痛啊。",
+                    "textJp": "いたいぞ",
+                    "textEn": "That hurt.",
+                    "condition": null,
+                    "voiceFile": "阿蒂拉圣诞·受击2.mp3"
+                },
+                {
+                    "title": "无法战斗 1",
+                    "text": "……真遗憾。我没有当圣诞老人的资格啊……",
+                    "textJp": "残念だ……。私はサンタ失格だな",
+                    "textEn": "Oh, no... I failed as a Santa...",
+                    "condition": null,
+                    "voiceFile": "阿蒂拉圣诞·无法战斗1.mp3"
+                },
+                {
+                    "title": "无法战斗 2",
+                    "text": "鼻血止不住……是不是……巧克力吃太多了……？倒下。",
+                    "textJp": "鼻血が止まらない……。チョコを食べすぎた、とか？ ぱたり",
+                    "textEn": "My nose wont't stop bleeding... Did I eat too many chocolates? (Thud)",
+                    "condition": null,
+                    "voiceFile": "阿蒂拉圣诞·无法战斗2.mp3"
+                },
+                {
+                    "title": "胜利 1",
+                    "text": "发烧了……圣诞老人这职业还真令人害羞呢……",
+                    "textJp": "熱が上がってきた……。サンタクロースと言うのは恥ずかしいものだな",
+                    "textEn": "I'm getting more feverish... Being Santa is pretty embarrassing, isn't it?",
+                    "condition": null,
+                    "voiceFile": "阿蒂拉圣诞·胜利1.mp3"
+                },
+                {
+                    "title": "胜利 2",
+                    "text": "这就是正统派圣诞老人的力量。这种轻飘飘决不能让步。",
+                    "textJp": "これが正統派サンタの力だ。このふわふわは譲れない",
+                    "textEn": "This is the power of a proper Santa. I'm not giving up my Fluffy.",
+                    "condition": null,
+                    "voiceFile": "阿蒂拉圣诞·胜利2.mp3"
+                }
+            ]
+        },
+        {
+            "section": "召唤和强化",
+            "table": [
+                {
+                    "title": "期间限定加入",
+                    "text": "我是阿蒂拉·the·San〔ta〕。这是我的羊搭档茨尔戈。虽然还是个新人圣诞老人，但如你所见已经能独当一面了。麻烦你带我去深渊啦，御主。……阿嚏。",
+                    "textJp": "私はアルテラ・ザ・サン〔タ〕。この羊は相棒のツェルコ。まだまだ新米のサンタだが、この通り一人前だ。深淵まで案内を頼むぞ、マスター。……はくちゅん",
+                    "textEn": "I am Attila the San(ta).\nThis sheep here is my partner, Zerco.\nI'm still a newbie Santa, but as you can see, I'm a full-fledged one.\nI'm counting on you to lead us to the abyss.\nAchoo.",
+                    "condition": null,
+                    "voiceFile": "阿蒂拉圣诞·期间限定加入.mp3"
+                },
+                {
+                    "title": "召唤",
+                    "text": "这次下冥界做得非常好。我也为能成功递送礼物感到高兴。但真正的圣诞节才刚刚开始，我轻飘飘的御主。今后茨尔戈和我都要承蒙你照顾了……圣诞老人是这么想的。",
+                    "textJp": "冥界下り、見事だった。私もプレゼントを届けられて嬉しい。だがクリスマスはここからが本番だぞ。我がふわふわのマスター。ツェルコともどもよろしく頼む……と思うサンタなのじゃった。",
+                    "textEn": "Good work on your descent into the Underworld.\nI'm thrilled to have been able to deliver presents too.\nBut Christmas has just started, my Fluffy Master.\nBoth Zerco and I are counting on you...\nSo says this Santa!",
+                    "condition": null,
+                    "voiceFile": "阿蒂拉圣诞-正式加入.ogg"
+                },
+                {
+                    "title": "升级",
+                    "text": "谢谢。……嗯。等级提升是好文明。",
+                    "textJp": "ありがとう。うん。レベルアップは、いい文明だ",
+                    "textEn": "Thank you.\n...Yes, leveling up is good civilization.",
+                    "condition": null,
+                    "voiceFile": "阿蒂拉圣诞·升级.mp3"
+                },
+                {
+                    "title": "灵基再临 1",
+                    "text": "灵基再临，这样就能穿得稍微暖和一点……并不能呢。真希望至少能给我一件披风……真遗憾。",
+                    "textJp": "霊基再臨だ。これで少しは暖かい格好に……ならないな。マントのひとつでも欲しかったのだが……残念だ",
+                    "textEn": "Ascension... Now I should have more clothes so I can warm up...\n...Guess not.\nEven just a cape would have been nice... So disappointing.",
+                    "condition": null,
+                    "voiceFile": "阿蒂拉圣诞·灵基再临1.mp3"
+                },
+                {
+                    "title": "灵基再临 2",
+                    "text": "茨尔戈的毛量增多了……我觉得似乎是这样……应该是看不见的地方发生了变化吧。",
+                    "textJp": "ツェルコの毛並みがアップ！……した気がする。見えないところは変わっている、ということだな",
+                    "textEn": "Zerco's gotten fluffier...at least I think he did.\nMaybe something we can't see has changed...",
+                    "condition": null,
+                    "voiceFile": "阿蒂拉圣诞·灵基再临2.mp3"
+                },
+                {
+                    "title": "灵基再临 3",
+                    "text": "……这难道是……该不会……就连因发烧而晕乎乎的我也能明白……历代圣诞老人都不会换衣服吗……！",
+                    "textJp": "これはもしや……もしかして……熱でポーっとした私でもわかる。歴代サンタに、衣装替えはないということが……！",
+                    "textEn": "...Could this be...?\nDon't tell me...\nDespite my feverish state, I know that a Santa's costume never changes...!",
+                    "condition": null,
+                    "voiceFile": "阿蒂拉圣诞·灵基再临3.mp3"
+                },
+                {
+                    "title": "灵基再临 4",
+                    "text": "哟……哟。真巧啊，御主。话说请收下这个。虽然是多余的东西，但是非常好的多余东西……哎？　问我为什么要送你礼物？ ……这是因为……我很高兴你尽管发现了我不会换衣服，也将我培养到这个程度……不行了，发烧让体温又升高了……这些雪能让脑袋冷静下来吗……？",
+                    "textJp": "や、やぁ……奇遇だなマスター。ところで、これを受け取って欲しい。余り物だが、とっておきの余り物で……えっ？なぜプレゼントを……だと？それは、私に着替えがないと気づきながら、ここまで育ててくれたことが嬉しくて……ダメだ、熱が上がってきた。この雪で、少しは頭も冷えるだろうか……",
+                    "textEn": "H-hey. What a coincident, Master.\nBy the way, I want you to have this.\nIt's a leftover present, but it's a special one...\nHuh? Why am I giving this to you, you ask?\n...Well...\nI am just so happy that you took such good care of me, even though my costume never changed...\nCrap...my fever's coming back...\nMaybe this snow will help me cool down.",
+                    "condition": null,
+                    "voiceFile": "阿蒂拉圣诞·灵基再临4.mp3"
+                }
+            ]
+        },
+        {
+            "section": "个人空间",
+            "table": [
+                {
+                    "title": "羁绊 Lv.1",
+                    "text": "你是不是觉得我们的亲密度提高了？这虽是事实，但希望你也不要过于接近我。一旦你知道了我的秘密，我就不得不……对你做各种事了……",
+                    "textJp": "ちょっと親密度が上がったと思っているな？それは事実だが、だからといって私にはあまり近寄らないでほしい。私の秘密を知られたら、私はお前を、色々しなくてはならなくなる",
+                    "textEn": "You think we got more friendly with each other, don't you? Well, that may be true, but don't get too close to me.\nIf you learn any more of my secrets, I'll need to...do certain things to you.",
+                    "condition": null,
+                    "voiceFile": "阿蒂拉圣诞·羁绊1.mp3"
+                },
+                {
+                    "title": "羁绊 Lv.2",
+                    "text": "我就向御主坦白了吧。其实我并不是天生的圣诞老人……是在奇妙的羊的引导下继承了圣诞老人之名的新世代圣诞老人……对，阿蒂拉圣诞老人就是宇宙的圣诞老人……哎？　你知道？……这样啊。明明知道，却还能为我保守秘密，你真温柔。",
+                    "textJp": "マスターには打ち明けておこう。実は私は、生まれつきのサンタではないんだ。不思議な羊の導きでサンタを襲名した新世代のサンタで、そう、アルテラサンタはいわば宇宙のサンタ……え？ 知ってた？ そうか、知っていて秘密を守っていてくれたとは……お前は優しいな",
+                    "textEn": "Let me tell you a little secret, Master.\nI wasn't born a Santa...\nI became a new generation Santa by inheriting the Santa name through the guidance of a strange sheep...\nThat's right...Altera Santa is a Santa from a distant star...\nEh, You knew?\n...Oh, I see.\nYou knew, yet you kept it a secret for me... You're a pretty nice person.",
+                    "condition": null,
+                    "voiceFile": "阿蒂拉圣诞·羁绊2.mp3"
+                },
+                {
+                    "title": "羁绊 Lv.3",
+                    "text": "……由于获得了奇怪的羊的力量，最近总会做不太好的梦……这些梦我原本也会做，只是内容变得更为明确了……我曾说过我是宇宙的圣诞老人，说不定，我还真的是宇宙的圣诞老人呢……这种情况下，你还会当我的御主吗……",
+                    "textJp": "おかしな羊に力を貰ったせいか、この頃は良くない夢を見る。元から見ていた夢だが、内容がより明確になっていて……私は宇宙のサンタと言ったが、もしかしたら本当に、宇宙のサンタかもしれない。その場合、お前は私のマスターでいてくれるだろうか",
+                    "textEn": "...Maybe it's because I got these powers from a strange sheep, but I keep having bad dreams...\nActually, it's a dream I've always had, but the details are getting more and more vivid...\nI've been saying that I'm Santa from outer space, but maybe I really am...?\nIf that was true, would you still be my Master?",
+                    "condition": null,
+                    "voiceFile": "阿蒂拉圣诞·羁绊3.mp3"
+                },
+                {
+                    "title": "羁绊 Lv.4",
+                    "text": "你……你说就算我是宇宙的圣诞老人也没关系吧？这……这样啊。其实就算说我不是地球产的从者，我也不会慌张哦。因为无论如何，你都是我的御主。……话虽如此，心里还是有些难受。你能这么说，我好像非常高兴。",
+                    "textJp": "わ、私が宇宙のサンタでも問題はないと言ったのか？そ、そうか。私も別に、地球産のサーヴァントでないからといって慌てないぞ。どうあってもお前は私のマスターなのだからな。……とはいえ、少し、胸が苦しい。そう言ってもらえて、私はとても嬉しいようだ",
+                    "textEn": "D-did you say that you don't mind that I am a Santa from space?\nI-I see...\nI-I'm not the least bit worried that I'm not a Servant from Earth, either.\nAfter all, you'll always be my Master.\n...But I'm a bit moved. I guess I'm happy to hear you say something like that.",
+                    "condition": null,
+                    "voiceFile": "阿蒂拉圣诞·羁绊4.mp3"
+                },
+                {
+                    "title": "羁绊 Lv.5",
+                    "text": "即便做了什么奇怪的梦，我还是我，你也是你。我不会忘记那趟冥界之旅。轻飘飘的御主啊。希望你永远是一个能为圣诞节庆祝的人类。如果能实现，那我成为圣诞老人也就有意义了。",
+                    "textJp": "おかしな夢を見ようと、私は私、お前はお前だ。私はあの冥界の旅を忘れない。ふわふわのマスターよ、お前は、いつまでもクリスマスを祝える人間であってほしい。それが叶うのなら、私がサンタになった意味はあったと思う",
+                    "textEn": "No matter what kind of strange dream I have, I am still me, and you're still you.\nI will never forget our journey to the underworld.\nFluffy Master... I want you to be the kind of human who continues to celebrate Christmas, even in my absence.\nIf that wish comes true, then it was worth becoming Santa.",
+                    "condition": null,
+                    "voiceFile": "阿蒂拉圣诞·羁绊5.mp3"
+                },
+                {
+                    "title": "对话 1",
+                    "text": "御主。无论多么优秀的好马，不运动也会变成差马。如果你不介意的话，我会陪你一起跑步哦。",
+                    "textJp": "マスター。どれ程の名馬でも、運動せねば駄馬に落ちる。私でよければランニングに付き合うぞ",
+                    "textEn": "Master, even a noble steed can turn into a packhorse if it doesn't exercise. \nIf you don't mind, I could go jogging with you.",
+                    "condition": null,
+                    "voiceFile": "阿蒂拉圣诞·对话1.mp3"
+                },
+                {
+                    "title": "对话 2",
+                    "text": "我和你的关系……是圣诞老人和引路人，是从者和御主，也像姐姐和弟弟……总之，就是这种暧昧而模糊的存在。",
+                    "textJp": "私とお前の関係……。サンタとナビでもあり、サーヴァントとマスターであり、姉と弟のようなものでもあり……まあ、そういう『曖昧もこもこ』としたものじゃよ",
+                    "textEn": "Our relationship...\nWe're a Santa and GPS duo, a Servant and Master, and we're even like siblings...\nWell, it's kind of an odd and fluffy relationship.",
+                    "condition": "男性御主",
+                    "voiceFile": "阿蒂拉圣诞·对话2.mp3"
+                },
+                {
+                    "title": "对话 2",
+                    "text": "我和你的关系……是圣诞老人和引路人，是从者和御主，也像姐姐和妹妹……总之，就是这种暧昧而模糊的存在。",
+                    "textJp": "私とお前の関係……。サンタとナビでもあり、サーヴァントとマスターであり、姉と妹のようなものでもあり……まあ、そういう『曖昧もこもこ』としたものじゃよ",
+                    "textEn": "Our relationship...\n\nWe're a Santa and GPS duo, a Servant and Master, and we're even like siblings...\n\nWell, it's kind of an odd and fluffy relationship.",
+                    "condition": "女性御主",
+                    "voiceFile": "197di_di2f.mp3"
+                },
+                {
+                    "title": "对话 3",
+                    "text": "我是阿蒂拉圣诞老人。是从遥远的羔羊星球而来的圣诞老人。设定就是这样的。因为我不太了解地球上的情况，所以我打算一概相信你说的话。",
+                    "textJp": "私はアルテラサンタ。遠くラム星雲からやって来たサンタさんだ。そういう設定にした。地球の事情はよく分からないので、お前の言うことをむやみに鵜呑みにしようと思う",
+                    "textEn": "I am Altera Santa.\nI am a Santa who came from the distant galaxy, Ram. At least, that's how I'm imagining it.\nI'm not sure how things work on Earth, but I suppose I will believe whatever you tell me.",
+                    "condition": null,
+                    "voiceFile": "阿蒂拉圣诞·对话3.mp3"
+                },
+                {
+                    "title": "对话 4",
+                    "text": "圣诞Alter，那是伟大的前辈吧。不过遗憾的是，她的雪橇是旧型的。那个是追不上我的羔羊喷射引擎的，嚯～嚯～嚯～。",
+                    "textJp": "サンタオルタ……偉大な先輩じゃな。しかし、ソリが旧型なのが残念じゃ。あれではワシのラムジェットエンジンに追い付かんよ。ふぉっふぉっふぉ",
+                    "textEn": "Santa Alter... She is an admirable predecessor.\nIt's a shame she uses an older model sled, though.\nIt would never be able to keep up with my ramjet.\nHo ho ho.",
+                    "condition": "持有阿尔托莉雅·潘德拉贡〔圣诞Alter〕",
+                    "voiceFile": "阿蒂拉圣诞·对话4.mp3"
+                },
+                {
+                    "title": "对话 5",
+                    "text": "贞德·Alter·Santa·Lily。也就是Lily前辈吧。我知道。她的宝具非常愉快，会令我与Alter前辈的内心感到挫折。",
+                    "textJp": "ジャンヌ・ダルク・サンタ・オルタ・リリィ……すなわちリリィ先輩だな。知っている。宝具がとても楽しそうで、私もオルタ先輩も内心膝を折っているのじゃよ",
+                    "textEn": "Jeanne d'Arc Alter Santa Lily.\nSo she's my Lily predecessor. I know of her.\nHer Noble Phantasm seems fun, and both my Alter predecessor and I want to doff our hats in respect...on the inside.",
+                    "condition": "持有贞德·Alter·Santa·Lily",
+                    "voiceFile": "阿蒂拉圣诞·对话5.mp3"
+                },
+                {
+                    "title": "对话 6",
+                    "text": "从者宇宙里似乎存在与我非常相似的人。可可风味的褐色皮肤与虹色之剑。光子如细雪般飞散，为银河带去终焉。……唔。这是指我吗？但总觉得后半不太对啊……？",
+                    "textJp": "サーヴァント・ユニバースには、私とよく似た者がいるらしい。ココア風味の褐色の肌に、虹色の剣。粉雪のようにフォトンを舞い散らせ、銀河に終末を与えるのだという。……それは私なのだろうか。なんか、後半は違うような……",
+                    "textEn": "In the Servant Universe, I hear there's someone who looks like me.\nCocoa-colored skin and a rainbow sword...\nI hear photon rays dance around like powdered snow, and she leads the galaxy to its end.\n...Hmmm, is that really me?\nI feel like the latter half took a dark turn...",
+                    "condition": "持有从者宇宙系从者",
+                    "voiceFile": "阿蒂拉圣诞·对话6.mp3"
+                },
+                {
+                    "title": "喜欢的东西",
+                    "text": "喜欢的东西，是……那个。羊毛与雪与甜美的棉花糖。也就是轻飘飘的东西！",
+                    "textJp": "好きなものは、その……だ。羊毛と雪と甘いわたあめ……要は、ふわふわしたものだ！",
+                    "textEn": "What I like... Well, they're...\nSheep wool, snow, and sweet cotton candy.\nThe point is, I like all things fluffy!",
+                    "condition": null,
+                    "voiceFile": "阿蒂拉圣诞·喜欢的东西.mp3"
+                },
+                {
+                    "title": "讨厌的东西",
+                    "text": "讨厌的东西是冰冷的冰淇淋与啰嗦的家伙。你想。都会令人脑袋阵阵疼痛吧？",
+                    "textJp": "嫌いなものは、冷たいアイスとうるさいやつじゃ。ほら、キンキンと頭に響くだろう？",
+                    "textEn": "What I hate? Cold ice cream and people who talk too much.\nYou know, because they both give you headaches.",
+                    "condition": null,
+                    "voiceFile": "阿蒂拉圣诞·讨厌的东西.mp3"
+                },
+                {
+                    "title": "关于圣杯",
+                    "text": "如果圣杯能实现愿望，愿赐予所有的圣诞节手握手的祝福。独自度过的圣诞节，是坏文明。",
+                    "textJp": "聖杯が願いを叶えるものなら、全てのクリスマスに手を繋ぐ祝福を。一人で過ごすクリスマスは、悪い文明だ……",
+                    "textEn": "If the Holy Grail can grant wishes, I would wish for everyone to come together and join hands during Christmas.\nBeing alone during Christmas is bad civilization.",
+                    "condition": null,
+                    "voiceFile": "阿蒂拉圣诞·关于圣杯.mp3"
+                },
+                {
+                    "title": "活动举行中",
+                    "text": "身为圣诞老人，我是不会放过其他活动的。吸收优点，破坏缺点。这就是匈人的圣诞老人。",
+                    "textJp": "サンタとして他のイベントは見過ごせない。良いところは取り入れ、悪いところは破壊する。それがフンヌのサンタクロースだ",
+                    "textEn": "Just because I am Santa does not mean I can ignore other events. \n\nI'll learn fromk the good parts, and destroy the bad. \n\nThat's the way of the Hun's Santa Clause.",
+                    "condition": null,
+                    "voiceFile": "阿蒂拉圣诞·活动举行中.mp3"
+                },
+                {
+                    "title": "生日",
+                    "text": "嚯～嚯～嚯～。今天是你的生日吧，那我把这个送给你。这是今年圣诞节的同行权。我们来一起分发礼物吧。呵呵。这样就算一个人感到寂寞，也能回避最糟的情况啦。",
+                    "textJp": "ふぉっふぉっふぉっ、誕生日じゃな。ではこれをやろう。今年のクリスマス同行券じゃ。一緒にプレゼントを配れるぞ。ふふん、もし一人で退屈になっても、最悪の事態は避けられたな",
+                    "textEn": "Ho ho ho. So it's your birthday.\nThen take this.\nYou earned the right to accompany me for this year's Christmas rounds. We can deliver presents together. Hee hee.\nEven if you get bored from loneliness, you've at least saved yourself from the worst of scenarios.",
+                    "condition": null,
+                    "voiceFile": "阿蒂拉圣诞·生日.mp3"
+                }
+            ]
+        },
+        {
+            "section": "冥界的圣诞快乐～2018圣诞节～",
+            "table": [
+                {
+                    "title": "对话 1",
+                    "text": "收集到冥界之砂了吧。我会为你交换想要的东西。",
+                    "textJp": "冥界の砂を集めてきたな。欲しいものと取り替えよう",
+                    "textEn": "You've collected some Sand of the Underworld.\nExchange it for whatever you want.",
+                    "condition": null,
+                    "voiceFile": "阿蒂拉圣诞·圣诞2017·对话1.mp3"
+                },
+                {
+                    "title": "对话 2",
+                    "text": "啊嚏！……冥界好冷啊。穿得那么薄，都快要感冒了……",
+                    "textJp": "はっくしゅん！冥界はとても寒い……こんな薄着だと風邪を引いてしまいそうだ……",
+                    "textEn": "(Achoo!)\n...The underworld is really cold.\nI might catch a cold since I'm wearing so little...",
+                    "condition": null,
+                    "voiceFile": "阿蒂拉圣诞·圣诞2017·对话2.mp3"
+                },
+                {
+                    "title": "对话 3",
+                    "text": "我准备了很多礼物。因为我是个优秀的圣诞老人。",
+                    "textJp": "プレゼントはたくさん用意してある。デキるサンタだからな",
+                    "textEn": "I've prepared plenty of presents.\nI'm an efficient Santa!",
+                    "condition": null,
+                    "voiceFile": "阿蒂拉圣诞·圣诞2017·对话3.mp3"
+                },
+                {
+                    "title": "对话 4",
+                    "text": "圣诞节的系统很复杂。希望你一定要好好阅读说明。",
+                    "textJp": "クリスマスのシステムは複雑だ、きちんとインフォメーションを読んで欲しい",
+                    "textEn": "The Christmas system is complicated so make sure you read all you can about it.",
+                    "condition": null,
+                    "voiceFile": "阿蒂拉圣诞·圣诞2017·对话4.mp3"
+                },
+                {
+                    "title": "对话 5",
+                    "text": "我很憧憬商店橱窗里的小号……如果有那样的御主也不错。",
+                    "textJp": "ショーウィンドウのトランペットに憧れる。そんなマスターがいてもいいと思うのじゃ",
+                    "textEn": "I really like the trumpet on the store's shopfront...\nI wouldn't mind a Master like that...",
+                    "condition": null,
+                    "voiceFile": "阿蒂拉圣诞·圣诞2017·对话5.mp3"
+                },
+                {
+                    "title": "对话 6",
+                    "text": "圣诞节不会永远持续下去。希望明年圣诞节也能到来。",
+                    "textJp": "クリスマスは永遠には続かない。また来年やってきて欲しい",
+                    "textEn": "Christmas does not last forever.\nCome back again next year.",
+                    "condition": null,
+                    "voiceFile": "阿蒂拉圣诞-活动对话6.ogg"
+                },
+                {
+                    "title": "对话 7",
+                    "text": "今年的圣诞节过得还愉快吗？……这样啊。那就好。",
+                    "textJp": "今年のクリスマスは楽しかったか？そうか、それは良かった",
+                    "textEn": "Did you enjoy this year's Christmas?\n...I see. That's good.",
+                    "condition": null,
+                    "voiceFile": "阿蒂拉圣诞-活动对话7.ogg"
+                },
+                {
+                    "title": "对话 8",
+                    "text": "不要忘记交换礼物哦。否则我当圣诞老人就没意义了……",
+                    "textJp": "プレゼント交換を忘れないで欲しい。サンタのしがいがないからな",
+                    "textEn": "Don't forget to exchange your presents.\nIt wouldn't be worth being Santa if you don't get presents.",
+                    "condition": null,
+                    "voiceFile": "阿蒂拉圣诞-活动对话8.ogg"
+                },
+                {
+                    "title": "对话 9",
+                    "text": "这里有好礼物和坏礼物。你想先打开哪个？",
+                    "textJp": "いいプレゼントとわるいプレゼントがある。どちらから開けたい？",
+                    "textEn": "There are good presents and bad presents.\nWhich one do you want to open first?",
+                    "condition": null,
+                    "voiceFile": "阿蒂拉圣诞·圣诞2017·对话9.mp3"
+                },
+                {
+                    "title": "对话 10",
+                    "text": "……我尽可能搜集来了有用的东西……不知道是否合你的意呢……？",
+                    "textJp": "できるだけ役に立つものを集めたが、お眼鏡にかなうだろうか",
+                    "textEn": "...I tried collecting as many useful things as possible...I hope you like them...",
+                    "condition": null,
+                    "voiceFile": "阿蒂拉圣诞·圣诞2017·对话10.mp3"
+                },
+                {
+                    "title": "对话 11",
+                    "text": "尽管没有什么依据，但我有种非常好的预感。我觉得，这应该值得期待！",
+                    "textJp": "根拠はないがいい予感がする。これは期待できる……と思う",
+                    "textEn": "I don't know why, but I have a good feeling about this. You should get excited about this one...I think!",
+                    "condition": null,
+                    "voiceFile": "阿蒂拉圣诞·圣诞2017·对话11.mp3"
+                },
+                {
+                    "title": "对话 12",
+                    "text": "只要敲一下这拐杖糖，就会发生太拉级不可思议的事。会出现好多好多礼物。好厉害。",
+                    "textJp": "このケインをコツンと当てればテラ不思議。たくさんのプレゼントが出てくるんだ、スゴイ！",
+                    "textEn": "A little tap with this cane, and lo and behold...\nSo many presents. Amazing.",
+                    "condition": null,
+                    "voiceFile": "阿蒂拉圣诞·圣诞2017·对话12.mp3"
+                },
+                {
+                    "title": "对话 13",
+                    "text": "唔————！这是，好文明的预感……！",
+                    "textJp": "むぅ～～～。これは、いい文明の予感！",
+                    "textEn": "Hmmm!\nThis is good civilization! I can feel it!",
+                    "condition": null,
+                    "voiceFile": "阿蒂拉圣诞·圣诞2017·对话13.mp3"
+                },
+                {
+                    "title": "对话 14",
+                    "text": "最后1盒……也就意味着……呃，最后1盒也就意味着……",
+                    "textJp": "最後の一箱、ということは…ええと…。最後の一箱ということは……",
+                    "textEn": "The last box...which means...\nUhm...the last box means...",
+                    "condition": null,
+                    "voiceFile": "阿蒂拉圣诞·圣诞2017·对话14.mp3"
+                },
+                {
+                    "title": "对话 15",
+                    "text": "不是这个……这咒语我听到好几遍了。因为我是圣诞老人，所以不介意。",
+                    "textJp": "コレジャナイ？何度も聞く呪文だな。サンタだから気にしないぞ",
+                    "textEn": "Is saying \"this isn't it\" some sort of magical spell that you need to say often? I'm not going to worry about it, since I'm Santa.",
+                    "condition": null,
+                    "voiceFile": "阿蒂拉圣诞·圣诞2017·对话15.mp3"
+                },
+                {
+                    "title": "对话 16",
+                    "text": "这次很遗憾……但是，你下次还会抽吧？　我很高兴。",
+                    "textJp": "今回は残念だった。だが、これで次回も回すのだろう？私は嬉しい",
+                    "textEn": "Too bad this time... But that means you're going to spin again, right? I'm glad.",
+                    "condition": null,
+                    "voiceFile": "阿蒂拉圣诞·圣诞2017·对话16.mp3"
+                },
+                {
+                    "title": "对话 17",
+                    "text": "只有一件礼物固然好，但双手抱着一大堆礼物也很好呀。",
+                    "textJp": "たった一つのプレゼントもいいが、両手いっぱいのプレゼントもいいものだな",
+                    "textEn": "One present is nice, but having your arms full of presents is also nice.",
+                    "condition": null,
+                    "voiceFile": "阿蒂拉圣诞·圣诞2017·对话17.mp3"
+                },
+                {
+                    "title": "对话 18",
+                    "text": "这景色无论看多少次都不腻呢……闪闪发光，犹如星星之泪。",
+                    "textJp": "何度見てもこの光景は飽きないな。キラキラと光る星の涙のようだ",
+                    "textEn": "I never get tired of seeing this, no matter how many times I watch...Twinkling stars, like they're crying.",
+                    "condition": null,
+                    "voiceFile": "阿蒂拉圣诞·圣诞2017·对话18.mp3"
+                },
+                {
+                    "title": "对话 19",
+                    "text": "嚯～嚯～嚯～。干得漂亮，年轻人。这是大奖。",
+                    "textJp": "フォッフォッフォ、お見事じゃ若者よ。それが当たりじゃよ",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "阿蒂拉圣诞·圣诞2017·对话19.mp3"
+                },
+                {
+                    "title": "对话 20",
+                    "text": "终于抽掉了最后的大奖啊……接下来，会变得有些寂寞呢……",
+                    "textJp": "遂に最後の当たりを引いてしまったか。これから、少しだけ寂しくなるな",
+                    "textEn": "So you've finally claimed the final jackpot... That means, it's going to get a little lonely here, isn't it?",
+                    "condition": null,
+                    "voiceFile": "阿蒂拉圣诞·圣诞2017·对话20.mp3"
+                }
+            ]
+        }
+    ],
+    "bondCraft": -1,
+    "valentineCraft": [],
+    "icons": [
+        {
+            "key": "icon1",
+            "valueList": [
+                "阿蒂拉圣诞头像.png",
+                "阿蒂拉圣诞头像.png",
+                "阿蒂拉圣诞头像.png"
+            ]
+        }
+    ],
+    "sprites": [
+        {
+            "key": "sprite1",
+            "valueList": [
+                "阿蒂拉圣诞模型.png",
+                "阿蒂拉圣诞模型.png",
+                "阿蒂拉圣诞模型.png"
+            ]
+        }
+    ],
+    "fandomIcons": {
+        "fandom.Icon_Servant_197.png": "Stage 1-3",
+        "fandom.AttilaArcherFinalIcon.png": "Stage 4",
+        "fandom.S197 status servant 1.png": "Portrait (Stage 1-3)"
+    },
+    "fandomSprites": {
+        "fandom.alterasanta.png": "Sprite",
+        "fandom.S197 card servant 1.png": "Command Card (Stage 1-3)",
+        "fandom.nplogo197.png": "NP Logo",
+        "fandom.Alterasanta sclheep.png": "Zerco the Sheep Sprite",
+        "fandom.Alterasantauhhhwand.png": "Photon Cane Sprite"
+    },
+    "niceSkills": [
+        {
+            "id": 430450,
+            "num": 1,
+            "name": "星者の贈り物 B",
+            "ruby": "せいじゃのおくりもの",
+            "detail": "味方単体のNPを増やす＆スター発生率をアップ(3ターン)",
+            "type": "active",
+            "strengthStatus": 0,
+            "priority": 1,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "conLv": 0,
+            "condLimitCount": 0,
+            "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00601.png",
+            "coolDown": [
+                7,
+                7,
+                7,
+                7,
+                7,
+                6,
+                6,
+                6,
+                6,
+                5
+            ],
+            "functions": [
+                {
+                    "funcId": 463,
+                    "funcType": "gainNp",
+                    "funcTargetType": "ptOne",
+                    "funcTargetTeam": "player",
+                    "funcPopupText": "NP増加",
+                    "buffs": [],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Value": 1000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1300
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1400
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1500
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1600
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1700
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1800
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 2000
+                        }
+                    ]
+                },
+                {
+                    "funcId": 471,
+                    "funcType": "hastenNpturn",
+                    "funcTargetType": "ptOne",
+                    "funcTargetTeam": "enemy",
+                    "funcPopupText": "チャージ増加",
+                    "buffs": [],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        }
+                    ]
+                },
+                {
+                    "funcId": 299,
+                    "funcType": "addState",
+                    "funcTargetType": "ptOne",
+                    "funcTargetTeam": "player",
+                    "funcPopupText": "スター発生アップ",
+                    "buffs": [
+                        {
+                            "id": 117,
+                            "name": "スター発生アップ",
+                            "detail": "スター発生率をアップ",
+                            "type": "upCriticalpoint",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 300
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 300
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 300
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 300
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 300
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 300
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 300
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 300
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 300
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 300
+                        }
+                    ]
+                },
+                {
+                    "funcId": 218,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "ptOne",
+                    "funcTargetTeam": "enemy",
+                    "funcPopupText": "クリティカル発生アップ",
+                    "buffs": [
+                        {
+                            "id": 144,
+                            "name": "クリティカル発生アップ",
+                            "detail": "クリティカルの発生率をアップ",
+                            "type": "upCriticalrate",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 100
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 431450,
+            "num": 2,
+            "name": "虹の飴細工 B",
+            "ruby": "にじのあめざいく",
+            "detail": "味方単体の宝具威力をアップ(1ターン)＆クリティカル威力をアップ(1ターン)",
+            "type": "active",
+            "strengthStatus": 0,
+            "priority": 1,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "conLv": 0,
+            "condLimitCount": 1,
+            "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00302.png",
+            "coolDown": [
+                7,
+                7,
+                7,
+                7,
+                7,
+                6,
+                6,
+                6,
+                6,
+                5
+            ],
+            "functions": [
+                {
+                    "funcId": 251,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "ptOne",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "宝具威力アップ",
+                    "buffs": [
+                        {
+                            "id": 138,
+                            "name": "宝具威力アップ",
+                            "detail": "宝具で与えるダメージをアップ",
+                            "type": "upNpdamage",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 210
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 220
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 230
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 240
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 250
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 260
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 270
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 280
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 300
+                        }
+                    ]
+                },
+                {
+                    "funcId": 203,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "ptOne",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "クリティカル威力アップ",
+                    "buffs": [
+                        {
+                            "id": 142,
+                            "name": "クリティカル威力アップ",
+                            "detail": "クリティカル時のダメージをアップ",
+                            "type": "upCriticaldamage",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 210
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 220
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 230
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 240
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 250
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 260
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 270
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 280
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 300
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 432650,
+            "num": 3,
+            "name": "きら星の紋章 EX",
+            "ruby": "きらぼしのもんしょう",
+            "detail": "自身に無敵貫通状態を付与(3ターン)＆スター集中状態を付与(3ターン)＆防御力をアップ(3ターン)＆3ターン後にスタン状態(1ターン)になる状態を付与【デメリット】",
+            "type": "active",
+            "strengthStatus": 0,
+            "priority": 1,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "conLv": 0,
+            "condLimitCount": 3,
+            "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00312.png",
+            "coolDown": [
+                7,
+                7,
+                7,
+                7,
+                7,
+                6,
+                6,
+                6,
+                6,
+                5
+            ],
+            "functions": [
+                {
+                    "funcId": 510,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "無敵貫通",
+                    "buffs": [
+                        {
+                            "id": 189,
+                            "name": "無敵貫通",
+                            "detail": "回避と無敵を無視してダメージを与える",
+                            "type": "pierceInvincible",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1
+                        }
+                    ]
+                },
+                {
+                    "funcId": 366,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "player",
+                    "funcPopupText": "スター集中アップ",
+                    "buffs": [
+                        {
+                            "id": 115,
+                            "name": "スター集中アップ",
+                            "detail": "スターの集まりやすさをアップ",
+                            "type": "upStarweight",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 3000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 3300
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 3600
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 3900
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 4200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 4500
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 4800
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 5100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 5400
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 6000
+                        }
+                    ]
+                },
+                {
+                    "funcId": 216,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "enemy",
+                    "funcPopupText": "クリティカル発生アップ",
+                    "buffs": [
+                        {
+                            "id": 144,
+                            "name": "クリティカル発生アップ",
+                            "detail": "クリティカルの発生率をアップ",
+                            "type": "upCriticalrate",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200
+                        }
+                    ]
+                },
+                {
+                    "funcId": 176,
+                    "funcType": "addState",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "防御力アップ",
+                    "buffs": [
+                        {
+                            "id": 146,
+                            "name": "防御力アップ",
+                            "detail": "防御力をアップ",
+                            "type": "upDefence",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 210
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 220
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 230
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 240
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 250
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 260
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 270
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 280
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 300
+                        }
+                    ]
+                },
+                {
+                    "funcId": 2066,
+                    "funcType": "addState",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "アルテラタイマー",
+                    "buffs": [
+                        {
+                            "id": 880,
+                            "name": "アルテラタイマー",
+                            "detail": "3ターン後にスタンする",
+                            "type": "delayFunction",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 5000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 990499,
+                            "Value2": 1
+                        },
+                        {
+                            "Rate": 5000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 990499,
+                            "Value2": 1
+                        },
+                        {
+                            "Rate": 5000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 990499,
+                            "Value2": 1
+                        },
+                        {
+                            "Rate": 5000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 990499,
+                            "Value2": 1
+                        },
+                        {
+                            "Rate": 5000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 990499,
+                            "Value2": 1
+                        },
+                        {
+                            "Rate": 5000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 990499,
+                            "Value2": 1
+                        },
+                        {
+                            "Rate": 5000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 990499,
+                            "Value2": 1
+                        },
+                        {
+                            "Rate": 5000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 990499,
+                            "Value2": 1
+                        },
+                        {
+                            "Rate": 5000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 990499,
+                            "Value2": 1
+                        },
+                        {
+                            "Rate": 5000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 990499,
+                            "Value2": 1
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "niceClassPassive": [
+        {
+            "id": 34350,
+            "num": 1,
+            "name": "対魔力 C",
+            "ruby": "たいまりょく",
+            "detail": "自身の弱体耐性を少しアップ",
+            "type": "passive",
+            "strengthStatus": 1,
+            "priority": 1,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "conLv": 0,
+            "condLimitCount": 0,
+            "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00100.png",
+            "coolDown": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "functions": [
+                {
+                    "funcId": 388,
+                    "funcType": "addState",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "弱体耐性アップ",
+                    "buffs": [
+                        {
+                            "id": 162,
+                            "name": "弱体耐性アップ",
+                            "detail": "弱体耐性をアップ",
+                            "type": "upTolerance",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 150
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 150
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 150
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 150
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 150
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 150
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 150
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 150
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 150
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 150
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 88650,
+            "num": 1,
+            "name": "騎乗 EX",
+            "ruby": "きじょう",
+            "detail": "自身のQuickカードの性能をアップ",
+            "type": "passive",
+            "strengthStatus": 1,
+            "priority": 1,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "conLv": 0,
+            "condLimitCount": 0,
+            "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00102.png",
+            "coolDown": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "functions": [
+                {
+                    "funcId": 100,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "クイックアップ",
+                    "buffs": [
+                        {
+                            "id": 100,
+                            "name": "Quickアップ",
+                            "detail": "Quickカードの性能をアップ",
+                            "type": "upCommandall",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 120
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 120
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 120
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 120
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 120
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 120
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 120
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 120
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 120
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 120
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 429650,
+            "num": 1,
+            "name": "文明浸食 EX",
+            "ruby": "ぶんめいしんしょく",
+            "detail": "自身のクリティカル威力をアップ",
+            "type": "passive",
+            "strengthStatus": 1,
+            "priority": 1,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "conLv": 0,
+            "condLimitCount": 0,
+            "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00303.png",
+            "coolDown": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "functions": [
+                {
+                    "funcId": 199,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "クリティカル威力アップ",
+                    "buffs": [
+                        {
+                            "id": 142,
+                            "name": "クリティカル威力アップ",
+                            "detail": "クリティカル時のダメージをアップ",
+                            "type": "upCriticaldamage",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 62450,
+            "num": 1,
+            "name": "神性 B",
+            "ruby": "しんせい",
+            "detail": "自身に与ダメージプラス状態を付与",
+            "type": "passive",
+            "strengthStatus": 1,
+            "priority": 1,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "conLv": 0,
+            "condLimitCount": 0,
+            "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00326.png",
+            "coolDown": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "functions": [
+                {
+                    "funcId": 265,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "アタックプラス",
+                    "buffs": [
+                        {
+                            "id": 136,
+                            "name": "ダメージプラス",
+                            "detail": "与えるダメージを増やす",
+                            "type": "addDamage",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 175
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 175
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 175
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 175
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 175
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 175
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 175
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 175
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 175
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 175
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "niceNoblePhantasms": [
+        {
+            "id": 202201,
+            "num": 1,
+            "card": "quick",
+            "name": "聖夜の虹、軍神の剣",
+            "ruby": "キャンディスター・フォトン・レイ",
+            "rank": "EX",
+            "type": "対界宝具",
+            "detail": "敵単体に超強力な攻撃 ＋ スターを大量獲得<オーバーチャージで効果アップ>",
+            "npGain": {
+                "buster": [
+                    59,
+                    59,
+                    59,
+                    59,
+                    59
+                ],
+                "arts": [
+                    59,
+                    59,
+                    59,
+                    59,
+                    59
+                ],
+                "quick": [
+                    59,
+                    59,
+                    59,
+                    59,
+                    59
+                ],
+                "extra": [
+                    59,
+                    59,
+                    59,
+                    59,
+                    59
+                ],
+                "defence": [
+                    300,
+                    300,
+                    300,
+                    300,
+                    300
+                ],
+                "np": [
+                    59,
+                    59,
+                    59,
+                    59,
+                    59
+                ]
+            },
+            "npDistribution": [
+                1,
+                3,
+                5,
+                7,
+                9,
+                10,
+                12,
+                14,
+                16,
+                23
+            ],
+            "strengthStatus": 0,
+            "priority": 101,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "individuality": [
+                {
+                    "id": 3000,
+                    "name": "attackPhysical"
+                },
+                {
+                    "id": 4003,
+                    "name": "cardQuick"
+                },
+                {
+                    "id": 4007,
+                    "name": "cardNP"
+                }
+            ],
+            "functions": [
+                {
+                    "funcId": 12,
+                    "funcType": "damageNp",
+                    "funcTargetType": "enemy",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "なし",
+                    "buffs": [],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Value": 12000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 16000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 18000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 19000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 20000
+                        }
+                    ]
+                },
+                {
+                    "funcId": 477,
+                    "funcType": "gainStar",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "player",
+                    "funcPopupText": "スター獲得",
+                    "buffs": [],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Value": 20
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 20
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 20
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 20
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 20
+                        }
+                    ]
+                },
+                {
+                    "funcId": 216,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "enemy",
+                    "funcPopupText": "クリティカル発生アップ",
+                    "buffs": [
+                        {
+                            "id": 144,
+                            "name": "クリティカル発生アップ",
+                            "detail": "クリティカルの発生率をアップ",
+                            "type": "upCriticalrate",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 2,
+                            "Count": -1,
+                            "Value": 300
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 2,
+                            "Count": -1,
+                            "Value": 300
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 2,
+                            "Count": -1,
+                            "Value": 300
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 2,
+                            "Count": -1,
+                            "Value": 300
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 2,
+                            "Count": -1,
+                            "Value": 300
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "atkGrowth": [
+        1626,
+        1723,
+        1829,
+        1926,
+        2032,
+        2138,
+        2235,
+        2341,
+        2447,
+        2545,
+        2650,
+        2756,
+        2854,
+        2959,
+        3065,
+        3163,
+        3268,
+        3374,
+        3472,
+        3577,
+        3683,
+        3781,
+        3886,
+        3992,
+        4090,
+        4196,
+        4301,
+        4399,
+        4505,
+        4610,
+        4708,
+        4814,
+        4919,
+        5017,
+        5123,
+        5228,
+        5326,
+        5432,
+        5537,
+        5635,
+        5741,
+        5838,
+        5944,
+        6050,
+        6147,
+        6253,
+        6359,
+        6457,
+        6562,
+        6668,
+        6766,
+        6871,
+        6977,
+        7075,
+        7180,
+        7286,
+        7384,
+        7489,
+        7595,
+        7693,
+        7798,
+        7904,
+        8002,
+        8108,
+        8213,
+        8311,
+        8417,
+        8522,
+        8620,
+        8726,
+        8831,
+        8929,
+        9035,
+        9140,
+        9238,
+        9344,
+        9449,
+        9547,
+        9653,
+        9759,
+        9856,
+        9962,
+        10059,
+        10165,
+        10271,
+        10368,
+        10474,
+        10580,
+        10678,
+        10783,
+        10889,
+        10987,
+        11092,
+        11198,
+        11296,
+        11401,
+        11507,
+        11605,
+        11710,
+        11816,
+        11914,
+        12019,
+        12125,
+        12223,
+        12329,
+        12434,
+        12532,
+        12638,
+        12743,
+        12841,
+        12947,
+        13052,
+        13150,
+        13256,
+        13361,
+        13459,
+        13565,
+        13670,
+        13768,
+        13874
+    ],
+    "hpGrowth": [
+        1862,
+        1979,
+        2106,
+        2223,
+        2350,
+        2477,
+        2595,
+        2722,
+        2849,
+        2966,
+        3093,
+        3220,
+        3338,
+        3465,
+        3592,
+        3709,
+        3836,
+        3963,
+        4080,
+        4208,
+        4335,
+        4452,
+        4579,
+        4706,
+        4823,
+        4950,
+        5077,
+        5195,
+        5322,
+        5449,
+        5566,
+        5693,
+        5820,
+        5938,
+        6065,
+        6192,
+        6309,
+        6436,
+        6563,
+        6681,
+        6808,
+        6925,
+        7052,
+        7179,
+        7296,
+        7423,
+        7551,
+        7668,
+        7795,
+        7922,
+        8039,
+        8166,
+        8293,
+        8411,
+        8538,
+        8665,
+        8782,
+        8909,
+        9036,
+        9154,
+        9281,
+        9408,
+        9525,
+        9652,
+        9779,
+        9897,
+        10024,
+        10151,
+        10268,
+        10395,
+        10522,
+        10639,
+        10767,
+        10894,
+        11011,
+        11138,
+        11265,
+        11382,
+        11509,
+        11637,
+        11754,
+        11881,
+        11998,
+        12125,
+        12252,
+        12370,
+        12497,
+        12624,
+        12741,
+        12868,
+        12995,
+        13113,
+        13240,
+        13367,
+        13484,
+        13611,
+        13738,
+        13855,
+        13983,
+        14110,
+        14227,
+        14354,
+        14481,
+        14598,
+        14725,
+        14852,
+        14970,
+        15097,
+        15224,
+        15341,
+        15468,
+        15595,
+        15713,
+        15840,
+        15967,
+        16084,
+        16211,
+        16338,
+        16456,
+        16583
+    ],
+    "figure": [
+        "https://static.atlasacademy.io/JP/CharaFigure/2022000/2022000_merged.png",
+        "https://static.atlasacademy.io/JP/CharaFigure/2022001/2022001_merged.png",
+        "https://static.atlasacademy.io/JP/CharaFigure/2022002/2022002_merged.png"
+    ],
+    "ascension": [
+        "https://static.atlasacademy.io/JP/CharaGraph/202200/202200a@1.png",
+        "https://static.atlasacademy.io/JP/CharaGraph/202200/202200a@2.png",
+        "https://static.atlasacademy.io/JP/CharaGraph/202200/202200b@1.png",
+        "https://static.atlasacademy.io/JP/CharaGraph/202200/202200b@2.png"
+    ]
+}

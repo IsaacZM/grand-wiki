@@ -1,0 +1,3379 @@
+{
+    "no": 323,
+    "svtId": 704100,
+    "mcLink": "清少纳言(Berserker)",
+    "icon": "Servant323.jpg",
+    "info": {
+        "gameId": 704100,
+        "name": "清少纳言",
+        "nameJp": "清少納言",
+        "nameEn": "Sei Shōnagon (Berserker)",
+        "namesOther": [
+            "清少纳言",
+            "セイショウナゴン"
+        ],
+        "namesJpOther": [
+            "清少納言"
+        ],
+        "namesEnOther": [
+            "Sei Shonagon"
+        ],
+        "nicknames": [],
+        "obtain": "限定",
+        "obtains": [
+            "期间限定"
+        ],
+        "rarity": 4,
+        "rarity2": 4,
+        "weight": "46kg",
+        "height": "157cm",
+        "gender": "女性",
+        "illustrator": "Mika Pikazo",
+        "illustratorJp": "Mika Pikazo",
+        "illustratorEn": "Mika Pikazo",
+        "className": "Berserker",
+        "attribute": "人",
+        "isHumanoid": true,
+        "isWeakToEA": true,
+        "isTDNS": false,
+        "cv": [
+            "Fairouz Ai"
+        ],
+        "cvJp": [
+            "ファイルーズあい"
+        ],
+        "cvEn": [
+            "Fairouz Ai"
+        ],
+        "alignments": [
+            "混沌",
+            "夏"
+        ],
+        "traits": [
+            "人科"
+        ],
+        "ability": {
+            "strength": "C",
+            "endurance": "D",
+            "agility": "B",
+            "mana": "E",
+            "luck": "A",
+            "np": "D++"
+        },
+        "illustrations": {
+            "第１阶段": "清少納言初始.png",
+            "第２阶段": "清少納言一破.png",
+            "第３阶段": "清少納言三破.png",
+            "第４阶段": "清少納言满破.png"
+        },
+        "cards": [
+            "Quick",
+            "Arts",
+            "Buster",
+            "Buster",
+            "Buster"
+        ],
+        "cardHits": {
+            "Quick": 4,
+            "Arts": 3,
+            "Buster": 3,
+            "Extra": 4,
+            "NP": 7
+        },
+        "cardHitsDamage": {
+            "Quick": [
+                10,
+                20,
+                30,
+                40
+            ],
+            "Arts": [
+                16,
+                33,
+                51
+            ],
+            "Buster": [
+                16,
+                33,
+                51
+            ],
+            "Extra": [
+                10,
+                20,
+                30,
+                40
+            ],
+            "NP": [
+                3,
+                7,
+                10,
+                14,
+                17,
+                21,
+                28
+            ]
+        },
+        "npRate": {
+            "Quick": "0.77%",
+            "Arts": "0.77%",
+            "Buster": "0.77%",
+            "Extra": "0.77%",
+            "NP": "0.77%",
+            "Defense": "5%"
+        },
+        "atkMin": 1657,
+        "hpMin": 1587,
+        "atkMax": 9942,
+        "hpMax": 9922,
+        "atk90": 10985,
+        "hp90": 10972,
+        "atk100": 12038,
+        "hp100": 12030,
+        "starRate": "5.0%",
+        "deathRate": "65.0%",
+        "criticalRate": "10"
+    },
+    "noblePhantasm": [
+        {
+            "state": "",
+            "openCondition": "==宝具==\n{{参阅|{{PAGENAME}}/宝具动画|该从者的宝具动画}}",
+            "name": "夏天，以无与类比热者为佳",
+            "nameJp": "夏は、世に知らず暑き",
+            "upperName": "Emotional Engine Vivid Full Sensation",
+            "upperNameJp": "エモーショナルエンジン・ビビッドフルセンセーション",
+            "color": "Quick",
+            "category": "单体",
+            "rank": "D++",
+            "typeText": "对人宝具",
+            "effects": [
+                {
+                    "description": "付与自身对〔拥有人之力的敌人〕特攻状态(1回合)<Over Charge时效果提升>",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "50%",
+                        "62.5%",
+                        "75%",
+                        "87.5%",
+                        "100%"
+                    ]
+                },
+                {
+                    "description": "付与对〔秩序从者〕特攻状态(1回合)",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "50%"
+                    ]
+                },
+                {
+                    "description": "付与对〔影从者〕特攻状态(1回合)",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "50%"
+                    ]
+                },
+                {
+                    "description": "对敌方单体发动超强大的攻击<宝具升级效果提升>",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "1200%",
+                        "1600%",
+                        "1800%",
+                        "1900%",
+                        "2000%"
+                    ]
+                }
+            ]
+        }
+    ],
+    "noblePhantasmEn": [
+        {
+            "state": "Rank D++",
+            "openCondition": null,
+            "name": "Emotional Engine - Vivid Full Sensation",
+            "nameJp": null,
+            "upperName": "Emotional Engine - Vivid Full Sensation",
+            "upperNameJp": null,
+            "color": "Quick",
+            "category": "",
+            "rank": "D++",
+            "typeText": "Anti-Unit",
+            "effects": [
+                {
+                    "description": " Increases own damage against enemy Servants with Lawful Alignment by 50% for 1 turn. {{Activates First}}\n Increases own damage against enemy Shadow Servants by 50% for 1 turn. {{Activates First}}\nDeals damage to one enemy.",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                },
+                {
+                    "description": " Damage +",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "1200%",
+                        "1600%",
+                        "1800%",
+                        "1900%",
+                        "2000%"
+                    ]
+                },
+                {
+                    "description": "<Over Charge>\nIncreases own damage against enemies with Man Attributes  for 1 turn. {{Activates First}}",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                },
+                {
+                    "description": " Man Damage +",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "50%",
+                        "62.5%",
+                        "75%",
+                        "87.5%",
+                        "100%"
+                    ]
+                }
+            ]
+        }
+    ],
+    "activeSkills": [
+        {
+            "cnState": 0,
+            "skills": [
+                {
+                    "state": "",
+                    "openCondition": "",
+                    "name": "夏日街头！",
+                    "nameJp": "サマー・ストリート！",
+                    "nameEn": null,
+                    "rank": "A",
+                    "icon": "加攻.png",
+                    "cd": 8,
+                    "effects": [
+                        {
+                            "description": "自身的攻击力提升(3回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "20%",
+                                "21%",
+                                "22%",
+                                "23%",
+                                "24%",
+                                "25%",
+                                "26%",
+                                "27%",
+                                "28%",
+                                "30%"
+                            ]
+                        },
+                        {
+                            "description": "暴击威力提升(3回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "20%",
+                                "21%",
+                                "22%",
+                                "23%",
+                                "24%",
+                                "25%",
+                                "26%",
+                                "27%",
+                                "28%",
+                                "30%"
+                            ]
+                        },
+                        {
+                            "description": "NP增加",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "10%",
+                                "11%",
+                                "12%",
+                                "13%",
+                                "14%",
+                                "15%",
+                                "16%",
+                                "17%",
+                                "18%",
+                                "20%"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "cnState": 0,
+            "skills": [
+                {
+                    "state": "",
+                    "openCondition": "",
+                    "name": "浴池滑滑",
+                    "nameJp": "ナイトプール・スライダー",
+                    "nameEn": null,
+                    "rank": "A",
+                    "icon": "回避.png",
+                    "cd": 8,
+                    "effects": [
+                        {
+                            "description": "付与自身回避状态(2次·3回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "∅"
+                            ]
+                        },
+                        {
+                            "description": "暴击威力提升(1回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "50%",
+                                "55%",
+                                "60%",
+                                "65%",
+                                "70%",
+                                "75%",
+                                "80%",
+                                "85%",
+                                "90%",
+                                "100%"
+                            ]
+                        },
+                        {
+                            "description": "暴击星集中度提升(1回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "3000%",
+                                "3200%",
+                                "3400%",
+                                "3600%",
+                                "3800%",
+                                "4000%",
+                                "4200%",
+                                "4400%",
+                                "4600%",
+                                "5000%"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "cnState": 0,
+            "skills": [
+                {
+                    "state": "",
+                    "openCondition": "",
+                    "name": "高雅的夏日甜点",
+                    "nameJp": "アテナル・サマースイーツ",
+                    "nameEn": null,
+                    "rank": "A",
+                    "icon": "回血.png",
+                    "cd": 7,
+                    "effects": [
+                        {
+                            "description": "己方单体的HP回复",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "1000",
+                                "1200",
+                                "1400",
+                                "1600",
+                                "1800",
+                                "2000",
+                                "2200",
+                                "2400",
+                                "2600",
+                                "3000"
+                            ]
+                        },
+                        {
+                            "description": "付与灼伤无效状态(3回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "∅"
+                            ]
+                        },
+                        {
+                            "description": "大量获得暴击星",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "15",
+                                "16",
+                                "17",
+                                "18",
+                                "19",
+                                "20",
+                                "21",
+                                "22",
+                                "23",
+                                "25"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "activeSkillsEn": [
+        {
+            "cnState": 0,
+            "skills": [
+                {
+                    "state": "",
+                    "openCondition": null,
+                    "name": "Summer Street!",
+                    "nameJp": null,
+                    "nameEn": null,
+                    "rank": "A",
+                    "icon": "加攻.png",
+                    "cd": 8,
+                    "effects": [
+                        {
+                            "description": "Increases own attack for 3 turns.\nIncreases own critical damage for 3 turns.\nCharges own NP gauge.",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": []
+                        },
+                        {
+                            "description": " Attack +",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "20%",
+                                "21%",
+                                "22%",
+                                "23%",
+                                "24%",
+                                "25%",
+                                "26%",
+                                "27%",
+                                "28%",
+                                "30%"
+                            ]
+                        },
+                        {
+                            "description": " Crit Damage +",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "20%",
+                                "21%",
+                                "22%",
+                                "23%",
+                                "24%",
+                                "25%",
+                                "26%",
+                                "27%",
+                                "28%",
+                                "30%"
+                            ]
+                        },
+                        {
+                            "description": " NP +",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "10%",
+                                "11%",
+                                "12%",
+                                "13%",
+                                "14%",
+                                "15%",
+                                "16%",
+                                "17%",
+                                "18%",
+                                "20%"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "cnState": 0,
+            "skills": [
+                {
+                    "state": "",
+                    "openCondition": null,
+                    "name": "Night Pool Slider",
+                    "nameJp": null,
+                    "nameEn": null,
+                    "rank": "A",
+                    "icon": "回避.png",
+                    "cd": 8,
+                    "effects": [
+                        {
+                            "description": " Grants self Evasion for 2 attacks, 3 turns.\nIncreases own critical damage for 1 turn.\nIncreases own critical star absorption for 1 turn.",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": []
+                        },
+                        {
+                            "description": " Crit Damage +",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "50%",
+                                "55%",
+                                "60%",
+                                "65%",
+                                "70%",
+                                "75%",
+                                "80%",
+                                "85%",
+                                "90%",
+                                "100%"
+                            ]
+                        },
+                        {
+                            "description": " Star Absorption +",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "3000%",
+                                "3200%",
+                                "3400%",
+                                "3600%",
+                                "3800%",
+                                "4000%",
+                                "4200%",
+                                "4400%",
+                                "4600%",
+                                "5000%"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "cnState": 0,
+            "skills": [
+                {
+                    "state": "",
+                    "openCondition": null,
+                    "name": "Elegant Summer Sweets",
+                    "nameJp": null,
+                    "nameEn": null,
+                    "rank": "A",
+                    "icon": "回血.png",
+                    "cd": 7,
+                    "effects": [
+                        {
+                            "description": "Recovers one ally's HP.\n Grants them  Burn Debuff Immunity for 3 turns.\nGains critical stars.",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": []
+                        },
+                        {
+                            "description": " Heal +",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "1000",
+                                "1200",
+                                "1400",
+                                "1600",
+                                "1800",
+                                "2000",
+                                "2200",
+                                "2400",
+                                "2600",
+                                "3000"
+                            ]
+                        },
+                        {
+                            "description": " Stars +",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "15",
+                                "16",
+                                "17",
+                                "18",
+                                "19",
+                                "20",
+                                "21",
+                                "22",
+                                "23",
+                                "25"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "passiveSkills": [
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "狂化",
+            "nameJp": null,
+            "nameEn": null,
+            "rank": "D",
+            "icon": "狂化.png",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": "自身的Buster指令卡性能少量提升(4%)",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                }
+            ]
+        },
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "单独行动（自我中心）",
+            "nameJp": null,
+            "nameEn": null,
+            "rank": "D",
+            "icon": "单独行动.png",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": "自身的Quick指令卡暴击星集中度少量提升(4%)",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                }
+            ]
+        },
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "一乘法",
+            "nameJp": null,
+            "nameEn": null,
+            "rank": "B",
+            "icon": "弱化耐性提升.png",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": "自身的魅惑耐性大幅提升(100%)",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                }
+            ]
+        }
+    ],
+    "passiveSkillsEn": [
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "Mad Enhancement",
+            "nameJp": null,
+            "nameEn": null,
+            "rank": "D",
+            "icon": "fandom.Madness.png",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": " Increases own Buster performance by 4%.",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                }
+            ]
+        },
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "Independent Action (Self-Centered)",
+            "nameJp": null,
+            "nameEn": null,
+            "rank": "D",
+            "icon": "fandom.independent action.png",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": " Increases own critical star absorption of  Quick Cards by 4%.",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                }
+            ]
+        },
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "One Vehicle Teaching",
+            "nameJp": null,
+            "nameEn": null,
+            "rank": "B",
+            "icon": "fandom.Debuffres.png",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": " Increases own  Charm debuff resistance by 100%.",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                }
+            ]
+        }
+    ],
+    "appendSkills": [
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "追击技巧提升",
+            "nameJp": "追撃技巧向上",
+            "nameEn": "Extra Attack Finesse Improvement",
+            "rank": null,
+            "icon": "特攻",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": "自身的Extra Attack指令卡性能提升",
+                    "descriptionJp": "自身のExtra Attackカードの性能をアップする",
+                    "descriptionEn": "Increases own Extra Attack performance",
+                    "lvData": [
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "38%",
+                        "40%",
+                        "42%",
+                        "44%",
+                        "46%",
+                        "50%"
+                    ]
+                }
+            ]
+        },
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "魔力装填",
+            "nameJp": "魔力装填",
+            "nameEn": "Mana Loading",
+            "rank": null,
+            "icon": "充能",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": "自身以NP已达一定数值的状态开始战斗",
+                    "descriptionJp": "自身のNPをチャージした状態でバトルを開始する",
+                    "descriptionEn": "Starts battle with NP gauge",
+                    "lvData": [
+                        "10%",
+                        "11%",
+                        "12%",
+                        "13%",
+                        "14%",
+                        "15%",
+                        "16%",
+                        "17%",
+                        "18%",
+                        "20%"
+                    ]
+                }
+            ]
+        },
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "对Ruler暴击发生耐性",
+            "nameJp": "対Rulerｸﾘﾃｨｶﾙ発生耐性",
+            "nameEn": "Anti-Ruler Critical Attack Chance Resistance",
+            "rank": null,
+            "icon": "被暴击发生耐性提升",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": "自身对Ruler的被暴击发生耐性提升",
+                    "descriptionJp": "自身の〔Ruler〕クラスに対する被クリティカル発生耐性をアップする",
+                    "descriptionEn": "Increases own critical attack chance resistance against Ruler enemies.",
+                    "lvData": [
+                        "20%",
+                        "21%",
+                        "22%",
+                        "23%",
+                        "24%",
+                        "25%",
+                        "26%",
+                        "27%",
+                        "28%",
+                        "30%"
+                    ]
+                }
+            ]
+        }
+    ],
+    "coinSummonNum": 50,
+    "itemCost": {
+        "ascension": [
+            {
+                "狂阶银棋": 4,
+                "QP": 50000
+            },
+            {
+                "狂阶银棋": 10,
+                "无间齿轮": 6,
+                "QP": 150000
+            },
+            {
+                "狂阶金像": 4,
+                "追忆的贝壳": 8,
+                "龙之逆鳞": 2,
+                "QP": 500000
+            },
+            {
+                "狂阶金像": 10,
+                "龙之逆鳞": 4,
+                "煌星碎片": 4,
+                "QP": 1500000
+            }
+        ],
+        "skill": [
+            {
+                "狂之辉石": 4,
+                "QP": 100000
+            },
+            {
+                "狂之辉石": 10,
+                "QP": 200000
+            },
+            {
+                "狂之魔石": 4,
+                "QP": 600000
+            },
+            {
+                "狂之魔石": 10,
+                "追忆的贝壳": 4,
+                "QP": 800000
+            },
+            {
+                "狂之秘石": 4,
+                "追忆的贝壳": 8,
+                "QP": 2000000
+            },
+            {
+                "狂之秘石": 10,
+                "无间齿轮": 4,
+                "QP": 2500000
+            },
+            {
+                "无间齿轮": 8,
+                "悠久果实": 3,
+                "QP": 5000000
+            },
+            {
+                "悠久果实": 9,
+                "鬼炎鬼灯": 8,
+                "QP": 6000000
+            },
+            {
+                "传承结晶": 1,
+                "QP": 10000000
+            }
+        ],
+        "appendSkill": [
+            {
+                "狂之辉石": 4,
+                "QP": 100000
+            },
+            {
+                "狂之辉石": 10,
+                "QP": 200000
+            },
+            {
+                "狂之魔石": 4,
+                "QP": 600000
+            },
+            {
+                "狂之魔石": 10,
+                "龙之牙": 10,
+                "QP": 800000
+            },
+            {
+                "狂之秘石": 4,
+                "龙之牙": 20,
+                "QP": 2000000
+            },
+            {
+                "狂之秘石": 10,
+                "起源的胎毛": 3,
+                "QP": 2500000
+            },
+            {
+                "起源的胎毛": 5,
+                "永远结冰": 5,
+                "QP": 5000000
+            },
+            {
+                "永远结冰": 15,
+                "巨人的戒指": 20,
+                "QP": 6000000
+            },
+            {
+                "传承结晶": 1,
+                "QP": 10000000
+            }
+        ]
+    },
+    "costumeNos": [],
+    "bondPoints": [
+        1000,
+        1500,
+        2000,
+        2500,
+        3000,
+        225000,
+        255000,
+        285000,
+        315000,
+        365000,
+        1090000,
+        1230000,
+        1360000,
+        1500000,
+        1640000
+    ],
+    "profiles": [
+        {
+            "title": "0",
+            "description": "夏则夜。有月的时候自不待言——但是，\n夏天还有堆成小山般多的有趣事情嗷！\n大海、泳装然后是刨冰，还有想稍微尝试一下冒险。\n像这样沉醉于夏日诱惑的平安女子，还有一人。\n\n「我说，亲御……一起来干坏事吧？」\n\n于是诞生的便是，\n这位Berserker清少纳言啦。\n\n老老实实地度过也好，稍微玩嗨一点也好，今年夏天可是人生仅此一回。\n所以，就尽情地享受其中吧！",
+            "descriptionJp": "夏は夜。月の頃はさらなり―――だけど、\n夏にはまだまだ楽しい事がてんこ盛り！\n海に水着にかき氷、ちょっぴり冒険もしてみたい。\nそんな夏の誘惑にかられた平安女子が、また一人。\n\n「ねぇ、ちゃんマス……一緒にワルい事しちゃう？」\n\nそして誕生してしまったのが、\nこちらのバーサーカー清少納言でございます。\n\n真面目に過ごしてみても、ちょっと火遊びしてみても、\n今年の夏は人生でたった一度きり。\nだったら、思いっきりエンジョイしちゃおうぜい！",
+            "descriptionEn": null,
+            "condition": null,
+            "conditionEn": null
+        },
+        {
+            "title": "1",
+            "description": "身高／体重：157cm·46kg\n出处：史实\n地域：日本\n属性：混沌·夏　　性别：女性\n呵呵……夏天的偶，意外的很不良哦？",
+            "descriptionJp": "身長／体重：157cm・46kg\n出典：史実\n地域：日本\n属性：混沌・夏　　性別：女性\nフフ……夏のあたしちゃんは、意外とワルだぜ？",
+            "descriptionEn": null,
+            "condition": "羁绊达到Lv.1后开放",
+            "conditionEn": null
+        },
+        {
+            "title": "2",
+            "description": "对即将到来的夏天的严苛特训与期待感，以及其他诸多因素交织，由本来的灵基变化而成的夏日限定Berserker职阶。\n可能是因为狂化的影响，Archer职阶时偶尔能看到的作为文人的举止更加销声匿迹，吵闹度大概增加了三成。\n\n其本人不知为何误会了Berserker=不良少女，虽然会突然用矫揉造作的语气开始缠着周围的人，但是这种状态并不会持续太久。\n大概还在对话中就会感到厌倦了吧。\n\n目前，在加入迦勒底不良组时被拒绝了的样子。",
+            "descriptionJp": "来たるべき夏に備えての猛特訓と期待感、その他もろも\nろの要因が合わさり、本来の霊基から変化した夏限定の\nバーサーカークラス。\n狂化の影響か、アーチャークラス時に時折見せていた文\n人としての立ち振る舞いは更になりを潜めており、だい\nたい三割増しでうるさい。\n\n本人的には何故かバーサーカー＝アウトローと勘違いを\nしている節があり、突然気取った口調で周囲に絡み始め\nるが、この状態はさほど長続きしない。\nおそらく話してる最中に面倒くさくなるのだろう。\n\nなお、カルデア不良組への入門は拒否られた模様。",
+            "descriptionEn": null,
+            "condition": "羁绊达到Lv.2后开放",
+            "conditionEn": null
+        },
+        {
+            "title": "3",
+            "description": "在街上踩着滑板穿梭，战斗时会用锤子和喷漆罐进行殴打、撞人。虽然光炮什么的也能释放但是更擅长毫不留情的残暴格斗。\n可以吧，毕竟是Berserker嘛。\n\n目前，彩色喷雾器使用了会随着时间流逝而消失的特殊涂料，使用这个喷雾器作出的不管多少奇怪作品、优美文章，在事后都会全部消失。\n是个在奇怪的地方上守规矩的Berserker。\n偶尔能目击到她和小孩子们在走廊涂鸦，然后被卫宫追赶的姿态。\n\n有传言说她使用的这些武器运用了其他宇宙的技术。\n到底有没有呢……。",
+            "descriptionJp": "街中をスケートボードで駆け抜け、戦闘時にはハンマーやスプレーを用いた殴打、体当たり、ビームなど何でもアリだが容赦はナシの残虐ファイトを得意とする。\nいいだろバーサーカーだぜ。\n\nなお、カラースプレーには時間経過で消える特殊な塗料\nが使用されており、これを用いてどれほどの怪作や名文\nを生み出したとしても、後に残る事は一切ない。\n変な所で律儀なバーサーカーである。\nたまに子供達と廊下に落書きをしては、エミヤに追われ\nる姿が目撃されている。\n\nこれらの武器には別宇宙の技術が使われているとの噂が\nあるとかないとか……。",
+            "descriptionEn": null,
+            "condition": "羁绊达到Lv.3后开放",
+            "conditionEn": null
+        },
+        {
+            "title": "4",
+            "description": "○夏日街头！：A\n灵机一动之下师从巨匠梵高进行了一番修行，但这只是让她明白了自己没有绘画的才能。\n但是从中觉醒的鲜活色彩感，为她书写的文字给予了全新的气息，捕获了目睹之人的心。\n\n○浴池滑滑：A\n由速度带来的刺激，感知这份兴奋的她，已经回不去平凡的日常了。\n驱散夜晚的黑暗，辉煌的舞台就在那处。\n飞跃前进吧，向着闪耀的另一侧……！\n\n○高雅的夏日甜点：A\n刨冰调入甘葛作料……。这般熟知的，\n高雅的东西（高级品）。日本最古老的刨冰。\n在现代连制造方法都遗失了的，梦幻糖浆。\n但是……今年夏天这个会流行哦！大家快点来吃！",
+            "descriptionJp": "○サマー・ストリート！：Ａ\n思いつきで巨匠ゴッホの元で修行をするが、自分には絵\nの才能はないと思い知らされるだけであった。\nだが目覚めたビビッドな色彩感覚は彼女の綴る文字に新\nたな息吹を与え、目にした者の心を捕らえてしまう。\n\n○ナイトプール・スライダー：Ａ\nスピードがもたらすスリル。その興奮を知ってしまった\n彼女は、もう平凡な日常には戻れない。\n夜の闇さえはねのけた、煌めくステージがそこにある。\n飛び込んで行こうぜ、キラキラの向こう側へ……！\n\n○アテナル・サマースイーツ：Ａ\n削り氷にあまづら入れて……ですっかりお馴染みの、\nあてなるもの（上品なもの）。日本最古のかき氷。\n現代では製造方法さえ失われた、幻のシロップ。\nだが……今年の夏はこれが流行る！　みんな急げ！",
+            "descriptionEn": null,
+            "condition": "羁绊达到Lv.4后开放",
+            "conditionEn": null
+        },
+        {
+            "title": "5",
+            "description": "『夏天，以无与类比热者为佳』\n阶级：D++　种类：对人宝具\n有效范围：1～50　最大捕捉：1人\n\nEmotional Engine Vivid Full Sensation。\n以谁都未曾体验过的，炎热夏日为佳！\n……这般作家·清少纳言的想法作为宝具成形了。\n成为固有结界之源的想象力——Emotional Engine。将那里诞生的能量全部变换为推进力，踩着滑板在街上疾驰的大招。\n看着她用喷漆罐书写的华丽文字，敌对的对手无论身心都会被这份激情贯穿。",
+            "descriptionJp": "『夏は、世に知らず暑き』\nランク：Ｄ＋＋　種別：対人宝具　\nレンジ：１～５０　最大捕捉：１人\n\nエモーショナルエンジン・ビビッドフルセンセーション。\n誰も体験した事がないほどの、暑い夏が良き！\n……という作家・清少納言のスタンスが宝具として形に\nなったもの。\n固有結界の源となる想像力―――エモーショナルエンジ\nン。そこから生み出されるエネルギーを全て推進力へと\n変換し、ボードでストリートを疾走する大技。\n彼女のスプレーが綴る華やかな書き文字によって、敵対する相手は身も心もそのエモさに貫かれるのだ。",
+            "descriptionEn": null,
+            "condition": "羁绊达到Lv.5后开放",
+            "conditionEn": null
+        },
+        {
+            "title": "6",
+            "description": "平安时代的女性作家全力狂嗨着夏日的诱惑，换上泳装堂堂出道的Berserker清少纳言。总觉得光从文字上看就很不得了了。\n生前从未体验过的开放感，以及沉醉于「一个夏天的冒险」这一题材的好奇心。\n与同伴们一起欢闹、嬉笑、全力奔跑。\n她的那般身影，就好像不仅是肉体，连精神性都回归了少女时期似的。\n\n又或是——\n嬉闹过头把椅子踩坏、乘着插满了鲜花和枝条的牛车招摇过市，也许她从那个绚烂多彩的定子沙龙时代开始，就再未有过任何改变。\n\n望向在夏日中熠熠生辉的她的身姿，在心中描绘着难忘的点点滴滴，也许在某处，那位大人也会露出笑容吧。\n真是妙趣横生，如此说道。",
+            "descriptionJp": "平安期の女流作家が夏の誘惑に全力で乗っかり、水着に\n着替えた結果爆誕してしまったバーサーカー清少納言。\nなんかもう色々と文字面がすごい。\n\n生前にはついぞ体験し得なかった開放感と、「ひと夏の\n冒険」という格好の題材に揺さぶられる好奇心。\n仲間達と共に大いに浮かれ、はしゃぎ、駆け回る……\nそんな彼女の姿は、まるで肉体のみならず、精神性まで\n少女に戻ってしまったかのようだ。\n\nあるいは―――\nはしゃぎすぎて椅子を壊し、溢れるほどの花で着飾った\n牛車を走らせていた、あの華やかなりし定子サロンの時\n代から、彼女は何も変わっていないのかもしれない。\n\nキラキラと夏に輝く彼女の姿に、懐かしい日々を思い描\nいて、どこかであの方も笑ってくれるだろうか。\nいとをかし、と。",
+            "descriptionEn": null,
+            "condition": "通关 迦勒底·夏日大冒险！ ～追梦少年与怀梦少女～ 且 羁绊达到Lv.5开放",
+            "conditionEn": null
+        },
+        {
+            "title": "aprilfool",
+            "description": null,
+            "descriptionJp": null,
+            "descriptionEn": null,
+            "condition": null,
+            "conditionEn": null
+        }
+    ],
+    "voices": [
+        {
+            "section": "战斗",
+            "table": [
+                {
+                    "title": "开始 1",
+                    "text": "夏天的我啊……意外地有些坏坏的呢？",
+                    "textJp": "夏のあたしちゃんは……意外とワルだぜ？",
+                    "textEn": "HUHU... My summer me is badder than you think.",
+                    "condition": null,
+                    "voiceFile": "SV323_0_开始1.mp3"
+                },
+                {
+                    "title": "开始 2",
+                    "text": "要不要试试、一些不危险的游戏？",
+                    "textJp": "アブない遊び、してみるかい？",
+                    "textEn": "Are you up for some dangerous game?",
+                    "condition": null,
+                    "voiceFile": "SV323_0_开始2.mp3"
+                },
+                {
+                    "title": "开始 3",
+                    "text": "呵呵……把他们一回合收拾掉吧！",
+                    "textJp": "ふっ……1ターンで片付けてやんよ",
+                    "textEn": "I'll be done with you in one turn.",
+                    "condition": null,
+                    "voiceFile": "SV323_0_开始3.mp3"
+                },
+                {
+                    "title": "技能 1",
+                    "text": "呜哇啊啊啊，头好痛——",
+                    "textJp": "うっはあああぁっ、来たぁ〜",
+                    "textEn": "Uwhaaahaa~ That's the good shit.",
+                    "condition": null,
+                    "voiceFile": "SV323_0_技能1.mp3"
+                },
+                {
+                    "title": "技能 2",
+                    "text": "华丽地加速吧！……啊咧？",
+                    "textJp": "華麗にPick up！ ……あれ？",
+                    "textEn": "Stylish Pick-Up! What...?",
+                    "condition": null,
+                    "voiceFile": "SV323_0_技能2.mp3"
+                },
+                {
+                    "title": "技能 3",
+                    "text": "OK、乘上了！",
+                    "textJp": "オッケーイ、乗ってきた！",
+                    "textEn": "Ok, I'm in the mood!",
+                    "condition": null,
+                    "voiceFile": "SV323_0_技能3.mp3"
+                },
+                {
+                    "title": "技能 4",
+                    "text": "哇哈！我太爱这样了！",
+                    "textJp": "あっはぁ〜、これはラブい〜",
+                    "textEn": "Ahaaah, lovey!",
+                    "condition": null,
+                    "voiceFile": "SV323_0_技能4.mp3"
+                },
+                {
+                    "title": "指令卡 1",
+                    "text": "wowowowo！",
+                    "textJp": "ババババ〜ン！",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV323_0_指令卡1.mp3"
+                },
+                {
+                    "title": "指令卡 2",
+                    "text": "what's up",
+                    "textJp": "Wazzup！",
+                    "textEn": "What's up!",
+                    "condition": null,
+                    "voiceFile": "SV323_0_指令卡2.mp3"
+                },
+                {
+                    "title": "指令卡 3",
+                    "text": "好！",
+                    "textJp": "よし！",
+                    "textEn": "Ok!",
+                    "condition": null,
+                    "voiceFile": "SV323_0_指令卡3.mp3"
+                },
+                {
+                    "title": "宝具卡 1",
+                    "text": "EVERYBODY、SAY！",
+                    "textJp": "EVERYBODY、SAY！",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV323_0_宝具卡1.mp3"
+                },
+                {
+                    "title": "宝具卡 2",
+                    "text": "让我们情绪高涨起来吧！",
+                    "textJp": "テンションいと上がりけりぃー！",
+                    "textEn": "This is aflame, brethren!",
+                    "condition": null,
+                    "voiceFile": "SV323_0_宝具卡2.mp3"
+                },
+                {
+                    "title": "宝具卡 3",
+                    "text": "……华丽地做出决定吧、亲御。",
+                    "textJp": "……派手に決めちゃおうぜ、ちゃんマス",
+                    "textEn": "Let's end this with a bang, chan-Mas.",
+                    "condition": null,
+                    "voiceFile": "SV323_0_宝具卡3.mp3"
+                },
+                {
+                    "title": "攻击 1",
+                    "text": "嘿嘿、耶！",
+                    "textJp": "へへーい、うぇーい♪",
+                    "textEn": "Heheh! Weeey!",
+                    "condition": null,
+                    "voiceFile": "SV323_0_攻击1.mp3"
+                },
+                {
+                    "title": "攻击 2",
+                    "text": "夏天——看招！",
+                    "textJp": "夏は—？アリ！",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV323_0_攻击2.mp3"
+                },
+                {
+                    "title": "攻击 3",
+                    "text": "你在干嘛呢！",
+                    "textJp": "なんでやねんッ！",
+                    "textEn": "Wtf you just said?!",
+                    "condition": null,
+                    "voiceFile": "SV323_0_攻击3.mp3"
+                },
+                {
+                    "title": "攻击 4",
+                    "text": "好——上吧！",
+                    "textJp": "よっしゃー行けー！",
+                    "textEn": "Alright, GO!",
+                    "condition": null,
+                    "voiceFile": "SV323_0_攻击4.mp3"
+                },
+                {
+                    "title": "攻击 5",
+                    "text": "情绪高涨核心·大锤！",
+                    "textJp": "エモコア・ハンマ〜！！",
+                    "textEn": "Emocore Hammer!",
+                    "condition": null,
+                    "voiceFile": "SV323_0_攻击5.mp3"
+                },
+                {
+                    "title": "攻击 6",
+                    "text": "站稳了！",
+                    "textJp": "ふんばらばッ！",
+                    "textEn": "Hmbrbh!",
+                    "condition": null,
+                    "voiceFile": "SV323_0_攻击6.mp3"
+                },
+                {
+                    "title": "Extra 1",
+                    "text": "1、2……嘿——哟——",
+                    "textJp": "せーの♪ だ゛ら゛っ゛し゛ゃ゛あ゛あ゛あ゛い゛！！",
+                    "textEn": "Say it with me. WAHEY!",
+                    "condition": null,
+                    "voiceFile": "SV323_0_Extra1.mp3"
+                },
+                {
+                    "title": "Extra 2",
+                    "text": "平——安——螺旋彩虹！",
+                    "textJp": "HEY！ AN！ スパイラルレインボー！！",
+                    "textEn": "HEIAN! SPIRAL RAINBOW!",
+                    "condition": null,
+                    "voiceFile": "SV323_0_Extra2.mp3"
+                },
+                {
+                    "title": "宝具 1",
+                    "text": "持续到大海的尽头！Emotional street！染上无法降温的心情、千变万化的Vivid Full Sensation！！芜——哟谢——",
+                    "textJp": "海まで続け、エモーショナルストリート！ 冴えない気分も染め上げる、千変万化のビビッドフルセンセェーーーション！！ うーーーわっしょーい！",
+                    "textEn": "The Emotional Street will keep going until it takes us to the ocean! Overwrite the dullest moods with an infinite variety of VIVID FULL SENSAAAAATIONS! Heave-ho!",
+                    "condition": null,
+                    "voiceFile": "SV323_0_宝具1.mp3"
+                },
+                {
+                    "title": "宝具 2",
+                    "text": "传达给TA吧，Emotional street！在夜晚的黑暗中也会盛开、万紫千红的Vivid Full Sensation！！——不应断绝、而应盛放…",
+                    "textJp": "彼方に届け、エモーショナルストリート！ 夜の闇にも咲き誇る、千紅万紫のビビッドフルセンセェーーーション！！ ───絶ゆることなく、咲きわたるべし",
+                    "textEn": "The Emotional Street will keep going it reaches you! Bloom flowers in the darkest nights with infinitely varied shades of red and purple in VIVID FULL SENSAAAAATIONS! Will unceasingly continue to bloom.",
+                    "condition": null,
+                    "voiceFile": "SV323_0_宝具2.mp3"
+                },
+                {
+                    "title": "宝具 3",
+                    "text": "啊啊果然不行啊实在是太热啦！偶要回空调房了、之后就拜托你啦Sensation！！打扰啦♪",
+                    "textJp": "ああこれやっぱ無理ぃ暑すぎぃ〜！ あたしちゃんエアコン効いた部屋に帰っから、後はよろしくセンセェーーーション！！ おやかまっさんどした♪",
+                    "textEn": "I can't even! It's too hot. I'm leaving to a room where the AC is working, good luck SENSAAAAATIONS! Knock knock, please let me in.",
+                    "condition": null,
+                    "voiceFile": "SV323_0_宝具3.mp3"
+                },
+                {
+                    "title": "受击 1",
+                    "text": "糟了……这下完了！",
+                    "textJp": "やっべっ、これやべぇっ！",
+                    "textEn": "Wack, man, that's wack.",
+                    "condition": null,
+                    "voiceFile": "SV323_0_受击1.mp3"
+                },
+                {
+                    "title": "受击 2",
+                    "text": "咕诶！",
+                    "textJp": "ぐえええ！",
+                    "textEn": "Shit's hard.",
+                    "condition": null,
+                    "voiceFile": "SV323_0_受击2.mp3"
+                },
+                {
+                    "title": "受击 3",
+                    "text": "太糟糕了！",
+                    "textJp": "マジきびついぃ……",
+                    "textEn": "Gheeh!",
+                    "condition": null,
+                    "voiceFile": "SV323_0_受击3.mp3"
+                },
+                {
+                    "title": "受击 4",
+                    "text": "呜……好痛。",
+                    "textJp": "ふっ……痛い",
+                    "textEn": "Hmh. Ouch.",
+                    "condition": null,
+                    "voiceFile": "SV323_0_受击4.mp3"
+                },
+                {
+                    "title": "无法战斗 1",
+                    "text": "呜诶诶诶、丢死人了啦……",
+                    "textJp": "うぇぇぇ、面目ない……",
+                    "textEn": "Uwaa, forgive the shameful performance.",
+                    "condition": null,
+                    "voiceFile": "SV323_0_无法战斗1.mp3"
+                },
+                {
+                    "title": "无法战斗 2",
+                    "text": "嘤嘤嘤委屈哭哭……",
+                    "textJp": "ぴえんこえてぱおーん……",
+                    "textEn": "Sob. Sniff, even.",
+                    "condition": null,
+                    "voiceFile": "SV323_0_无法战斗2.mp3"
+                },
+                {
+                    "title": "无法战斗 3",
+                    "text": "虽然一直在保密，但其实……啊完了。",
+                    "textJp": "ずっと内緒にしてたけど実は───あっやべ",
+                    "textEn": "I've been keeping it a secret all this time, but I'm actually... oh, shucks.",
+                    "condition": null,
+                    "voiceFile": "SV323_0_无法战斗3.mp3"
+                },
+                {
+                    "title": "胜利 1",
+                    "text": "呼——好热啊……回家吃冰吧？……啊咳咳、让我们回去吧。",
+                    "textJp": "ふぅぅぅ暑いぃ……アイス食べて帰ろ〜？ ……あ、こほん。帰ろうぜ",
+                    "textEn": "Agh, it's so hot. Let's grab some ice cream on the way home. Ahem... Some damn ice cream on the fucking way home.",
+                    "condition": null,
+                    "voiceFile": "SV323_0_胜利1.mp3"
+                },
+                {
+                    "title": "胜利 2",
+                    "text": "呼呼……小菜一碟……不果然还是很累啊这样！",
+                    "textJp": "ふふ……いとわろし……いややっぱ疲れるわこれ！",
+                    "textEn": "Ehehe, how punk it is... Man, this gimmick tires me.",
+                    "condition": null,
+                    "voiceFile": "SV323_0_胜利2.mp3"
+                },
+                {
+                    "title": "胜利 3",
+                    "text": "耶！亲御！你看到了吗！",
+                    "textJp": "うぇーい、ちゃんマスー！ 見てた〜？",
+                    "textEn": "Hell yeah! Did you see that, chan-Mas?",
+                    "condition": null,
+                    "voiceFile": "SV323_0_胜利3.mp3"
+                },
+                {
+                    "title": "胜利 4",
+                    "text": "我们的夏天、才刚刚开始呢！——完结！",
+                    "textJp": "ウチらの夏は、まだ始まったばかりだ！ ───完ッ！",
+                    "textEn": "Our summer has just begun! FIN!",
+                    "condition": null,
+                    "voiceFile": "SV323_0_胜利4.mp3"
+                }
+            ]
+        },
+        {
+            "section": "召唤和强化",
+            "table": [
+                {
+                    "title": "召唤",
+                    "text": "哎，这不亲御吗。干嘛呢？没事的话一块去趟便利店呗？哎……变装成别的职阶了！？咳、咳…终于到了这一天了呢……我清少纳言，又名诺子所蕴含的真正力量，看来终于能公布于世了。新的职阶，当然就是……诶，Berserker。为啥？",
+                    "textJp": "あれ、ちゃんマスじゃん。何してんの？　暇なら一緒にコンビニ行く？えっ……別のクラスに、衣替え！？ンッ、ンッ。ついにこの日が来てしまったのですね……この清少納言、改めなぎこに秘められた真の力、ようやくお見せする事が出来そうです。新たなクラスは、もちろん……えっ、バーサーカー。なんで。",
+                    "textEn": "Hey. Look who it is. Chan-Mas. What're you doing? Wanna check the convenience store with me? Wait, what...? A seasonal outfit, in a different Class?! Hm, m, hm. I see this inevitable day has finally come... It is with great honor that I, Sei Shounagon, officially named Nagiko, accept this opportunity to finally display my hidden true power to you. My new Class is, needless to say... Wait, what, Berserker? Why though?",
+                    "condition": null,
+                    "voiceFile": "SV323_0_召唤.mp3"
+                },
+                {
+                    "title": "升级 1",
+                    "text": "哼哼……兴头（vibes）嗨起来啦……不所以说嗨起来算啥啊。",
+                    "textJp": "ふっ……バイブスあげぽよ……いやだからぽよってなんだよ",
+                    "textEn": "Huhu, my vibes are immaculate. Whatever that means.",
+                    "condition": null,
+                    "voiceFile": "SV323_0_升级1.mp3"
+                },
+                {
+                    "title": "升级 2",
+                    "text": "嗯，意外地还挺适应的啊，这个职阶！",
+                    "textJp": "んー、割と馴染むなぁ、このクラス",
+                    "textEn": "Ah, this Class is pretty easy to get used to.",
+                    "condition": null,
+                    "voiceFile": "SV323_0_升级2.mp3"
+                },
+                {
+                    "title": "升级 3",
+                    "text": "嘿嘿，一直以来谢谢啦，亲御。",
+                    "textJp": "へっへー、いつもあんがとね、ちゃんマス",
+                    "textEn": "Hehehe, thx for everything, chan-Mas.",
+                    "condition": null,
+                    "voiceFile": "SV323_0_升级3.mp3"
+                },
+                {
+                    "title": "灵基再临 1",
+                    "text": "怎么样亲御！因为说三身衣服都能选泳装，所以就选了绝杀的泳装！！……哎？挺好挺健康的？哈啊……亲御你啊。亲御你呀。这种时候就得好好夸啊！",
+                    "textJp": "どうよちゃんマス！ ３着も水着選んでいいって言うからぁ、もうキメッキメのやつ選んでみましたが―！！ ……え？ 健康的でよろしい？ はぁ……ちゃんマスってばさぁ。ちゃんマスってばよぉ。こういう時はちゃんと褒めとけよな！",
+                    "textEn": "Like it, chan-Mas? You said I could only pick 3 swimsuits, so I chose the most killer ones. What? Fine and wholesome? Sigh... chan-Mas, friend, fellow, comrade... You need real compliments for times like these.",
+                    "condition": null,
+                    "voiceFile": "SV323_0_灵基再临1.mp3"
+                },
+                {
+                    "title": "灵基再临 2",
+                    "text": "好了变啦————！！……嗯，再怎么说也早该知道了。也就是诺子joke。好了，接下来穿哪身泳装呢——",
+                    "textJp": "ハイ変わったーーーー！！ ……うん、さすがにもう分かってる。いわゆるなぎこジョーク。さーてと、次はどの水着にすっかなー",
+                    "textEn": "Okay, changed! No, I know I didn't. I'm not that dumb. That was a typical Nagiko Joke. Anyways, what's my next swimsuit gonna be?",
+                    "condition": null,
+                    "voiceFile": "SV323_0_灵基再临2.mp3"
+                },
+                {
+                    "title": "灵基再临 3",
+                    "text": "唔哈哈哈哈哈—！怎么样！超感动番长诺子小姐，在此参上DAZE！呀，亲御对这种也挺怀念的吧。说到当代高质量年轻人的话果然就得有改造制服呀。……嗯？天然纪念物？这东西，是国家保护级？……呜哇真假的，亏我还那么起劲地穿了。啊—啊……瞟。我还以为亲御会高兴的啊！……瞟了又瞟。哎？什么？这样倒也挺可爱的？唔哈哈哈哈—！是吗是吗！这样的话，可以！",
+                    "textJp": "うははははー！ どんなもんじゃーい！ 激エモ番長なぎこさん、ここに参上だゼ！ いやー、ちゃんマスもこういうの懐かしいっしょ―。当世のキレる若者と言えばやっぱ改造制服だもんなー。……ん？ 天然記念物？ それ、国が保護するレベル？ ……うわマジかよ、気合い入れて損しちゃったじゃん。あーあ……チラッ。ちゃんマスが喜ぶと思ったのになー！ ……チラッチラッ。え？ なに？ これはこれで可愛い？ うははははー！ そっかそっか！ それならー、よし！",
+                    "textEn": "Buhahahahaha! Badass, right! Banchou Nagiko, boss of the Mega Emotional Gang, is crashing your party! You missed seeing this, didn't you, chan-Mas? When you think of bad youths in the present days, you think of modified uniforms, am I right? What? Custom uniforms are an endangered species? If not bred in captivity they'll go extinct? For reals? Sheesh, I hyped myself up for nothing. Siiiigh. (Dies) Chan-Mas I was so sure you'd love it! (Dies again) What was that? This is cute, kinda? HAHA HAHA. Then, GOOD!",
+                    "condition": null,
+                    "voiceFile": "SV323_0_灵基再临3.mp3"
+                },
+                {
+                    "title": "灵基再临 4",
+                    "text": "哼……终于到了这个地步了啊，亲御。既然我已经变成了完美诺子小姐，之后就必须认真了。……综上所述，咱俩一块去找点鲸骨去呗！无论何处都一起去吧！去那闪光的前方！哎？你问能在早上之前回来吗？唔哈哈哈哈，不知道！毕竟现在的我可是Berserker啊！",
+                    "textJp": "フッ……とうとうここまで来てしまったな、ちゃんマス。パーフェクトなぎこさんとなってしまった以上、ここから先は本気にならざるを得ない。……と、いうわけでー、二人で一緒にクラゲの骨でも探しに行くか！ どこまでも行こうぜ、キラキラのその先へ！ え？ 朝までに帰ってこられるかって？ ウハハハハ、知らねー！ だって今のあたしちゃん、バーサーカーだかんなー！",
+                    "textEn": "Phew... We reached the end at last, chan-Mas. Now that I was turned into Perfect Nagiko-san, I'm forced to give it everything I got... With that being said, wanna go look for jellyfish bones with me? Let's go as far as we can go, beyond the sparkles! What? You wanna know if we'll be back home before dawn? Hahahaha, I don't give a damn. 'cause I'm Berserker now!",
+                    "condition": null,
+                    "voiceFile": "SV323_0_灵基再临4.mp3"
+                }
+            ]
+        },
+        {
+            "section": "个人空间",
+            "table": [
+                {
+                    "title": "羁绊 Lv.1",
+                    "text": "如何啊亲御，我可是berserker的诺子小姐？哼，有够坏的吧？有够帅的吧？如果还当是以前的我的话，可能会被烧伤的啊？哎？反应是不是太淡了？哼哼，对优等生亲御还是太刺激了点吗？……咳咳，不等等，你这祥和的笑容停一下。喂给我停。",
+                    "textJp": "どうよちゃんマス。バーサーカーのなぎこさんだぜ。フッ……悪そうだろう？ カッコよきだろう？ いつものあたしちゃんだと思ってたら、火傷するかもなんだぜ？ ……あれ？ なんか反応しょっぱくない？ フフ、優等生のちゃんマスには刺激が強かったかな？ ……（咳払い）……いやちょっと待って。その生温かい笑顔やめて。おいやめろ",
+                    "textEn": "Like it, chan-Mas? It's ya Berserker Nagiko. A real punk, right? Badass, right? You're in for a world of hurt if you think I'm my usual self. Huh? What's with this meh reaction? Huhn, I guess the shock was too big for a square like you, chan-Mas. No, stop. Wipe that lukewarm smile off your face. I mean it, stop that.",
+                    "condition": null,
+                    "voiceFile": "SV323_0_羁绊Lv1.mp3"
+                },
+                {
+                    "title": "羁绊 Lv.2",
+                    "text": "事出突然，我觉醒了艺术的天赋。不，准确的说，虽然觉醒了，但却不适合。不过学会那个用色之后也是有所得的。也就是用极致色彩来书画。没错，就是streeeeeeeeeeet art！！以喷雾器代笔，把喷涌而出的话语砸向这个世界DAZE！啊不过没事，这东西是时间一过就会消失的那种……毕竟你想要是消不掉的话卫宫亲会超级生气的吧？",
+                    "textJp": "突然だが、あたしちゃんは芸術に目覚めた。いや、正確には目覚めたんだが、むいてなかった。だが、あの色使いを学んで得るものはあったわけさ。極彩色で賞を綴る。そう、ストリーーーートアートだぁ！！ 筆をスプレーに持ち替えて、湧き上がる言の葉を世界に叩きつけてやるんだZE！あっでも大丈夫、これ時間立つと消えるやつだから。……だってホラ消えないとエミやんとかすっげー怒るじゃん？",
+                    "textEn": "I know this is sudden, but I opened my eyes to the arts. To be precise, I opened them enough to see that this is not for me. But I had something to gain from learning how to use color. Composing richly colorful words! Yup, STREEEEEEEEEEEEET ART! I turn my brush into a spray and slam dunk the world with my uproaring verses! Oh, but don't worry. I'm using the one that disappears with time. I mean, c'mon, Emiyan would be pissed I didn't.",
+                    "condition": null,
+                    "voiceFile": "SV323_0_羁绊Lv2.mp3"
+                },
+                {
+                    "title": "羁绊 Lv.3",
+                    "text": "呐亲御，你在来迦勒底之前是怎么过夏天的？我那边的夏天啊，夏天，……挺热的呢……啊不过，夏天的话可是要看夜晚的啊，亲御。月色朦胧，轻风摇曳，还有凉爽的虫鸣，那在黑暗中飞舞的萤火虫的光景，虽然现在轻易看不到了。虽然要说是替代也有点那个，我买来了一百发Gragon。等到晚上了就全拉了玩吧，Fire！",
+                    "textJp": "ねえ、ちゃんマスー。カルデアに来る前って、夏はどんな風に過ごしてた？ ウチらの夏はねー、夏は―……あー……暑かったなー……。あ、でも、夏はやっぱ夜だぜちゃんマス。月は朧に、風はそよいで、涼しげな虫の音。闇の中を蛍が飛びかう光景なんて、今じゃ簡単に見れないかもしれないけどさ。代わりと言ってはなんだけど、ゴラドン百発買っといた！ 夜になったら一気に火ぃ点けて遊ぼうぜ！ ファイヤー！",
+                    "textEn": "Hey, chan-Mas, how did you spend your summers before coming to Chaldea? In my place, summer was, like... Our summer was... really hot... But y'know, in summer it is the night that is most beautiful. The moon gets hazy, the winds rustly, and the insects let out their coolest cries. Though the fireflies flying about in the dark might be harder to find these days. It's not a perfect replacement, but I bought 100 Dagron fireworks. When it's night, let's light them and have some fun. FIRE!",
+                    "condition": null,
+                    "voiceFile": "SV323_0_羁绊Lv3.mp3"
+                },
+                {
+                    "title": "羁绊 Lv.4",
+                    "text": "哎呀，亲御你总觉得辛苦了？你有那么多必须去做的事啊，那么努力了，所以相应对自己好点也没事呀。正因如此呀，来，嘭嘭！正好诺子小姐的这里（膝枕），还空着呢。不是事到如今了你还害羞个什么劲啊，行了躺下就对了。所以说啊，你那么害羞的话我都跟着害羞了。",
+                    "textJp": "おおっと、ちゃんマスってばなんだかお疲れちゃん？ やらなきゃいけない事も沢山あるけどさぁ、頑張った分くらい自分を甘やかしたっていいんだぞ？ そういう訳だから、ほれ、ポンポン！ ちょうどなぎこさんのここ、空いてますよ？ いや今更なに恥ずかしがってんだよー。いいから横になれよー。だーかーらーさー、そんな恥ずかしがってたらこっちまで恥ずかしくなるじゃん！",
+                    "textEn": "Oh, chan-Mas, already had your run today? There's still a lot to do, but, y'know what? There's nothing wrong with treat yourself for your efforts. On that note, here you have it! Nagiko's lap is free real estate. Why are you still getting embarrassed after all we been through? Just lie down already. C'mon, I mean it, if you get this embarrassed, I'll get embarrassed, too.",
+                    "condition": null,
+                    "voiceFile": "SV323_0_羁绊Lv4.mp3"
+                },
+                {
+                    "title": "羁绊 Lv.5",
+                    "text": "哈啊~今年的夏天真开心啊之类的，正想着这些的那边的亲御！夏天结束了就该秋天了，星期天结束了就要星期一了之类的，现在就担心那么后面的事情可不行啊，咱们现在也还是夏天正当中呀！那不尽全力玩个痛快哪行！得来一个明年乃至后年的夏天都比不上的最棒暑假！",
+                    "textJp": "はー……今年の夏も楽しかったなー……などと考えてるそこのちゃんマス！！ 夏が終われば秋が来る、とか、日曜が終われら月曜が来る、とか、今からそんな先の事ばっかり心配してたらダメだぞ！ ウチらは今も夏のど真ん中にいるんだぜ！ だったら、まだまだ全力で楽しまなくっちゃ！ 来年の、そのまた来年の夏が来たって当分は更新できないってくらい最高の夏休みにしてやろうゼ！",
+                    "textEn": "\"Aaaah, it's been a fun summer\". Guessed what you're thinking, chan-Mas? Sure, autumn is coming after summer, Tuesday is coming after Monday, yeah, but you can't spend your entire time worrying about what's ahead. We're still in the smack middle of summer. Then we still gotta enjoy it with all we got. We gotta make this summer so damn awesome that the next summer and the next next summer won't know what to do to improve on it!",
+                    "condition": null,
+                    "voiceFile": "SV323_0_羁绊Lv5.mp3"
+                },
+                {
+                    "title": "对话 1",
+                    "text": "夏季到来！哎呀哎呀，别在房间里打滚了！不管是家里还是哪，好玩的事可是要多少有多少啊！来尽情地享受夏天吧！",
+                    "textJp": "サマーシーズン到来！！ ほらほら、部屋でゴロゴロしてるんじゃないよ。家でもどこでも、楽しい事はいくらでもあるんだからさ。思いっきり夏を満喫しちゃおうぜ！",
+                    "textEn": "Summer Season Incoming! C'mon, don't spend all day doing nothing in your bedroom. There's a lot of fun stuff to do, both indoors and out. Let's make this summer the best we can.",
+                    "condition": null,
+                    "voiceFile": "SV323_0_对话1.mp3"
+                },
+                {
+                    "title": "对话 2",
+                    "text": "你看，现在的我可是恶啊。那可不会那么简单就听从别人的。如果说想让我帮你一把的话……哎！刨冰！？……哼，我跟你走，亲御",
+                    "textJp": "ほら、今のあたしちゃんワルだからさぁ。そう簡単に言うこと聞いたりしないわけ。もしも手を貸してほしいって言うんなら……え！ かき氷！？ ……ふっ、アンタに付いて行くぜ、ちゃんマス",
+                    "textEn": "Look, I'm a punk now. I won't be doing whatever you say. If you really want my help... Oh, kakigoori? Hmph, I got your back, chan-Mas.",
+                    "condition": null,
+                    "voiceFile": "SV323_0_对话2.mp3"
+                },
+                {
+                    "title": "对话 3",
+                    "text": "啊……要说是只有契约的关系也不太对……我们到底是怎样的啊？呀哈哈哈哈，我们彼此还真是奇怪的缘分啊。嘛，在亲御说足够了之前我都是会跟你一起的。不过，嘛……现在还是希望你先别说，什么的！",
+                    "textJp": "あ〜〜〜。契約だけの関係かってーと、それも違うし……ウチら、一体なんなんだろうねぇ〜。いやははは、お互い変な縁があったもんだ。まあ、ちゃんマスがもういいって言うまでは、あたしちゃんは一緒にいることにしよっかな。だけど、まあ……当分は言わないでおいてほしいかな？ なんつって！",
+                    "textEn": "Ah... No idea what's up with us. Can't say our relationship's just what's on the contract. Nyahaha, what a weird bond we two got. Well, I guess I'll just be with you until you say you had enough. But, yeah... I wish you took your time before you did. Just kidding.",
+                    "condition": null,
+                    "voiceFile": "SV323_0_对话3.mp3"
+                },
+                {
+                    "title": "对话 4",
+                    "text": "啊————！是香子是香子是香子啊！！看看怎么样，今年可是能用泳装配·一·对Daze。这样的话不管什么时候你都可以用“好想看海啊……”来找我玩了哦？什么的，不会说吗，唔哈哈哈哈—！……不，等下啊。不如说现在就去吧！好，决定了！择日不如撞日！来来，大海可是在呼唤着我们啊！",
+                    "textJp": "あーーーーーー！！ かおるっちかおるっちかおるっちじゃーーーん！！ ほらどうよ、今年は水着でお・そ・ろだぜー。これでいつでも『海が見たいの……』なんて誘ってきても構わないんだぞー？ なんつって、言わないか、うははははー！ ……いや、待てよ。むしろ今から行っちゃうか！ よし、決めた！ 思い立ったが吉日！ ほらほら、海がウチらを呼んでるぜー！",
+                    "textEn": "AAAAAAAAAA. Kaorucchi, Kaorucchi, Kaorucchi's here. Like what you see? You and I, swimsuit buddies this year. Now you can invite me to see the ocean any time you want. Just kidding, I know you won't. No, wait... Why don't I just take you there right now? Ok, that's decided! No time like the present! Hurry, hurry, the ocean's calling for us!",
+                    "condition": "持有紫式部(Rider)",
+                    "voiceFile": "SV323_0_对话4.mp3"
+                },
+                {
+                    "title": "对话 5",
+                    "text": "诶？问我不怕芦屋道满吗？嗯……嘛，也是搞了他很多次呢。真的是没办法啊。罗刹王骷髅……什么来着，不，名字姑且不论。也不知道他会在这搞什么大新闻，所以可得盯紧着点他啊…………啊————！！满Bo亲发现！！抓他去吃午饭吧！绕背夹击一波亲御！",
+                    "textJp": "え？ 蘆屋道満は恐くないかって？ んー……まあ、相当やらかしてきたもんね。ほんっとしょうがねーなー。羅刹王髑髏……なんだっけ、いや、名前はともかくとしてだ。ここでも何しでかす分かんないし、目を離さないようにしないとな…………あーーーー！！ マンボちゃんはっけーーん！！ ランチに連れてくぞ！ 回り込めちゃんマス！",
+                    "textEn": "Huh? Are you not afraid of Ashiya Douman, you ask? No, I get it, he did some pretty bad stuff. He's a real lost cause, that Raksha King Skull... What was it again? Nah, the name doesn't matter. Even here, I gotta keep an eye on him at all times. You never know what he'll be up to. AH, MANBO-CHAN SPOTTED! Let's take him to have lunch with us! Surround him from the other side, chan-Mas!",
+                    "condition": "持有芦屋道满",
+                    "voiceFile": "SV323_0_对话5.mp3"
+                },
+                {
+                    "title": "对话 6",
+                    "text": "哦豁~！怎么了迪卡亲，穿的挺帅的啊！嘿诶……哼嗯……嘿嘿—！这样的话可就必须得好好享受夏天了啊~。好嘞，多找点闲着的人，大家一起去逛街吧—！那就赶紧联络联络……等，我说，把手机还我啊~！",
+                    "textJp": "おほ〜！ どうしたリカっち、めっちゃイケてんじゃーん！ へぇ……ふぅん……へへー！ これはなんとしても夏をエンジョイしてもらわないといけませんなぁ〜。よーし、暇してそうな人を集めて、みんなで街に繰り出すかー！ 早速連絡連絡ぅ〜……ってぇ、ちょっと、スマホ返せよ〜！",
+                    "textEn": "Oh-ho! What happened, Ricacchi? You're looking sexy. Heeeh, hmm, hehe. I just gotta make you enjoy your summer, no matter what. Ok, we're gonna gather anyone we find not doing anything and go to town. Lemme start making the calls. Dh- Huh? Wait! Give back my phone!",
+                    "condition": "持有开放灵衣的曼迪卡尔多",
+                    "voiceFile": "SV323_0_对话6.mp3"
+                },
+                {
+                    "title": "对话 7",
+                    "text": "不管是什么，小小的孩子大家都很美……。啊哈~，怎么办啊亲御。尼莫尼莫们工作的样子，我想看一辈子……我能不能就住在这船坞了啊……诶，不行吗……",
+                    "textJp": "なにもなにも、小さきものはみなうつくし……。あぁ、どうしようちゃんマス。ネモネモたちが働いてるとこ、永久に見てられるわぁ……。あたしちゃん、このドックに住もうかな……え、ダメか……",
+                    "textEn": "All that is small is beautiful4. Aha, what should I do, chan-Mas? I could watch the Nemonemos working for eternity! Should I move my stuff to this dock? Huh, I can't?",
+                    "condition": "持有尼莫",
+                    "voiceFile": "SV323_0_对话7.mp3"
+                },
+                {
+                    "title": "对话 8",
+                    "text": "嘿！JJ！要去哪玩吗J——！唔哈哈哈哈—！没事没事，今天不会说要一起坐你的Jet的！倒不如说，对，要来坐我的滑板吗？呀没问题的！把脚踏在这里，对对。好，开滑了啊，小心别掉下去啊！Emotional engine全开！！吼——————~呼诶，路上再把阿信捎上吧！",
+                    "textJp": "へーい！ ジェイジェイー！ どっか遊びに行こうジェーーイ！ うははははー！ だいじょぶだいじょぶ、今日はジェットに相乗りとかしないって！ むしろ、そう、あたしちゃんのボードに乗っていきな？ いやいけるって！ そっち足かけて―、そうそう。よーし、飛ばすぜ、振り落とされんなよ！ エモーショナルエンジンぜんかーーい！！ フォーーーーー！！ ふう、途中でノッブも拾ってくか！",
+                    "textEn": "Hey, JJ. Let's jo jave jome jun jomewhere. Uhahaha, don't worry 'bout me. I'm not here to hitch a ride on your jet today. On the contrary, it's you who gets to ride my skateboard. No, you can do it. Put your foot here. You got it. Alright! We're blasting off, try your best not to fall! Emotional Engine, full speed ahead. Heeeeeeeeeeeewwww. I grabbed Nobbu along the way.",
+                    "condition": "持有冲田·J·总司、织田信长(Berserker)",
+                    "voiceFile": "SV323_0_对话8.mp3"
+                },
+                {
+                    "title": "对话 9",
+                    "text": "哎呀？我还说是谁呢这不小迦迦吗！你要有空的话一起去游泳吧！……等等，你是不是和平时尺寸不太一样？没办法啊，这里就由我来公主抱吧……哎，唯有这个不想？说到底为什么要抱过去？毕竟啊，不把你抓起来的话你就会跑吧绝对。啊，阿鬼~！借我那个一下！就那个小槌！",
+                    "textJp": "あっれ〜？ 誰かと思えばカマちょじゃーん！ 暇してるんなら泳ぎに行こうZE！ ……って、なんかいつもとサイズ違くね？ しゃーない、ここはお姫様抱っこで……え、それだけはやめろ？ そもそもなんで抱えて運ぼうとする？ だって、捕まえてないと逃げるでしょ絶対。あ、鬼一ちゃーん！ アレ貸して！ 小槌！",
+                    "textEn": "Huh? Wasn't expecting to see you here, Krama Queen. Let's go for a swim if you're free. Wait, were you this size before? Guess I have to bridal carry you. What? Anything but that? Why am I trying to carry you anyways? Because you'll run away if I don't grab you, no doubts. Ah, Kiichan, can I borrow the thing? The mallet.",
+                    "condition": "持有迦摩、迦摩(Avenger)",
+                    "voiceFile": "SV323_0_对话9.mp3"
+                },
+                {
+                    "title": "喜欢的东西",
+                    "text": "喜欢的刨冰？甘葛！把刨冰这样，装进漂亮的器皿里然后……哎，你不知道吗？甘葛。嗯，好好，既然如此的话就由我来教你吧。所谓甘葛啊，哎，就是把爬墙虎的树汁，想办法收集起来，之后……啊，嗯……大概就是这种感觉的玩意。具体的就去问香子吧？",
+                    "textJp": "好きなかき氷？ 甘葛！ 削り氷をこう、綺麗な器に盛ってさぁ……え、知らないのか？ 甘葛。ふむ、よしよし、そういうことならあたしちゃんが教えてあげよう。甘葛ってのはぁ、えっと、蔦の樹液をこう、なんかどうにかして集めてぇ、その……あー、うん……あー、なんかそんな感じのやつ。詳しい事はかおるっちに聞いといて？",
+                    "textEn": "What kakigoori flavor I like? Liana! A pretty bowl filled with shaved ice is all... What? You don't know liana syrup? Hm, it's fine, I'm here to teach you. Ok, so first, liana is an ivy. So you take the sap out of vines and... hm... and... you use it. Ask Kaorucchi for more details.",
+                    "condition": null,
+                    "voiceFile": "SV323_0_喜欢的东西.mp3"
+                },
+                {
+                    "title": "讨厌的东西",
+                    "text": "嗯……与其说讨厌。小时候我坐船出海过，看着陆地渐行渐远，船摇的又厉害又感觉会闹鬼，就想着以后再也不坐船了。不过，现在这样的事反而觉得挺好玩的。感觉挺怪的。明明海的宽广不管去到哪都是不曾改变的。",
+                    "textJp": "んー……嫌いっていうかぁ。子供の頃、船で海に出たことがあるんだけど、陸は目に見えて遠いし、めっちゃ揺れるしお化け出そうだし、こんなのもう二度と乗らねーって思ったわけ。でも、今はそんな事が逆に楽しくってさぁ。なんか変なの。海の広さはどこまで行っても変わんないのにね",
+                    "textEn": "It's not really a dislike, but there was this one time I sailed on a ship as a kid5. The thing wouldn't stop shaking, the shore looked so distant, a ghost could pop out at any moment. I thought I'd never set foot on a ship again. But now I enjoy boat rides for all those same reasons. Ain't it weird? Wherever you go, the ocean doesn't get any less vast.",
+                    "condition": null,
+                    "voiceFile": "SV323_0_讨厌的东西.mp3"
+                },
+                {
+                    "title": "关于圣杯",
+                    "text": "要是得到圣杯的话……是啊，大家一起一口气用掉吧！开个party，一起嗨翻天，要是这喧闹声能一直传达到很远的地方……诶嘿嘿，挺好的吧！",
+                    "textJp": "聖杯が手に入ったら……そうだなぁ、みんなでパーッと使っちゃうかあ！ パーティーでも開いて、最高に盛り上げちゃってさぁ、その声がずーっと遠いところにまで届いてくれたなら……えへへ、いいよね！",
+                    "textEn": "If I get a Grail... Oh, I know. I'm gonna let everyone use it. We'll host the greatest party ever. If our voices can be heard somewhere far, far away... Hehehe, it'd be nice.",
+                    "condition": null,
+                    "voiceFile": "SV323_0_关于圣杯.mp3"
+                },
+                {
+                    "title": "活动举行中",
+                    "text": "到活动的时间了啊喂！是吧！",
+                    "textJp": "イベントの時間だコラァッ！ な！",
+                    "textEn": "Event fuckin' time!",
+                    "condition": null,
+                    "voiceFile": "SV323_0_活动举行中.mp3"
+                },
+                {
+                    "title": "生日",
+                    "text": "亲御，听说今天是你生日？呵呵……真是个小笨蛋。我当然没有忘记哦……诶，啥？生日……礼物？啊、额……啊啊、好吧！赶紧准备一下出门吧亲御！今天尽情地玩到地老天荒！玩到这一天让你终身难忘！",
+                    "textJp": "ちゃんマス、今日が誕生日なんだって？ ふふ……馬鹿だな。もちろん忘れてなかったよ。……え、なに。プレゼント……？ あ、あっ…………ああ〜、よし！ 出かけの支度をしろちゃんマス！ 今日はとことん遊び倒すかんなー！ 忘れらんない一日にしてやんよっ！",
+                    "textEn": "Chan-Mas, I hear it's your birthday. Huhu, you're so dumb. Of course, I didn't forget it. Wait, what? Present? Ah-ah-ugh. Ok, get ready to go out, chan-Mas. Today we're partying until you drop. I'll make this day unforgettable.",
+                    "condition": null,
+                    "voiceFile": "SV323_0_生日.mp3"
+                }
+            ]
+        }
+    ],
+    "bondCraft": -1,
+    "valentineCraft": [],
+    "icons": [
+        {
+            "key": "icon1",
+            "valueList": [
+                "清少納言_status_1.png",
+                "清少納言_status_2.png",
+                "清少納言_status_3.png"
+            ]
+        }
+    ],
+    "sprites": [
+        {
+            "key": "sprite1",
+            "valueList": [
+                "清少納言_model_1.png",
+                "清少納言_model_2.png",
+                "清少納言_model_3.png"
+            ]
+        }
+    ],
+    "fandomIcons": {
+        "fandom.S323Icon.png": "Stage 1",
+        "fandom.S323A2Icon.png": "Stage 2",
+        "fandom.S323A3Icon.png": "Stage 3",
+        "fandom.S323A4Icon.png": "Stage 4",
+        "fandom.S323 portrait servant 1.png": "Portrait (Stage 1)",
+        "fandom.S323 portrait servant 2.png": "Portrait (Stage 2)",
+        "fandom.S323 portrait servant 3.png": "Portrait (Stage 3)"
+    },
+    "fandomSprites": {
+        "fandom.Sei_Shonagon_Berserker_1_Sprite.png": "Stage 1",
+        "fandom.Sei_Shonagon_Berserker_2_Sprite.png": "Stage 2",
+        "fandom.Sei_Shonagon_Berserker_3_Sprite.png": "Stage 3",
+        "fandom.S323 card servant 1.png": "Command Card (Stage 1)",
+        "fandom.S323 card servant 2.png": "Command Card (Stage 2)",
+        "fandom.S323 card servant 3.png": "Command Card (Stage 3)"
+    },
+    "niceSkills": [
+        {
+            "id": 936550,
+            "num": 1,
+            "name": "サマー・ストリート！ A",
+            "ruby": "さまー・すとりーと！",
+            "detail": "自身の攻撃力をアップ(3ターン)＆クリティカル威力をアップ(3ターン)＆NPを増やす",
+            "type": "active",
+            "strengthStatus": 0,
+            "priority": 1,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "conLv": 0,
+            "condLimitCount": 0,
+            "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00300.png",
+            "coolDown": [
+                8,
+                8,
+                8,
+                8,
+                8,
+                7,
+                7,
+                7,
+                7,
+                6
+            ],
+            "functions": [
+                {
+                    "funcId": 146,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "攻撃力アップ",
+                    "buffs": [
+                        {
+                            "id": 126,
+                            "name": "攻撃力アップ",
+                            "detail": "攻撃力をアップ",
+                            "type": "upAtk",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 210
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 220
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 230
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 240
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 250
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 260
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 270
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 280
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 300
+                        }
+                    ]
+                },
+                {
+                    "funcId": 200,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "クリティカル威力アップ",
+                    "buffs": [
+                        {
+                            "id": 142,
+                            "name": "クリティカル威力アップ",
+                            "detail": "クリティカル時のダメージをアップ",
+                            "type": "upCriticaldamage",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 210
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 220
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 230
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 240
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 250
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 260
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 270
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 280
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 300
+                        }
+                    ]
+                },
+                {
+                    "funcId": 460,
+                    "funcType": "gainNp",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "player",
+                    "funcPopupText": "NP増加",
+                    "buffs": [],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Value": 1000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1300
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1400
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1500
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1600
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1700
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1800
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 2000
+                        }
+                    ]
+                },
+                {
+                    "funcId": 470,
+                    "funcType": "hastenNpturn",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "enemy",
+                    "funcPopupText": "チャージ増加",
+                    "buffs": [],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 937550,
+            "num": 2,
+            "name": "ナイトプール・スライダー A",
+            "ruby": "ないとぷーる・すらいだー",
+            "detail": "自身に回避状態を付与(2回・3ターン)＆クリティカル威力をアップ(1ターン)＆スター集中度をアップ(1ターン)",
+            "type": "active",
+            "strengthStatus": 0,
+            "priority": 1,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "conLv": 0,
+            "condLimitCount": 1,
+            "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00402.png",
+            "coolDown": [
+                8,
+                8,
+                8,
+                8,
+                8,
+                7,
+                7,
+                7,
+                7,
+                6
+            ],
+            "functions": [
+                {
+                    "funcId": 283,
+                    "funcType": "addState",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "回避",
+                    "buffs": [
+                        {
+                            "id": 151,
+                            "name": "回避",
+                            "detail": "攻撃によるダメージを0にする",
+                            "type": "avoidance",
+                            "buffGroup": 200
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 2
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 2
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 2
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 2
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 2
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 2
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 2
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 2
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 2
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 2
+                        }
+                    ]
+                },
+                {
+                    "funcId": 201,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "クリティカル威力アップ",
+                    "buffs": [
+                        {
+                            "id": 142,
+                            "name": "クリティカル威力アップ",
+                            "detail": "クリティカル時のダメージをアップ",
+                            "type": "upCriticaldamage",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 500
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 550
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 600
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 650
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 700
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 750
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 800
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 850
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 900
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 1000
+                        }
+                    ]
+                },
+                {
+                    "funcId": 366,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "player",
+                    "funcPopupText": "スター集中アップ",
+                    "buffs": [
+                        {
+                            "id": 115,
+                            "name": "スター集中アップ",
+                            "detail": "スターの集まりやすさをアップ",
+                            "type": "upStarweight",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 30000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 32000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 34000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 36000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 38000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 40000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 42000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 44000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 46000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 50000
+                        }
+                    ]
+                },
+                {
+                    "funcId": 216,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "enemy",
+                    "funcPopupText": "クリティカル発生アップ",
+                    "buffs": [
+                        {
+                            "id": 144,
+                            "name": "クリティカル発生アップ",
+                            "detail": "クリティカルの発生率をアップ",
+                            "type": "upCriticalrate",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 300
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 300
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 300
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 300
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 300
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 300
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 300
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 300
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 300
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 300
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 938550,
+            "num": 3,
+            "name": "アテナル・サマースイーツ A",
+            "ruby": "あてなる・さまーすいーつ",
+            "detail": "味方単体のHPを回復＆やけど無効状態を付与(3ターン) ＋ スターを大量獲得",
+            "type": "active",
+            "strengthStatus": 0,
+            "priority": 1,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "conLv": 0,
+            "condLimitCount": 3,
+            "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00600.png",
+            "coolDown": [
+                7,
+                7,
+                7,
+                7,
+                7,
+                6,
+                6,
+                6,
+                6,
+                5
+            ],
+            "functions": [
+                {
+                    "funcId": 442,
+                    "funcType": "gainHp",
+                    "funcTargetType": "ptOne",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "",
+                    "buffs": [],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Value": 1000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1400
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1600
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1800
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 2000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 2200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 2400
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 2600
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 3000
+                        }
+                    ]
+                },
+                {
+                    "funcId": 7587,
+                    "funcType": "addState",
+                    "funcTargetType": "ptOne",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "やけど無効",
+                    "buffs": [
+                        {
+                            "id": 742,
+                            "name": "やけど無効",
+                            "detail": "やけどを受けなくなる",
+                            "type": "avoidState",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1
+                        }
+                    ]
+                },
+                {
+                    "funcId": 477,
+                    "funcType": "gainStar",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "player",
+                    "funcPopupText": "スター獲得",
+                    "buffs": [],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Value": 15
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 16
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 17
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 18
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 19
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 20
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 21
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 22
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 23
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 25
+                        }
+                    ]
+                },
+                {
+                    "funcId": 216,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "enemy",
+                    "funcPopupText": "クリティカル発生アップ",
+                    "buffs": [
+                        {
+                            "id": 144,
+                            "name": "クリティカル発生アップ",
+                            "detail": "クリティカルの発生率をアップ",
+                            "type": "upCriticalrate",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 2,
+                            "Count": -1,
+                            "Value": 300
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 2,
+                            "Count": -1,
+                            "Value": 300
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 2,
+                            "Count": -1,
+                            "Value": 300
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 2,
+                            "Count": -1,
+                            "Value": 300
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 2,
+                            "Count": -1,
+                            "Value": 300
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 2,
+                            "Count": -1,
+                            "Value": 300
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 2,
+                            "Count": -1,
+                            "Value": 300
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 2,
+                            "Count": -1,
+                            "Value": 300
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 2,
+                            "Count": -1,
+                            "Value": 300
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 2,
+                            "Count": -1,
+                            "Value": 300
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "niceClassPassive": [
+        {
+            "id": 54250,
+            "num": 1,
+            "name": "狂化 D",
+            "ruby": "きょうか",
+            "detail": "自身のBusterカードの性能を少しアップ",
+            "type": "passive",
+            "strengthStatus": 1,
+            "priority": 1,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "conLv": 0,
+            "condLimitCount": 0,
+            "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00106.png",
+            "coolDown": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "functions": [
+                {
+                    "funcId": 118,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "バスターアップ",
+                    "buffs": [
+                        {
+                            "id": 102,
+                            "name": "Busterアップ",
+                            "detail": "Busterカードの性能をアップ",
+                            "type": "upCommandall",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 40
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 40
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 40
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 40
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 40
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 40
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 40
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 40
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 40
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 40
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 715250,
+            "num": 1,
+            "name": "単独行動（自己中） D",
+            "ruby": "たんどくこうどう",
+            "detail": "自身のQuickカードのスター集中度を少しアップ",
+            "type": "passive",
+            "strengthStatus": 1,
+            "priority": 1,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "conLv": 0,
+            "condLimitCount": 0,
+            "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00101.png",
+            "coolDown": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "functions": [
+                {
+                    "funcId": 4776,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "player",
+                    "funcPopupText": "スター集中アップ：Quick",
+                    "buffs": [
+                        {
+                            "id": 2532,
+                            "name": "スター集中アップ:Quick",
+                            "detail": "Quickカードへのスターの集まりやすさをアップ",
+                            "type": "upStarweight",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 40
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 40
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 40
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 40
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 40
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 40
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 40
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 40
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 40
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 40
+                        }
+                    ]
+                },
+                {
+                    "funcId": 5175,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "enemy",
+                    "funcPopupText": "クリティカル発生アップ:Quick",
+                    "buffs": [
+                        {
+                            "id": 2716,
+                            "name": "クリティカル発生アップ:Quick",
+                            "detail": "Quickカードのクリティカルの発生率をアップ",
+                            "type": "upCriticalrate",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 40
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 40
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 40
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 40
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 40
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 40
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 40
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 40
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 40
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 40
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 717450,
+            "num": 1,
+            "name": "一乗の法 B",
+            "ruby": "いちじょうのほう",
+            "detail": "自身の魅了耐性を大アップ",
+            "type": "passive",
+            "strengthStatus": 1,
+            "priority": 1,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "conLv": 0,
+            "condLimitCount": 0,
+            "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00401.png",
+            "coolDown": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "functions": [
+                {
+                    "funcId": 489,
+                    "funcType": "addState",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "魅了耐性アップ",
+                    "buffs": [
+                        {
+                            "id": 187,
+                            "name": "魅了耐性アップ",
+                            "detail": "魅了耐性をアップ",
+                            "type": "upTolerance",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 1000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 1000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 1000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 1000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 1000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 1000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 1000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 1000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 1000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 1000
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "niceNoblePhantasms": [
+        {
+            "id": 704101,
+            "num": 1,
+            "card": "quick",
+            "name": "夏は、世に知らず暑き",
+            "ruby": "エモーショナルエンジン・ビビッドフルセンセーション",
+            "rank": "D++",
+            "type": "対人宝具",
+            "detail": "自身に〔人の力を持つ敵〕特攻状態を付与(1ターン)<オーバーチャージで効果アップ>＆〔秩序のサーヴァント〕特攻状態を付与(1ターン)＆〔シャドウサーヴァント〕特攻状態を付与(1ターン) ＋ 敵単体に超強力な攻撃",
+            "npGain": {
+                "buster": [
+                    77,
+                    77,
+                    77,
+                    77,
+                    77
+                ],
+                "arts": [
+                    77,
+                    77,
+                    77,
+                    77,
+                    77
+                ],
+                "quick": [
+                    77,
+                    77,
+                    77,
+                    77,
+                    77
+                ],
+                "extra": [
+                    77,
+                    77,
+                    77,
+                    77,
+                    77
+                ],
+                "defence": [
+                    500,
+                    500,
+                    500,
+                    500,
+                    500
+                ],
+                "np": [
+                    77,
+                    77,
+                    77,
+                    77,
+                    77
+                ]
+            },
+            "npDistribution": [
+                3,
+                7,
+                10,
+                14,
+                17,
+                21,
+                28
+            ],
+            "strengthStatus": 0,
+            "priority": 101,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "individuality": [
+                {
+                    "id": 3002,
+                    "name": "attackMagical"
+                },
+                {
+                    "id": 4003,
+                    "name": "cardQuick"
+                },
+                {
+                    "id": 4007,
+                    "name": "cardNP"
+                }
+            ],
+            "functions": [
+                {
+                    "funcId": 5156,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "威力アップ・対 人の力",
+                    "buffs": [
+                        {
+                            "id": 2710,
+                            "name": "威力アップ〔人の力〕",
+                            "detail": "〔人の力〕に与えるダメージをアップ",
+                            "type": "upDamage",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 500
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 500
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 500
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 500
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 500
+                        }
+                    ]
+                },
+                {
+                    "funcId": 7595,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "威力アップ・対秩序サーヴァント",
+                    "buffs": [
+                        {
+                            "id": 3812,
+                            "name": "威力アップ〔秩序のサーヴァント〕",
+                            "detail": "〔秩序のサーヴァント〕に与えるダメージをアップ",
+                            "type": "upDamage",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 500
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 500
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 500
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 500
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 500
+                        }
+                    ]
+                },
+                {
+                    "funcId": 5162,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "威力アップ・対シャドウサーヴァント",
+                    "buffs": [
+                        {
+                            "id": 2712,
+                            "name": "威力アップ〔シャドウサーヴァント〕",
+                            "detail": "〔シャドウサーヴァント〕に与えるダメージをアップ",
+                            "type": "upDamage",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 500
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 500
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 500
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 500
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 500
+                        }
+                    ]
+                },
+                {
+                    "funcId": 12,
+                    "funcType": "damageNp",
+                    "funcTargetType": "enemy",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "なし",
+                    "buffs": [],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Value": 12000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 16000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 18000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 19000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 20000
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "atkGrowth": [
+        1657,
+        1814,
+        1980,
+        2145,
+        2311,
+        2468,
+        2634,
+        2792,
+        2949,
+        3106,
+        3256,
+        3405,
+        3554,
+        3703,
+        3844,
+        3976,
+        4117,
+        4241,
+        4374,
+        4490,
+        4614,
+        4722,
+        4830,
+        4937,
+        5028,
+        5128,
+        5211,
+        5294,
+        5368,
+        5443,
+        5501,
+        5559,
+        5608,
+        5658,
+        5700,
+        5733,
+        5758,
+        5774,
+        5791,
+        5799,
+        5807,
+        5816,
+        5824,
+        5832,
+        5857,
+        5890,
+        5932,
+        5981,
+        6031,
+        6089,
+        6147,
+        6222,
+        6296,
+        6379,
+        6462,
+        6561,
+        6652,
+        6760,
+        6868,
+        6975,
+        7100,
+        7216,
+        7348,
+        7473,
+        7613,
+        7746,
+        7887,
+        8036,
+        8185,
+        8334,
+        8483,
+        8641,
+        8798,
+        8956,
+        9121,
+        9279,
+        9444,
+        9610,
+        9776,
+        9942,
+        10041,
+        10149,
+        10248,
+        10356,
+        10463,
+        10563,
+        10671,
+        10778,
+        10878,
+        10985,
+        11093,
+        11193,
+        11300,
+        11408,
+        11507,
+        11615,
+        11723,
+        11822,
+        11930,
+        12038,
+        12137,
+        12245,
+        12352,
+        12452,
+        12560,
+        12667,
+        12767,
+        12874,
+        12982,
+        13082,
+        13189,
+        13297,
+        13396,
+        13504,
+        13612,
+        13711,
+        13819,
+        13927,
+        14026,
+        14134
+    ],
+    "hpGrowth": [
+        1587,
+        1745,
+        1912,
+        2078,
+        2245,
+        2403,
+        2570,
+        2728,
+        2887,
+        3045,
+        3195,
+        3345,
+        3495,
+        3645,
+        3787,
+        3920,
+        4062,
+        4187,
+        4320,
+        4437,
+        4562,
+        4670,
+        4779,
+        4887,
+        4979,
+        5079,
+        5162,
+        5246,
+        5321,
+        5396,
+        5454,
+        5512,
+        5562,
+        5612,
+        5654,
+        5687,
+        5712,
+        5729,
+        5746,
+        5754,
+        5762,
+        5771,
+        5779,
+        5787,
+        5812,
+        5846,
+        5887,
+        5937,
+        5987,
+        6046,
+        6104,
+        6179,
+        6254,
+        6337,
+        6421,
+        6521,
+        6613,
+        6721,
+        6829,
+        6938,
+        7063,
+        7179,
+        7313,
+        7438,
+        7579,
+        7713,
+        7854,
+        8004,
+        8154,
+        8305,
+        8455,
+        8613,
+        8771,
+        8930,
+        9096,
+        9255,
+        9421,
+        9588,
+        9755,
+        9922,
+        10022,
+        10130,
+        10230,
+        10338,
+        10447,
+        10547,
+        10655,
+        10763,
+        10863,
+        10972,
+        11080,
+        11180,
+        11288,
+        11397,
+        11497,
+        11605,
+        11714,
+        11814,
+        11922,
+        12030,
+        12130,
+        12239,
+        12347,
+        12447,
+        12555,
+        12664,
+        12764,
+        12872,
+        12980,
+        13080,
+        13189,
+        13297,
+        13397,
+        13506,
+        13614,
+        13714,
+        13822,
+        13931,
+        14031,
+        14139
+    ],
+    "figure": [
+        "https://static.atlasacademy.io/JP/CharaFigure/7041000/7041000_merged.png",
+        "https://static.atlasacademy.io/JP/CharaFigure/7041001/7041001_merged.png",
+        "https://static.atlasacademy.io/JP/CharaFigure/7041002/7041002_merged.png"
+    ],
+    "ascension": [
+        "https://static.atlasacademy.io/JP/CharaGraph/704100/704100a@1.png",
+        "https://static.atlasacademy.io/JP/CharaGraph/704100/704100a@2.png",
+        "https://static.atlasacademy.io/JP/CharaGraph/704100/704100b@1.png",
+        "https://static.atlasacademy.io/JP/CharaGraph/704100/704100b@2.png"
+    ]
+}

@@ -1,0 +1,3502 @@
+{
+    "no": 214,
+    "svtId": 303300,
+    "mcLink": "瓦尔基里",
+    "icon": "Servant214.jpg",
+    "info": {
+        "gameId": 303300,
+        "name": "瓦尔基里",
+        "nameJp": "ワルキューレ",
+        "nameEn": "Valkyrie",
+        "namesOther": [
+            "瓦尔基里",
+            "ワルキューレ"
+        ],
+        "namesJpOther": [
+            "ワルキューレ"
+        ],
+        "namesEnOther": [
+            "Walküre"
+        ],
+        "nicknames": [
+            "女武神"
+        ],
+        "obtain": "常驻",
+        "obtains": [
+            "圣晶石常驻"
+        ],
+        "rarity": 4,
+        "rarity2": 4,
+        "weight": "46kg",
+        "height": "159cm",
+        "gender": "女性",
+        "illustrator": "武内崇",
+        "illustratorJp": null,
+        "illustratorEn": "Takeuchi Takashi",
+        "className": "Lancer",
+        "attribute": "天",
+        "isHumanoid": true,
+        "isWeakToEA": true,
+        "isTDNS": false,
+        "cv": [
+            "田中美海",
+            "小松未可子",
+            "雨宫天"
+        ],
+        "cvJp": [
+            "田中美海",
+            "小松未可子",
+            "雨宫天"
+        ],
+        "cvEn": [
+            "Tanaka Minami",
+            "Komatsu Mikako",
+            "Amamiya Sora"
+        ],
+        "alignments": [
+            "秩序",
+            "善"
+        ],
+        "traits": [
+            "神性",
+            "天地从者",
+            "神灵"
+        ],
+        "ability": {
+            "strength": "B",
+            "endurance": "B",
+            "agility": "B",
+            "mana": "A+",
+            "luck": "E",
+            "np": "B"
+        },
+        "illustrations": {
+            "第１阶段": "瓦尔基里初始.png",
+            "第２阶段": "瓦尔基里一破.png",
+            "第３阶段": "瓦尔基里三破.png",
+            "第４阶段": "瓦尔基里满破.png",
+            "愚人节": "瓦尔基里愚人节卡面.png"
+        },
+        "cards": [
+            "Quick",
+            "Quick",
+            "Arts",
+            "Buster",
+            "Buster"
+        ],
+        "cardHits": {
+            "Quick": 3,
+            "Arts": 2,
+            "Buster": 3,
+            "Extra": 4,
+            "NP": 7
+        },
+        "cardHitsDamage": {
+            "Quick": [
+                16,
+                33,
+                51
+            ],
+            "Arts": [
+                33,
+                67
+            ],
+            "Buster": [
+                16,
+                33,
+                51
+            ],
+            "Extra": [
+                10,
+                20,
+                30,
+                40
+            ],
+            "NP": [
+                3,
+                7,
+                10,
+                14,
+                17,
+                21,
+                28
+            ]
+        },
+        "npRate": {
+            "Quick": "0.86%",
+            "Arts": "0.86%",
+            "Buster": "0.86%",
+            "Extra": "0.86%",
+            "NP": "0.86%",
+            "Defense": "4%"
+        },
+        "atkMin": 1339,
+        "hpMin": 2244,
+        "atkMax": 8037,
+        "hpMax": 14025,
+        "atk90": 8880,
+        "hp90": 15509,
+        "atk100": 9731,
+        "hp100": 17005,
+        "starRate": "12.0%",
+        "deathRate": "23.0%",
+        "criticalRate": "87"
+    },
+    "noblePhantasm": [
+        {
+            "state": "",
+            "openCondition": "==宝具==\n{{参阅|{{PAGENAME}}/宝具动画|该从者的宝具动画}}",
+            "name": "终末幻想·少女降临",
+            "nameJp": "終末幻想·少女降臨",
+            "upperName": "Ragnarok Lifthrasir",
+            "upperNameJp": "ラグナロク・リーヴスラシル",
+            "color": "Quick",
+            "category": "全体",
+            "rank": "B",
+            "typeText": "对军宝具",
+            "effects": [
+                {
+                    "description": "付与自身必中状态(1回合)",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "∅"
+                    ]
+                },
+                {
+                    "description": "对敌方全体发动强大的攻击<宝具升级效果提升>",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "600%",
+                        "800%",
+                        "900%",
+                        "950%",
+                        "1000%"
+                    ]
+                },
+                {
+                    "description": "对〔魔性〕特性对象以概率即死<Over Charge时效果提升>",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "50%",
+                        "62.5%",
+                        "75%",
+                        "87.5%",
+                        "100%"
+                    ]
+                }
+            ]
+        }
+    ],
+    "noblePhantasmEn": [
+        {
+            "state": "Rank B",
+            "openCondition": null,
+            "name": "Ragnarök Lífþrasir",
+            "nameJp": null,
+            "upperName": "Ragnarök Lífþrasir",
+            "upperNameJp": null,
+            "color": "Quick",
+            "category": "",
+            "rank": "B",
+            "typeText": "Anti-Army",
+            "effects": [
+                {
+                    "description": " Ignores Evasion for 1 turn. {{Activates First}}\nDeals damage to all enemies.",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                },
+                {
+                    "description": " Damage +",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "600%",
+                        "800%",
+                        "900%",
+                        "950%",
+                        "1000%"
+                    ]
+                },
+                {
+                    "description": "<Over Charge>\nChance to Instant-Kill Demonic enemies.",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                },
+                {
+                    "description": " Demonic Death Chance +",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "50%",
+                        "62.5%",
+                        "75%",
+                        "87.5%",
+                        "100%"
+                    ]
+                }
+            ]
+        }
+    ],
+    "activeSkills": [
+        {
+            "cnState": 0,
+            "skills": [
+                {
+                    "state": "",
+                    "openCondition": "",
+                    "name": "原初之卢恩",
+                    "nameJp": "原初のルーン",
+                    "nameEn": null,
+                    "rank": "",
+                    "icon": "绿放.png",
+                    "cd": 8,
+                    "effects": [
+                        {
+                            "description": "自身的Quick指令卡性能提升(3回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "20%",
+                                "21%",
+                                "22%",
+                                "23%",
+                                "24%",
+                                "25%",
+                                "26%",
+                                "27%",
+                                "28%",
+                                "30%"
+                            ]
+                        },
+                        {
+                            "description": "宝具威力提升(3回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "10%",
+                                "11%",
+                                "12%",
+                                "13%",
+                                "14%",
+                                "15%",
+                                "16%",
+                                "17%",
+                                "18%",
+                                "20%"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "cnState": 0,
+            "skills": [
+                {
+                    "state": "",
+                    "openCondition": "",
+                    "name": "天鹅礼装",
+                    "nameJp": "白鳥礼装",
+                    "nameEn": null,
+                    "rank": "A",
+                    "icon": "回避.png",
+                    "cd": 8,
+                    "effects": [
+                        {
+                            "description": "付与自身回避状态(1次·3回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "∅"
+                            ]
+                        },
+                        {
+                            "description": "付与弱化无效状态(1次·3回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "∅"
+                            ]
+                        },
+                        {
+                            "description": "付与被伤害减免状态(3次·3回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "500",
+                                "550",
+                                "600",
+                                "650",
+                                "700",
+                                "750",
+                                "800",
+                                "850",
+                                "900",
+                                "1000"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "cnState": 0,
+            "skills": [
+                {
+                    "state": "",
+                    "openCondition": "",
+                    "name": "命运纺织",
+                    "nameJp": "運命の機織り",
+                    "nameEn": null,
+                    "rank": "B",
+                    "icon": "回合充能.png",
+                    "cd": 9,
+                    "effects": [
+                        {
+                            "description": "付与自身每回合获得NP状态(3回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "5%",
+                                "5.5%",
+                                "6%",
+                                "6.5%",
+                                "7%",
+                                "7.5%",
+                                "8%",
+                                "8.5%",
+                                "9%",
+                                "10%"
+                            ]
+                        },
+                        {
+                            "description": "付与每回合HP回复状态(3回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "500",
+                                "550",
+                                "600",
+                                "650",
+                                "700",
+                                "750",
+                                "800",
+                                "850",
+                                "900",
+                                "1000"
+                            ]
+                        },
+                        {
+                            "description": "付与每回合获得暴击星状态(3回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "5",
+                                "6",
+                                "6",
+                                "7",
+                                "7",
+                                "8",
+                                "8",
+                                "9",
+                                "9",
+                                "10"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "activeSkillsEn": [
+        {
+            "cnState": 0,
+            "skills": [
+                {
+                    "state": "",
+                    "openCondition": null,
+                    "name": "Primeval Rune",
+                    "nameJp": null,
+                    "nameEn": null,
+                    "rank": "",
+                    "icon": "绿放.png",
+                    "cd": 8,
+                    "effects": [
+                        {
+                            "description": "Increases own Quick performance for 3 turns.\nIncreases own NP damage for 3 turns.",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": []
+                        },
+                        {
+                            "description": " Quick +",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "20%",
+                                "21%",
+                                "22%",
+                                "23%",
+                                "24%",
+                                "25%",
+                                "26%",
+                                "27%",
+                                "28%",
+                                "30%"
+                            ]
+                        },
+                        {
+                            "description": " NP Damage +",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "10%",
+                                "11%",
+                                "12%",
+                                "13%",
+                                "14%",
+                                "15%",
+                                "16%",
+                                "17%",
+                                "18%",
+                                "20%"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "cnState": 0,
+            "skills": [
+                {
+                    "state": "",
+                    "openCondition": null,
+                    "name": "Svanhvít",
+                    "nameJp": null,
+                    "nameEn": null,
+                    "rank": "A",
+                    "icon": "回避.png",
+                    "cd": 8,
+                    "effects": [
+                        {
+                            "description": " Grants self Evasion for 1 attack, 3 turns.\n Grants self Debuff Immunity for 1 time, 3 turns.\nReduces own damage taken for 3 attacks, 3 turns.",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": []
+                        },
+                        {
+                            "description": " Damage Taken -",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "500",
+                                "550",
+                                "600",
+                                "650",
+                                "700",
+                                "750",
+                                "800",
+                                "850",
+                                "900",
+                                "1000"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "cnState": 0,
+            "skills": [
+                {
+                    "state": "",
+                    "openCondition": null,
+                    "name": "Fateweaver",
+                    "nameJp": null,
+                    "nameEn": null,
+                    "rank": "B",
+                    "icon": "回合充能.png",
+                    "cd": 9,
+                    "effects": [
+                        {
+                            "description": "Charges own NP gauge every turn for 3 turns.\nRecovers own HP every turn for 3 turns.\nGains critical stars every turn for 3 turns.",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": []
+                        },
+                        {
+                            "description": " NP Regen +",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "5%",
+                                "5.5%",
+                                "6%",
+                                "6.5%",
+                                "7%",
+                                "7.5%",
+                                "8%",
+                                "8.5%",
+                                "9%",
+                                "10%"
+                            ]
+                        },
+                        {
+                            "description": " HP Regen +",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "500",
+                                "550",
+                                "600",
+                                "650",
+                                "700",
+                                "750",
+                                "800",
+                                "850",
+                                "900",
+                                "1000"
+                            ]
+                        },
+                        {
+                            "description": " Star Regen +",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "5",
+                                "6",
+                                "6",
+                                "7",
+                                "7",
+                                "8",
+                                "8",
+                                "9",
+                                "9",
+                                "10"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "passiveSkills": [
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "对魔力",
+            "nameJp": null,
+            "nameEn": null,
+            "rank": "B",
+            "icon": "对魔力.png",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": "自身的弱化状态耐性少量提升(17.5%)",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                }
+            ]
+        },
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "神性",
+            "nameJp": null,
+            "nameEn": null,
+            "rank": "A",
+            "icon": "神性.png",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": "付与自身伤害附加状态(200)",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                }
+            ]
+        }
+    ],
+    "passiveSkillsEn": [
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "Magic Resistance",
+            "nameJp": null,
+            "nameEn": null,
+            "rank": "B",
+            "icon": "fandom.anti magic.png",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": " Increases own debuff resistance by 17.5%.",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                }
+            ]
+        },
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "Divinity",
+            "nameJp": null,
+            "nameEn": null,
+            "rank": "A",
+            "icon": "fandom.divinity.png",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": " Increases own damage by 200.",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                }
+            ]
+        }
+    ],
+    "appendSkills": [
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "追击技巧提升",
+            "nameJp": "追撃技巧向上",
+            "nameEn": "Extra Attack Finesse Improvement",
+            "rank": null,
+            "icon": "特攻",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": "自身的Extra Attack指令卡性能提升",
+                    "descriptionJp": "自身のExtra Attackカードの性能をアップする",
+                    "descriptionEn": "Increases own Extra Attack performance",
+                    "lvData": [
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "38%",
+                        "40%",
+                        "42%",
+                        "44%",
+                        "46%",
+                        "50%"
+                    ]
+                }
+            ]
+        },
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "魔力装填",
+            "nameJp": "魔力装填",
+            "nameEn": "Mana Loading",
+            "rank": null,
+            "icon": "充能",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": "自身以NP已达一定数值的状态开始战斗",
+                    "descriptionJp": "自身のNPをチャージした状態でバトルを開始する",
+                    "descriptionEn": "Starts battle with NP gauge",
+                    "lvData": [
+                        "10%",
+                        "11%",
+                        "12%",
+                        "13%",
+                        "14%",
+                        "15%",
+                        "16%",
+                        "17%",
+                        "18%",
+                        "20%"
+                    ]
+                }
+            ]
+        },
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "对Rider攻击适性",
+            "nameJp": "対Rider攻撃適性",
+            "nameEn": "Anti-Rider Attack Damage Aptitude",
+            "rank": null,
+            "icon": "加攻",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": "自身对Rider的攻击力提升",
+                    "descriptionJp": "自身の〔Rider〕クラスに対する攻撃力をアップする",
+                    "descriptionEn": "Increases own attack against Rider enemies",
+                    "lvData": [
+                        "20%",
+                        "21%",
+                        "22%",
+                        "23%",
+                        "24%",
+                        "25%",
+                        "26%",
+                        "27%",
+                        "28%",
+                        "30%"
+                    ]
+                }
+            ]
+        }
+    ],
+    "coinSummonNum": 30,
+    "itemCost": {
+        "ascension": [
+            {
+                "枪阶银棋": 4,
+                "QP": 50000
+            },
+            {
+                "枪阶银棋": 10,
+                "世界树之种": 8,
+                "QP": 150000
+            },
+            {
+                "枪阶金像": 4,
+                "英雄之证": 24,
+                "凤凰羽毛": 4,
+                "QP": 500000
+            },
+            {
+                "枪阶金像": 10,
+                "凤凰羽毛": 7,
+                "极光之钢": 10,
+                "QP": 1500000
+            }
+        ],
+        "skill": [
+            {
+                "枪之辉石": 4,
+                "QP": 100000
+            },
+            {
+                "枪之辉石": 10,
+                "QP": 200000
+            },
+            {
+                "枪之魔石": 4,
+                "QP": 600000
+            },
+            {
+                "枪之魔石": 10,
+                "英雄之证": 12,
+                "QP": 800000
+            },
+            {
+                "枪之秘石": 4,
+                "英雄之证": 24,
+                "QP": 2000000
+            },
+            {
+                "枪之秘石": 10,
+                "世界树之种": 5,
+                "QP": 2500000
+            },
+            {
+                "世界树之种": 10,
+                "鬼魂提灯": 5,
+                "QP": 5000000
+            },
+            {
+                "鬼魂提灯": 15,
+                "极光之钢": 20,
+                "QP": 6000000
+            },
+            {
+                "传承结晶": 1,
+                "QP": 10000000
+            }
+        ],
+        "appendSkill": [
+            {
+                "枪之辉石": 4,
+                "QP": 100000
+            },
+            {
+                "枪之辉石": 10,
+                "QP": 200000
+            },
+            {
+                "枪之魔石": 4,
+                "QP": 600000
+            },
+            {
+                "枪之魔石": 10,
+                "精灵根": 2,
+                "QP": 800000
+            },
+            {
+                "枪之秘石": 4,
+                "精灵根": 4,
+                "QP": 2000000
+            },
+            {
+                "枪之秘石": 10,
+                "大骑士勋章": 8,
+                "QP": 2500000
+            },
+            {
+                "大骑士勋章": 16,
+                "神脉灵子": 5,
+                "QP": 5000000
+            },
+            {
+                "神脉灵子": 15,
+                "赦免的小钟": 60,
+                "QP": 6000000
+            },
+            {
+                "传承结晶": 1,
+                "QP": 10000000
+            }
+        ]
+    },
+    "costumeNos": [],
+    "bondPoints": [
+        5000,
+        15000,
+        10000,
+        2000,
+        18000,
+        150000,
+        400000,
+        300000,
+        280000,
+        370000,
+        1090000,
+        1230000,
+        1360000,
+        1500000,
+        1640000
+    ],
+    "profiles": [
+        {
+            "title": "0",
+            "description": "身披铠甲的女武神。\n大神的女儿们。\n由北欧神话中的至高存在大神奥丁大量制造。\n\n飞舞于众多战场上，在战死的勇者中，选定拥有资格的人物，并将其灵魂引领至大神的宫殿，也就是闪耀的黄金瓦尔哈拉。\n为了让他们在北欧神代的终末——\n诸神黄昏中，加入屠戮巨人们的大神军队。",
+            "descriptionJp": "鎧に身を包んだ戦乙女。\n大神の娘たち。\n北欧神話における最高存在である大神オーディンによって、数多くが製造された。\n\n数多の戦場の空を舞い、戦死した勇者の中でも資格あるものを選定し、大神の宮殿たる輝ける黄金のヴァルハラへとその魂を連れて行く。\n北欧神代の終末───\n神々の黄昏にて、巨人たちを屠る大神の軍の列へと加えるために。",
+            "descriptionEn": "War maidens dressed in armor.\n\nDaughters of the Great God.\n\nMany of them were created by the highest existence in Nordic mythology, the Great God Odin.\n\nDancing in the sky of countless battlefields, only those with courageous souls who lost their lives in battle were qualified to be taken to the golden Valhalla, the Palace of the Great God.\n\nThe end of the Nordic era───\n\nIn the twilight of the gods, they were added to the ranks of the Great God's army to slaughter the Jötnar.",
+            "condition": null,
+            "conditionEn": null
+        },
+        {
+            "title": "1",
+            "description": "身高／体重：159cm·46kg\n出处：北欧神话\n地域：欧洲\n属性：秩序·善　　　性别：女性\n盾是由神铁锻造的。由奥丁赐予。",
+            "descriptionJp": "身長／体重：159cm・46kg\n出典：北欧神話\n地域：欧州\n属性：秩序・善　　　性別：女性\n盾は神鉄製。オーディンから賜ったものである。",
+            "descriptionEn": "Height/Weight: 159cm・46kg\n\nSource: Norse Mythology\n\nRegion: Europe\n\nAlignment: Lawful・Good\n\nGender: Female\n\nThe shield is made of divine iron. It was bestowed by Odin.",
+            "condition": null,
+            "conditionEn": null
+        },
+        {
+            "title": "2",
+            "description": "作为大神奥丁女儿存在的瓦尔基里们的个体，也是总体。\n由于是接近神灵的存在（半神），因此具有高阶级的神性技能。\n\n大神奥丁为应对诸神黄昏Ragnarok而创造出来的大量存在，这就是瓦尔基里，她们会作为某种自动机械运转。\n骑着天马飞舞于战场的天空中，从逝去的勇者中选定能带去瓦尔哈拉的灵魂。但邂逅了英雄齐格鲁德的长姊布伦希尔德，在获得了强烈感情与个性，并沦落的瞬间成了一个转折点，她们的个体数由此逐渐减少。\n\n1980年代中期提交给时钟塔诅咒科君主的报告中猜测，在诸神与巨人的最终战争诸神黄昏开始的那一刻，她们的数量或许已经减少到「原本的一半」了。这件事曾一度成为魔术世界内的短期话题。",
+            "descriptionJp": "大神オーディンの娘として存在する、ワルキューレたちの個体にして総体。\n神霊に近い存在（半神）であるため、高ランクの神性スキルを有している。\n\n神々の黄昏、ラグナロクのために大神オーディンによって造り出された数多き存在こそがワルキューレであり、ある種の自動機械として機能し作動する。\n天馬を駆って戦場の空を舞い、死した勇者たちの中からヴァルハラへと連れて行くべき魂を選定してみせる。しかし、英雄シグルドと出逢った長姉ブリュンヒルデが強烈な感情と個性を得て零落した瞬間を転換点として、徐々に個体数を減らしていった。\n\n神々と巨人の最終戦争であるラグナロクの開始時点では、既に「当初の半数」にまで落ち込んでいたのではないか、とするレポートが1980年代中頃の時計塔呪詛科のロードへと提出され、一時的なものではあるが魔術の世界にて話題となった。",
+            "descriptionEn": "They all exist as maidens of the Great God Odin, but they are all individually Valkyries.\n\nAs their existence is close to being a divine spirit (demigod), they possess a high ranking Divinity skill.\n\nIn the twilight of the gods, the Valkyries were numerous beings created by the Great God Odin for Ragnarök. As such, they behave and operate as some kind of automated machine.\n\nDancing in the skies of the battlefield on a heavenly horse, only the valorous souls were chosen to be brought back from the dead to Valhalla. However, their turning point was the moment their eldest sister Brynhildr met with the hero Sigurd. They fell deeply in love with each other. And there, the number of Valkyries gradually declined.\n\nIn the dawn of Ragnarök, the climactic war of the gods and the Jötnar, reports were already submitted to the Lord of the Clock Tower's Curse Department in the mid-1980s, noting it was \"half of its original\". Although temporary, it became a hot topic in the magical world.",
+            "condition": null,
+            "conditionEn": null
+        },
+        {
+            "title": "3",
+            "description": "在本作现界的瓦尔基里作为从者是一种特殊的存在。\n具体来说，就是她们拥有极端破格的灵基。\n\n尽管魔力会随着与御主的同调率上升而增大，但不会像其他从者那样「灵基再临并进行强大的形态变化」。因为瓦尔基里们的每个个体都分别有力量的上限。\n当根据迦勒底式召唤系统对瓦尔基里进行灵基再临时，瓦尔基里大概率会消失，并替代召唤「与重新定义的魔力容量符合的其他瓦尔基里个体」。",
+            "descriptionJp": "本作で現界するワルキューレは、サーヴァントとしては特殊な存在である。\n具体的には、きわめて異例な霊基を有している。\n\nマスターとの同調率の上昇に伴って魔力が増大することはあっても、他サーヴァントのように「霊基再臨して強力な形態に変化する」ということがない。ワルキューレはそれぞれの個体ごとに力の上限があるためだ。\nカルデア式召喚のシステムに従ってワルキューレに霊基再臨を行わせた場合、高確率でワルキューレは姿を消し、「再定義された魔力容量に相応しい別個体のワルキューレ」が代替召喚される。",
+            "descriptionEn": "The Valkyrie that is present in this form is a unique existence as a Servant.\n\nSpecifically, they have a very unusual Saint Graph.\n\nAlthough mana capacity may increase with the Master's potential, like other Servants, there is no such thing as \"changing to a more powerful form after Saint Graph Ascension\". For Valkyrie's case, there is an upper limit of power for each individual.\n\nIn accordance to the Chaldea Summoning System, when Valkyrie performs a Saint Graph Ascension, there's a high probability the current Valkyrie disappears, and \"another Valkyrie more suitable for redefined mana capacity\" will be resummoned in their place.",
+            "condition": null,
+            "conditionEn": null
+        },
+        {
+            "title": "4",
+            "description": "瓦尔基里·斯露德\n瓦尔基里·希露德\n瓦尔基里·奥特琳德\n\n通过迦勒底式召唤以及灵基再临的替代召唤，可确认的个体是上述3骑。推测是与御主结缘（或在未来结缘）的个体。\n她们的魔力有多寡之分，但存在本质几乎完全一致，所以她们均以真名「瓦尔基里」现界。准确地说，她们本应拥有斯露德、希露德、奥特琳德这些个体名，但她们坚定地拒绝「被分别当做不同个体」来对待。\n\n「瓦尔基里本质没有差异。」\n「没错，我们所有人的本质可以说是同一存在。」\n「对。布伦希尔德姐姐大人比较奇怪……」\n她（们）是这么说的。",
+            "descriptionJp": "ワルキューレ・スルーズ\nワルキューレ・ヒルド\nワルキューレ・オルトリンデ\n\nカルデア式召喚および霊基再臨に伴う代替召喚で確認される個体は、上記の３騎。マスターとの縁が結ばれた（或いは未来にて結ばれるであろう）個体と予想される。\n魔力の多寡はあれども存在の本質はほぼ同等であるため、彼女たちはいずれも真名「ワルキューレ」として現界する。正確にはスルーズ、ヒルド、オルトリンデといった個体名を有しているはずだが、彼女たちは「それぞれ別個体である」という扱いを断固として拒絶する。\n\n「ワルキューレに、本質的な差異はありません」\n「そうだよ、あたしたちはみんな根っこでは一つのようなものだもの」\n「はい。ブリュンヒルデお姉さまがおかしいのです……」\n彼女（たち）はこのように語る。",
+            "descriptionEn": "Walküre Þrúðr[Thrúd]\n\nWalküre Hildr\n\nWalküre Ortlinde\n\nThe individuals confirmed by the Chaldea Summoning System and the following Saint Graph Ascensions are the above three maidens. They are predicted to be individuals connected to the Star (or to the future).\n\nBecause the true nature of their mana strength is almost equivalent to one another, all three of them share the same true name \"Valkyrie\". Truthfully, their true names should be Þrúðr, Hildr, and Ortlinde to be exact, but they firmly refused to be treated as \"separate individuals\".\n\n''\"There is no essential difference in us Valkyries.\"''\n\n''\"That's right, we are all the same, as if we are rooted in everything.\"''\n\n''\"Yeah. But elder sister Brynhildr is strange...\"''\n\n\nShe (they) talk like this.",
+            "condition": null,
+            "conditionEn": null
+        },
+        {
+            "title": "5",
+            "description": "『伪·大神宣言』\n阶级：B　种类：对军宝具\n有效范围：5～40　最大捕捉：20人\n\nGungnir\n大神奥丁赐予的武具。\n大神宣言（Gungnir）的劣化复制版。\n只要真名解放并投掷，就会发动必中机能。\n在FGO中基本不会解放真名，被作为普通武器使用。\n\n\n『终末幻想·少女降临』\n阶级：B　种类：对军宝具\n有效范围：0～40　最大捕捉：100人\n\nRagnarok Lifthrasir\n完全同步化的我们——\n复数瓦尔基里齐聚一堂，将用于引导勇者之魂前往瓦尔哈拉的机能联在一起，并将手中的宝具『伪·大神宣言』一起投掷出去。\n不仅能令对方承受长枪投掷造成的伤害，还会在效果范围内展开某种结界。赐予所有清净的灵魂以慈悲，同时，也否定所有非正确生命的存在。\n能创造出可令从者或使魔等存在，或是术式、幻想种、吸血种等魔术魔力类的存在消散的空间（让抵抗判定失败的个体消散）。",
+            "descriptionJp": "『偽・大神宣言』\nランク：Ｂ　種別：対軍宝具\nレンジ：５～４０　最大捕捉：２０人\n\nグングニル。\n大神オーディンから授かった武具。\n大神宣言（グングニル）の劣化複製版。\n真名解放して投擲すれば必中機能が発動する。\nFGOでは基本的に真名解放は行われず、通常武器として使用される。\n\n\n『終末幻想・少女降臨』\nランク：Ｂ　種別：対軍宝具\nレンジ：０～４０　最大捕捉：１００人\n\nラグナロク・リーヴスラシル。\n完全に同期した自分たち───\n複数のワルキューレたちが一堂に集い、ヴァルハラへと至る勇者の魂を導くための機能のすべてをより合わせ、手にした宝具『偽・大神宣言』を一斉に投げ付ける。\n対象に槍の投擲ダメージを与えると同時に、効果範囲に一種の結界を展開。あらゆる清浄な魂を慈しみ、同時に、正しき生命ならざる存在を否定する。\nサーヴァントや使い魔といった存在や、術式、幻想種、吸血種、等々の魔術や魔力に類する存在を退散させる空間を作り出すのである（抵抗判定に失敗した個体を退散させる）。",
+            "descriptionEn": "Declaration of the Great God (False)\n\nRank: B\n\nType: Anti-Army\n\nRange: 5~40\n\nMaximum Targets: 20 people\n\nGungnir.\n\nA weapon bestowed by the Great God Odin.\n\nA degraded copied variant of the Declaration of the Great God (Gungnir).\n\nIf its true name is released while thrown, the Noble Phantasm will activate.\n\nIn FGO, the true name is never released, hence it is usually used as a normal weapon.\n\nFinal Phantasm - Girls Advent\n\nRank: B\n\nType: Anti-Army\n\nRange: 0~40\n\nMaximum Targets: 100 people\n\nRagnarök Lífþrasir.\n\nIn tandem among themselves───\n\nMultiple Valkyries gather together in one location to perform their duty of guiding the souls of the brave to Valhalla, throwing their Noble Phantasm \"Declaration of the Great God (False)\" all at once.\n\nWhile dealing damage to their targets from throwing their spears, a sort of Bounded Field forms around the area of effect. Blessing every pure soul, at the same time, denying existences which do not qualify as proper life.\n\nThey create a space to separate Servants from familiars, such as separating the Servants from Phantasmal species, Bloodsucking species, and others with magical or demonic powers (who are then annihilated if they failed in resisting judgment).",
+            "condition": null,
+            "conditionEn": null
+        },
+        {
+            "title": "6",
+            "description": "她们瓦尔基里为何会随着特殊的灵基被召唤呢。\n这恐怕是因为在北欧异闻带的邂逅与分别成了与御主的缘分吧。\n\n另外，这次被召唤的她们，是泛人类史的她们成为英灵、从者的存在，和御主在北欧异闻带见到的她们并不相同——是「截然不同的存在」。\n还记得北欧异闻带女武神的，只有Shadow Border一行人。",
+            "descriptionJp": "なぜ、彼女たちワルキューレは特殊な霊基を伴って召喚されたのか。\nそれは恐らく、北欧異聞帯における出会いと別れが、マスターに対する縁となったという事なのだろう。\n\nなお、今回召喚された彼女たちは汎人類史の彼女たちが英霊、サーヴァントとなったものであり、北欧異聞帯でマスターが出会った彼女たちとは別人───「完全な別人」である。\n北欧異聞帯における戦乙女を覚えているのは、シャドウ・ボーダーの一行のみ。",
+            "descriptionEn": "So, why were they summoned into a unique Saint Graph?\n\nPerhaps it was the encounter and parting in the Scandinavian Lostbelt that became the bonds for their Master.\n\nIt should be noted that the girls summoned as Servants this time are the Heroic Spirits from the common history of men, thus they are different individuals from the ones the Master met in the Scandinavian Lostbelt───\"a completely different person\" as it would be said.\n\nOnly one group of the Shadow Border remembers the war maidens of the Scandinavian Lostbelt.",
+            "condition": "通关Lostbelt No.2 且 羁绊达到Lv.5后开放",
+            "conditionEn": "Clear  Götterdämmerung and requires Bond 5"
+        },
+        {
+            "title": "aprilfool",
+            "description": "女武神从者\n量产型女武神军团。为了彻底清除“量产型很弱”的印象会以数量的暴力袭击过来哦。仔细看看会发现她们各有自己的个性，但她们自己却否认了这一点。",
+            "descriptionJp": "いくさおとめサーヴァント\n量産型ワルキューレ軍団。量産型は弱いというイメージを払拭するために数の暴力で襲いかかってくるぞ。よく見るとそれぞれ個性があるのだが本人たちは否定している。",
+            "descriptionEn": "Battle Maiden-Type Servant\n\nA squad of mass-produced Valkyries. To get around the perception of mass-produced things being weak, they just overwhelm you with sheer numbers. You'll probably notice that they do, in fact, have individual personalities. They'll deny this.",
+            "condition": null,
+            "conditionEn": null
+        }
+    ],
+    "voices": [
+        {
+            "section": "召唤和强化",
+            "table": [
+                {
+                    "title": "召唤",
+                    "text": "奥特琳德：瓦尔基里——个体名为奥特琳德。哎……你是人类吗……？不，只是有点惊讶。没想到居然会被人类召唤……放心吧，契约已经正式缔结了。您已经被认证为御主了。今后请为了守护人理而使用我们吧。",
+                    "textJp": "オルトリンデ「ワルキューレ―――個体名、オルトリンデです。 え……あなたは人間、ですか……？ いえ、少し驚いてしまって。 まさか人間に召喚されるなんて…… 安心してください、契約は正式に結ばれています。 あなたをマスターとして認証します。 以後、人理を守るために私たちを使ってください。」",
+                    "textEn": "Valkyrie. Individual designation, Ortlinde. Eh? You're a...human? It's just a bit surprising. I never imagined I would be summoned by a human. Please rest assured. Our contract is officially complete. I acknowledge you as my Master. From here on, please use us to protect humanity.",
+                    "condition": null,
+                    "voiceFile": "214di_sum.mp3"
+                },
+                {
+                    "title": "升级",
+                    "text": "奥特琳德：魔力上升了。战斗性能……似乎也提升了。呼……",
+                    "textJp": "オルトリンデ「魔力が上昇しました。戦闘性能も向上、しているみたいです……ほっ」",
+                    "textEn": "My magical energy has increased. My combat performance also appears to have improved. That's a relief.",
+                    "condition": null,
+                    "voiceFile": "214di_lvup1.mp3"
+                },
+                {
+                    "title": "升级",
+                    "text": "希露德：魔力上升。感觉不错！",
+                    "textJp": "ヒルド「魔力上昇っと！いい感じだね！」",
+                    "textEn": "Magical energy increased. Feels good!",
+                    "condition": null,
+                    "voiceFile": "214di_lvup2.mp3"
+                },
+                {
+                    "title": "升级",
+                    "text": "斯露德：魔力上升。性能扩张了，御主。",
+                    "textJp": "スルーズ「魔力上昇……性能を拡張しました、マスター」",
+                    "textEn": "Magical energy increased. Performance has been expanded, Master.",
+                    "condition": null,
+                    "voiceFile": "214di_lvup3.mp3"
+                },
+                {
+                    "title": "灵基再临 1",
+                    "text": "希露德：嘿咻！　呵呵，吓了一跳吗？我们不会像普通的英灵一样灵基再临。这是基于再临进行的灵基重新定义。好像是叫做替代召唤哦？那么——呃，那我重新自我介绍一下。我是瓦尔基里·希露德。御主，继奥特琳德之后，我要请您多关照啦！",
+                    "textJp": "ヒルド「よいしょっと。えへへ、驚いた？あたしたちは普通の英霊みたいに霊基再臨はしないんだ。これは再臨による霊基の再定義、代替召喚ってものらしいよ。では、えーと、改めて。ワルキューレ、ヒルドだよ。マスター、オルトリンデに引き続き、よろしくね」",
+                    "textEn": "Ah, there we go! Teehee. Surprised? We don't Ascend like normal Heroic Spirits. It's more like our Spirit Origin gets redefined through Ascension. I guess it's called substitution summoning, or something like that. Anyway, let me formally introduce myself: I'm Valkyrie, Hildr. Master, take good care of me like you did with Ortlinde.",
+                    "condition": null,
+                    "voiceFile": "214di_asc1.mp3"
+                },
+                {
+                    "title": "灵基再临 2",
+                    "text": "希露德：嗯，这种程度还没到重新定义的程度。继续努力吧，御主！",
+                    "textJp": "ヒルド「ああ、これくらいならまだ再定義は来ないんだ。引き続きよろしく、マスター！」",
+                    "textEn": "Oh, so a redefinition doesn't happen just from something like this...\n\nPlease continue to take care of me, Master!",
+                    "condition": null,
+                    "voiceFile": "214di_asc2.mp3"
+                },
+                {
+                    "title": "灵基再临 3",
+                    "text": "斯露德：确认基于再临的灵基重新定义以及替代召唤。我是瓦尔基里·斯露德。御主，我们会继续侍奉您。",
+                    "textJp": "スルーズ「再臨による霊基の再定義、及び代替召喚を確認。ワルキューレ、スルーズです。マスター、私達は引き続き貴方に仕えます」",
+                    "textEn": "Redefinition of the Spirit Origin due to Ascension and substitution summoning has been confirmed.\n\nI am Valkyrie, Thrúd.\n\nMaster, we will continue to serve you.",
+                    "condition": null,
+                    "voiceFile": "214di_asc3.mp3"
+                },
+                {
+                    "title": "灵基再临 4",
+                    "text": "奥特琳德：太令人惊讶了……御主居然将我们三骑的魔力全都提升到极限值了呢。\n希露德：嗯。好厉害，全部三个人都做到了呢。\n斯露德：……看来您是个优秀的御主。至少在这灵基终结前，我们会继续侍奉您。今后也请多指教。",
+                    "textJp": "オルトリンデ「驚きました……マスターは私たち3騎の魔力をすべて限界値まで上昇させたんですね。」\nヒルド「うん、すごいね！3人とも全員だなんて！」\nスルーズ「優秀なマスターのようですね。少なくともこの霊基が終わるまで、私たちはあなたに仕えるでしょう。以後もよろしくお願いします。」",
+                    "textEn": "Ortlinde: What a surprise. Master, you have elevated each of our magical energy to its limit.\n\nHildr: Yeah, that's amazing. And you did it for all three of us.\n\nThrúd: It appears you are a capable Master.\n\nWe shall continue to serve you, at least until this Spirit Origin ceases to exist. Please continue to take good care of us.",
+                    "condition": null,
+                    "voiceFile": "214di_asc4.mp3"
+                }
+            ]
+        },
+        {
+            "section": "战斗(奥特琳德 CV:田中美海)",
+            "table": [
+                {
+                    "title": "开始 1",
+                    "text": "战斗行动，开始了吧。",
+                    "textJp": "戦闘行動、開始しますね",
+                    "textEn": "Starting combat operations.",
+                    "condition": null,
+                    "voiceFile": "214ordi_btst1.mp3"
+                },
+                {
+                    "title": "开始 2",
+                    "text": "我会，尽全力的。",
+                    "textJp": "全力を、尽くします",
+                    "textEn": "I will give it my all.",
+                    "condition": null,
+                    "voiceFile": "214ordi_btst2.mp3"
+                },
+                {
+                    "title": "技能 1",
+                    "text": "战斗辅助。卢恩启动。",
+                    "textJp": "戦闘補助、ルーンを起動します",
+                    "textEn": "Battle assistance. Activating rune.",
+                    "condition": null,
+                    "voiceFile": "214ordi_sk1.mp3"
+                },
+                {
+                    "title": "技能 2",
+                    "text": "对情况进行适应……",
+                    "textJp": "状況への適応を",
+                    "textEn": "Adjusting for the situation...",
+                    "condition": null,
+                    "voiceFile": "214ordi_sk2.mp3"
+                },
+                {
+                    "title": "技能 3",
+                    "text": "预测演算开始……",
+                    "textJp": "予測演算、開始",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV214_0_技能3.mp3"
+                },
+                {
+                    "title": "技能 4",
+                    "text": "是这种感觉吧……",
+                    "textJp": "こんな感じかな",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV214_0_技能4.mp3"
+                },
+                {
+                    "title": "指令卡 1",
+                    "text": "明白了……",
+                    "textJp": "了解",
+                    "textEn": "Roger...",
+                    "condition": null,
+                    "voiceFile": "214ordi_atse1.mp3"
+                },
+                {
+                    "title": "指令卡 2",
+                    "text": "是。",
+                    "textJp": "はい",
+                    "textEn": "Yes.",
+                    "condition": null,
+                    "voiceFile": "214ordi_atse2.mp3"
+                },
+                {
+                    "title": "指令卡 3",
+                    "text": "知……知道了。",
+                    "textJp": "わ、分かりました",
+                    "textEn": "U-understood.",
+                    "condition": null,
+                    "voiceFile": "214ordi_atse3.mp3"
+                },
+                {
+                    "title": "宝具卡",
+                    "text": "输入确认。宝具开放。",
+                    "textJp": "入力確認。宝具、解放します",
+                    "textEn": "Input confirmed. Releasing Noble Phantasm.",
+                    "condition": null,
+                    "voiceFile": "214ordi_npse.mp3"
+                },
+                {
+                    "title": "攻击 1",
+                    "text": "哈！",
+                    "textJp": "はっ！",
+                    "textEn": "Ha!",
+                    "condition": null,
+                    "voiceFile": "214ordi_at1.mp3"
+                },
+                {
+                    "title": "攻击 2",
+                    "text": "呀！",
+                    "textJp": "やっ！",
+                    "textEn": "Ya!",
+                    "condition": null,
+                    "voiceFile": "214ordi_at2.mp3"
+                },
+                {
+                    "title": "攻击 3",
+                    "text": "呼！",
+                    "textJp": "ふっ！",
+                    "textEn": "Heh...",
+                    "condition": null,
+                    "voiceFile": "214ordi_at3.mp3"
+                },
+                {
+                    "title": "Extra",
+                    "text": "特例事项。使用攻击型卢恩！",
+                    "textJp": "特例事項。攻撃型ルーンを使用",
+                    "textEn": "Special exception: using an attack-type rune!",
+                    "condition": null,
+                    "voiceFile": "214ordi_exat.mp3"
+                },
+                {
+                    "title": "宝具",
+                    "text": "同位体，开始显现。开始同步。瞄准完成。——终末幻想·少女降临！",
+                    "textJp": "同位体、顕現開始します。同期開始、照準完了……『終末幻想・少女降臨』！！",
+                    "textEn": "Manifesting corresponding bodies.\n\nSynchronizing.\n\nTarget set.\n\nRagnarök Lífþrasir!",
+                    "condition": null,
+                    "voiceFile": "214ordi_np.mp3"
+                },
+                {
+                    "title": "受击 1",
+                    "text": "啊啊啊！",
+                    "textJp": "あぁぁぁぁっ！",
+                    "textEn": "Kyaaah!",
+                    "condition": null,
+                    "voiceFile": "214ordi_da1.mp3"
+                },
+                {
+                    "title": "受击 2",
+                    "text": "唔！",
+                    "textJp": "うっ！",
+                    "textEn": "Owww!",
+                    "condition": null,
+                    "voiceFile": "214ordi_da2.mp3"
+                },
+                {
+                    "title": "无法战斗 1",
+                    "text": "灵基……无法维持……对不起……",
+                    "textJp": "霊基が、持たない……ごめんなさい……",
+                    "textEn": "My Spirit Origin can't handle it... I'm sorry...",
+                    "condition": null,
+                    "voiceFile": "214ordi_de1.mp3"
+                },
+                {
+                    "title": "无法战斗 2",
+                    "text": "大家……对不起……",
+                    "textJp": "みんな、ごめんね……",
+                    "textEn": "Everyone...I'm sorry...",
+                    "condition": null,
+                    "voiceFile": "214ordi_de2.mp3"
+                },
+                {
+                    "title": "胜利 1",
+                    "text": "战斗结束。……我……活下来了呢。",
+                    "textJp": "戦闘終了です。私、生き残ったんですね",
+                    "textEn": "Battle complete. So I survived...",
+                    "condition": null,
+                    "voiceFile": "214ordi_btf1.mp3"
+                },
+                {
+                    "title": "胜利 2",
+                    "text": "请向我下达下一个命令，御主。",
+                    "textJp": "次の命令をください、マスター",
+                    "textEn": "Please give me your next orders, Master.",
+                    "condition": null,
+                    "voiceFile": "214ordi_btf2.mp3"
+                }
+            ]
+        },
+        {
+            "section": "个人空间(奥特琳德 CV:田中美海)",
+            "table": [
+                {
+                    "title": "羁绊 Lv.1",
+                    "text": "对。我们几乎是完全相同的存在。瓦尔基里就是这样的存在。是被大神奥丁这么设计出来的。",
+                    "textJp": "はい。私たち、存在としてはほぼ同じものです。ワルキューレとはそういったものです。そのように大神オーディンが設計してくださったのです",
+                    "textEn": "Yes. We are all essentially the same. That is what it means to be a Valkyrie. Odin, the Allfather, designed us that way.",
+                    "condition": null,
+                    "voiceFile": "214ordi_bdlv1.mp3"
+                },
+                {
+                    "title": "羁绊 Lv.2",
+                    "text": "您说我们每个人的外表、语气和性格都不一样？嗯，这是……我们瓦尔基里存在的基底，根本原理是一样的。",
+                    "textJp": "外見も、口調も、性格も一人ずつ違う？はい、それは、存在の規定、根本原理が同じなんです。私たちワルキューレは",
+                    "textEn": "Our appearance, way of speaking, and personalities all differ, you say? Well, yes... But know that all Valkyrie share the same foundation and fundamental principles.",
+                    "condition": null,
+                    "voiceFile": "214ordi_bdlv2.mp3"
+                },
+                {
+                    "title": "羁绊 Lv.3",
+                    "text": "比方说，各位人类会出现意见的……冲突吧。我们不同。嗯，我们瓦尔基里是不会出现意见不同的。哪怕就算织物（Texture）不同，也是基于相同的系统在行动。",
+                    "textJp": "例えば、人間の皆さんはお互いの意見をぶつけ合わせることがあります……よね。私たちは違います。はい、私たちワルキューレは意見を違えることがありません。テクスチャは違っても、同じシステムで動いているんです",
+                    "textEn": "Humans sometimes share their differing opinions with each other, correct? However, that is not the case for us. Valkyrie never have differing opinions. We are like different textures applied to the same model.",
+                    "condition": null,
+                    "voiceFile": "214ordi_bdlv3.mp3"
+                },
+                {
+                    "title": "羁绊 Lv.4",
+                    "text": "你们人类不是制造过一种叫机器的东西吗？。我们一定和那种东西比较相似。就算会像人类一样思考，会有表情，也不具备人类那样真正的多样性",
+                    "textJp": "あなたたち人間が作る機械というものがありますよね。私たちはきっとそれに似ているんです。人のように思考して、表情を浮かべていても、人のような本当の多様性を持たない",
+                    "textEn": "You humans create what you call machines, correct? We are similar to that. We think like humans and may show emotion, but we do not possess true diversity like humans.",
+                    "condition": null,
+                    "voiceFile": "214ordi_bdlv4.mp3"
+                },
+                {
+                    "title": "羁绊 Lv.5",
+                    "text": "……问我们想不想变得像人类那样？不。我们是不会这样思考的。但是，布伦希尔德姐姐大人她们……堕落了……真的，变得像人类一样了……",
+                    "textJp": "人間のようになりたいと思うか、ですか。いえ、私たちはそんな風に考えません。でも、ブリュンヒルデお姉さまたちは、落ちて、本当に人間のようになってしまった",
+                    "textEn": "Do we want to be more human, you ask? No, we do not think that way. But older sister Brynhild and others...have fallen...and they really have turned more human...",
+                    "condition": null,
+                    "voiceFile": "214ordi_bdlv5.mp3"
+                },
+                {
+                    "title": "对话 1",
+                    "text": "奔赴战场吧。经验是比什么都重要的存在。",
+                    "textJp": "戦場へ出立しましょう。経験は、何より大切なものです",
+                    "textEn": "Let us head out to the battlefield. Gaining experience is most important.",
+                    "condition": null,
+                    "voiceFile": "214ordi_di1.mp3"
+                },
+                {
+                    "title": "对话 2",
+                    "text": "御主。……有种奇妙的感觉。这种不是侍奉任何一位姐姐大人，而是侍奉人类的感觉。",
+                    "textJp": "マスター……不思議な感覚です。どのお姉様とも違う、人間に仕えるのは",
+                    "textEn": "Master. It's a very strange feeling... Serving a human is different than working with my sisters.",
+                    "condition": null,
+                    "voiceFile": "214ordi_di2.mp3"
+                },
+                {
+                    "title": "对话 3",
+                    "text": "我们会侍奉御主。但是，我们会本能地寻找勇士……对不起。这明明不是从者的本分。",
+                    "textJp": "私たちはマスターに仕えます。でも、本能的に勇士を探してしまうんです。すみません、サーヴァントとしての本分ではないのに",
+                    "textEn": "We serve you, Master. But we instinctively seek out warriors... I'm sorry about that, since that's not part of our duties of a Servant.",
+                    "condition": null,
+                    "voiceFile": "214ordi_di3.mp3"
+                },
+                {
+                    "title": "对话 4",
+                    "text": "姐姐大人……？不会错，是布伦希尔德姐姐大人！我……我……！一直……很想……见到您……",
+                    "textJp": "お姉、様……間違いない、ブリュンヒルデお姉様！私、私……ずっと、お会いしたいと、思って……",
+                    "textEn": "Older sister...?\n\nIt really is Brynhild!\n\nI...I...!\n\nI've always wanted to meet you...!",
+                    "condition": "持有布伦希尔德、布伦希尔德(Berserker)",
+                    "voiceFile": "214ordi_di4.mp3"
+                },
+                {
+                    "title": "对话 5",
+                    "text": "勇士的气息！对不起。请稍微给我一些时间，御主。我要将其引导去瓦尔哈拉……啊，但因为是从者……不能像普通人类一样引导……那就直接劝诱……",
+                    "textJp": "勇士の気配……！すみません、少し時間をくださいマスター。ヴァルハラへの導きを……あ、でもサーヴァントだから、普通の人間相手の導きは行えない……ならば、直接勧誘を……！",
+                    "textEn": "I sense a fallen warrior! I'm sorry, please give me some time, Master. I must lead them to Valhalla... Oh, but they're a servant, so I cannot lead them like I normally do with humans...if that's the case, I must recruit them personally..",
+                    "condition": "持有具有所爱之人特性的从者",
+                    "voiceFile": "214ordi_di5.mp3"
+                },
+                {
+                    "title": "对话 6",
+                    "text": "巴恩斯托克（孩童之树）的勇者，齐格蒙德之子齐格鲁德！都是……你的错……姐姐大人才会……",
+                    "textJp": "バルンストックの勇者、シグムンドの子、シグルド……！あなたの、せいで……お姉様は……",
+                    "textEn": "The hero of Barnstokk...the son of Sigmund, Sigurd!\n\nYou...it's your fault that my older sister...!",
+                    "condition": "持有齐格鲁德",
+                    "voiceFile": "214ordi_di6.mp3"
+                },
+                {
+                    "title": "对话 7",
+                    "text": "……这感觉。好像有些怀念……但是，并不是姊妹的气息……是一种错觉？",
+                    "textJp": "この感覚……なにか、懐かしいような……でも、姉妹の気配とは違う……錯覚の一種？",
+                    "textEn": "This sensation...it seems to bring back memories...but it's a different feeling than what I have with my sisters... Could it be a trick of the senses?",
+                    "condition": "持有阿蒂拉、阿蒂拉·the·San〔ta〕",
+                    "voiceFile": "214ordi_di7.mp3"
+                },
+                {
+                    "title": "对话 8",
+                    "text": "雪之女神，斯卡蒂大人。没想到居然能见到您……但是样子好像有些……您真的是斯卡蒂大人吗？",
+                    "textJp": "雪の女神、スカディ様。お会いできるなんて、思いませんでした。でも、なんだか様子が……。本当にスカディ様……？",
+                    "textEn": "The snow goddess, Skadi. I never thought I would be able to meet her. But she seems somewhat different...is she really the great Skadi!?",
+                    "condition": "持有斯卡哈·斯卡蒂",
+                    "voiceFile": "瓦尔基里1_对话8.mp3"
+                },
+                {
+                    "title": "喜欢的东西",
+                    "text": "我们重视的，是勇士的灵魂。还有……姐姐大人……比我们更早被制作出来的瓦尔基里们。",
+                    "textJp": "私たちが重視するのは勇士の魂です。それから、お姉様……私たち以前に作り出された、ワルキューレ達",
+                    "textEn": "Of highest importance to us are the souls of fallen heroes. Next comes our sisters, the Valkyries who were created before us.",
+                    "condition": null,
+                    "voiceFile": "214ordi_like.mp3"
+                },
+                {
+                    "title": "讨厌的东西",
+                    "text": "讨厌的东西是……不，没有呢……是真的。",
+                    "textJp": "嫌いなものは……いえ、ないですね。本当です",
+                    "textEn": "What I dislike... No, there is nothing. That is the truth.",
+                    "condition": null,
+                    "voiceFile": "214ordi_hate.mp3"
+                },
+                {
+                    "title": "关于圣杯",
+                    "text": "万能的愿望器，圣杯。我有认知到该存在。很有意思。",
+                    "textJp": "万能の願望機、聖杯。その存在は認識しています。興味深いです",
+                    "textEn": "An omnipotent wish-granting device, the Holy Grail. I am aware of it. I have great interest in it.",
+                    "condition": null,
+                    "voiceFile": "214ordi_gra.mp3"
+                },
+                {
+                    "title": "活动举行中",
+                    "text": "是节日吧。……啊，检测到发生战斗的可能性。请务必要参加。熟悉战斗是重要的经验。",
+                    "textJp": "お祭りですね。あっ、戦闘が発生する可能性を検出しました。ぜひ参加しましょう。戦闘の主軸に重要なのは、経験です。",
+                    "textEn": "There is a festival going on. Oh, I have detected that a battle may occur during this festival. Let's participate. This will be invaluable experience for battle.",
+                    "condition": null,
+                    "voiceFile": "214ordi_eve.mp3"
+                },
+                {
+                    "title": "生日",
+                    "text": "祝您生日快乐，御主。人类在这种时候应该赠送礼物吧。我……啊，如果是卢恩之祝福的话……",
+                    "textJp": "誕生日おめでとうございます、マスター。人間はこういう時、おくりものを渡すんですよね。私は……あっ、ルーンによる祝福なら",
+                    "textEn": "Happy birthday, Master.\n\nI hear that humans offer gifts on such occasions.\n\nThen from me...\n\nI can at least use my runes to give you a blessing...",
+                    "condition": null,
+                    "voiceFile": "214ordi_bir.mp3"
+                }
+            ]
+        },
+        {
+            "section": "战斗(希露德 CV:小松未可子)",
+            "table": [
+                {
+                    "title": "开始 1",
+                    "text": "战斗开始了哦，御主。",
+                    "textJp": "戦闘開始するよ、マスター",
+                    "textEn": "We're going to start battle, Master.",
+                    "condition": null,
+                    "voiceFile": "214hrdi_btst1.mp3"
+                },
+                {
+                    "title": "开始 2",
+                    "text": "要上了哦！！",
+                    "textJp": "いっくぞーっ！",
+                    "textEn": "Let's go!",
+                    "condition": null,
+                    "voiceFile": "214hrdi_btst2.mp3"
+                },
+                {
+                    "title": "技能 1",
+                    "text": "长枪啊，卢恩啊，赐予我力量！",
+                    "textJp": "槍よ、ルーンよ、あたしに力を！",
+                    "textEn": "O spear, O runes, give me your power!",
+                    "condition": null,
+                    "voiceFile": "214hrdi_sk1.mp3"
+                },
+                {
+                    "title": "技能 2",
+                    "text": "鼓足干劲地上啦！",
+                    "textJp": "気合い入れていきます！",
+                    "textEn": "I'm going to get all fired up!",
+                    "condition": null,
+                    "voiceFile": "214hrdi_sk2.mp3"
+                },
+                {
+                    "title": "指令卡 1",
+                    "text": "明白啦！",
+                    "textJp": "了解！",
+                    "textEn": "Roger...",
+                    "condition": null,
+                    "voiceFile": "214hrdi_atse1.mp3"
+                },
+                {
+                    "title": "指令卡 2",
+                    "text": "嗯！",
+                    "textJp": "うん！",
+                    "textEn": "Yep!",
+                    "condition": null,
+                    "voiceFile": "214hrdi_atse2.mp3"
+                },
+                {
+                    "title": "指令卡 3",
+                    "text": "好～！",
+                    "textJp": "はーい！",
+                    "textEn": "Okay!",
+                    "condition": null,
+                    "voiceFile": "214hrdi_atse3.mp3"
+                },
+                {
+                    "title": "宝具卡",
+                    "text": "输入确认。但愿能够成功！",
+                    "textJp": "入力確認。うまくいきますように",
+                    "textEn": "Input confirmed. I hope it works out!",
+                    "condition": null,
+                    "voiceFile": "214hrdi_npse.mp3"
+                },
+                {
+                    "title": "攻击 1",
+                    "text": "哈！",
+                    "textJp": "はっ！",
+                    "textEn": "Ha!",
+                    "condition": null,
+                    "voiceFile": "214hrdi_at1.mp3"
+                },
+                {
+                    "title": "攻击 2",
+                    "text": "喝！",
+                    "textJp": "とうっ！",
+                    "textEn": "Toh!",
+                    "condition": null,
+                    "voiceFile": "214hrdi_at2.mp3"
+                },
+                {
+                    "title": "攻击 3",
+                    "text": "呀啊！",
+                    "textJp": "やあっ！",
+                    "textEn": "Yaaah!",
+                    "condition": null,
+                    "voiceFile": "214hrdi_at3.mp3"
+                },
+                {
+                    "title": "Extra",
+                    "text": "父亲大人！　赐予我力量！",
+                    "textJp": "お父様、力を貸して！",
+                    "textEn": "Father! Please aid me!",
+                    "condition": null,
+                    "voiceFile": "214hrdi_exat.mp3"
+                },
+                {
+                    "title": "宝具",
+                    "text": "同位体，开始显现。开始同步。大家，要上了哦！——终末幻想·少女降临！",
+                    "textJp": "同位体、顕現開始。 同期開始……みんな、いくよ！『終末幻想・少女降臨』っ！！",
+                    "textEn": "Manifesting corresponding bodies.\n\nSynchronizing!\n\nLet's go, everyone!\n\nRagnarök Lífþrasir!",
+                    "condition": null,
+                    "voiceFile": "214hrdi_np.mp3"
+                },
+                {
+                    "title": "受击 1",
+                    "text": "唔——！",
+                    "textJp": "ぐぅぅぅっ！",
+                    "textEn": "Knnngh!",
+                    "condition": null,
+                    "voiceFile": "214hrdi_da1.mp3"
+                },
+                {
+                    "title": "受击 2",
+                    "text": "呜哇！",
+                    "textJp": "うわぁっ！",
+                    "textEn": "Wah!",
+                    "condition": null,
+                    "voiceFile": "214hrdi_da2.mp3"
+                },
+                {
+                    "title": "无法战斗 1",
+                    "text": "……对不起，我……赢不了……",
+                    "textJp": "ごめんね……あたし……勝てない……",
+                    "textEn": "I'm sorry...I can't...win...",
+                    "condition": null,
+                    "voiceFile": "214hrdi_de1.mp3"
+                },
+                {
+                    "title": "无法战斗 2",
+                    "text": "布伦希尔德姐姐大人……",
+                    "textJp": "ブリュンヒルデお姉様……！",
+                    "textEn": "Sister Brynhild...",
+                    "condition": null,
+                    "voiceFile": "214hrdi_de2.mp3"
+                },
+                {
+                    "title": "胜利 1",
+                    "text": "呼。这下痛快了！",
+                    "textJp": "ふー。すっきりした！",
+                    "textEn": "Whew. That felt good!",
+                    "condition": null,
+                    "voiceFile": "214hrdi_btf1.mp3"
+                },
+                {
+                    "title": "胜利 2",
+                    "text": "御主。我觉得自己还能战斗哦！",
+                    "textJp": "マスター、あたし、もっと戦えると思う！",
+                    "textEn": "Master, I think I can fight more!",
+                    "condition": null,
+                    "voiceFile": "214hrdi_btf2.mp3"
+                }
+            ]
+        },
+        {
+            "section": "个人空间(希露德 CV:小松未可子)",
+            "table": [
+                {
+                    "title": "羁绊 Lv.1",
+                    "text": "我们是瓦尔基里，北欧的女武神。嗯，和人类不一样。是父亲大人……北欧大神奥丁制作出来的数量众多的存在。我们现在也是基于父亲大人的命令在行动。",
+                    "textJp": "あたしたちはワルキューレ。北欧の戦乙女。うん、人間とは違う。お父様……北欧の大神オーディンによって作り出された数多きもの。今もお父様の命令があたしたちを動かしてる",
+                    "textEn": "We are the Valkyrie. We are Scandinavian warrior maidens. Yep, we're different from humans. We are one of many, created by our father...the Norse Allfather, Odin. Even now, our father's orders guide us.",
+                    "condition": null,
+                    "voiceFile": "214hrdi_bdlv1.mp3"
+                },
+                {
+                    "title": "羁绊 Lv.2",
+                    "text": "以前呀，我们还能骑着天马在天空驰骋。但在这种所谓的从者形态下似乎做不到呢。稍微有些遗憾呀。",
+                    "textJp": "昔はね、天馬に乗って空を駆けたりもしたんだけど、サーヴァントっていう形態だとそれは出来ないみたい。ちょっと残念かな",
+                    "textEn": "A long time ago, we used to mount celestial horses and ride through the sky. But now that we're in the form of a Servant, it looks like we can't do that. That's a little disappointing.",
+                    "condition": null,
+                    "voiceFile": "214hrdi_bdlv2.mp3"
+                },
+                {
+                    "title": "羁绊 Lv.3",
+                    "text": "我们原本的目的，是将勇士的灵魂带去瓦尔哈拉。但是，现在不一样。……正因为不一样，才会像这样和你在一起哦。",
+                    "textJp": "あたしたちの本来の目的は、勇士の魂をヴァルハラへと運ぶこと。でも、今は違う。違うから、こうして君と一緒にいられるんだよ",
+                    "textEn": "Our original purpose was to carry the souls of the fallen to Valhalla. But that's not the case anymore. And because it's not the case anymore, I'm able to be by your side.",
+                    "condition": null,
+                    "voiceFile": "214hrdi_bdlv3.mp3"
+                },
+                {
+                    "title": "羁绊 Lv.4",
+                    "text": "我们现在的目的，是和您一起战斗。输入的指令就是这样。……是父亲大人做的吗，唔，不知道。也不知道为什么会被作为英灵登录在座上。对，我不知道。但是，斯露德或许——",
+                    "textJp": "あたしたちの今の目的は、あなたと共に戦う事。そういう風に入力されているんだ。お父様がそうしたのかは、ううん、分からない。どうして座に英霊として登録されているのかも、そう、あたしには分からない。でも、スルーズならもしかしたら……",
+                    "textEn": "Our purpose now is to fight alongside you. That's the command input into us. Whether out father gave us that command or not... No, I don't know. And the reason why we've been registered as Heroic Spirits on the Throne is also something I don't know. But maybe Thrúd knows...",
+                    "condition": null,
+                    "voiceFile": "214hrdi_bdlv4.mp3"
+                },
+                {
+                    "title": "羁绊 Lv.5",
+                    "text": "那个……你一定很介意吧。就是我们现在正服从着御主以外的存在下达的基本命令……不在意？　当真？……嗯嗯，只要能一起战斗就够了？哎，你这样想啊。人类都是像你这样的吗？呵呵，真有意思！",
+                    "textJp": "えっとさ、気になるよね？あたしたちがマスター以外の基本命令に従ってるっていうの。気にならない？ホントに？……ふんふん。一緒に戦ってくれるならそれで充分？へ～、君ってそうなんだ。人間って皆そうなの…かな。あはは、面白いね！",
+                    "textEn": "Um, so... I'm sure it must bother you that our baseline imperatives come from a source other than you, Master. It doesn't? Really? Oh...so you're satisfied as long as we fight with you? Huh. So that's the kind of person you are. Are all humans like you? Ahaha! That's so interesting!",
+                    "condition": null,
+                    "voiceFile": "214hrdi_bdlv5.mp3"
+                },
+                {
+                    "title": "对话 1",
+                    "text": "去战场吧。万事都要靠经验嘛！",
+                    "textJp": "戦場に行こっか。何事も、経験あるのみだよ",
+                    "textEn": "Let's head out to the battlefield. Everything's all about gaining experience!",
+                    "condition": null,
+                    "voiceFile": "214hrdi_di1.mp3"
+                },
+                {
+                    "title": "对话 2",
+                    "text": "御主啊。侍奉人类的感觉总有些奇妙呢。",
+                    "textJp": "マスターかあ……人間に仕えるっていうのは、何だか不思議だね",
+                    "textEn": "A Master, huh? Serving a human does feel strange.",
+                    "condition": null,
+                    "voiceFile": "214hrdi_di2.mp3"
+                },
+                {
+                    "title": "对话 3",
+                    "text": "奇妙的是，我不觉得自己在被你命令。是因为你有在和我们一起战斗吧？",
+                    "textJp": "不思議と、君からは命令されてるって感じがしないんだ。一緒に戦ってくれるからかな？",
+                    "textEn": "It's funny...it doesn't feel like you're ordering us around. Is it because you're fighting along with us?",
+                    "condition": null,
+                    "voiceFile": "214hrdi_di3.mp3"
+                },
+                {
+                    "title": "对话 4",
+                    "text": "不会吧，不会吧……！布伦希尔德姐姐大人居然会在这里，难以置信！这是怎么一回事？",
+                    "textJp": "うそ、うそ……ブリュンヒルデお姉様がいるなんて、信じられない……どういうことなの……！？",
+                    "textEn": "No...it can't be...!\n\nI can't believe our sister Brynhild is here!\n\nWhat's going on!?",
+                    "condition": "持有布伦希尔德、布伦希尔德(Berserker)",
+                    "voiceFile": "214hrdi_di4.mp3"
+                },
+                {
+                    "title": "对话 5",
+                    "text": "啊，有勇士！哎，居然有那么多呀……唔……如果愿意来瓦尔哈拉就好了呢！",
+                    "textJp": "あ、勇士がいる！ へぇ、こんなにたくさんいるんだ……うーん、ヴァルハラへ来てくれるといいんだけど",
+                    "textEn": "Hey, there's a warrior here! Oh, there's a lot of them here... Hmmm, I wish they would all come to Valhalla!",
+                    "condition": "持有具有所爱之人特性的从者",
+                    "voiceFile": "214hrdi_di5.mp3"
+                },
+                {
+                    "title": "对话 6",
+                    "text": "……齐格鲁德……唔，不。没事，什么事都没有啦……",
+                    "textJp": "シグルド……。ううん、何でもない。何でもないよ……",
+                    "textEn": "Sigurd...\n\nN-no, nothing. Never mind...",
+                    "condition": "持有齐格鲁德",
+                    "voiceFile": "214hrdi_di6.mp3"
+                },
+                {
+                    "title": "对话 7",
+                    "text": "波长感知。同步……不可能。同位体测定失败。……奇怪了。我还以为有同伴呢，看来完全不一样呢。",
+                    "textJp": "波長を感知。同期、不可能。同位体測定、失敗。……おっかしいなー。仲間がいるかと思ったけど、全然違うみたい。",
+                    "textEn": "Wave-form detected. Synchronization...not possible. Cannot scan corresponding body. That's weird. I thought there was a comrade around, but I guess they're completely different.",
+                    "condition": "持有阿蒂拉、阿蒂拉·the·San〔ta〕",
+                    "voiceFile": "214hrdi_di7.mp3"
+                },
+                {
+                    "title": "对话 8",
+                    "text": "是斯卡蒂大人吧，就是那位女神。我说得没错吧？不对？　唔？影之国的斯卡哈。哎，那是凯尔特的斯卡哈小姐吧。不是一个人？",
+                    "textJp": "スカディ様でしょ？女神の。そうだよね？……違う？うん？影の国のスカサハ……。え、それってケルトのスカサハさんだよね？別人？",
+                    "textEn": "Isn't that the great Skadi? The goddess? She's not? Hm? She's Scáthach from the Land of Shadows? Does that mean she's the Celtic Scáthach? They're different people?",
+                    "condition": "持有斯卡哈·斯卡蒂",
+                    "voiceFile": "瓦尔基里2_对话8.mp3"
+                },
+                {
+                    "title": "喜欢的东西",
+                    "text": "喜欢的东西？是什么呢。重视的东西是勇士的灵魂。然后还有姐姐大人们和……唔，但是，总觉得有些不一样。我不是很明白什么叫喜欢。",
+                    "textJp": "好きなもの？何だろう……重要視するのは、勇士の魂。あとはお姉様たちと、……うーん。でも、何だか違うな。好きっていうのは、よくわからないよ",
+                    "textEn": "What I like? I don't know... What I consider to be important are the souls of warriors. And also my sisters... Hmmm, but I guess it's not like that. I don't actually understand this concept of liking something.",
+                    "condition": null,
+                    "voiceFile": "214hrdi_like.mp3"
+                },
+                {
+                    "title": "讨厌的东西",
+                    "text": "讨厌的东西啊。我们没有这种东西。尽管有重要度较高的东西，但没有被设定得特别低的东西。",
+                    "textJp": "嫌いなものかぁ。あたしたち、そういうのはないんだ。重要度の高いものはあっても、特別低く設定されているものはないから。",
+                    "textEn": "What I dislike? We don't have anything like that. There may be things that are considered highly important, but there is nothing that is especially set as low, either.",
+                    "condition": null,
+                    "voiceFile": "214hrdi_hate.mp3"
+                },
+                {
+                    "title": "关于圣杯",
+                    "text": "圣杯……万能的愿望器呀。正因为有这种东西，好像才更容易发生战斗。但这样一来，也会更容易出现勇士吧！",
+                    "textJp": "聖杯……万能の願望器か。そういうものがあると、戦いが生まれそう！そうしたら、勇士も発生しやすくなるかな",
+                    "textEn": "The Holy Grail... An omnipotent wish-granting device, huh? If such a thing existed, I feel like war would break out over it. But then that might mean more fallen warriors!",
+                    "condition": null,
+                    "voiceFile": "214hrdi_gra.mp3"
+                },
+                {
+                    "title": "活动举行中",
+                    "text": "只要战斗得越多，就能变得越强。不是，我指的不是我，是你啦！好了，我们走吧！",
+                    "textJp": "たくさん戦えば、たくさん強くなる。うんうん、私じゃなくて君がね、最高！",
+                    "textEn": "Fighting a lot means getting stronger. I'm not talking about myself... I'm talking about you! Now come on, let's go!",
+                    "condition": null,
+                    "voiceFile": "214hrdi_eve.mp3"
+                },
+                {
+                    "title": "生日",
+                    "text": "生日？是这样啊。呵呵，祝您生日快乐！　御主！我能用卢恩进行祝福，要做吗？",
+                    "textJp": "誕生日？ そうなんだ、うふっ。お誕生日おめでとう、マスター。ルーンで祝福できるけど、する？",
+                    "textEn": "Birthday?\n\nOh I see. Teehee. Happy birthday, Master!\n\nI can give you a blessing using my runes... Want me to do that?",
+                    "condition": null,
+                    "voiceFile": "214hrdi_bir.mp3"
+                }
+            ]
+        },
+        {
+            "section": "战斗(斯露德 CV:雨宫天)",
+            "table": [
+                {
+                    "title": "开始 1",
+                    "text": "战斗行动开始！",
+                    "textJp": "戦闘行動を開始",
+                    "textEn": "Begin battle!",
+                    "condition": null,
+                    "voiceFile": "214srdi_btst1.mp3"
+                },
+                {
+                    "title": "开始 2",
+                    "text": "歼灭攻击对象吧。",
+                    "textJp": "攻撃対象を殲滅しましょう",
+                    "textEn": "Let's annihilate the target.",
+                    "condition": null,
+                    "voiceFile": "214srdi_btst2.mp3"
+                },
+                {
+                    "title": "技能 1",
+                    "text": "能力，发动。",
+                    "textJp": "能力、発動",
+                    "textEn": "Ability, activate.",
+                    "condition": null,
+                    "voiceFile": "214srdi_sk1.mp3"
+                },
+                {
+                    "title": "技能 2",
+                    "text": "大神啊，赐予我力量。",
+                    "textJp": "大神よ、力を",
+                    "textEn": "Allfather, give me your strength.",
+                    "condition": null,
+                    "voiceFile": "214srdi_sk2.mp3"
+                },
+                {
+                    "title": "技能 3",
+                    "text": "将你的命运——",
+                    "textJp": "あなたの運命を",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV214_2_技能3.mp3"
+                },
+                {
+                    "title": "指令卡 1",
+                    "text": "明白。",
+                    "textJp": "了解",
+                    "textEn": "Roger...",
+                    "condition": null,
+                    "voiceFile": "214srdi_atse1.mp3"
+                },
+                {
+                    "title": "指令卡 2",
+                    "text": "明白了。",
+                    "textJp": "了解しました",
+                    "textEn": "I understand.",
+                    "condition": null,
+                    "voiceFile": "214srdi_atse2.mp3"
+                },
+                {
+                    "title": "指令卡 3",
+                    "text": "是。",
+                    "textJp": "はい",
+                    "textEn": "Yes.",
+                    "condition": null,
+                    "voiceFile": "214srdi_atse3.mp3"
+                },
+                {
+                    "title": "宝具卡",
+                    "text": "输入内容，确认。",
+                    "textJp": "入力、確認しました",
+                    "textEn": "Input confirmed.",
+                    "condition": null,
+                    "voiceFile": "214srdi_npse.mp3"
+                },
+                {
+                    "title": "攻击 1",
+                    "text": "开始攻击。",
+                    "textJp": "攻撃します",
+                    "textEn": "I will attack.",
+                    "condition": null,
+                    "voiceFile": "214srdi_at1.mp3"
+                },
+                {
+                    "title": "攻击 2",
+                    "text": "嘿！",
+                    "textJp": "せいっ！",
+                    "textEn": "Sei!",
+                    "condition": null,
+                    "voiceFile": "214srdi_at2.mp3"
+                },
+                {
+                    "title": "攻击 3",
+                    "text": "呀！",
+                    "textJp": "やっ！",
+                    "textEn": "Ya!",
+                    "condition": null,
+                    "voiceFile": "214srdi_at3.mp3"
+                },
+                {
+                    "title": "Extra",
+                    "text": "在奥丁的名下……",
+                    "textJp": "オーディンの名の下に",
+                    "textEn": "In the name of Odin...",
+                    "condition": null,
+                    "voiceFile": "214srdi_exat.mp3"
+                },
+                {
+                    "title": "宝具",
+                    "text": "同位体，开始显现。开始同步。真名解放。——终末幻想·少女降临！",
+                    "textJp": "同位体、顕現開始。 同期開始。 真名解放……『終末幻想・少女降臨』！！",
+                    "textEn": "Manifesting corresponding bodies.\n\nSynchronizing.\n\nReleasing True Name.\n\nRagnarök Lífþrasir!",
+                    "condition": null,
+                    "voiceFile": "214srdi_np.mp3"
+                },
+                {
+                    "title": "受击 1",
+                    "text": "确认损伤。",
+                    "textJp": "損傷を確認",
+                    "textEn": "Injury confirmed.",
+                    "condition": null,
+                    "voiceFile": "214srdi_da1.mp3"
+                },
+                {
+                    "title": "受击 2",
+                    "text": "咳啊……！！",
+                    "textJp": "くぁっ……！！",
+                    "textEn": "Kuaaahhh...!",
+                    "condition": "重制前",
+                    "voiceFile": "214srdi_da2.mp3"
+                },
+                {
+                    "title": "受击 2",
+                    "text": "咳。",
+                    "textJp": "くっ",
+                    "textEn": "Kuaaahhh...!",
+                    "condition": "重制后",
+                    "voiceFile": "SV214_2_受击2.mp3"
+                },
+                {
+                    "title": "无法战斗 1",
+                    "text": "……无法……继续……战斗。",
+                    "textJp": "戦闘……継続、できません……",
+                    "textEn": "Cannot...continue battle...",
+                    "condition": null,
+                    "voiceFile": "214srdi_de1.mp3"
+                },
+                {
+                    "title": "无法战斗 2",
+                    "text": "姐姐大人……",
+                    "textJp": "お姉様っ……",
+                    "textEn": "Sisters...",
+                    "condition": null,
+                    "voiceFile": "214srdi_de2.mp3"
+                },
+                {
+                    "title": "胜利 1",
+                    "text": "战斗，结束。",
+                    "textJp": "戦闘、終了",
+                    "textEn": "Combat complete.",
+                    "condition": null,
+                    "voiceFile": "214srdi_btf1.mp3"
+                },
+                {
+                    "title": "胜利 2",
+                    "text": "敌对存在已经排除了，御主。",
+                    "textJp": "敵性存在を排除しました、マスター",
+                    "textEn": "Enemies have been eliminated, Master.",
+                    "condition": null,
+                    "voiceFile": "214srdi_btf2.mp3"
+                }
+            ]
+        },
+        {
+            "section": "个人空间(斯露德 CV:雨宫天)",
+            "table": [
+                {
+                    "title": "羁绊 Lv.1",
+                    "text": "我们是瓦尔基里。是大神奥丁制造而出的数量众多的存在。大神的命令已经被输入了我们的灵基。……无法变更，绝对不能。",
+                    "textJp": "私たちはワルキューレ。大神オーディンによって作り出された数多きもの。大神命令は既に我々の霊基へと入力されています。変更はされない。絶対に。",
+                    "textEn": "We are the Valkyrie. We are many in number, created by the Allfather, Odin.\n\nThe Allfather's commands have been input into our Spirit Origin.\n\nNo changes can be made. Absolutely none.",
+                    "condition": null,
+                    "voiceFile": "214srdi_bdlv1.mp3"
+                },
+                {
+                    "title": "羁绊 Lv.2",
+                    "text": "原本的我们是为了选定前往瓦尔哈拉之魂而存在的。骑着天马，在战场的天空中飞舞。为了终将到来的终焉之刻。",
+                    "textJp": "本来の私たちはヴァルハラへ赴くべき魂を選定します。天馬を駆り、戦場の空を舞いながら。いずれ来たる終わりの時のために。",
+                    "textEn": "Originally, we flew above battlefields on celestial horses, selecting souls to take to Valhalla in preparation for the inevitable end.",
+                    "condition": null,
+                    "voiceFile": "214srdi_bdlv2.mp3"
+                },
+                {
+                    "title": "羁绊 Lv.3",
+                    "text": "您问——终焉之刻指的是不是神代的诸神黄昏？这我不能告诉您。非常抱歉，御主。",
+                    "textJp": "終わりの時とは神代のラグナロクのことではないのか、ですか？それはお伝え出来ません。申し訳ありません、マスター。",
+                    "textEn": "The end that I speak of... Is it Ragnarök, you ask?\n\nI cannot divulge that information.\n\nI'm sorry, Master.",
+                    "condition": null,
+                    "voiceFile": "214srdi_bdlv3.mp3"
+                },
+                {
+                    "title": "羁绊 Lv.4",
+                    "text": "如果终焉之刻到来。我们一定会将您——不当做御主，而是当做瓦尔哈拉的战士来对待。但是我……不，没什么。只是思考回路瞬间出现了点杂音而已。请不用在意。",
+                    "textJp": "もしも終わりの時が到来したならば、私たちはあなたをマスターではなくヴァルハラの戦士として扱うに違いありません。でも私は……いえ、なんでもありません。思考回路に一瞬ノイズのようなものが走っただけです。お気になさらず。",
+                    "textEn": "Should the end really come, we will likely not treat you as our Master, but as a warrior for Valhalla.\n\nBut I...\n\nNo, never mind.\n\nA momentary burst of static interrupted my thought process. Please do not worry about it.",
+                    "condition": null,
+                    "voiceFile": "214srdi_bdlv4.mp3"
+                },
+                {
+                    "title": "羁绊 Lv.5",
+                    "text": "有记录表示，在神代结束后，依然有一部分瓦尔基里在活动。但是，随着人类史的推移，她们大多都消失了。到21世纪时已经——不，正确的情报尚不明确。不知道是一个都不剩了，还是说，现在仍有为寻找勇者彷徨的存在。但现在，我们3骑一定是最后的瓦尔基里了吧。",
+                    "textJp": "神代終了以降も一部のワルキューレは活動していたと記録にはあります。ですが、人類史の推移の中でそのほとんどが姿を消しました。21世紀にはもう……いえ、正確な情報は不明です。もう誰もいないのか。それとも、まだ勇士を探してさ迷っている者がいるのか。でもきっと、今は私たち3騎が最後のワルキューレなのでしょうね。",
+                    "textEn": "There are some records that say some Valkyrie were still active even after the Age of Gods.\n\nBut during the transition to human history, most of them vanished, and by the twenty-first century...\n\nWell, whether that is accurate or not is unknown. Are there no more? Or are there still some who are wandering, continuing their search for the fallen?\n\nEither way, it seems like the three of us are truly the final Valkyrie.",
+                    "condition": null,
+                    "voiceFile": "214srdi_bdlv5.mp3"
+                },
+                {
+                    "title": "对话 1",
+                    "text": "你需要经验。来吧，去战场。",
+                    "textJp": "貴方には経験が必要です。さあ、戦場へ",
+                    "textEn": "You require experience.\n\nCome, let's head to the battlefield.",
+                    "condition": null,
+                    "voiceFile": "214srdi_di1.mp3"
+                },
+                {
+                    "title": "对话 2",
+                    "text": "御主。向我展示您的勇猛吧。",
+                    "textJp": "マスター。私に、勇猛を示して下さい",
+                    "textEn": "Master.\n\nShow me your valor.",
+                    "condition": null,
+                    "voiceFile": "214srdi_di2.mp3"
+                },
+                {
+                    "title": "对话 3",
+                    "text": "无论是过去还是现在，都没有改变。我们瓦尔基里始终注视着勇士。不，您是否为勇士尚不确定——",
+                    "textJp": "過去も現在も変わらず、私達ワルキューレは勇士を見つめます。……いえ、貴方が勇士か否かは不確定ですが",
+                    "textEn": "Past or present, we Valkyrie will always be drawn to brave warriors.\n\nWell, it's not clear whether you are a warrior or not, but...",
+                    "condition": null,
+                    "voiceFile": "214srdi_di3.mp3"
+                },
+                {
+                    "title": "对话 4",
+                    "text": "布伦希尔德姐姐大人。我没有想到还能再见到您。……？胸口好热……这是什么……？",
+                    "textJp": "ブリュンヒルデお姉様……また、お会い出来るなんて思いませんでした……！ ……、胸が、暖かい……これは、何？",
+                    "textEn": "Sister Brynhild...\n\nI never imagined I would see you again.\n\nOh?\n\nI feel warmth in my chest... What does this mean?",
+                    "condition": "持有布伦希尔德、布伦希尔德(Berserker)",
+                    "voiceFile": "214srdi_di4.mp3"
+                },
+                {
+                    "title": "对话 5",
+                    "text": "确认勇士的存在。请允许我们劝诱他们前往瓦尔哈拉，御主。",
+                    "textJp": "勇士の存在を感知しました。ヴァルハラへの勧誘を許可願います、マスター",
+                    "textEn": "I have detected a fallen hero. I ask that you permit me to invite them to Valhalla, Master.",
+                    "condition": "持有具有所爱之人特性的从者",
+                    "voiceFile": "214srdi_di5.mp3"
+                },
+                {
+                    "title": "对话 6",
+                    "text": "齐格鲁德。你是迷惑了姐姐大人的勇士……！我……我们，对你……",
+                    "textJp": "シグルド……貴方は、お姉様を惑わした勇士。私は、私達は、貴方を……",
+                    "textEn": "Sigurd.\n\nYou are the hero who seduced our older sister!\n\nI...we...will never forgive...!",
+                    "condition": "持有齐格鲁德",
+                    "voiceFile": "214srdi_di6.mp3"
+                },
+                {
+                    "title": "对话 7",
+                    "text": "这波长是——不，不对。你明明不是瓦尔基里，但为什么会如此……",
+                    "textJp": "この波長は……。いえ、違う。貴方はワルキューレではないのに、どうしてこんなにも……",
+                    "textEn": "This wavelength... No, I was wrong.\n\nYou're not a Valkyrie, but how could we be so...similar?",
+                    "condition": "持有阿蒂拉、阿蒂拉·the·San〔ta〕",
+                    "voiceFile": "214srdi_di7.mp3"
+                },
+                {
+                    "title": "对话 8",
+                    "text": "斯卡蒂大人。不，凯尔特的斯卡哈？究竟为什么会变成这样？",
+                    "textJp": "スカディ様。いえ、ケルトのスカサハ……？いったい、どうしてそのようなことに？",
+                    "textEn": "The great Skadi.\n\nOh, you're Scáthach of the Celts?\n\nHow could that be?",
+                    "condition": "持有斯卡哈·斯卡蒂",
+                    "voiceFile": "瓦尔基里3_对话8.mp3"
+                },
+                {
+                    "title": "喜欢的东西",
+                    "text": "喜欢的东西？我们瓦尔基里非常重视勇士的灵魂。还有身为瓦尔基里的伟大前辈。",
+                    "textJp": "好きなもの？ 私達ワルキューレは、勇士の魂を重要視していますね。それから、偉大な先達の存在も",
+                    "textEn": "What I like?\n\nWe Valkyrie hold the souls of the brave to be tremendously important.\n\nAnd we also regard the great predecessors of the Valkyrie to be important as well.",
+                    "condition": null,
+                    "voiceFile": "214srdi_like.mp3"
+                },
+                {
+                    "title": "讨厌的东西",
+                    "text": "讨厌的东西？瓦尔基里是服从命令的存在。并不会特别讨厌什么。嗯，是问我自己的好恶吗？不，我们没有作为个体设定重要性的必要性。",
+                    "textJp": "嫌いなもの……？ ワルキューレは命令に従うモノです。特段、何かを嫌いはしません。……はい？ 私自身の好き嫌い、ですか？ ……いえ。個体として重要度を設定する必要は、私達にはありませんから",
+                    "textEn": "What I dislike?\n\nValkyrie obey orders. There is nothing in particular to dislike.\n\nOh, you mean the things that I personally like and dislike?\n\nThere is no need for each individual unit to set such priorities.",
+                    "condition": null,
+                    "voiceFile": "214srdi_hate.mp3"
+                },
+                {
+                    "title": "关于圣杯",
+                    "text": "围绕圣杯发生的战斗中，有时候也会出现勇士。",
+                    "textJp": "聖杯に纏わる戦いは、時に勇士を発生させるでしょう",
+                    "textEn": "Battles over the Holy Grail will at times create fallen heroes.",
+                    "condition": null,
+                    "voiceFile": "214srdi_gra.mp3"
+                },
+                {
+                    "title": "活动举行中",
+                    "text": "战士能够通过积累大量经验来获得成长。来吧，出发吧。",
+                    "textJp": "多くの経験を積むことで、戦士は成長するものです。さあ、出立を",
+                    "textEn": "A warrior grows by gaining many experiences.\n\nIf that is true, then let us head out.",
+                    "condition": null,
+                    "voiceFile": "214srdi_eve.mp3"
+                },
+                {
+                    "title": "生日",
+                    "text": "生日吗？如果您希望，我可以用卢恩赐予您祝福。",
+                    "textJp": "誕生日、ですか。望むなら、ルーンによる祝福を与えますが",
+                    "textEn": "So it's your birthday?\n\nIf you desire it, I can offer you a blessing via runes...",
+                    "condition": null,
+                    "voiceFile": "214srdi_bir.mp3"
+                }
+            ]
+        }
+    ],
+    "bondCraft": -1,
+    "valentineCraft": [],
+    "icons": [
+        {
+            "key": "icon1",
+            "valueList": [
+                "Servant214正面1.png",
+                "Servant214正面2.png",
+                "Servant214正面3.png"
+            ]
+        }
+    ],
+    "sprites": [
+        {
+            "key": "sprite1",
+            "valueList": [
+                "英灵模型214_0破.png",
+                "英灵模型214_1破.png",
+                "英灵模型214_3破.png"
+            ]
+        }
+    ],
+    "fandomIcons": {
+        "fandom.S214Icon.png": "Stage 1",
+        "fandom.ValkyrieStage2Icon.png": "Stage 2",
+        "fandom.ValkyrieStage3Icon.png": "Stage 3",
+        "fandom.ValkyrieFinalIcon.png": "Stage 4",
+        "fandom.S214 status servant 1.png": "Portrait (Stage 1)",
+        "fandom.S214 status servant 2.png": "Portrait (Stage 2)",
+        "fandom.S214 status servant 3.png": "Portrait (Stage 3)"
+    },
+    "fandomSprites": {
+        "fandom.ValkyrieSprite1.png": "Stage 1",
+        "fandom.ValkyrieSprite2.png": "Stage 2",
+        "fandom.ValkyrieSprite3.png": "Stage 3",
+        "fandom.S214 card servant 1.png": "Command Card (Stage 1)",
+        "fandom.S214 card servant 2.png": "Command Card (Stage 2)",
+        "fandom.S214 card servant 3.png": "Command Card (Stage 3)",
+        "fandom.nplogo214.png": "NP Logo",
+        "fandom.ValkyrieNPOthersSprite1.png": "Other Valkyrie Sprite 1",
+        "fandom.ValkyrieNPOthersSprite2.png": "Other Valkyrie Sprite 2",
+        "fandom.ValkyrieNPOthersSprite3.png": "Other Valkyrie Sprite 3",
+        "fandom.ValkyrieNPOthersSprite4.png": "Other Valkyrie Sprite 4",
+        "fandom.ValkyrieNPOthersSprite5.png": "Other Valkyrie Sprite 5",
+        "fandom.ValkyrieNPOthersSprite6.png": "Other Valkyrie Sprite 6",
+        "fandom.ValkyrieNPOthersSprite7.png": "Other Valkyrie Sprite 7",
+        "fandom.ValkyrieNPOthersSprite8.png": "Other Valkyrie Sprite 8",
+        "fandom.ValkyrieNPOthersSprite9.png": "Other Valkyrie Sprite 9",
+        "fandom.ValkyrieNPOthersSprite10.png": "Other Valkyrie Sprite 10",
+        "fandom.ValkyrieNPOthersSprite11.png": "Other Valkyrie Sprite 11",
+        "fandom.ValkyrieNPOthersSprite12.png": "Other Valkyrie Sprite 12"
+    },
+    "niceSkills": [
+        {
+            "id": 127010,
+            "num": 1,
+            "name": "原初のルーン",
+            "ruby": "げんしょのるーん",
+            "detail": "自身のQuickカード性能をアップ(3ターン)＆宝具威力をアップ(3ターン)",
+            "type": "active",
+            "strengthStatus": 0,
+            "priority": 1,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "conLv": 0,
+            "condLimitCount": 0,
+            "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00304.png",
+            "coolDown": [
+                8,
+                8,
+                8,
+                8,
+                8,
+                7,
+                7,
+                7,
+                7,
+                6
+            ],
+            "functions": [
+                {
+                    "funcId": 102,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "クイックアップ",
+                    "buffs": [
+                        {
+                            "id": 100,
+                            "name": "Quickアップ",
+                            "detail": "Quickカードの性能をアップ",
+                            "type": "upCommandall",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 210
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 220
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 230
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 240
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 250
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 260
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 270
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 280
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 300
+                        }
+                    ]
+                },
+                {
+                    "funcId": 248,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "宝具威力アップ",
+                    "buffs": [
+                        {
+                            "id": 138,
+                            "name": "宝具威力アップ",
+                            "detail": "宝具で与えるダメージをアップ",
+                            "type": "upNpdamage",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 110
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 120
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 130
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 140
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 150
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 160
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 170
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 180
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 495550,
+            "num": 2,
+            "name": "白鳥礼装 A",
+            "ruby": "はくちょうれいそう",
+            "detail": "自身に回避状態を付与(1回・3ターン)＆弱体無効状態を付与(1回・3ターン)＆被ダメージカット状態を付与(3回・3ターン)",
+            "type": "active",
+            "strengthStatus": 0,
+            "priority": 1,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "conLv": 0,
+            "condLimitCount": 1,
+            "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00402.png",
+            "coolDown": [
+                8,
+                8,
+                8,
+                8,
+                8,
+                7,
+                7,
+                7,
+                7,
+                6
+            ],
+            "functions": [
+                {
+                    "funcId": 283,
+                    "funcType": "addState",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "回避",
+                    "buffs": [
+                        {
+                            "id": 151,
+                            "name": "回避",
+                            "detail": "攻撃によるダメージを0にする",
+                            "type": "avoidance",
+                            "buffGroup": 200
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 1
+                        }
+                    ]
+                },
+                {
+                    "funcId": 627,
+                    "funcType": "addState",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "弱体無効",
+                    "buffs": [
+                        {
+                            "id": 171,
+                            "name": "弱体無効",
+                            "detail": "弱体を受けなくなる",
+                            "type": "avoidState",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 1
+                        }
+                    ]
+                },
+                {
+                    "funcId": 275,
+                    "funcType": "addState",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "ダメージカット",
+                    "buffs": [
+                        {
+                            "id": 149,
+                            "name": "ダメージカット",
+                            "detail": "被ダメージを減らす",
+                            "type": "subSelfdamage",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 3,
+                            "Value": 500
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 3,
+                            "Value": 550
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 3,
+                            "Value": 600
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 3,
+                            "Value": 650
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 3,
+                            "Value": 700
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 3,
+                            "Value": 750
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 3,
+                            "Value": 800
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 3,
+                            "Value": 850
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 3,
+                            "Value": 900
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 3,
+                            "Value": 1000
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 496450,
+            "num": 3,
+            "name": "運命の機織り B",
+            "ruby": "うんめいのはたおり",
+            "detail": "自身に毎ターンNP獲得状態を付与(3ターン)＆毎ターンHP回復状態を付与(3ターン)＆毎ターンスター獲得状態を付与(3ターン)",
+            "type": "active",
+            "strengthStatus": 0,
+            "priority": 1,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "conLv": 0,
+            "condLimitCount": 3,
+            "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00607.png",
+            "coolDown": [
+                9,
+                9,
+                9,
+                9,
+                9,
+                8,
+                8,
+                8,
+                8,
+                7
+            ],
+            "functions": [
+                {
+                    "funcId": 325,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "player",
+                    "funcPopupText": "毎ターンNP獲得",
+                    "buffs": [
+                        {
+                            "id": 119,
+                            "name": "毎ターンNP獲得",
+                            "detail": "ターン終了時にNPが増える",
+                            "type": "regainNp",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 500
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 550
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 600
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 650
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 700
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 750
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 800
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 850
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 900
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 1000
+                        }
+                    ]
+                },
+                {
+                    "funcId": 470,
+                    "funcType": "hastenNpturn",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "enemy",
+                    "funcPopupText": "チャージ増加",
+                    "buffs": [],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        }
+                    ]
+                },
+                {
+                    "funcId": 310,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "毎ターンHP回復",
+                    "buffs": [
+                        {
+                            "id": 122,
+                            "name": "毎ターンHP回復",
+                            "detail": "ターン終了時にHPが回復する",
+                            "type": "regainHp",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 500
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 550
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 600
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 650
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 700
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 750
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 800
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 850
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 900
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 1000
+                        }
+                    ]
+                },
+                {
+                    "funcId": 333,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "player",
+                    "funcPopupText": "毎ターンスター獲得",
+                    "buffs": [
+                        {
+                            "id": 121,
+                            "name": "毎ターンスター獲得",
+                            "detail": "ターン終了時にスターを獲得する",
+                            "type": "regainStar",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 5
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 6
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 6
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 7
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 7
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 8
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 8
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 9
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 9
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 10
+                        }
+                    ]
+                },
+                {
+                    "funcId": 214,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "enemy",
+                    "funcPopupText": "クリティカル発生アップ",
+                    "buffs": [
+                        {
+                            "id": 144,
+                            "name": "クリティカル発生アップ",
+                            "detail": "クリティカルの発生率をアップ",
+                            "type": "upCriticalrate",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 100
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "niceClassPassive": [
+        {
+            "id": 34450,
+            "num": 1,
+            "name": "対魔力 B",
+            "ruby": "たいまりょく",
+            "detail": "自身の弱体耐性をアップ",
+            "type": "passive",
+            "strengthStatus": 1,
+            "priority": 1,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "conLv": 0,
+            "condLimitCount": 0,
+            "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00100.png",
+            "coolDown": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "functions": [
+                {
+                    "funcId": 388,
+                    "funcType": "addState",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "弱体耐性アップ",
+                    "buffs": [
+                        {
+                            "id": 162,
+                            "name": "弱体耐性アップ",
+                            "detail": "弱体耐性をアップ",
+                            "type": "upTolerance",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 175
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 175
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 175
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 175
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 175
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 175
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 175
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 175
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 175
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 175
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 62550,
+            "num": 1,
+            "name": "神性 A",
+            "ruby": "しんせい",
+            "detail": "自身に与ダメージプラス状態を付与",
+            "type": "passive",
+            "strengthStatus": 1,
+            "priority": 1,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "conLv": 0,
+            "condLimitCount": 0,
+            "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00326.png",
+            "coolDown": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "functions": [
+                {
+                    "funcId": 265,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "アタックプラス",
+                    "buffs": [
+                        {
+                            "id": 136,
+                            "name": "ダメージプラス",
+                            "detail": "与えるダメージを増やす",
+                            "type": "addDamage",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 200
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "niceNoblePhantasms": [
+        {
+            "id": 303301,
+            "num": 1,
+            "card": "quick",
+            "name": "終末幻想・少女降臨",
+            "ruby": "ラグナロク・リーヴスラシル",
+            "rank": "B",
+            "type": "対軍宝具",
+            "detail": "自身に必中状態を付与(1ターン) ＋ 敵全体に強力な攻撃＆〔魔性〕特性の相手に対して確率で即死<オーバーチャージで確率アップ>",
+            "npGain": {
+                "buster": [
+                    86,
+                    86,
+                    86,
+                    86,
+                    86
+                ],
+                "arts": [
+                    86,
+                    86,
+                    86,
+                    86,
+                    86
+                ],
+                "quick": [
+                    86,
+                    86,
+                    86,
+                    86,
+                    86
+                ],
+                "extra": [
+                    86,
+                    86,
+                    86,
+                    86,
+                    86
+                ],
+                "defence": [
+                    400,
+                    400,
+                    400,
+                    400,
+                    400
+                ],
+                "np": [
+                    86,
+                    86,
+                    86,
+                    86,
+                    86
+                ]
+            },
+            "npDistribution": [
+                3,
+                7,
+                10,
+                14,
+                17,
+                21,
+                28
+            ],
+            "strengthStatus": 0,
+            "priority": 101,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "individuality": [
+                {
+                    "id": 3001,
+                    "name": "attackProjectile"
+                },
+                {
+                    "id": 4003,
+                    "name": "cardQuick"
+                },
+                {
+                    "id": 4007,
+                    "name": "cardNP"
+                },
+                {
+                    "id": 4101,
+                    "name": "aoeNP"
+                }
+            ],
+            "functions": [
+                {
+                    "funcId": 288,
+                    "funcType": "addState",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "必中",
+                    "buffs": [
+                        {
+                            "id": 154,
+                            "name": "必中",
+                            "detail": "回避を無視して、攻撃によるダメージを与える",
+                            "type": "breakAvoidance",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1
+                        }
+                    ]
+                },
+                {
+                    "funcId": 13,
+                    "funcType": "damageNp",
+                    "funcTargetType": "enemyAll",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "なし",
+                    "buffs": [],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Value": 6000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 8000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 9000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 9500
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 10000
+                        }
+                    ]
+                },
+                {
+                    "funcId": 2462,
+                    "funcType": "instantDeath",
+                    "funcTargetType": "enemyAll",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "即死",
+                    "buffs": [],
+                    "svals": [
+                        {
+                            "Rate": 500
+                        },
+                        {
+                            "Rate": 500
+                        },
+                        {
+                            "Rate": 500
+                        },
+                        {
+                            "Rate": 500
+                        },
+                        {
+                            "Rate": 500
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "atkGrowth": [
+        1339,
+        1345,
+        1359,
+        1379,
+        1399,
+        1432,
+        1466,
+        1506,
+        1546,
+        1600,
+        1653,
+        1707,
+        1774,
+        1841,
+        1915,
+        1988,
+        2069,
+        2156,
+        2249,
+        2337,
+        2437,
+        2537,
+        2638,
+        2745,
+        2859,
+        2973,
+        3087,
+        3207,
+        3328,
+        3448,
+        3576,
+        3703,
+        3830,
+        3957,
+        4091,
+        4219,
+        4353,
+        4487,
+        4621,
+        4748,
+        4882,
+        5016,
+        5150,
+        5277,
+        5411,
+        5538,
+        5665,
+        5793,
+        5920,
+        6040,
+        6161,
+        6282,
+        6395,
+        6509,
+        6623,
+        6730,
+        6831,
+        6931,
+        7032,
+        7119,
+        7213,
+        7300,
+        7380,
+        7454,
+        7527,
+        7594,
+        7661,
+        7715,
+        7769,
+        7822,
+        7862,
+        7903,
+        7929,
+        7949,
+        7970,
+        7983,
+        7996,
+        8010,
+        8023,
+        8037,
+        8117,
+        8204,
+        8284,
+        8371,
+        8458,
+        8539,
+        8626,
+        8713,
+        8793,
+        8880,
+        8968,
+        9048,
+        9135,
+        9222,
+        9302,
+        9389,
+        9477,
+        9557,
+        9644,
+        9731,
+        9811,
+        9899,
+        9986,
+        10066,
+        10153,
+        10240,
+        10321,
+        10408,
+        10495,
+        10575,
+        10662,
+        10749,
+        10830,
+        10917,
+        11004,
+        11084,
+        11171,
+        11258,
+        11339,
+        11426
+    ],
+    "hpGrowth": [
+        2244,
+        2255,
+        2279,
+        2314,
+        2350,
+        2408,
+        2467,
+        2538,
+        2609,
+        2703,
+        2797,
+        2891,
+        3009,
+        3127,
+        3257,
+        3386,
+        3528,
+        3681,
+        3846,
+        3999,
+        4176,
+        4352,
+        4529,
+        4718,
+        4918,
+        5118,
+        5318,
+        5530,
+        5742,
+        5955,
+        6178,
+        6402,
+        6626,
+        6850,
+        7085,
+        7309,
+        7545,
+        7781,
+        8016,
+        8240,
+        8476,
+        8711,
+        8947,
+        9171,
+        9406,
+        9630,
+        9854,
+        10078,
+        10302,
+        10514,
+        10726,
+        10938,
+        11138,
+        11338,
+        11539,
+        11727,
+        11904,
+        12081,
+        12257,
+        12411,
+        12575,
+        12729,
+        12870,
+        13000,
+        13129,
+        13247,
+        13365,
+        13459,
+        13553,
+        13648,
+        13718,
+        13789,
+        13836,
+        13871,
+        13907,
+        13930,
+        13954,
+        13977,
+        14001,
+        14025,
+        14166,
+        14319,
+        14460,
+        14614,
+        14767,
+        14908,
+        15061,
+        15214,
+        15356,
+        15509,
+        15662,
+        15803,
+        15957,
+        16110,
+        16251,
+        16404,
+        16557,
+        16699,
+        16852,
+        17005,
+        17146,
+        17300,
+        17453,
+        17594,
+        17747,
+        17900,
+        18042,
+        18195,
+        18348,
+        18489,
+        18643,
+        18796,
+        18937,
+        19090,
+        19243,
+        19385,
+        19538,
+        19691,
+        19833,
+        19986
+    ],
+    "figure": [
+        "https://static.atlasacademy.io/JP/CharaFigure/3033000/3033000_merged.png",
+        "https://static.atlasacademy.io/JP/CharaFigure/3033001/3033001_merged.png",
+        "https://static.atlasacademy.io/JP/CharaFigure/3033002/3033002_merged.png"
+    ],
+    "ascension": [
+        "https://static.atlasacademy.io/JP/CharaGraph/303300/303300a@1.png",
+        "https://static.atlasacademy.io/JP/CharaGraph/303300/303300a@2.png",
+        "https://static.atlasacademy.io/JP/CharaGraph/303300/303300b@1.png",
+        "https://static.atlasacademy.io/JP/CharaGraph/303300/303300b@2.png"
+    ]
+}

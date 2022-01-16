@@ -1,0 +1,949 @@
+{
+    "no": 152,
+    "svtId": 9935530,
+    "mcLink": "所罗门(Caster)",
+    "icon": "Servant152.jpg",
+    "info": {
+        "gameId": 9935530,
+        "name": "所罗门",
+        "nameJp": "ソロモン",
+        "nameEn": "Solomon (True)",
+        "namesOther": [
+            "ソロモン"
+        ],
+        "namesJpOther": [],
+        "namesEnOther": [],
+        "nicknames": [
+            "以色列拳皇",
+            "魔术王",
+            "医生"
+        ],
+        "obtain": "无法召唤",
+        "obtains": [
+            "无法获得"
+        ],
+        "rarity": 5,
+        "rarity2": 5,
+        "weight": "75kg",
+        "height": "178cm",
+        "gender": "男性",
+        "illustrator": "武内崇",
+        "illustratorJp": null,
+        "illustratorEn": "Takeuchi Takashi",
+        "className": "Caster",
+        "attribute": "地",
+        "isHumanoid": true,
+        "isWeakToEA": true,
+        "isTDNS": false,
+        "cv": [
+            "铃村健一"
+        ],
+        "cvJp": [
+            "铃村健一"
+        ],
+        "cvEn": [
+            "Suzumura Kenichi"
+        ],
+        "alignments": [
+            "秩序",
+            "善"
+        ],
+        "traits": [
+            "天地从者"
+        ],
+        "ability": {
+            "strength": "E",
+            "endurance": "E",
+            "agility": "B",
+            "mana": "A++",
+            "luck": "A++",
+            "np": "A+++"
+        },
+        "illustrations": {
+            "Default": "所罗门.png"
+        },
+        "cards": [],
+        "cardHits": {},
+        "cardHitsDamage": {},
+        "npRate": {},
+        "atkMin": -1,
+        "hpMin": -1,
+        "atkMax": -1,
+        "hpMax": -1,
+        "atk90": -1,
+        "hp90": -1,
+        "atk100": -1,
+        "hp100": -1,
+        "starRate": "",
+        "deathRate": "",
+        "criticalRate": ""
+    },
+    "noblePhantasm": [
+        {
+            "state": "",
+            "openCondition": "==宝具==",
+            "name": "诀别之时已至，以此，舍弃世界",
+            "nameJp": "訣別の時きたれり、其は、世界を手放すもの",
+            "upperName": "Ars Nova",
+            "upperNameJp": "アルス・ノヴァ",
+            "color": "Buster",
+            "category": "单体",
+            "rank": "A",
+            "typeText": "对人宝具",
+            "effects": [
+                {
+                    "description": "对敌方单体发动超强大的无视防御力攻击",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "600%",
+                        "800%",
+                        "900%",
+                        "950%",
+                        "1000%"
+                    ]
+                },
+                {
+                    "description": "付与灼伤状态(5回合)<过量充能时效果提升>",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "500",
+                        "1000",
+                        "1500",
+                        "2000",
+                        "2500"
+                    ]
+                }
+            ]
+        }
+    ],
+    "noblePhantasmEn": [
+        {
+            "state": "Rank A",
+            "openCondition": null,
+            "name": "The Time of Parting has Come, He is the One who Lets Go of the World",
+            "nameJp": null,
+            "upperName": "Ars Nova",
+            "upperNameJp": null,
+            "color": "Buster",
+            "category": "",
+            "rank": "D",
+            "typeText": "Anti-Unit",
+            "effects": [
+                {
+                    "description": "Deals damage that  ignores defense buffs to one enemy.",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                },
+                {
+                    "description": " Damage +",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "600%",
+                        "800%",
+                        "900%",
+                        "950%",
+                        "1000%"
+                    ]
+                },
+                {
+                    "description": "<Over Charge>\nInflicts Burn for 5 turns to them.",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                },
+                {
+                    "description": " Burn Damage +",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "500",
+                        "1000",
+                        "1500",
+                        "2000",
+                        "2500"
+                    ]
+                }
+            ]
+        }
+    ],
+    "activeSkills": [],
+    "activeSkillsEn": [],
+    "passiveSkills": [],
+    "passiveSkillsEn": [
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "Territory Creation",
+            "nameJp": null,
+            "nameEn": null,
+            "rank": "A",
+            "icon": "fandom.Territory creation.png",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": " Increases own Arts performance by 10%.",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                }
+            ]
+        },
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "Item Construction",
+            "nameJp": null,
+            "nameEn": null,
+            "rank": "C",
+            "icon": "fandom.Item construction.png",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": " Increases own debuff success rate by 6%.",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                }
+            ]
+        }
+    ],
+    "appendSkills": [],
+    "coinSummonNum": 0,
+    "itemCost": {
+        "ascension": [],
+        "skill": [],
+        "appendSkill": []
+    },
+    "costumeNos": [],
+    "bondPoints": [],
+    "profiles": [
+        {
+            "title": "0",
+            "description": "公元前1011年～931年的人物。\n古代以色列第三代王。\n创造了古代以色列鼎盛繁荣时期的伟大的王。\n使役七十二柱魔神，也是第一位建立以色列神殿的人物。\n作为一名王实施明政，而他身为魔术师时的逸闻也很多。",
+            "descriptionJp": "紀元前1011年～931年の人物。\n古代イスラエルの第三代王。\n古代イスラエルを最も栄えさせた偉大な王。\n七十二柱の魔神を使役し、\nはじめにイスラエル神殿を築いた人物でもある。\n王として優れた政策を行ったが、\nそれ以外にも魔術師としての逸話が多い。",
+            "descriptionEn": "An individual from 1011 ~ 931 BC.\n\nThe Third King of Ancient Israel.\n\nThe great king who made Ancient Israel prosper the most. Employing 72 demons, he is also the first individual to build the Temple of Israel.\n\nHe performed excellent political measures as a king, but beside that also possess many anecdotes as a magus.",
+            "condition": null,
+            "conditionEn": null
+        },
+        {
+            "title": "1",
+            "description": "所罗门迎娶了埃及法老的女儿，\n但之后，传说在他的梦中出现了神，并向他降下神谕，\n「汝具备资格。说出你的愿望。然愿望必将实现」。\n比起黄金与权力，所罗门更渴求智慧。神对此极为满足。\n因为这个回答才是有资格达到「真正睿智」的证明。\n所罗门醒来后，发现自己的双手上戴着十个戒指。\n这就是被神承认的智者之证。之后被称为所罗门的戒指，\n也是能使役天使与恶魔的魔术源泉。",
+            "descriptionJp": "ソロモンはファラオの娘を娶ったが、その後、夢枕に神が現れ「汝に資格あり。望みを口にせよ。願うものを与えよう」と告げたという。\nソロモンは黄金や権力より、なにより知恵を求めた。神はこれに満足する。その答えこそ「真の叡智」に至る資格を持つ事の証だったからだ。\nソロモンが目を覚ますと、その両手には十の指輪がはめられていた。これこそ神に認められた知恵者の証。後にソロモンの指輪と呼ばれる、天使や悪魔を使役する魔術の源泉だった。",
+            "descriptionEn": "Solomon married with the daughter of an Egyptian Pharaoh, but it has been said that later God appeared in his dreams and said ｢You are qualified. Speak your wishes. I shall grant it｣. Rather than gold or political power, Solomon sought wisdom more than anything.\n\nGod was satisfied. For that answer itself was proof that he had the qualifications to attain ｢True Wisdom｣.\n\nWhen he woke up, Solomon had ten rings inserted on both hands. They were the proof of the wise man recognized by God.\n\nLater, those would be called Ring of Solomon, the source of the magic that employs angels and demons.",
+            "condition": "通关 回归后开放",
+            "conditionEn": null
+        },
+        {
+            "title": "2",
+            "description": "迦勒底英灵召唤的第一号成功例。\n被马里斯比利·阿尼姆斯菲亚秘密召唤出来，\n参加了冬木的圣杯战争，并取得胜利的冠位魔术师。\n\n向圣杯许下的愿望是『成为人类』。\n他并非凭借圣杯的力量『作为英灵获得了肉体』，\n而是抛弃了所有身为英灵的力量，\n重生成一位与所罗门王完全没有关系的新人类。\n\n那就是罗玛尼·阿其曼。\n希望作为平淡无奇的『一个人』活下去的\n一位极为普通的青年。\n\n……但是。\n开始第二次生命的男人并没能感受\n生前没被赋予的『身为人的幸福与充实』。\n因为在成为人类前的间隙看到的『人类终结』的未来\n剥夺了他所有的自由。",
+            "descriptionJp": "カルデアの英霊召喚、その成功例第一号。\nマリスビリー・アニムスフィアによって\n秘密裏に召喚され、冬木の聖杯戦争に参加し、\nこれに勝利を収めた冠位の魔術師。\n\n聖杯にかけた願いは『人間になる』というもの。\n彼は聖杯の力で『英霊として受肉する』ので\nはなく、英霊としての力を全て捨て、\nソロモン王とは関係のない\n新しい人間として生まれ変わった。\n\nそれがロマニ・アーキマン。\n何の変哲もない『一個人』として生きようと\n願った、ごく普通の青年である。\n\n……だが。\n第二の生を始めた男は、生前には\n与えられなかった『人としての幸福、充実』を\n知る事はできなかった。\n人間になる際に垣間見た『人類終了』の未来が、\n彼からあらゆる自由を奪ったからだ。",
+            "descriptionEn": "Chaldea’s heroic spirit summoning; its first successful example.\n\nSecretly summoned by Malisbury Animusphere, the grand magus that participated and achieved victory on the Holy Grail War of Fuyuki.\n\n\nThe wish he entrusted to the Holy Grail was 『to become human』.\n\nThrough the power of the Holy Grail, he did not “incarnated as a heroic spirit”, but instead was reborn as a new human that had no relation to King Solomon.\n\n\nSuch was Romani Archaman.\n\nA quite ordinary young man, who wished to live as an 『individual』 that did not have anything of peculiar.\n\n\n......However.\n\nThe man who began his second life was unable to know the 『happiness, fulfillment as a human』 that was never given to him in his previous lifetime.\n\nBecause the future of 『mankind’s demise』, which he caught a glimpse of right before becoming human, stole any kind of freedom from him.",
+            "condition": "通关 回归后开放",
+            "conditionEn": null
+        },
+        {
+            "title": "3",
+            "description": "【职阶技能】 \n阵地建造：A\n身为魔术师建造对自己有利的阵地。\n建造了耶路撒冷神殿的他的实力\n在阵地建造中属于最高水准的。\n\n高速咏唱：C\n加快魔术咏唱的能力。虽然高速，\n但被爱操心的性格拖了后腿，偶尔会犯错。\n\n道具作成：C\n制作带有魔力的器具。\n由于被契约特化，因此道具作成的水准很普通。",
+            "descriptionJp": "【クラス別スキル】 \n○陣地作成：Ａ\n魔術師として自らに有利な陣地を作成する。\nエルサレム神殿を作りあげた彼の手腕は\n陣地作成において最高峰とされる。\n\n○高速詠唱：Ｃ\n魔術の詠唱を早める能力。高速ではあるが、\n心配性が災いしてかたまにミスをする。\n\n○道具作成：Ｃ\n魔力を帯びた器具を作成する。契約に特化して\nしまった為か、道具作成能力は並レベル。",
+            "descriptionEn": "< Class Skill >\n\nTerritory Creation: A\n\nCreates an advantageous encampment to oneself as a magus.\n\nHaving built the Temple of Israel, he is regarded as a greatest authority in regards to Territory Creation.\n\n\nHigh-Speed Incantation: C\n\nA technique to hasten magic aria.\n\nDespite being fast, sometimes he makes a mistake due his worrywart nature and ruins everything.\n\n\nItem Construction: C\n\nProduces devices that carry magical power. Maybe because he has specialized in contracts, his Item Construction ability is of average level.",
+            "condition": "通关 回归后开放",
+            "conditionEn": null
+        },
+        {
+            "title": "4",
+            "description": "内向、强硬、被动。\n没有紧张感，比较轻浮的王。\n性格内在虽然是『强硬』，\n但这不过是『不会看场合』的能力。\n从结果来看，只会发表强硬的发言，\n本质还是个胆小鬼。虽然严肃，但不认真，\n总是用八成实力做事。\n很会看人，很会定法，很会治国。\n虽然略有些缺乏气概，\n但却是个贤明、善良、博爱的王，\n深受民众的敬爱。\n\n……但是，这所有的特征都不是所罗门本人的意志。\n所罗门天生就注定是个「王」。\n他的内心没有感动，\n此外，他也是个被剥夺了感受人们悲喜交加自由的\n非人类。",
+            "descriptionJp": "内向的、強気、受動的。\n緊張感のない、ゆるふわっとした王さま。\n性格骨子は『強気』だが、\nこれはたんに『空気が読めない』力。\n結果的に強気な発言をしているだけで、\n根はチキンである。真面目ではあるが真剣ではなく、いつも八割の力で生きている。\nよく人々を見定め、よく法を定め、\nよく国を治めた。やや気概が足りないところは\nあるものの、賢く、優しく、愛の多い王として\n民に敬愛された。\n\n……しかし、これらの特徴はすべてソロモン\n本人の意思ではない。\nソロモンは生まれた時から「王」として定められ、\n神の声を聞き、その通りに生きるしかなかった。\n彼の内面は無感動であり、また、\n人々の悲喜交々に共感する自由を剥奪されていた、\n非人間である。",
+            "descriptionEn": "Introverted, self-assured and passive.\n\nA laid-back king, without a hint of seriousness.\n\nThe gist of his personality is 『self-assured』, but this is simply the power to 『not read the mood』.\n\nThus, he is merely making statements on a self-assured manner, and his nature is that of a chicken. Although serious, he is not earnest and is constantly living at 80% power.\n\nHe properly ascertained people, properly established laws and properly governed the country. Despite lacking in vigor, he was loved and respected by the masses as a wise, gentle king who was full of love.\n\n\n......Yet, none of those traits came from Solomon’s own will.\n\nHaving been ordained as a king from the moment he was born, Solomon had no choice but to hear the voice of God and act accordingly.\n\nHis psyche is dispassionate and (having been deprived of the freedom to sympathize with the joys and sorrows of people) inhuman.",
+            "condition": "通关 回归后开放",
+            "conditionEn": null
+        },
+        {
+            "title": "5",
+            "description": "在成为人类之后，\n所罗门终于获得了名为罗曼这个人类的人性。\n本质是个现实主义者与悲观主义者。\n作为活跃气氛的人物，总是会将期望的事放在嘴边，\n但从本质上知道这根本就是天方夜谭，\n因此多少有些假惺惺感。\n虽然喜欢人类，但却是个『不想看到悲哀事情』\n的胆小鬼，所以与任何人的交往都停留于表面。\n反之却能与任何人都能打好关系。典型的八面玲珑。\n一旦陷入窘境，就会有『为了维持现状』而选择\n『不做任何决断，保持观察』或是『撤退』的坏毛病。\n罗曼自身对自己的弱小有感到反省，所以只要周围有人\n对他说一句“请加油”，就会努力克制自己，\n表现出与魔术王相符的英明决断。\n\n顺便说一句，无论是哪个从者，对罗曼的第一印象都是\n『虽然不知道理由，但肯定是这家伙的错』，所以\n都会本能地抱怨他。\n不会指责他的只有非从者、性格别扭的家伙、\n不把恶视为恶的Berserker这类存在。",
+            "descriptionJp": "人間になってからようやく、\nソロモンはロマンという人間性を獲得した。\n根本はリアリストで悲観主義。\nムードメーカーとして希望的観測を口にする\nものの、根本ではそれが絵空事だと思っている為、\nどこか白々しい。\n人間好きではあるが『悲しい事は見たくない』\nというチキンなので、誰とも表面的な付き合いに\n留めてしまう。そのかわりに誰とも仲良くなれる。\n典型的な八方美人。\n窮地に陥ると『現状を維持するため』に\n『何も決断せず観察に徹する』あるいは『撤退』\nを選んでしまう悪癖がある。\nロマン自身そんな自分の弱さを反省している為、\nただ一言、周りにいる誰かに“頑張ってください”\nと言われればなんとか踏みとどまり、\n魔術の王に相応しい英断を見せる。\n\nちなみに、サーヴァントであれば誰もが\n第一印象でロマンを\n『理由は分からないがコイツが悪い』と感じて\nしまう為、無意識に文句を言ってしまっていた。\nダメ出しをしなかったのは\nサーヴァントでないもの、ひねくれ者、悪を悪と\n感じないバーサーカーといった面子である。",
+            "descriptionEn": "After becoming human, Solomon finally acquired the human nature called romance.\n\nAt his roots, he is a realist and a pessimist.\n\nDespite uttering wishful thinkings as a mood-maker, he seems somewhat shameless due to inwardly thinking of them as pipe dreams.\n\nWhile he likes humans, because of his chicken side that 『does not want to see something sad』, he maintains a superficial socializing with anyone. In exchange, he can get along with anyone.\n\nAn archetypal 『everybody’s friend』.\n\nHe has a bad habit of, when caught in a dilemma, ending up choosing to either 『stick to observing without making any decisions』 or 『running away』 so that 『the status quo is preserved』.\n\nSince Romani himself is reflecting on such weakness of his, if someone in his surroundings were to just say a word - 『Please, do your best』 - he will somehow get a hold of himself and show a decisive judgment fitting of the king of magic.\n\n\nIncidentally, because the first impression that any Servant ends up getting about Romani is 『I don’t get the reason, but he is at fault here』, they unconsciously complained at him.\n\nThe only ones who did not find fault at him were those who were not Servants, crackpots and Berserkers that do not perceive evil as evil.",
+            "condition": "通关 回归后开放",
+            "conditionEn": null
+        },
+        {
+            "title": "6",
+            "description": "『诀别之时已至，以此舍弃世界』\n阶级：D　种类：对人宝具\nArs Nova\n所罗门王的第一宝具。\n不是盖提亚，而是真正所罗门王拥有的宝具。\n是放弃他迄今为止所有实现的伟业、实现的奇迹、\n实现的魔术等一切的告别之诗。\n\n只要发动这件宝具，\n所罗门从神明那里得到的恩惠就会还给上天，\n失去凝视世界的眼睛。\n效果是所罗门王之死。\n进一步说就是七十二柱魔神的自我毁灭。\n这可以说是所罗门为了在遥远的未来，\n当「魔术」对人类来说成为恶时\n将这些全部毁灭而准备的安全装置。\n当将其作为宝具使用的时候，\n所罗门王的痕迹就会从世界上消灭。\n——甚至从英灵座上。",
+            "descriptionJp": "『訣別の時きたれり、其は世界を手放すもの』\nランク：Ｄ　種別：対人宝具\nアルス・ノヴァ。\nソロモン王の第一宝具。\nゲーティアではなく、真のソロモン王が持つ宝具。\n彼がそれまで為し得た偉業、為し得た奇跡、\n為し得た魔術、そのすべてを手放す別れの詩。\n\nこの宝具を発動するとソロモンは神から\n与えられた恩恵を天に還し、\n世界を見据えていた眼を失う。\n効果はソロモン王の死。\nひるがえって七十二柱の魔神の自壊である。\n遠い未来において「魔術」が人間にとっての\n悪になった時、これを滅ぼすためにソロモンが\n用意した安全装置とも言える。\nこれを宝具として使用した時、\nソロモン王の痕跡はこの世界から消滅する。\n―――英霊の座からですらも。",
+            "descriptionEn": "The Time of Parting has Come, He is the One who Lets Go of the World\n\nRank: D\n\nType: Anti-Unit\n\nArs Nova.\n\nThe first Noble Phantasm of King Solomon.\n\nRather than Goetia, this is a Noble Phantasm possessed by the true King Solomon.\n\nA poem of farewell in which he relinquishes of all the exploits accomplished, all the miracles performed, all the magics established until then.\n\n\nUpon invoking his Noble Phantasm, Solomon sends all the graces bestowed by God back to heavens and loses the eyes that gaze at the world.\n\nThe result is King Solomon’s death.\n\nFrom another angle, this also means the self-destruction of the 72 demons.\n\nIt can also be described as a safety device prepared by Solomon, in order to destroy ｢magic｣ when it becomes an evil for humans in the distant future.\n\nWhen this is employed as a Noble Phantasm, all traces of King Solomon are extinguished from this world.\n\n───even from the Throne of Heroes.",
+            "condition": "通关 回归后开放",
+            "conditionEn": null
+        },
+        {
+            "title": "aprilfool",
+            "description": null,
+            "descriptionJp": null,
+            "descriptionEn": null,
+            "condition": null,
+            "conditionEn": null
+        }
+    ],
+    "voices": [
+        {
+            "section": "与盖提亚的对话",
+            "table": [
+                {
+                    "title": "与盖提亚的对话",
+                    "text": "所罗门：……生命乃是终结之物。生命乃是累积痛苦的巡礼。\n所罗门：但这绝不是死与断绝的故事。\n所罗门：盖提亚。我积年的惭愧。由吾之残骸而生的野兽啊。\n所罗门：现在正是我亲手制裁汝之恶的时候了。\n盖提亚：少引我发笑了，所罗门……！\n盖提亚：你这家伙能做什么！你什么都做不到！\n盖提亚：无能之王就去谈你的天真梦想吧！\n盖提亚：死吧死吧死吧，哈哈哈，哈哈哈哈哈哈哈哈哈哈哈！\n盖提亚：果然只会说空话，总是只会逞口舌之快啊，蠢货！\n盖提亚：去死吧。我要用你自己的宝具送你去黄泉！\n所罗门：嗯，打从一开始就有这个打算。\n所罗门：我会因自己的宝具而消灭。因为这就是所罗门王的结局。\n盖提亚：——什么！\n所罗门：盖提亚。让我教导你最后的魔术吧。\n所罗门：告诉虽然知道“所罗门王还有一个宝具”，但却未能知道其真名——\n所罗门：不，是不可能知道其真名的你。\n\n所罗门：诞生之时已至，以此修习万象。\n所罗门：戴冠之时已至，以此启发万象。\n所罗门：以及——\n所罗门：诀别之时已至。以此，舍弃世界。\n——Ars Nova",
+                    "textJp": "ソロモン\n「……命とは終わるもの。生命とは苦しみを積み上げる巡礼だ。\nだがそれは、決して死と断絶の物語ではない。\nゲーティア。我が積年の慚愧、我が亡骸から生まれた獣よ。\n今こそ僕のこの手で、お前の悪を裁く時だ」\nゲーティア\n「笑わせるな、ソロモン……！\n貴様に何ができる。貴様には何もできまい！\n無能の王は、甘い夢でも語っていろ！\n死ね死ね死ね、ハハハ、ハ――ハハハハハハハハ！\nやはり口先だけか。常に口先だけだ馬鹿者め！\nやはり死ね。貴様自身の宝具で、引導を渡してくれる！」\nソロモン\n「ああ、初めからそのつもりだ。\n僕は自らの宝具で消滅する。それが、ソロモン王の結末だからね」\nゲーティア\n「——何？」\nソロモン\n「ゲーティア、お前に最後の魔術を教えよう。\n“ソロモン王にはもう一つ宝具がある”と知ってはいたものの、\nその真名を知り得なかった——\nいや、知ることのできなかったお前に」\nソロモン\n『誕生の時きたれり、其は全てを修めるもの。\n戴冠の時きたれり、其は全てを始めるもの。\nそして——\n訣別の時きたれり、其は世界を手放すもの\n——アルス・ノヴァ』",
+                    "textEn": "Solomon: …All life must come to an end. Life is a pilgrimage in which we stockpile suffering. However, that is by no means a tale of death and partings. Goetia. Shame of my years. Beast born of my corpse. Here and now, I will pass judgement on your evil with my own hands.\n\nGoetia: Do not make me laugh, Solomon! What can you do!? Nothing! An incompetent king, with only talk as empty as his dreams! Die, die, die! Hahaha! HAHAHAHAHAHA! As I though, just empty words! You have always been nothing but talk, fool! Just die. I will send you to your death with your own Noble Phantasm.\n\nSolomon: That's the plan. I will be extinguished by my own Noble Phantasm. This is the end of King Solomon.\n\nGoetia: …What?\n\nSolomon: Goetia. I'll teach you one last magecraft. You knew of King Solomon's final Noble Phantasm, but you didn't know its True Name… No, you could never know its True Name.\n\n\"The Time of Birth Hath Come, I Am the Remedy of Eternity.\"\n\n\"The Time of Coronation Hath Come, I Am the Beginning of Eternity.\"\n\nAnd finally… \"The Time of Parting Hath Come, I Am He Who Surrenders the World.\"\n\n…Ars Nova.",
+                    "condition": null,
+                    "voiceFile": "诞生之时已至，以此修习万象A.wav"
+                }
+            ]
+        },
+        {
+            "section": "游戏内未使用",
+            "table": [
+                {
+                    "title": "离别时",
+                    "text": "我去去就来。",
+                    "textJp": "ちょっと行ってくるね",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "所罗门_我去去就来.wav"
+                },
+                {
+                    "title": "与盖提亚的对话",
+                    "text": "所罗门：……生命乃是终结之物。生命乃是累积痛苦的巡礼。\n所罗门：但这绝不是死与断绝的故事。\n所罗门：盖提亚。我积年的惭愧。由吾之残骸而生的野兽啊。\n所罗门：现在正是我亲手制裁汝之恶的时候了。\n盖提亚：少引我发笑了，所罗门……！\n盖提亚：你这家伙能做什么！你什么都做不到！\n盖提亚：无能之王就去谈你的天真梦想吧！\n盖提亚：死吧死吧死吧，哈哈哈，哈哈哈哈哈哈哈哈哈哈哈！\n盖提亚：果然只会说空话，总是只会逞口舌之快啊，蠢货！\n盖提亚：去死吧。我要用你自己的宝具送你去黄泉！\n所罗门：嗯，打从一开始就有这个打算。\n所罗门：我会因自己的宝具而消灭。因为这就是所罗门王的结局。\n盖提亚：——什么！\n所罗门：盖提亚。让我教导你最后的魔术吧。\n所罗门：告诉虽然知道“所罗门王还有一个宝具”，但却未能知道其真名——\n所罗门：不，是不可能知道其真名的你。\n\n所罗门：诞生之时已至，以此修习万象。\n所罗门：戴冠之时已至，以此启发万象。\n所罗门：以及——\n所罗门：神啊，我要将您赐予的天惠还与您。\n所罗门：……全能对人而言过于遥远。\n所罗门：我的工作仅限于人类范畴内即可。\n\n所罗门：诀别之时已至。以此，舍弃世界。\n所罗门：——Ars Nova",
+                    "textJp": "ソロモン\n「……命とは終わるもの。生命とは苦しみを積み上げる巡礼だ。\nだがそれは、決して死と断絶の物語ではない。\nゲーティア。我が積年の慚愧、我が亡骸から生まれた獣よ。\n今こそ僕のこの手で、お前の悪を裁く時だ」\nゲーティア\n「笑わせるな、ソロモン……！\n貴様に何ができる。貴様には何もできまい！\n無能の王は、甘い夢でも語っていろ！\n死ね死ね死ね、ハハハ、ハ――ハハハハハハハハ！\nやはり口先だけか。常に口先だけだ馬鹿者め！\nやはり死ね。貴様自身の宝具で、引導を渡してくれる！」\nソロモン\n「ああ、初めからそのつもりだ。\n僕は自らの宝具で消滅する。それが、ソロモン王の結末だからね」\nゲーティア\n「——何？」\nソロモン\n「ゲーティア、お前に最後の魔術を教えよう。\n“ソロモン王にはもう一つ宝具がある”と知ってはいたものの、\nその真名を知り得なかった——\nいや、知ることのできなかったお前に」\nソロモン\n『誕生の時きたれり、其は全てを修めるもの。\n戴冠の時きたれり、其は全てを始めるもの。』\n「そして——\n神よ、あなたからの天恵をお返しします。\n……全能は人には遠すぎる。\n私の仕事は、人の範囲で十分だ。」\n『訣別の時きたれり、其は世界を手放すもの\n——アルス・ノヴァ』",
+                    "textEn": "Solomon: …All life must come to an end. Life is a pilgrimage in which we stockpile suffering. However, that is by no means a tale of death and partings. Goetia. Shame of my years. Beast born of my corpse. Here and now, I will pass judgement on your evil with my own hands.\n\nGoetia: Do not make me laugh, Solomon! What can you do!? Nothing! An incompetent king, with only talk as empty as his dreams! Die, die, die! Hahaha! HAHAHAHAHAHA! As I though, just empty words! You have always been nothing but talk, fool! Just die. I will send you to your death with your own Noble Phantasm.\n\nSolomon: That's the plan. I will be extinguished by my own Noble Phantasm. This is the end of King Solomon.\n\nGoetia: …What?\n\nSolomon: Goetia. I'll teach you one last magecraft. You knew of King Solomon's final Noble Phantasm, but you didn't know its True Name… No, you could never know its True Name.\n\n\"The Time of Birth Hath Come, I Am the Remedy of Eternity.\"\n\n\"The Time of Coronation Hath Come, I Am the Beginning of Eternity.\"\n\nAnd finally… \"The Time of Parting Hath Come, I Am He Who Surrenders the World.\"\n\n…Ars Nova.",
+                    "condition": null,
+                    "voiceFile": "诞生之时已至，以此修习万象.wav"
+                },
+                {
+                    "title": "未知",
+                    "text": "呵！",
+                    "textJp": "はっ！",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "所罗门_B010.wav"
+                },
+                {
+                    "title": "未知",
+                    "text": "嗯……",
+                    "textJp": "ぬん……！",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "所罗门_B020.wav"
+                },
+                {
+                    "title": "未知",
+                    "text": "喝！",
+                    "textJp": "てい！",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "所罗门_B030.wav"
+                },
+                {
+                    "title": "未知",
+                    "text": "还不够！",
+                    "textJp": "まだまだ！",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "所罗门_B040.wav"
+                },
+                {
+                    "title": "未知",
+                    "text": "你说你不要魔术王之名吧。",
+                    "textJp": "魔術王の名はいらない、と言ったな",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "所罗门_B250.wav"
+                },
+                {
+                    "title": "未知",
+                    "text": "那就容我这么自报名号吧。",
+                    "textJp": "では、その名を語らせてもらおうか",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "所罗门_B251.wav"
+                }
+            ]
+        }
+    ],
+    "bondCraft": -1,
+    "valentineCraft": [],
+    "icons": [],
+    "sprites": [],
+    "fandomIcons": {
+        "fandom.Romanicon.png": "Icon 1"
+    },
+    "fandomSprites": {
+        "fandom.Solomon True.png": "Sprite"
+    },
+    "niceSkills": [],
+    "niceClassPassive": [
+        {
+            "id": 83550,
+            "num": 1,
+            "name": "陣地作成 A",
+            "ruby": "じんちさくせい",
+            "detail": "自身のArtsカードの性能をアップ",
+            "type": "passive",
+            "strengthStatus": 1,
+            "priority": 1,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "conLv": 0,
+            "condLimitCount": 0,
+            "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00104.png",
+            "coolDown": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "functions": [
+                {
+                    "funcId": 109,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "アーツアップ",
+                    "buffs": [
+                        {
+                            "id": 101,
+                            "name": "Artsアップ",
+                            "detail": "Artsカードの性能をアップ",
+                            "type": "upCommandall",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 80350,
+            "num": 1,
+            "name": "道具作成 C",
+            "ruby": "どうぐさくせい",
+            "detail": "自身の弱体付与成功率を少しアップ",
+            "type": "passive",
+            "strengthStatus": 1,
+            "priority": 1,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "conLv": 0,
+            "condLimitCount": 0,
+            "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00103.png",
+            "coolDown": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "functions": [
+                {
+                    "funcId": 373,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "弱体付与アップ",
+                    "buffs": [
+                        {
+                            "id": 158,
+                            "name": "弱体付与アップ",
+                            "detail": "弱体付与率をアップ",
+                            "type": "upGrantstate",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 60
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 60
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 60
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 60
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 60
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 60
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 60
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 60
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 60
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 60
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "niceNoblePhantasms": [
+        {
+            "id": 9935531,
+            "num": 1,
+            "card": "buster",
+            "name": "訣別の時きたれり、其は、世界を手放すもの",
+            "ruby": "アルス・ノヴァ",
+            "rank": "A",
+            "type": "対人宝具",
+            "detail": "敵単体に超強力な防御力無視攻撃＆やけど状態を付与(5ターン)<オーバーチャージで効果アップ>",
+            "npGain": {
+                "buster": [
+                    185,
+                    185,
+                    185,
+                    185,
+                    185
+                ],
+                "arts": [
+                    185,
+                    185,
+                    185,
+                    185,
+                    185
+                ],
+                "quick": [
+                    185,
+                    185,
+                    185,
+                    185,
+                    185
+                ],
+                "extra": [
+                    185,
+                    185,
+                    185,
+                    185,
+                    185
+                ],
+                "defence": [
+                    300,
+                    300,
+                    300,
+                    300,
+                    300
+                ],
+                "np": [
+                    185,
+                    185,
+                    185,
+                    185,
+                    185
+                ]
+            },
+            "npDistribution": [
+                16,
+                33,
+                51
+            ],
+            "strengthStatus": 0,
+            "priority": 101,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "individuality": [
+                {
+                    "id": 3000,
+                    "name": "attackPhysical"
+                },
+                {
+                    "id": 4002,
+                    "name": "cardBuster"
+                },
+                {
+                    "id": 4007,
+                    "name": "cardNP"
+                }
+            ],
+            "functions": [
+                {
+                    "funcId": 14,
+                    "funcType": "damageNpPierce",
+                    "funcTargetType": "enemy",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "なし",
+                    "buffs": [],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Value": 6000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 8000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 9000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 9500
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 10000
+                        }
+                    ]
+                },
+                {
+                    "funcId": 1890,
+                    "funcType": "addState",
+                    "funcTargetType": "enemy",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "やけど",
+                    "buffs": [
+                        {
+                            "id": 740,
+                            "name": "やけど(非重複)",
+                            "detail": "ターン終了時にHPが減る(重複してかからない)",
+                            "type": "reduceHp",
+                            "buffGroup": 101
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 5,
+                            "Count": -1,
+                            "Value": 500
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 5,
+                            "Count": -1,
+                            "Value": 500
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 5,
+                            "Count": -1,
+                            "Value": 500
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 5,
+                            "Count": -1,
+                            "Value": 500
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 5,
+                            "Count": -1,
+                            "Value": 500
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "atkGrowth": [
+        1645,
+        1744,
+        1843,
+        1942,
+        2041,
+        2149,
+        2248,
+        2347,
+        2446,
+        2554,
+        2653,
+        2752,
+        2851,
+        2959,
+        3058,
+        3157,
+        3256,
+        3364,
+        3464,
+        3563,
+        3662,
+        3761,
+        3869,
+        3968,
+        4067,
+        4166,
+        4274,
+        4373,
+        4472,
+        4571,
+        4679,
+        4778,
+        4877,
+        4976,
+        5084,
+        5183,
+        5283,
+        5382,
+        5481,
+        5589,
+        5688,
+        5787,
+        5886,
+        5994,
+        6093,
+        6192,
+        6291,
+        6399,
+        6498,
+        6597,
+        6696,
+        6804,
+        6903,
+        7002,
+        7102,
+        7201,
+        7309,
+        7408,
+        7507,
+        7606,
+        7714,
+        7813,
+        7912,
+        8011,
+        8119,
+        8218,
+        8317,
+        8416,
+        8524,
+        8623,
+        8722,
+        8821,
+        8921,
+        9029,
+        9128,
+        9227,
+        9326,
+        9434,
+        9533,
+        9632,
+        9731,
+        9839,
+        9938,
+        10037,
+        10136,
+        10244,
+        10343,
+        10442,
+        10541,
+        10650
+    ],
+    "hpGrowth": [
+        2091,
+        2224,
+        2358,
+        2492,
+        2626,
+        2772,
+        2906,
+        3040,
+        3173,
+        3319,
+        3453,
+        3587,
+        3721,
+        3867,
+        4001,
+        4135,
+        4269,
+        4415,
+        4548,
+        4682,
+        4816,
+        4950,
+        5096,
+        5230,
+        5364,
+        5498,
+        5644,
+        5777,
+        5911,
+        6045,
+        6191,
+        6325,
+        6459,
+        6593,
+        6739,
+        6873,
+        7006,
+        7140,
+        7274,
+        7420,
+        7554,
+        7688,
+        7822,
+        7968,
+        8101,
+        8235,
+        8369,
+        8515,
+        8649,
+        8783,
+        8917,
+        9063,
+        9197,
+        9330,
+        9464,
+        9598,
+        9744,
+        9878,
+        10012,
+        10146,
+        10292,
+        10426,
+        10559,
+        10693,
+        10839,
+        10973,
+        11107,
+        11241,
+        11387,
+        11521,
+        11655,
+        11788,
+        11922,
+        12068,
+        12202,
+        12336,
+        12470,
+        12616,
+        12750,
+        12884,
+        13017,
+        13163,
+        13297,
+        13431,
+        13565,
+        13711,
+        13845,
+        13979,
+        14112,
+        14259
+    ],
+    "figure": [
+        "https://static.atlasacademy.io/JP/CharaFigure/99355300/99355300_merged.png"
+    ],
+    "ascension": [
+        "https://static.atlasacademy.io/JP/CharaGraph/9935530/9935530a.png"
+    ]
+}

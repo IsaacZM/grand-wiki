@@ -1,0 +1,3107 @@
+{
+    "no": 192,
+    "svtId": 503300,
+    "mcLink": "俄刻阿诺斯的Caster",
+    "icon": "Servant192.jpg",
+    "info": {
+        "gameId": 503300,
+        "name": "喀耳刻",
+        "nameJp": "キルケー",
+        "nameEn": "Circe",
+        "namesOther": [
+            "喀耳刻",
+            "俄刻阿诺斯的Caster",
+            "キルケー"
+        ],
+        "namesJpOther": [
+            "キルケー",
+            "オケアノスのキャスター"
+        ],
+        "namesEnOther": [
+            "Caster of Okeanos",
+            "Circe"
+        ],
+        "nicknames": [
+            "C姑",
+            "咕咕",
+            "姑姑",
+            "姑妈",
+            "喀耳刻",
+            "猪妈"
+        ],
+        "obtain": "常驻",
+        "obtains": [
+            "圣晶石常驻"
+        ],
+        "rarity": 4,
+        "rarity2": 4,
+        "weight": "39kg",
+        "height": "147cm",
+        "gender": "女性",
+        "illustrator": "左",
+        "illustratorJp": null,
+        "illustratorEn": "Hidari",
+        "className": "Caster",
+        "attribute": "天",
+        "isHumanoid": true,
+        "isWeakToEA": true,
+        "isTDNS": false,
+        "cv": [
+            "茜屋日海夏"
+        ],
+        "cvJp": [
+            "茜屋日海夏"
+        ],
+        "cvEn": [
+            "Akaneya Himika"
+        ],
+        "alignments": [
+            "混沌",
+            "中庸"
+        ],
+        "traits": [
+            "天地从者",
+            "阿耳戈船相关人员",
+            "人科"
+        ],
+        "ability": {
+            "strength": "E",
+            "endurance": "B",
+            "agility": "D",
+            "mana": "A+",
+            "luck": "A",
+            "np": "C"
+        },
+        "illustrations": {
+            "第１阶段": "喀耳刻立绘1.png",
+            "第２阶段": "喀耳刻立绘2.png",
+            "第３阶段": "喀耳刻立绘3.png",
+            "第４阶段": "喀耳刻立绘4.png",
+            "愚人节": "喀耳刻立绘f.png"
+        },
+        "cards": [
+            "Quick",
+            "Arts",
+            "Arts",
+            "Arts",
+            "Buster"
+        ],
+        "cardHits": {
+            "Quick": 3,
+            "Arts": 3,
+            "Buster": 2,
+            "Extra": 4,
+            "NP": 5
+        },
+        "cardHitsDamage": {
+            "Quick": [
+                16,
+                33,
+                51
+            ],
+            "Arts": [
+                16,
+                33,
+                51
+            ],
+            "Buster": [
+                33,
+                67
+            ],
+            "Extra": [
+                10,
+                20,
+                30,
+                40
+            ],
+            "NP": [
+                6,
+                13,
+                20,
+                26,
+                35
+            ]
+        },
+        "npRate": {
+            "Quick": "0.39%",
+            "Arts": "0.39%",
+            "Buster": "0.39%",
+            "Extra": "0.39%",
+            "NP": "0.39%",
+            "Defense": "3%"
+        },
+        "atkMin": 1445,
+        "hpMin": 1960,
+        "atkMax": 8671,
+        "hpMax": 12250,
+        "atk90": 9581,
+        "hp90": 13546,
+        "atk100": 10499,
+        "hp100": 14853,
+        "starRate": "10.8%",
+        "deathRate": "34.5%",
+        "criticalRate": "51"
+    },
+    "noblePhantasm": [
+        {
+            "state": "强化前",
+            "openCondition": "",
+            "name": "禁忌狂宴",
+            "nameJp": "禁断なる狂宴",
+            "upperName": "Metabo Piglets",
+            "upperNameJp": "メタボ・ピグレッツ",
+            "color": "Buster",
+            "category": "单体",
+            "rank": "C",
+            "typeText": "对人宝具",
+            "effects": [
+                {
+                    "description": "对敌方单体发动超强大的攻击<宝具升级效果提升>",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "600%",
+                        "800%",
+                        "900%",
+                        "950%",
+                        "1000%"
+                    ]
+                },
+                {
+                    "description": "付与猪化状态<特殊的眩晕状态>(对部分特殊的敌人无效)(1回合)",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "∅"
+                    ]
+                },
+                {
+                    "description": "暴击发生率下降(3回合)<Over Charge时效果提升>",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "10%",
+                        "20%",
+                        "30%",
+                        "40%",
+                        "50%"
+                    ]
+                }
+            ]
+        },
+        {
+            "state": "强化后",
+            "openCondition": "通关「强化关卡 喀耳刻」后强化。\n\n''（开放条件：达到灵基再临第4阶段。开放时间：从者强化任务 第14弹～6th Anniversary～特别篇。）''",
+            "name": "禁忌狂宴",
+            "nameJp": "禁断なる狂宴",
+            "upperName": "Metabo Piglets",
+            "upperNameJp": "メタボ・ピグレッツ",
+            "color": "Buster",
+            "category": "单体",
+            "rank": "C+",
+            "typeText": "对人宝具",
+            "effects": [
+                {
+                    "description": "对敌方单体发动超强大的攻击<宝具升级效果提升>",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "800%",
+                        "1000%",
+                        "1100%",
+                        "1150%",
+                        "1200%"
+                    ]
+                },
+                {
+                    "description": "付与猪化状态<特殊的眩晕状态>(对部分特殊的敌人无效)(1回合)",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "∅"
+                    ]
+                },
+                {
+                    "description": "暴击发生率下降(3回合)<Over Charge时效果提升>",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "10%",
+                        "20%",
+                        "30%",
+                        "40%",
+                        "50%"
+                    ]
+                },
+                {
+                    "description": "解除攻击强化状态",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "∅"
+                    ]
+                }
+            ]
+        }
+    ],
+    "noblePhantasmEn": [
+        {
+            "state": "Rank C",
+            "openCondition": null,
+            "name": "Metabo Piglets",
+            "nameJp": null,
+            "upperName": "Metabo Piglets",
+            "upperNameJp": null,
+            "color": "Buster",
+            "category": "",
+            "rank": "C",
+            "typeText": "Anti-Unit",
+            "effects": [
+                {
+                    "description": "Deals damage to one enemy. \n Transforms them into Pig for 1 turn.\n(Similar to Stun but only works on certain enemies.)",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                },
+                {
+                    "description": " Damage +",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "600%",
+                        "800%",
+                        "900%",
+                        "950%",
+                        "1000%"
+                    ]
+                },
+                {
+                    "description": "<Over Charge>\nReduces their critical attack chance for 3 turns.",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                },
+                {
+                    "description": " Crit Chance -",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "10%",
+                        "20%",
+                        "30%",
+                        "40%",
+                        "50%"
+                    ]
+                }
+            ]
+        },
+        {
+            "state": "Rank C+",
+            "openCondition": "Upgrades after Strengthen 1",
+            "name": "Metabo Piglets",
+            "nameJp": null,
+            "upperName": "Metabo Piglets",
+            "upperNameJp": null,
+            "color": "Buster",
+            "category": "",
+            "rank": "C+",
+            "typeText": "Anti-Unit",
+            "effects": [
+                {
+                    "description": "Deals damage to one enemy. \n Transforms them into Pig for 1 turn.\n(Similar to Stun but only works on certain enemies.)\nRemoves their offensive buffs. \n({{Offensive Buffs}})",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                },
+                {
+                    "description": " Damage +",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "800%",
+                        "1000%",
+                        "1100%",
+                        "1150%",
+                        "1200%"
+                    ]
+                },
+                {
+                    "description": "<Over Charge>\nReduces their critical attack chance for 3 turns.",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                },
+                {
+                    "description": " Crit Chance -",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "10%",
+                        "20%",
+                        "30%",
+                        "40%",
+                        "50%"
+                    ]
+                }
+            ]
+        }
+    ],
+    "activeSkills": [
+        {
+            "cnState": 0,
+            "skills": [
+                {
+                    "state": "",
+                    "openCondition": "",
+                    "name": "高速神言",
+                    "nameJp": "高速神言",
+                    "nameEn": null,
+                    "rank": "B",
+                    "icon": "充能.png",
+                    "cd": 9,
+                    "effects": [
+                        {
+                            "description": "自身的NP大幅增加",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "60%",
+                                "66%",
+                                "72%",
+                                "78%",
+                                "84%",
+                                "90%",
+                                "96%",
+                                "102%",
+                                "108%",
+                                "120%"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "cnState": 0,
+            "skills": [
+                {
+                    "state": "",
+                    "openCondition": "",
+                    "name": "毒之食馔",
+                    "nameJp": "毒の食饌",
+                    "nameEn": null,
+                    "rank": "A",
+                    "icon": "毒.png",
+                    "cd": 7,
+                    "effects": [
+                        {
+                            "description": "付与敌方全体毒状态(3回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "500",
+                                "550",
+                                "600",
+                                "650",
+                                "700",
+                                "750",
+                                "800",
+                                "850",
+                                "900",
+                                "1000"
+                            ]
+                        },
+                        {
+                            "description": "防御力下降(3回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "10%",
+                                "11%",
+                                "12%",
+                                "13%",
+                                "14%",
+                                "15%",
+                                "16%",
+                                "17%",
+                                "18%",
+                                "20%"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "cnState": 0,
+            "skills": [
+                {
+                    "state": "",
+                    "openCondition": "",
+                    "name": "启航助言",
+                    "nameJp": "出航の助言",
+                    "nameEn": null,
+                    "rank": "A",
+                    "icon": "掉星率增加.png",
+                    "cd": 8,
+                    "effects": [
+                        {
+                            "description": "己方全体的暴击星掉落率提升(3回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "30%",
+                                "32%",
+                                "34%",
+                                "36%",
+                                "38%",
+                                "40%",
+                                "42%",
+                                "44%",
+                                "46%",
+                                "50%"
+                            ]
+                        },
+                        {
+                            "description": "弱化状态解除",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "∅"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "activeSkillsEn": [
+        {
+            "cnState": 0,
+            "skills": [
+                {
+                    "state": "",
+                    "openCondition": null,
+                    "name": "High-Speed Divine Words",
+                    "nameJp": null,
+                    "nameEn": null,
+                    "rank": "B",
+                    "icon": "充能.png",
+                    "cd": 9,
+                    "effects": [
+                        {
+                            "description": "Charges own NP gauge.",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": []
+                        },
+                        {
+                            "description": " NP +",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "60%",
+                                "66%",
+                                "72%",
+                                "78%",
+                                "84%",
+                                "90%",
+                                "96%",
+                                "102%",
+                                "108%",
+                                "120%"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "cnState": 0,
+            "skills": [
+                {
+                    "state": "",
+                    "openCondition": null,
+                    "name": "Intoxicated Meal",
+                    "nameJp": null,
+                    "nameEn": null,
+                    "rank": "A",
+                    "icon": "毒.png",
+                    "cd": 7,
+                    "effects": [
+                        {
+                            "description": "Inflicts Poison for 3 turns to all enemies.\nReduces their defense for 3 turns.",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": []
+                        },
+                        {
+                            "description": " Poison Damage +",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "500",
+                                "550",
+                                "600",
+                                "650",
+                                "700",
+                                "750",
+                                "800",
+                                "850",
+                                "900",
+                                "1000"
+                            ]
+                        },
+                        {
+                            "description": " Defense -",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "10%",
+                                "11%",
+                                "12%",
+                                "13%",
+                                "14%",
+                                "15%",
+                                "16%",
+                                "17%",
+                                "18%",
+                                "20%"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "cnState": 0,
+            "skills": [
+                {
+                    "state": "",
+                    "openCondition": null,
+                    "name": "Advice for Sailing",
+                    "nameJp": null,
+                    "nameEn": null,
+                    "rank": "A",
+                    "icon": "掉星率增加.png",
+                    "cd": 8,
+                    "effects": [
+                        {
+                            "description": "Increases party's critical star generation rate for 3 turns.\n Removes party's debuffs.",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": []
+                        },
+                        {
+                            "description": " Star Rate +",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "30%",
+                                "32%",
+                                "34%",
+                                "36%",
+                                "38%",
+                                "40%",
+                                "42%",
+                                "44%",
+                                "46%",
+                                "50%"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "passiveSkills": [
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "阵地建造",
+            "nameJp": null,
+            "nameEn": null,
+            "rank": "B",
+            "icon": "阵地建造.png",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": "自身的Arts指令卡性能提升(8%)",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                }
+            ]
+        },
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "道具作成",
+            "nameJp": null,
+            "nameEn": null,
+            "rank": "A",
+            "icon": "道具作成.png",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": "自身的弱化状态成功率提升(10%)",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                }
+            ]
+        }
+    ],
+    "passiveSkillsEn": [
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "Territory Creation",
+            "nameJp": null,
+            "nameEn": null,
+            "rank": "B",
+            "icon": "fandom.Territory creation.png",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": " Increases own Arts performance by 8%.",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                }
+            ]
+        },
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "Item Construction",
+            "nameJp": null,
+            "nameEn": null,
+            "rank": "A",
+            "icon": "fandom.Item construction.png",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": " Increases own debuff success rate by 10%.",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                }
+            ]
+        }
+    ],
+    "appendSkills": [
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "追击技巧提升",
+            "nameJp": "追撃技巧向上",
+            "nameEn": "Extra Attack Finesse Improvement",
+            "rank": null,
+            "icon": "特攻",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": "自身的Extra Attack指令卡性能提升",
+                    "descriptionJp": "自身のExtra Attackカードの性能をアップする",
+                    "descriptionEn": "Increases own Extra Attack performance",
+                    "lvData": [
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "38%",
+                        "40%",
+                        "42%",
+                        "44%",
+                        "46%",
+                        "50%"
+                    ]
+                }
+            ]
+        },
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "魔力装填",
+            "nameJp": "魔力装填",
+            "nameEn": "Mana Loading",
+            "rank": null,
+            "icon": "充能",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": "自身以NP已达一定数值的状态开始战斗",
+                    "descriptionJp": "自身のNPをチャージした状態でバトルを開始する",
+                    "descriptionEn": "Starts battle with NP gauge",
+                    "lvData": [
+                        "10%",
+                        "11%",
+                        "12%",
+                        "13%",
+                        "14%",
+                        "15%",
+                        "16%",
+                        "17%",
+                        "18%",
+                        "20%"
+                    ]
+                }
+            ]
+        },
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "对Caster攻击适性",
+            "nameJp": "対Caster攻撃適性",
+            "nameEn": "Anti-Caster Attack Damage Aptitude",
+            "rank": null,
+            "icon": "加攻",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": "自身对Caster的攻击力提升",
+                    "descriptionJp": "自身の〔Caster〕クラスに対する攻撃力をアップする",
+                    "descriptionEn": "Increases own attack against Caster enemies",
+                    "lvData": [
+                        "20%",
+                        "21%",
+                        "22%",
+                        "23%",
+                        "24%",
+                        "25%",
+                        "26%",
+                        "27%",
+                        "28%",
+                        "30%"
+                    ]
+                }
+            ]
+        }
+    ],
+    "coinSummonNum": 30,
+    "itemCost": {
+        "ascension": [
+            {
+                "术阶银棋": 4,
+                "QP": 50000
+            },
+            {
+                "术阶银棋": 10,
+                "禁断书页": 6,
+                "QP": 150000
+            },
+            {
+                "术阶金像": 4,
+                "起源的胎毛": 5,
+                "凤凰羽毛": 4,
+                "QP": 500000
+            },
+            {
+                "术阶金像": 10,
+                "凤凰羽毛": 7,
+                "智慧之圣甲虫像": 4,
+                "QP": 1500000
+            }
+        ],
+        "skill": [
+            {
+                "术之辉石": 4,
+                "QP": 100000
+            },
+            {
+                "术之辉石": 10,
+                "QP": 200000
+            },
+            {
+                "术之魔石": 4,
+                "QP": 600000
+            },
+            {
+                "术之魔石": 10,
+                "起源的胎毛": 3,
+                "QP": 800000
+            },
+            {
+                "术之秘石": 4,
+                "起源的胎毛": 5,
+                "QP": 2000000
+            },
+            {
+                "术之秘石": 10,
+                "禁断书页": 4,
+                "QP": 2500000
+            },
+            {
+                "禁断书页": 8,
+                "宵泣之铁桩": 15,
+                "QP": 5000000
+            },
+            {
+                "宵泣之铁桩": 45,
+                "蛮神心脏": 8,
+                "QP": 6000000
+            },
+            {
+                "传承结晶": 1,
+                "QP": 10000000
+            }
+        ],
+        "appendSkill": [
+            {
+                "术之辉石": 4,
+                "QP": 100000
+            },
+            {
+                "术之辉石": 10,
+                "QP": 200000
+            },
+            {
+                "术之魔石": 4,
+                "QP": 600000
+            },
+            {
+                "术之魔石": 10,
+                "万死的毒针": 10,
+                "QP": 800000
+            },
+            {
+                "术之秘石": 4,
+                "万死的毒针": 20,
+                "QP": 2000000
+            },
+            {
+                "术之秘石": 10,
+                "陨蹄铁": 4,
+                "QP": 2500000
+            },
+            {
+                "陨蹄铁": 8,
+                "魔术髓液": 15,
+                "QP": 5000000
+            },
+            {
+                "魔术髓液": 45,
+                "悠久果实": 12,
+                "QP": 6000000
+            },
+            {
+                "传承结晶": 1,
+                "QP": 10000000
+            }
+        ]
+    },
+    "costumeNos": [],
+    "bondPoints": [
+        1500,
+        2250,
+        3000,
+        3750,
+        4500,
+        225000,
+        260000,
+        270000,
+        300000,
+        395000,
+        1090000,
+        1230000,
+        1360000,
+        1500000,
+        1640000
+    ],
+    "profiles": [
+        {
+            "title": "0",
+            "description": "神话中有名的诱惑与堕落之魔女。\n容易爱上他人，醋劲很大的永恒少女。\n她那溺宠与怜爱的玩赏的手段充满了禁忌的甜蜜滋味。\n只不过，千万要小心称呼她的方式。\n如果你还想继续当一名人类的话……",
+            "descriptionJp": "神話に名高き、誘惑と堕落の魔女。\n惚れっぽくて嫉妬深い、永遠の乙女。\nいじらしく甘やかす、その愛玩の手練手管は\nまさに禁断の蜜の味。\nただし、彼女の呼び方だけは気をつけるがいい。貴方がまだ人間でいたいのならば……。",
+            "descriptionEn": "The witch of temptation and depravity, famous in mythology.\n\nAn eternal maiden, with a tendency to fall in love and become deeply jealous.\n\nInnocent and pampered, her wiles in caring for another truly has the taste of a forbidden nectar.\n\nHowever, one must be careful about how to refer to her. That is, if you still want to remain a human...",
+            "condition": null,
+            "conditionEn": null
+        },
+        {
+            "title": "1",
+            "description": "身高／体重：147cm·39kg\n出处：希腊神话\n地域：欧洲\n属性：混沌·中庸　　性别：女性\n鹰之翼是服装，但也是魔术回路能到达的身体的一部分。",
+            "descriptionJp": "身長／体重：147cm・39kg\n出典：ギリシャ神話\n地域：欧州\n属性：混沌・中庸　　性別：女性\n鷹の翼は衣裳だが、魔術回路の行き届く身体の一部でもある。",
+            "descriptionEn": "Height/Weight: 147cm・39kg\n\nSource: Greek Mythology\n\nRegion: Europe\n\nAlignment: Chaotic・Neutral\n\nGender: Female\n\nThe falcon wings are a costume but, from the way how her magic circuits run through it, they can also be seen as a part of her body.",
+            "condition": "真名解放且羁绊Lv.1时开放",
+            "conditionEn": null
+        },
+        {
+            "title": "2",
+            "description": "在荷马史诗『奥德赛』中登场。\n是神话中著名的艾尤岛魔女。\n与女神赫卡忒的系谱相关，乃司掌月与爱的半神。\n是擅长调配具各种功效或有变异效果的魔法药的理科女。\n会用美食款待造访岛屿的人类男子，等他们吃饱之后，\n将他们变成狮子、狼或者猪等动物。\n哥哥是埃厄忒斯（美狄亚的父亲·科尔基斯王）。\n妹妹是帕西淮（阿斯忒里俄斯的母亲·克里特王米诺斯的\n妻子）。",
+            "descriptionJp": "ホメロスの叙事詩『オデュッセイア』に登場。\nアイアイエー島の神話に名高き魔女。\n女神ヘカテの系譜に連なる、月と愛を司る半神。\nさまざまな効能や変異をもたらす魔法薬の調合を得意とするリケジョ。\n島を訪れた人間の男をご馳走でもてなし歓待するが、飽きてしまうと獅子や狼、豚といった動物に変えてしまう。\n兄はアイエーテス（メディアの父・コルキス王）。妹はパーシパエー（アステリオスの母・クレタ王ミーノースの妻）。",
+            "descriptionEn": "She appears in the epic poem of Homer - the \"Odysseia\".\n\nA famous witch from the mythology of Aeaea Island.\n\nA demigod that presides over the moon and love, related to the genealogy of the goddess Hecate.\n\nA rikejo that has the mixing of a magic drug that brings about various effects and mutations as her forte.\n\nAlthough she would show a warm welcome to the human men that visited her island with by entertaining them with a feast, she turned them into lions, wolves and pigs upon growing bored on them.\n\nHer older brother is Aeetes (the King of Colchis・father of Medea). Her younger sister is Pasiphae (wife of Minos, King of Crete・mother of Asterios).",
+            "condition": "真名解放且羁绊Lv.2时开放",
+            "conditionEn": null
+        },
+        {
+            "title": "3",
+            "description": "『禁忌狂宴』\n阶级：C　种类：对人宝具\nMetabo Piglets\n召唤的固有结界。\n被邀请到豪华酒宴空间的不识趣的家伙们，\n会遭到魔女喀耳刻的爱猪“仔猪”蹂躏。\n愉快而吵闹，让人吃到肚子都涨破的可怕魔术之宴。\n一旦尝过这种陶醉滋味的人，\n就会主动要求堕落为她的爱猪。",
+            "descriptionJp": "『禁断なる狂宴』\nランク：Ｃ　種別：対人宝具\nメタボ・ピグレッツ。\n召喚の固有結界。\n豪勢な酒宴空間に招かれた無粋な輩は、魔女キルケーの愛豚“ピグレット”に蹂躙される。\n愉快で騒がしく、はち切れるほど満腹になる恐るべき魔術の宴。法悦の味を覚えた者は、みずから進んで愛豚に堕ちるを望む。",
+            "descriptionEn": "Forbidden Revelry\n\nRank: C\n\nType: Anti-Unit\n\nMetabo Piglets.\n\nA Reality Marble of summoning.\n\nThe boorish fellows that were invited to the extravagant banquet room are trampled down by the beloved “piglets” of the witch Circe.\n\nA joyful, boisterous and fearsome magic feast that fills one’s stomach to the point of bursting. Those who experienced the taste of ecstasy will wish to degrade into piglets on their own accord.",
+            "condition": "真名解放且羁绊Lv.3时开放",
+            "conditionEn": null
+        },
+        {
+            "title": "4",
+            "description": "喜欢：\n会依靠自己的有缺点的人类男性。\n会用麦粥“休刻翁”招待对方。\n讨厌：\n遭到男性的厌倦，被单方面保护。\n\n之所以在某个时间点之后，会将荷马都赞叹不已的，\n她那头引以为傲的美丽秀发果断剪短，\n都是因为经历了令她备受打击的失恋。",
+            "descriptionJp": "好き：\n自分を頼りにしてくれる、欠点のある人間の男性。麦粥“キュケオーン”をご馳走すること。\n嫌い：\n男性に飽きられたり、一方的に護られること。\n\nホメロスも讃えた自慢の美しい髪を、ある時期からばっさりと短くしてしまったのは、彼女をうちのめす手痛い失恋を経験してから。",
+            "descriptionEn": "Likes:\n\nFlawed human men who rely on her. To treat other to her wheat porridge, Circaea.\n\nDislikes:\n\nFor men to lose interest on her. To be one-sidedly protected.\n\n\nThe reason why, after a certain point of time, she drastically cut her beautiful hair short - which even Homer praised - was due having experienced a severe unrequited love that completely overwhelmed her.",
+            "condition": "真名解放且羁绊Lv.4时开放",
+            "conditionEn": null
+        },
+        {
+            "title": "5",
+            "description": "当海神格劳科斯找她商量恋爱问题的时候，\n由于她自己爱上了心有所属的格劳科斯却被格劳科斯拒绝，\n于是妒火中烧地将他爱上的少女斯库拉变成了怪物。\n斯库拉那之后被喂食了奥德修斯的六名部下。\n\n英雄奥德修斯在返回故乡的途中经过艾尤岛，\n被喀耳刻用下了毒的麦粥招待，\n但他在赫耳墨斯的佑护下破除了魔法，\n以至于最终得到了她的好感。在奥德修斯离开时，\n她还赐予了他能回避途中艰险险阻的有价值的助言。",
+            "descriptionJp": "海神グラウコスから恋愛相談を持ちかけられた際には、グラウコスに横恋慕をして拒絶され、嫉妬が高じて、相手の乙女スキュラを怪物へと変えてしまった。このスキュラは後にオデュッセウスの六人の部下を食らっている。\n\n英雄オデュッセウスは、故郷への帰還の途中にアイアイエー島に立ち寄り、キルケーの毒入りの麦粥を勧められるが、ヘルメスの加護をもってその魔法を破ったため、特に彼女から気に入られる結果となった。オデュッセウスが立ち去る際には、旅の苦難を避ける有益な助言を彼に与えている。",
+            "descriptionEn": "When the Sea God Glaucus sought a love advice from her, she grew jealous after being rejected by Glaucus once they had an illicit affair and ended up turning his beloved maiden Scylla into a monster. Said Scylla would later devour six of Odysseus’ subordinates.\n\n\nThe hero Odysseus stopped by Aeaea Island on his way back to his homeland and was offered a poisoned wheat porridge by Circe, but she took a liking of him in the end as a result of breaking her magic with the divine protection of Hermes. When Odysseus departed, she gave him useful advices for avoiding hardships in his travel.",
+            "condition": "真名解放且羁绊Lv.5时开放",
+            "conditionEn": null
+        },
+        {
+            "title": "6",
+            "description": "向圣杯许下的愿望是那位英雄能够回首，再次造访艾尤岛。\n顺便向他说出那句没能说出口的话。仅此而已。",
+            "descriptionJp": "聖杯への願いは、もう一度だけ彼の英雄が振り返り、アイアイエー島を訪れてくれること。\n遂に彼に向かって告白できなかった、ある言葉を伝えたい。ただそれだけ。",
+            "descriptionEn": "Her wish upon the grail is for the hero to return and visit Aeaea once more. Ultimately, she wants to tell him the words that she couldn't bring herself to say to him in person... That is all.",
+            "condition": "通关 阿耳戈号的诅咒后开放",
+            "conditionEn": null
+        },
+        {
+            "title": "aprilfool",
+            "description": "可爱魔女从者\n一有机会就立刻为你盛满好喝的粥的长得漂亮又迷人的邻家大姐姐。非常喜欢动物（特别是小猪）而且很会照顾人既直爽又温柔的大姐姐。会对好男人盛情款待出手大方的有钱大姐姐。在你感觉不好的时候会为你调和秘传的药再喂你喝下的具有奉献精神的聪慧大姐姐。无论是谁都想和她在无人岛一起开始二人生活追求者众多的超受欢迎大姐姐。要喜欢她的话就趁现在了哦。",
+            "descriptionJp": "かわいいまじょサーヴァント\nなにかというとすぐおいしいおかゆをよそってくれる美人でチャーミングな隣のおねえさん。動物（特にこぶた）が大好きで面倒見がいい気さくで優しいおねえさん。素敵な殿方にはごちそうをたくさんごちそうしてくれるリッチで気前がいいおねえさん。具合が悪いときは秘伝のお薬を調合して飲ませてくれる知的で献身的なおねえさん。誰もが彼女と無人島にふたりきりでずっと暮らしたくなるモテモテで引く手数多なおねえさん。好きになるなら今のうちだぞ。",
+            "descriptionEn": "Cute Witch-Type Servant\n\nA pretty, charming lady who makes porridge for you any time something bad happens. She loves animals (especially piglets), is kind, and takes care of those around her. She's rich and will treat her man right. If you're sick, she will make some medicine to make you instantly better, all while standing by you to make sure you recover. Almost everyone wants to go off to a remote island alone with her and spend the rest of their lives with her. She's crazy popular, so there's no better time to fall in love with her than now!",
+            "condition": null,
+            "conditionEn": null
+        }
+    ],
+    "voices": [
+        {
+            "section": "战斗",
+            "table": [
+                {
+                    "title": "开始 1",
+                    "text": "呵呵。开始动手吧。",
+                    "textJp": "ふふ……やるとしようか",
+                    "textEn": "Teehee. Let's do this!",
+                    "condition": null,
+                    "voiceFile": "192di_btst1.mp3"
+                },
+                {
+                    "title": "开始 2",
+                    "text": "在这里建一座猪圈吧！",
+                    "textJp": "ここにブタ小屋を建てよう！",
+                    "textEn": "Let's build a pig pen here!",
+                    "condition": null,
+                    "voiceFile": "192di_btst2.mp3"
+                },
+                {
+                    "title": "技能 1",
+                    "text": "呵呵。我明白了。",
+                    "textJp": "ふふっ、理解した",
+                    "textEn": "Teehee. Got it.",
+                    "condition": null,
+                    "voiceFile": "192di_sk1.mp3"
+                },
+                {
+                    "title": "技能 2",
+                    "text": "想要喝麦粥吗？",
+                    "textJp": "キュケオーンをお食べ？",
+                    "textEn": "Want to try some kykeon?",
+                    "condition": null,
+                    "voiceFile": "192di_sk2.mp3"
+                },
+                {
+                    "title": "技能 3",
+                    "text": "我可是大魔女哦？",
+                    "textJp": "大魔女だぞ？",
+                    "textEn": "I'm THE great witch, you know?",
+                    "condition": null,
+                    "voiceFile": "SV192_0_技能3.mp3"
+                },
+                {
+                    "title": "技能 4",
+                    "text": "啊喂稍微等下糟了！",
+                    "textJp": "わ、ちょっ待っ！？ あわわやばっ！",
+                    "textEn": "Hey wait a minute...ah! Oh crap!",
+                    "condition": null,
+                    "voiceFile": "SV192_0_技能4.mp3"
+                },
+                {
+                    "title": "指令卡 1",
+                    "text": "可以哦。",
+                    "textJp": "いいとも",
+                    "textEn": "Fine.",
+                    "condition": null,
+                    "voiceFile": "192di_atse1.mp3"
+                },
+                {
+                    "title": "指令卡 2",
+                    "text": "交给我吧。",
+                    "textJp": "任せろ",
+                    "textEn": "Leave it to me.",
+                    "condition": null,
+                    "voiceFile": "192di_atse2.mp3"
+                },
+                {
+                    "title": "指令卡 3",
+                    "text": "唔哎，开玩笑吧？",
+                    "textJp": "うへー、冗談だろ？",
+                    "textEn": "Argh, you've gotta be kidding me.",
+                    "condition": null,
+                    "voiceFile": "192di_atse3.mp3"
+                },
+                {
+                    "title": "宝具卡 1",
+                    "text": "何不让我们享受一段甜蜜时光呢……",
+                    "textJp": "あまーい時を過ごそうじゃないか……",
+                    "textEn": "Our time together will be so very sweet…",
+                    "condition": null,
+                    "voiceFile": "192di_npse1.mp3"
+                },
+                {
+                    "title": "宝具卡 2",
+                    "text": "献给我的女神！",
+                    "textJp": "我が女神に捧げよう！",
+                    "textEn": "I dedicate this to my goddess!",
+                    "condition": "真名隐藏",
+                    "voiceFile": "192di_npse2.mp3"
+                },
+                {
+                    "title": "宝具卡 2",
+                    "text": "献给女神赫卡忒！",
+                    "textJp": "女神ヘカテに捧げよう！",
+                    "textEn": "I dedicate this to Hecate!",
+                    "condition": "真名解放",
+                    "voiceFile": "192tndi_npse2.mp3"
+                },
+                {
+                    "title": "宝具卡 3",
+                    "text": "我会回应你的爱，呵呵。",
+                    "textJp": "君の愛に応えよう……ふふ",
+                    "textEn": "Oooh, so loving! I'll reciprocate! Teehee.",
+                    "condition": null,
+                    "voiceFile": "192di_npse3.mp3"
+                },
+                {
+                    "title": "攻击 1",
+                    "text": "看招！",
+                    "textJp": "それ！",
+                    "textEn": "There!",
+                    "condition": null,
+                    "voiceFile": "192di_at1.mp3"
+                },
+                {
+                    "title": "攻击 2",
+                    "text": "你看。",
+                    "textJp": "ほーら！",
+                    "textEn": "There you go!",
+                    "condition": null,
+                    "voiceFile": "192di_at2.mp3"
+                },
+                {
+                    "title": "攻击 3",
+                    "text": "呵呵！",
+                    "textJp": "ふふっ！",
+                    "textEn": "Teehee.",
+                    "condition": null,
+                    "voiceFile": "192di_at3.mp3"
+                },
+                {
+                    "title": "攻击 4",
+                    "text": "你喜欢疼痛吗！",
+                    "textJp": "痛いのが好きかい！？",
+                    "textEn": "Do you like pain?",
+                    "condition": null,
+                    "voiceFile": "192di_at4.mp3"
+                },
+                {
+                    "title": "攻击 5",
+                    "text": "魔力……开放！",
+                    "textJp": "魔力、解放！",
+                    "textEn": "Magical energy… unleashed!",
+                    "condition": null,
+                    "voiceFile": "192di_at5.mp3"
+                },
+                {
+                    "title": "攻击 6",
+                    "text": "好嘞，冲啊！",
+                    "textJp": "よーし、かかれぇ！",
+                    "textEn": "Ok, go get 'em!",
+                    "condition": null,
+                    "voiceFile": "192di_at6.mp3"
+                },
+                {
+                    "title": "Extra 1",
+                    "text": "咬上去！",
+                    "textJp": "喰らいつけ！",
+                    "textEn": "Bite them!",
+                    "condition": null,
+                    "voiceFile": "192di_exat1.mp3"
+                },
+                {
+                    "title": "Extra 2",
+                    "text": "由水底摇曳着出现吧！",
+                    "textJp": "水底より揺らぎ出でよ！",
+                    "textEn": "Come forth like a crashing wave!",
+                    "condition": null,
+                    "voiceFile": "192di_exat2.mp3"
+                },
+                {
+                    "title": "宝具",
+                    "text": "让你们久等了，我心爱的仔猪们！为宴席做准备，举办狂宴款待客人吧！来吧，暴饮暴食！禁忌狂宴！呵呵，啊哈哈哈哈哈！",
+                    "textJp": "待たせたね、私の愛しいピグレット達！　宴を張ろう、饗宴を開き、客人をもてなそう！　さぁ、暴れ呑み、貪食せよ！　『禁断なる狂宴』！　ふふ……ふふっ、あはははははははっ！",
+                    "textEn": "Sorry to keep you waiting, my lovely piglets! Let's hold a banquet…and welcome our guests to out crazy party! Come! Eat, drink, be merry! Gorge yourselves! Metabole Piglets! Hahaha…ahahahahaha!",
+                    "condition": null,
+                    "voiceFile": "192di_np.mp3"
+                },
+                {
+                    "title": "受击 1",
+                    "text": "呜，还挺能干的嘛……",
+                    "textJp": "ぐ……やるじゃないか！",
+                    "textEn": "Ungh…good one…",
+                    "condition": null,
+                    "voiceFile": "192di_da1.mp3"
+                },
+                {
+                    "title": "受击 2",
+                    "text": "呜！",
+                    "textJp": "ぐぅっ",
+                    "textEn": "Ungh.",
+                    "condition": null,
+                    "voiceFile": "192di_da2.mp3"
+                },
+                {
+                    "title": "无法战斗 1",
+                    "text": "啊啊，输了啊～。",
+                    "textJp": "あ～ん、負けた～！",
+                    "textEn": "Aarrgh, I lost…",
+                    "condition": null,
+                    "voiceFile": "192di_de1.mp3"
+                },
+                {
+                    "title": "无法战斗 2",
+                    "text": "很不甘心吧……",
+                    "textJp": "悔しい、よな……",
+                    "textEn": "Dammit…",
+                    "condition": null,
+                    "voiceFile": "192di_de2.mp3"
+                },
+                {
+                    "title": "胜利 1",
+                    "text": "很好很好，我会给你们奖赏的，仔猪。",
+                    "textJp": "よ～しよし、ご褒美をあげようピグレット！",
+                    "textEn": "Good, good… I'll reward you well, my piglets.",
+                    "condition": null,
+                    "voiceFile": "192di_btf1.mp3"
+                },
+                {
+                    "title": "胜利 2",
+                    "text": "我的女神啊，向您表示感谢。",
+                    "textJp": "我が女神よ、感謝いたします",
+                    "textEn": "Thank you, my goddess.",
+                    "condition": "真名隐藏",
+                    "voiceFile": "192di_btf2.mp3"
+                },
+                {
+                    "title": "胜利 2",
+                    "text": "女神赫卡忒啊，向您表示感谢。",
+                    "textJp": "女神ヘカテよ、感謝いたします",
+                    "textEn": "Thank you, Hecate.",
+                    "condition": "真名解放",
+                    "voiceFile": "192tndi_btf2.mp3"
+                }
+            ]
+        },
+        {
+            "section": "召唤和强化",
+            "table": [
+                {
+                    "title": "召唤",
+                    "text": "我是俄刻阿诺斯的Caster。我不会再让你感到寂寞了。因为你邀请了我鹰之魔女哦。呵呵。",
+                    "textJp": "オケアノスのキャスターだ。もうきみを寂しくはさせないよ。この鷹の魔女を呼び招いたのだからね。ふふ。",
+                    "textEn": "I'm the Caster of Okeanos. Now that I'm here, you won't have to be lonely anymore. That's because you summoned me, the Falcon Witch! Teehee.",
+                    "condition": "真名隐藏",
+                    "voiceFile": "192di_sum.mp3"
+                },
+                {
+                    "title": "召唤",
+                    "text": "哟。我不会再让你感到寂寞了。因为你邀请了我魔女喀耳刻哦。呵呵。",
+                    "textJp": "やぁ。もうきみを寂しくはさせない。この魔女キルケーを呼び招いたのだからね。ふふ。",
+                    "textEn": "Hey! Now that I'm here, you won't have to be lonely anymore. That's because you summoned me, the witch, Circe! Teehee.",
+                    "condition": "真名解放",
+                    "voiceFile": "192tndi_sum.mp3"
+                },
+                {
+                    "title": "升级",
+                    "text": "呵呵，魔力提升啦。",
+                    "textJp": "ふふっ、魔力アップだ！",
+                    "textEn": "Teehee. Magical energy increased.",
+                    "condition": null,
+                    "voiceFile": "192di_lvup.mp3"
+                },
+                {
+                    "title": "灵基再临 1",
+                    "text": "以这个样子出现心情不禁有些复杂。这长发也很像少女，让……让人焦虑不安。",
+                    "textJp": "この姿でいるのは複雑な気持ちなんだ。この長い髪も、乙女のようで、落ち着かない",
+                    "textEn": "I'm a little conflicted about looking like this. The long hair makes me look like a maiden, and that's unsettling.",
+                    "condition": null,
+                    "voiceFile": "192di_asc1.mp3"
+                },
+                {
+                    "title": "灵基再临 2",
+                    "text": "爱你爱到想把你变成猪哦？是真的。",
+                    "textJp": "豚にしたいほど愛してるよ。……マジで",
+                    "textEn": "I love you so much, I want to make you a pig! Seriously.",
+                    "condition": null,
+                    "voiceFile": "192di_asc2.mp3"
+                },
+                {
+                    "title": "灵基再临 3",
+                    "text": "天有女神守护的辉煌，古代巨神族的灵气在吾血脉中流淌。来吧，伟大睿智将成为吾之翼振翅高飞！",
+                    "textJp": "天に女神の守護輝き、古の巨神族の霊気は我が地脈を巡らん……いざ、大いなる叡智は我が翼となりて羽ばたかん！",
+                    "textEn": "The protection of the goddess shine from the heavens, and the spirit of the ancient divine giants courses through my veins. Now, great wisdom will become my wings and take flight!",
+                    "condition": "真名隐藏",
+                    "voiceFile": "192di_asc3.mp3"
+                },
+                {
+                    "title": "灵基再临 3",
+                    "text": "天有赫卡忒守护的辉煌，古代提坦的灵气在吾血脉中流淌。来吧，伟大睿智将成为喀耳刻之翼振翅高飞！",
+                    "textJp": "天にヘカテの守護輝き、古のティーターンの霊気は我が地脈を巡らん……いざ、大いなる叡智はキルケーの翼となりて羽ばたかん！",
+                    "textEn": "The protection of Hecate shines from the heavens, and the spirit of the ancient Titans courses through my veins. Now, great wisdom will become the wings of Circe and take flight!",
+                    "condition": "真名解放",
+                    "voiceFile": "192tndi_asc3.mp3"
+                },
+                {
+                    "title": "灵基再临 4",
+                    "text": "其实呀，我是魔女哦。你触碰了不该触碰的东西哦。呵呵，我再也不会放开你了。",
+                    "textJp": "実はね、私、魔女なんだ。きみ、触れてはならぬものに触れてしまったね。ふふ……もう放さないよ",
+                    "textEn": "The truth is, I'm not just any witch. Knowing that and you still had to peek behind the curtain. Teehee. I'll never let you go now.",
+                    "condition": null,
+                    "voiceFile": "192di_asc4.mp3"
+                }
+            ]
+        },
+        {
+            "section": "个人空间",
+            "table": [
+                {
+                    "title": "羁绊 Lv.1",
+                    "text": "好。就在这里建一座猪圈吧。",
+                    "textJp": "よし！ ここに豚小屋を作ろう！",
+                    "textEn": "Okay. Let's build a pig pen here!",
+                    "condition": null,
+                    "voiceFile": "192di_bdlv1.mp3"
+                },
+                {
+                    "title": "羁绊 Lv.2",
+                    "text": "呵呵，呵呵，呵呵，我全都理解了哦。你也想成为我的爱猪（仔猪）吧？",
+                    "textJp": "ふふっ、ふふっ、ふふふっ、全部理解したよ！ 君もピグレットになりたいんだね！",
+                    "textEn": "Teehee. Hee… I get it now. You want to be one of my lovely piglets too, right?",
+                    "condition": null,
+                    "voiceFile": "192di_bdlv2.mp3"
+                },
+                {
+                    "title": "羁绊 Lv.3",
+                    "text": "你喜欢比较丰满的……？尽管我对自己的技术很有自信……嗯，我会加油的……",
+                    "textJp": "豊満な方が好みだったか！？ テクニックには自信あるんだけど！ むぅ……頑張るよ……！",
+                    "textEn": "So you prefer full-figured… I'm confident in my technique and skills though… Okay, I'll do my best…",
+                    "condition": null,
+                    "voiceFile": "192di_bdlv3.mp3"
+                },
+                {
+                    "title": "羁绊 Lv.4",
+                    "text": "我什么都愿意做，也愿意忍耐。只要你能和我在一起。所以……不要走啊……",
+                    "textJp": "なんだってするし、耐えられるんだ。一緒に居てくれさえするなら。だから、行かないで……",
+                    "textEn": "I can do anything and endure anything…as long as you're by my side. So…don't go…",
+                    "condition": null,
+                    "voiceFile": "192di_bdlv4.mp3"
+                },
+                {
+                    "title": "羁绊 Lv.5",
+                    "text": "没想到你真的把我带出来了……将被那座岛困住的我的灵魂。嗯，我愿意去任何地方。一起去旅行吧。躺在草原上做相同的梦吧。",
+                    "textJp": "本当に連れ出してくれる、とはね。あの島に囚われた、私の魂を。うん、どこへでも行くよ。一緒に旅をしよう！草はらに寝転んで、同じ夢を見よう",
+                    "textEn": "I didn't think you would really take me out. You rescued my soul from that island where I was imprisoned. Okay. I'll go anywhere now. Let's travel together. Let's lie on the grass and share the same dream.",
+                    "condition": null,
+                    "voiceFile": "192di_bdlv5.mp3"
+                },
+                {
+                    "title": "对话 1",
+                    "text": "想走就走啊，撇下我一个人不管好啦！……不，抱歉，那个……带上我吧？好吗？",
+                    "textJp": "行けばいいだろ！？　私を置いて何処へでもさぁ！　……いや、ごめん。あの……連れてって？　ねぇ？",
+                    "textEn": "Fine. Just go wherever you want and leave me behind! See if I care! …No, wait, I'm sorry. Um… Take me with you… Please?",
+                    "condition": null,
+                    "voiceFile": "192di_di1.mp3"
+                },
+                {
+                    "title": "对话 2",
+                    "text": "肚子饿不饿？",
+                    "textJp": "お腹空いてないかい？",
+                    "textEn": "Are you hungry?",
+                    "condition": null,
+                    "voiceFile": "192di_di2.mp3"
+                },
+                {
+                    "title": "对话 3",
+                    "text": "来，张嘴～。喝下这麦粥吧？……哈？　御主想喂给我喝？唔哎哎哎，开玩笑吧！？那……那就没办法了，就一次哦！啊，啊……",
+                    "textJp": "ほら、あーん。このキュケオーンをお食べ。……は？　マスターが私に食べさせたい……？　えええええ！！？　冗談だよな！？　……し、仕方ない。一度だけだ。あ、あーん……",
+                    "textEn": "Come on, open wide and say \"ahhh\". Try some of my kykeon. …Huh? You want to feed ME? Y-you're kidding, right!? F-fine. Just this once! A-aaahhh…",
+                    "condition": null,
+                    "voiceFile": "192di_di3.mp3"
+                },
+                {
+                    "title": "对话 4",
+                    "text": "美狄亚真可怜。那孩子的愚蠢在于荒废了女神赫卡忒的药术。可怜的孩子。真是……令人羡慕……",
+                    "textJp": "メディアは気の毒だった…。あの娘の愚かさは、女神ヘカテの薬術を疎かにしたことに尽きるよ。不憫な娘だ、本当に……。…羨ましい",
+                    "textEn": "I feel bad for Medea. She's such an idiot, all because she neglected Hecate's herbalis techniques. Poor child. I'm...really...jealous...",
+                    "condition": "持有美狄亚&真名解放",
+                    "voiceFile": "192tndi_di4.mp3"
+                },
+                {
+                    "title": "对话 5",
+                    "text": "美狄亚·Lily啊……说实话那孩子让人很棘手。我不擅长对付那种。压力可是让我的羽毛都掉了哦。",
+                    "textJp": "メディアリリィかぁー……。あの娘は正直やり辛いんだよ……。苦手なんだ、ストレスで羽根が抜けちゃうんだぞ！",
+                    "textEn": "Medea Lily...\n\nHmph, what a handful!\n\nI can't stand her.\n\nShe stresses me out so much it makes me molt!",
+                    "condition": "持有美狄亚〔Lily〕&真名解放",
+                    "voiceFile": "192tndi_di5.mp3"
+                },
+                {
+                    "title": "对话 6",
+                    "text": "呃……阿尔戈船的Archer，对对，阿塔兰忒。我和她莫名合得来。在岛上那时是个很好的聊天对象。虽然好像也会相互骂对方兴趣恶劣呢。",
+                    "textJp": "えーっと、アルゴノーツのアーチャー…そうそう、アタランテ！彼女とは妙に気が合ってねぇ。島にいるときはいい話相手だった。お互いに悪趣味だなんだと罵り合ったりもしたっけ",
+                    "textEn": "Um, an archer of the Argonautai...oh right, Atalante.\n\nShe and I actually get along.\n\nWe talked a lot when we were on the island.\n\nWe even argued over who had worse taste in things.",
+                    "condition": "持有阿塔兰忒&真名解放",
+                    "voiceFile": "192tndi_di6.mp3"
+                },
+                {
+                    "title": "对话 7",
+                    "text": "唔。是我妹妹帕西淮的孩子吧。就是长着牛角的那个。虽说我见过他……但到底是谁把这种毫无必要的事灌输给他的啊？能不能别毕恭毕敬地叫我「阿姨」啦！",
+                    "textJp": "ふむ……。私の妹パーシパエーの子だろう？牛の角が生えてる方の。特に面識はないが…。が、誰なんだ？いらんこと吹き込んだのは。律儀におばさんと呼ぶのをやめさせてくれ！",
+                    "textEn": "Hm. So, he's my sister Pasiphaë's son.\n\nEr, the one with the horns.\n\nI don't really know him well...but who told him to do something like that!? Make him stop calling me \"auntie\" all polite!",
+                    "condition": "持有阿斯忒里俄斯&真名解放",
+                    "voiceFile": "192tndi_di7.mp3"
+                },
+                {
+                    "title": "对话 8",
+                    "text": "我喜欢水手。就算像黑胡子那样的海盗也完全欢迎。只是稍微……因为他一直在闹腾说什么我是萝莉老太婆或是合法萝莉什么的，所以我把他变成猪，吊在厨房冷冻库里了，不能这么做吗……？",
+                    "textJp": "船乗りは好きさ！黒髭みたいな海賊だって、全然ウェルカムだよ！ただちょっと……私をロリババァだの合法ロリだのと騒々しかったから、豚に変えて厨房の氷室に吊るしておいたけど、まずかったかい？",
+                    "textEn": "I like sailors.\n\nEven a pirate like Blackbeard is all right.\n\nThe thing was...\n\nHe wouldn't shut up about me being an \"old loli\" or \"petite milf\" or something! Ugh!\n\nSo, I turned him into a pig and hung him upside down in the walk-in freezer.\n\nDo you think that was bad?",
+                    "condition": "持有爱德华·蒂奇&真名解放",
+                    "voiceFile": "192tndi_di8.mp3"
+                },
+                {
+                    "title": "对话 9",
+                    "text": "唔哎，那家伙啊，伊阿宋。尽管我早就预测到他迟早会被召唤……不过，既然令我介意的年轻的那个美狄亚很高兴……也罢。那我就期待他好好发挥船员英雄的本领吧……哎，Saber？",
+                    "textJp": "うへー、あいつか……イアソン。いずれ召喚されると予期したとはいえ、まあ……気掛かりだったあっちの若いメディアが歓迎してるなら……いっか。船乗りの英雄の本領が存分に発揮されると期待しよう。え？セイバー！？",
+                    "textEn": "Ugh, that guy, Jason. Even though I expected him to be summoned eventually. Well, if the anxious young Medea there welcomed you, I guess it's fine. Let's hope the real ability of the sailor hero is demonstrated at its fullest…… Eh?! Saber?!",
+                    "condition": "同时持有伊阿宋和美狄亚〔Lily〕&真名解放",
+                    "voiceFile": "SV192_0_对话9.mp3"
+                },
+                {
+                    "title": "对话 10",
+                    "text": "唔，呜呜……呼哈……嗯，我不会逃跑也不会躲避。我已经能微笑着面对他了。……只不过，我也不是铁石青铜做的。也有想要独处的时候。",
+                    "textJp": "うっ、ぐぐ……くはー。あー、逃げも隠れもしないさ。私はもう、微笑んで彼と向き合える。だけどさ、私って石とか青銅で出来てるわけじゃないんだぜ？ちょっと一人になりたい時だってあるよ",
+                    "textEn": "U, gugugu…… Haah…… Ah, I won't run away or hide. I'll face him with a smile now. But hey, I'm not made of stone or bronze, you know? I also want some time to be by myself.",
+                    "condition": "持有奥德修斯&真名解放&通关阿耳戈号的诅咒和Lostbelt No.5亚特兰蒂斯篇",
+                    "voiceFile": "SV192_0_对话10.mp3"
+                },
+                {
+                    "title": "喜欢的东西",
+                    "text": "这麦粥“休刻翁”啊，既是药，也是毒，是神的食物哦。呵呵。",
+                    "textJp": "この麦粥、キュケオーンはね、薬にもなるし毒にもなる、神の食べ物なんだ！　ふふっ",
+                    "textEn": "This barley porridge is called kykeon. It can be medicine and poison. It's practically ambrosia. Teehee.",
+                    "condition": null,
+                    "voiceFile": "192di_like.mp3"
+                },
+                {
+                    "title": "讨厌的东西",
+                    "text": "奥德修斯？我可不认识。完全不记得呢。像那种愚蠢傲慢撒谎无药可救的男人什么的——",
+                    "textJp": "オデュッセウス？　さぁて、知らないな。完全に記憶に無いね。そんな愚かで、傲慢で、嘘吐きで、つける薬もない男の事なんて",
+                    "textEn": "Odysseus? Doesn't ring a bell. Dunno who that is. Nope. Don't remember any guy who's that dumb, arrogant, deceitful… Nope…",
+                    "condition": null,
+                    "voiceFile": "192di_hate.mp3"
+                },
+                {
+                    "title": "关于圣杯",
+                    "text": "圣杯啊……只有无法实现的愿望，才是构成我魔女喀耳刻这个存在的要素……如果我这么说，你会笑我吗。",
+                    "textJp": "聖杯か…。叶わぬ願いこそ、この魔女キルケーという存在を形作っている……。といったら、きみは笑うかな？",
+                    "textEn": "Holy Grail... Unattainable wishes are just the sort of thing that makes this witch who she is... ...Would you laugh if I said something like that?",
+                    "condition": "真名解放",
+                    "voiceFile": "192tndi_gra.mp3"
+                },
+                {
+                    "title": "活动举行中",
+                    "text": "外面好吵闹啊。是祭典吗？是宴会吗？",
+                    "textJp": "外が騒がしいね。お祭りかな？　パーティかな！？",
+                    "textEn": "It's awfully lively out there. Is there a festival? Maybe a party?",
+                    "condition": null,
+                    "voiceFile": "192di_eve.mp3"
+                },
+                {
+                    "title": "生日",
+                    "text": "祝你生日快乐，仔猪！我会准备一个盛大的宴会……哎，在那之前想先和我两个人单独小小庆祝一番？……算了，偶尔这样或许也不错。",
+                    "textJp": "誕生日おめでとう、ピグレット！　盛大な宴を用意して……え？　その前に二人だけでささやかなお祝いを？　……まぁ、偶にはそれもいいか",
+                    "textEn": "Happy birthday, piglet! Let's prepare a grand banquet… Hm? You want to have a small celebration with just the two of us before that? …Well, I suppose that's all right.",
+                    "condition": null,
+                    "voiceFile": "192di_bir.mp3"
+                }
+            ]
+        },
+        {
+            "section": "艾尤的春风 ～魔女和愉快的伙伴们与崭新的冒险～",
+            "table": [
+                {
+                    "title": "对话 1",
+                    "text": "「Kyke Stock Aeaea」今天也在精神十足地营业中！　呵呵。",
+                    "textJp": "キュケストックアイアイエー、本日も張り切って営業中だ！ふふ♪",
+                    "textEn": "Kykestock Aeaea. Today as well, we're enthusiastically open! Fufuh!",
+                    "condition": null,
+                    "voiceFile": "SV192_0_活动1.mp3"
+                },
+                {
+                    "title": "对话 2",
+                    "text": "仔仔仔仔仔，仔猪～♪爱爱爱爱爱，艾尤～♪喔哇啊！　既既……既然来了就叫我一声啊！？",
+                    "textJp": "ピピピピピ～ピグレット～♪ララララブラブアイアイエー～♪　……うわっと！？き、き、来てたなら声掛けてくれ！",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV192_0_活动2.mp3"
+                },
+                {
+                    "title": "对话 3",
+                    "text": "这可是大魔女的工房哦？严苛挑选出来的考究素材可是我最引以为傲的！",
+                    "textJp": "大魔女の工房だぞ？こだわりの厳選素材が何よりの自慢さ！",
+                    "textEn": "This is the workshop of the Great Witch, you know? My pickiness with the careful selection of materials is my greatest pride",
+                    "condition": null,
+                    "voiceFile": "SV192_0_活动3.mp3"
+                },
+                {
+                    "title": "对话 4",
+                    "text": "谢谢你～！附赠你一个鹰之魔女特制的追加配菜吧。好毒和坏毒，你想要哪种？",
+                    "textJp": "ありがとう～！鷹の魔女特製の追加トッピングもサービスだ。いい毒と、悪い毒、どっちのおまけがいいかな～？",
+                    "textEn": "Thank you～! The Witch of Hawks' specially made extra topping is on the house. A good poison, or a bad poison, which one would you prefer as a bonus?",
+                    "condition": null,
+                    "voiceFile": "SV192_0_活动4.mp3"
+                },
+                {
+                    "title": "对话 5",
+                    "text": "哎？　你说想要谁？……什么嘛，是要兑换素材啊。好啦好啦，知道啦知道啦。",
+                    "textJp": "へ？えっ、だ、誰がほしいって？　……なんだ、素材の交換かい。はいはい、うけたまうけたま～",
+                    "textEn": "Heh?! Eh, w-who do I want? ……What, you mean trading materials. Yes yes, I take it I take it～",
+                    "condition": null,
+                    "voiceFile": "SV192_0_活动5.mp3"
+                },
+                {
+                    "title": "对话 6",
+                    "text": "啊～好开心啊～。我的性格好像很适合这种开店的工作呢。你也不要忘记兑换哦。呵呵。又赢了呢。",
+                    "textJp": "はぁ～楽しかった～。こういう店番って私の性に合ってるみたいだ。きみも交換忘れのないように。ふふっ、また勝ってしまったなぁ",
+                    "textEn": "Haah〜 That was fun〜. This sales clerk thing seems to be in my nature. You don't forget to trade. Fufuh, I won again",
+                    "condition": null,
+                    "voiceFile": "SV192_0_活动6.mp3"
+                },
+                {
+                    "title": "对话 7",
+                    "text": "呵呵。所以说这次也通过休刻翁变成三高仔猪吧！你差不多也该吃腻经典口味和应季风味口味了吧？所以趁此机会听取大魔女的建议一口气提升等级吧。不用客气啦。这是目标成为世界通用休刻翁大师的仔猪应尽的义务。我会手把手教会你包括与最强一盘相符的状况以及餐具摆放在内的秘传中的秘传！没错，就算断定其为休刻翁道的奥义传授也毫不为过。你看，我觉得美狄亚应该说没错没错地表示同意哦！好了，首先让我们慢慢地……哎，只剩5秒左右了！？喂，啊啊，基本全部跳过，秘方用高速神言把那个这样那样弄一下，然后把这附近生长的东西随便点这么搞！很好，搞定了！　给，战斗结……",
+                    "textJp": "ふふっ。ということで、今回もキュケオーンでメタボピグレッツしていこう！そろそろ定番レシピや季節のアレンジじゃきみも物足りなくなってきただろう？そこでこの機会に大魔女の助言でグーンとレベルアップしようじゃないか！遠慮なんかいらない、世界に通用するキュケオニストを目指すピグレットなら当然の務めさ！最高の一皿に相応しいシチュエーションと、テーブルのセッティングまで含めた、秘伝中の秘伝を手解きしよう。そう、これはキュケオー道の奥義の伝授と断言しても差し支えない。ほら、メディアも「そうだ、そうだ」と言ってくれてる気がするぞ。さてさて、まずはじっくりと――――え？あと5秒ちょっとしかない？あちょ、あええと、基本はスキップ、隠し味は高速神言で、あれをこうしてああして、そこらへんに生えてるやつをざっくりいい感じねぇー、こうだ！よーし整った！はい、バトルフィニ……",
+                    "textEn": "Fufuh. And with that, this time we'll be making Metabo Piglets with kykeon! It's about time that standard recipes and seasonal arranges aren't enough for you, isn't it? So there! Why don't you take this chance to remarkably level up with the great witch's advice?! No need to hold back, if you're a piglet aiming to become a world-class kykeonist it's your natural duty! Let's introduce you to the secret among secrets that include the best dish for the appropriate situation, and even the setting of the table. Yes, it's safe to affirm that this is the initiation to the secret techniques of the way of kykeon. See, I have a hunch that Medea's saying \"that's right, that's right\" too. Let's see let's see, first you carefully ―――― Eh? There's no more than 5 seconds left? Argh, ah er, we'll skip the fundaments, put the secret ingredient with High-Speed Divine Words, do this and that to that, and that thing growing at that spot you roughly and nicelyー, this! Alright, it's set up! Okay, Battle Fini-(cut sound)",
+                    "condition": null,
+                    "voiceFile": "SV192_0_活动7.mp3"
+                }
+            ]
+        }
+    ],
+    "bondCraft": -1,
+    "valentineCraft": [],
+    "icons": [
+        {
+            "key": "icon1",
+            "valueList": [
+                "circe头像1.png",
+                "circe头像2.png",
+                "circe头像3.png"
+            ]
+        }
+    ],
+    "sprites": [
+        {
+            "key": "sprite1",
+            "valueList": [
+                "英灵模型192_0破.png",
+                "英灵模型192_1破.png",
+                "英灵模型192_3破.png"
+            ]
+        }
+    ],
+    "fandomIcons": {
+        "fandom.Icon_Servant_192.png": "Stage 1",
+        "fandom.CirceStage2Icon.png": "Stage 2",
+        "fandom.CirceStage3Icon.png": "Stage 3",
+        "fandom.CirceFinalIcon.png": "Stage 4",
+        "fandom.S192 status servant 1.png": "Portrait (Stage 1)",
+        "fandom.S192 status servant 2.png": "Portrait (Stage 2)",
+        "fandom.S192 status servant 3.png": "Portrait (Stage 3)"
+    },
+    "fandomSprites": {
+        "fandom.Circe1.png": "Stage 1",
+        "fandom.Circe2.png": "Stage 2",
+        "fandom.Circe3.png": "Stage 3",
+        "fandom.S192 card servant 1.png": "Command Card (Stage 1)",
+        "fandom.S192 card servant 2.png": "Command Card (Stage 2)",
+        "fandom.S192 card servant 3.png": "Command Card (Stage 3)",
+        "fandom.nplogo192.png": "NP Logo",
+        "fandom.Circe1nowep.png": "Stage 1 (Without Weapon)",
+        "fandom.Circe2nowep.png": "Stage 2 (Without Weapon)",
+        "fandom.Circe3nowep.png": "Stage 3 (Without Weapon)",
+        "fandom.Circenowings.png": "Circe without wings",
+        "fandom.Circestaff.png": "Weapon",
+        "fandom.Circe_pig.png": "Pig"
+    },
+    "niceSkills": [
+        {
+            "id": 89450,
+            "num": 1,
+            "name": "高速神言 B",
+            "ruby": "こうそくしんごん",
+            "detail": "自身のNPをものすごく増やす",
+            "type": "active",
+            "strengthStatus": 0,
+            "priority": 1,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "conLv": 0,
+            "condLimitCount": 0,
+            "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00601.png",
+            "coolDown": [
+                9,
+                9,
+                9,
+                9,
+                9,
+                8,
+                8,
+                8,
+                8,
+                7
+            ],
+            "functions": [
+                {
+                    "funcId": 461,
+                    "funcType": "gainNp",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "player",
+                    "funcPopupText": "NP増加",
+                    "buffs": [],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Value": 6000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 6600
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 7200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 7800
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 8400
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 9000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 9600
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 10200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 10800
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 12000
+                        }
+                    ]
+                },
+                {
+                    "funcId": 470,
+                    "funcType": "hastenNpturn",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "enemy",
+                    "funcPopupText": "チャージ増加",
+                    "buffs": [],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Value": 2
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 2
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 2
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 2
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 2
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 2
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 2
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 2
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 2
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 2
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 441550,
+            "num": 2,
+            "name": "毒の食饌 A",
+            "ruby": "どくのしょくせん",
+            "detail": "敵全体に毒状態を付与(3ターン)＆防御力をダウン(3ターン)",
+            "type": "active",
+            "strengthStatus": 0,
+            "priority": 1,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "conLv": 0,
+            "condLimitCount": 1,
+            "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00510.png",
+            "coolDown": [
+                7,
+                7,
+                7,
+                7,
+                7,
+                6,
+                6,
+                6,
+                6,
+                5
+            ],
+            "functions": [
+                {
+                    "funcId": 317,
+                    "funcType": "addState",
+                    "funcTargetType": "enemyAll",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "毒",
+                    "buffs": [
+                        {
+                            "id": 123,
+                            "name": "毒",
+                            "detail": "ターン終了時にHPが減る",
+                            "type": "reduceHp",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 500
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 550
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 600
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 650
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 700
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 750
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 800
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 850
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 900
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 1000
+                        }
+                    ]
+                },
+                {
+                    "funcId": 197,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "enemyAll",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "防御力ダウン",
+                    "buffs": [
+                        {
+                            "id": 148,
+                            "name": "防御力ダウン",
+                            "detail": "防御力をダウン",
+                            "type": "downDefence",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 110
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 120
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 130
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 140
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 150
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 160
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 170
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 180
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 442550,
+            "num": 3,
+            "name": "出航の助言 A",
+            "ruby": "しゅっこうのじょげん",
+            "detail": "味方全体のスター発生率をアップ(3ターン)＆弱体状態を解除",
+            "type": "active",
+            "strengthStatus": 0,
+            "priority": 1,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "conLv": 0,
+            "condLimitCount": 3,
+            "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00604.png",
+            "coolDown": [
+                8,
+                8,
+                8,
+                8,
+                8,
+                7,
+                7,
+                7,
+                7,
+                6
+            ],
+            "functions": [
+                {
+                    "funcId": 302,
+                    "funcType": "addState",
+                    "funcTargetType": "ptAll",
+                    "funcTargetTeam": "player",
+                    "funcPopupText": "スター発生アップ",
+                    "buffs": [
+                        {
+                            "id": 117,
+                            "name": "スター発生アップ",
+                            "detail": "スター発生率をアップ",
+                            "type": "upCriticalpoint",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 300
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 320
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 340
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 360
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 380
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 400
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 420
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 440
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 460
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 500
+                        }
+                    ]
+                },
+                {
+                    "funcId": 221,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "ptAll",
+                    "funcTargetTeam": "enemy",
+                    "funcPopupText": "クリティカル発生アップ",
+                    "buffs": [
+                        {
+                            "id": 144,
+                            "name": "クリティカル発生アップ",
+                            "detail": "クリティカルの発生率をアップ",
+                            "type": "upCriticalrate",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200
+                        }
+                    ]
+                },
+                {
+                    "funcId": 436,
+                    "funcType": "subState",
+                    "funcTargetType": "ptAll",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "弱体解除",
+                    "buffs": [],
+                    "svals": [
+                        {
+                            "Rate": 1000
+                        },
+                        {
+                            "Rate": 1000
+                        },
+                        {
+                            "Rate": 1000
+                        },
+                        {
+                            "Rate": 1000
+                        },
+                        {
+                            "Rate": 1000
+                        },
+                        {
+                            "Rate": 1000
+                        },
+                        {
+                            "Rate": 1000
+                        },
+                        {
+                            "Rate": 1000
+                        },
+                        {
+                            "Rate": 1000
+                        },
+                        {
+                            "Rate": 1000
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "niceClassPassive": [
+        {
+            "id": 83450,
+            "num": 1,
+            "name": "陣地作成 B",
+            "ruby": "じんちさくせい",
+            "detail": "自身のArtsカードの性能をアップ",
+            "type": "passive",
+            "strengthStatus": 1,
+            "priority": 1,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "conLv": 0,
+            "condLimitCount": 0,
+            "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00104.png",
+            "coolDown": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "functions": [
+                {
+                    "funcId": 109,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "アーツアップ",
+                    "buffs": [
+                        {
+                            "id": 101,
+                            "name": "Artsアップ",
+                            "detail": "Artsカードの性能をアップ",
+                            "type": "upCommandall",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 80
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 80
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 80
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 80
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 80
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 80
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 80
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 80
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 80
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 80
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 80550,
+            "num": 1,
+            "name": "道具作成 A",
+            "ruby": "どうぐさくせい",
+            "detail": "自身の弱体付与成功率をアップ",
+            "type": "passive",
+            "strengthStatus": 1,
+            "priority": 1,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "conLv": 0,
+            "condLimitCount": 0,
+            "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00103.png",
+            "coolDown": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "functions": [
+                {
+                    "funcId": 373,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "弱体付与アップ",
+                    "buffs": [
+                        {
+                            "id": 158,
+                            "name": "弱体付与アップ",
+                            "detail": "弱体付与率をアップ",
+                            "type": "upGrantstate",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "niceNoblePhantasms": [
+        {
+            "id": 503301,
+            "num": 1,
+            "card": "buster",
+            "name": "禁断なる狂宴",
+            "ruby": "メタボ・ピグレッツ",
+            "rank": "C",
+            "type": "対人宝具",
+            "detail": "敵単体に超強力な攻撃＆豚化状態<特殊なスタン状態>を付与(一部の特別な敵には無効)(1ターン)＆クリティカル発生率をダウン(3ターン)<オーバーチャージで効果アップ>",
+            "npGain": {
+                "buster": [
+                    39,
+                    39,
+                    39,
+                    39,
+                    39
+                ],
+                "arts": [
+                    39,
+                    39,
+                    39,
+                    39,
+                    39
+                ],
+                "quick": [
+                    39,
+                    39,
+                    39,
+                    39,
+                    39
+                ],
+                "extra": [
+                    39,
+                    39,
+                    39,
+                    39,
+                    39
+                ],
+                "defence": [
+                    300,
+                    300,
+                    300,
+                    300,
+                    300
+                ],
+                "np": [
+                    39,
+                    39,
+                    39,
+                    39,
+                    39
+                ]
+            },
+            "npDistribution": [
+                6,
+                13,
+                20,
+                26,
+                35
+            ],
+            "strengthStatus": 1,
+            "priority": 101,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "individuality": [
+                {
+                    "id": 3000,
+                    "name": "attackPhysical"
+                },
+                {
+                    "id": 4002,
+                    "name": "cardBuster"
+                },
+                {
+                    "id": 4007,
+                    "name": "cardNP"
+                }
+            ],
+            "functions": [
+                {
+                    "funcId": 12,
+                    "funcType": "damageNp",
+                    "funcTargetType": "enemy",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "なし",
+                    "buffs": [],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Value": 6000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 8000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 9000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 9500
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 10000
+                        }
+                    ]
+                },
+                {
+                    "funcId": 2010,
+                    "funcType": "addState",
+                    "funcTargetType": "enemy",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "豚化",
+                    "buffs": [
+                        {
+                            "id": 854,
+                            "name": "豚化",
+                            "detail": "姿が豚になり行動不能になる",
+                            "type": "donotAct",
+                            "buffGroup": 502
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "CheckDead": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "CheckDead": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "CheckDead": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "CheckDead": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "CheckDead": 1
+                        }
+                    ]
+                },
+                {
+                    "funcId": 225,
+                    "funcType": "addState",
+                    "funcTargetType": "enemy",
+                    "funcTargetTeam": "enemy",
+                    "funcPopupText": "クリティカル発生ダウン",
+                    "buffs": [
+                        {
+                            "id": 145,
+                            "name": "クリティカル発生ダウン",
+                            "detail": "クリティカルの発生率をダウン",
+                            "type": "downCriticalrate",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 100
+                        }
+                    ]
+                },
+                {
+                    "funcId": 306,
+                    "funcType": "addState",
+                    "funcTargetType": "enemy",
+                    "funcTargetTeam": "player",
+                    "funcPopupText": "スター発生ダウン",
+                    "buffs": [
+                        {
+                            "id": 118,
+                            "name": "スター発生ダウン",
+                            "detail": "スター発生率をダウン",
+                            "type": "downCriticalpoint",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 100
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 503302,
+            "num": 1,
+            "card": "buster",
+            "name": "禁断なる狂宴",
+            "ruby": "メタボ・ピグレッツ",
+            "rank": "C+",
+            "type": "対人宝具",
+            "detail": "敵単体に超強力な攻撃▲＆豚化状態<特殊なスタン状態>を付与(一部の特別な敵には無効)(1ターン)＆クリティカル発生率をダウン(3ターン)<オーバーチャージで効果アップ>＆攻撃強化状態を解除▲",
+            "npGain": {
+                "buster": [
+                    39,
+                    39,
+                    39,
+                    39,
+                    39
+                ],
+                "arts": [
+                    39,
+                    39,
+                    39,
+                    39,
+                    39
+                ],
+                "quick": [
+                    39,
+                    39,
+                    39,
+                    39,
+                    39
+                ],
+                "extra": [
+                    39,
+                    39,
+                    39,
+                    39,
+                    39
+                ],
+                "defence": [
+                    300,
+                    300,
+                    300,
+                    300,
+                    300
+                ],
+                "np": [
+                    39,
+                    39,
+                    39,
+                    39,
+                    39
+                ]
+            },
+            "npDistribution": [
+                6,
+                13,
+                20,
+                26,
+                35
+            ],
+            "strengthStatus": 2,
+            "priority": 102,
+            "condQuestId": 94061507,
+            "condQuestPhase": 3,
+            "individuality": [
+                {
+                    "id": 3000,
+                    "name": "attackPhysical"
+                },
+                {
+                    "id": 4002,
+                    "name": "cardBuster"
+                },
+                {
+                    "id": 4007,
+                    "name": "cardNP"
+                }
+            ],
+            "functions": [
+                {
+                    "funcId": 12,
+                    "funcType": "damageNp",
+                    "funcTargetType": "enemy",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "なし",
+                    "buffs": [],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Value": 8000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 10000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 11000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 11500
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 12000
+                        }
+                    ]
+                },
+                {
+                    "funcId": 2010,
+                    "funcType": "addState",
+                    "funcTargetType": "enemy",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "豚化",
+                    "buffs": [
+                        {
+                            "id": 854,
+                            "name": "豚化",
+                            "detail": "姿が豚になり行動不能になる",
+                            "type": "donotAct",
+                            "buffGroup": 502
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "CheckDead": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "CheckDead": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "CheckDead": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "CheckDead": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "CheckDead": 1
+                        }
+                    ]
+                },
+                {
+                    "funcId": 225,
+                    "funcType": "addState",
+                    "funcTargetType": "enemy",
+                    "funcTargetTeam": "enemy",
+                    "funcPopupText": "クリティカル発生ダウン",
+                    "buffs": [
+                        {
+                            "id": 145,
+                            "name": "クリティカル発生ダウン",
+                            "detail": "クリティカルの発生率をダウン",
+                            "type": "downCriticalrate",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 100
+                        }
+                    ]
+                },
+                {
+                    "funcId": 306,
+                    "funcType": "addState",
+                    "funcTargetType": "enemy",
+                    "funcTargetTeam": "player",
+                    "funcPopupText": "スター発生ダウン",
+                    "buffs": [
+                        {
+                            "id": 118,
+                            "name": "スター発生ダウン",
+                            "detail": "スター発生率をダウン",
+                            "type": "downCriticalpoint",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 100
+                        }
+                    ]
+                },
+                {
+                    "funcId": 2211,
+                    "funcType": "subState",
+                    "funcTargetType": "enemy",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "攻撃強化解除",
+                    "buffs": [],
+                    "svals": [
+                        {
+                            "Rate": 1000
+                        },
+                        {
+                            "Rate": 1000
+                        },
+                        {
+                            "Rate": 1000
+                        },
+                        {
+                            "Rate": 1000
+                        },
+                        {
+                            "Rate": 1000
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "atkGrowth": [
+        1445,
+        1582,
+        1726,
+        1871,
+        2015,
+        2153,
+        2297,
+        2434,
+        2572,
+        2709,
+        2839,
+        2969,
+        3099,
+        3229,
+        3352,
+        3468,
+        3591,
+        3699,
+        3815,
+        3916,
+        4024,
+        4118,
+        4212,
+        4306,
+        4385,
+        4472,
+        4544,
+        4617,
+        4682,
+        4747,
+        4797,
+        4848,
+        4891,
+        4935,
+        4971,
+        5000,
+        5021,
+        5036,
+        5050,
+        5058,
+        5065,
+        5072,
+        5079,
+        5086,
+        5108,
+        5137,
+        5173,
+        5216,
+        5260,
+        5310,
+        5361,
+        5426,
+        5491,
+        5563,
+        5636,
+        5722,
+        5802,
+        5896,
+        5990,
+        6084,
+        6192,
+        6293,
+        6409,
+        6517,
+        6640,
+        6756,
+        6878,
+        7009,
+        7139,
+        7269,
+        7399,
+        7536,
+        7673,
+        7811,
+        7955,
+        8092,
+        8237,
+        8381,
+        8526,
+        8671,
+        8757,
+        8851,
+        8938,
+        9032,
+        9126,
+        9212,
+        9306,
+        9400,
+        9487,
+        9581,
+        9675,
+        9762,
+        9856,
+        9950,
+        10036,
+        10130,
+        10224,
+        10311,
+        10405,
+        10499,
+        10585,
+        10679,
+        10773,
+        10860,
+        10954,
+        11048,
+        11135,
+        11229,
+        11322,
+        11409,
+        11503,
+        11597,
+        11684,
+        11778,
+        11872,
+        11958,
+        12052,
+        12146,
+        12233,
+        12327
+    ],
+    "hpGrowth": [
+        1960,
+        2155,
+        2361,
+        2567,
+        2772,
+        2968,
+        3174,
+        3369,
+        3565,
+        3760,
+        3945,
+        4131,
+        4316,
+        4501,
+        4676,
+        4841,
+        5016,
+        5170,
+        5335,
+        5479,
+        5633,
+        5767,
+        5901,
+        6034,
+        6148,
+        6271,
+        6374,
+        6477,
+        6569,
+        6662,
+        6734,
+        6806,
+        6868,
+        6930,
+        6981,
+        7022,
+        7053,
+        7074,
+        7094,
+        7105,
+        7115,
+        7125,
+        7135,
+        7146,
+        7177,
+        7218,
+        7269,
+        7331,
+        7393,
+        7465,
+        7537,
+        7629,
+        7722,
+        7825,
+        7928,
+        8051,
+        8164,
+        8298,
+        8432,
+        8566,
+        8720,
+        8864,
+        9029,
+        9183,
+        9358,
+        9523,
+        9698,
+        9883,
+        10068,
+        10253,
+        10438,
+        10634,
+        10829,
+        11025,
+        11231,
+        11426,
+        11632,
+        11838,
+        12044,
+        12250,
+        12373,
+        12507,
+        12630,
+        12764,
+        12898,
+        13021,
+        13155,
+        13289,
+        13412,
+        13546,
+        13680,
+        13803,
+        13937,
+        14071,
+        14194,
+        14328,
+        14462,
+        14585,
+        14719,
+        14853,
+        14976,
+        15110,
+        15244,
+        15367,
+        15501,
+        15635,
+        15758,
+        15892,
+        16026,
+        16149,
+        16283,
+        16417,
+        16540,
+        16674,
+        16808,
+        16931,
+        17065,
+        17199,
+        17322,
+        17456
+    ],
+    "figure": [
+        "https://static.atlasacademy.io/JP/CharaFigure/5033000/5033000_merged.png",
+        "https://static.atlasacademy.io/JP/CharaFigure/5033001/5033001_merged.png",
+        "https://static.atlasacademy.io/JP/CharaFigure/5033002/5033002_merged.png"
+    ],
+    "ascension": [
+        "https://static.atlasacademy.io/JP/CharaGraph/503300/503300a@1.png",
+        "https://static.atlasacademy.io/JP/CharaGraph/503300/503300a@2.png",
+        "https://static.atlasacademy.io/JP/CharaGraph/503300/503300b@1.png",
+        "https://static.atlasacademy.io/JP/CharaGraph/503300/503300b@2.png"
+    ]
+}

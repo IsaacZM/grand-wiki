@@ -23,7 +23,16 @@ const rebuildRepository = async () => {
 
     const servants = JSON.parse(data);
 
+    const servantsForbiddensData = fs.readFileSync(__dirname + "/skip.json")
+    const forbidden = JSON.parse(servantsForbiddensData);
+
     for (const [id, servant] of Object.entries(servants["servants"])) {
+      
+      if(forbidden.servants.includes(servant.svtId)) {
+        console.log("✂ Servant " + servant.svtId + " skipped!");
+        continue;
+      }
+
       const svt = res.filter((data) => data.id === Number(servant.svtId))[0];
       const figures = [];
       const ascensions = [];
@@ -113,6 +122,7 @@ const rebuildIndex = async () => {
     const index = [];
 
     for (const [id, servant] of Object.entries(servants["servants"])) {
+
       const svt = res.filter((data) => data.id === Number(servant.svtId))[0];
 
       const icon =

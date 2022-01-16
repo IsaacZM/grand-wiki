@@ -1,0 +1,2866 @@
+{
+    "no": 331,
+    "svtId": 404300,
+    "mcLink": "太公望",
+    "icon": "Servant331.jpg",
+    "info": {
+        "gameId": 404300,
+        "name": "太公望",
+        "nameJp": "太公望",
+        "nameEn": "Tai Gong Wang",
+        "namesOther": [
+            "太公望",
+            "タイコウボウ"
+        ],
+        "namesJpOther": [
+            "太公望"
+        ],
+        "namesEnOther": [],
+        "nicknames": [],
+        "obtain": "常驻",
+        "obtains": [
+            "圣晶石常驻"
+        ],
+        "rarity": 5,
+        "rarity2": 5,
+        "weight": "63kg",
+        "height": "179cm",
+        "gender": "男性",
+        "illustrator": "OYO",
+        "illustratorJp": "およ",
+        "illustratorEn": "Oyo",
+        "className": "Rider",
+        "attribute": "地",
+        "isHumanoid": true,
+        "isWeakToEA": true,
+        "isTDNS": false,
+        "cv": [
+            "前野智昭"
+        ],
+        "cvJp": [
+            "前野智昭"
+        ],
+        "cvEn": [
+            "Maeno Tomoaki"
+        ],
+        "alignments": [
+            "中立",
+            "善"
+        ],
+        "traits": [
+            "骑乘",
+            "天地从者",
+            "所爱之人",
+            "人科"
+        ],
+        "ability": {
+            "strength": "D",
+            "endurance": "C",
+            "agility": "A",
+            "mana": "EX",
+            "luck": "A+",
+            "np": "A+"
+        },
+        "illustrations": {
+            "第１阶段": "太公望初始.png",
+            "第２阶段": "太公望一破.png",
+            "第３阶段": "太公望三破.png",
+            "第４阶段": "太公望满破.png"
+        },
+        "cards": [
+            "Quick",
+            "Quick",
+            "Arts",
+            "Arts",
+            "Buster"
+        ],
+        "cardHits": {
+            "Quick": 4,
+            "Arts": 3,
+            "Buster": 3,
+            "Extra": 5,
+            "NP": 6
+        },
+        "cardHitsDamage": {
+            "Quick": [
+                10,
+                20,
+                30,
+                40
+            ],
+            "Arts": [
+                16,
+                33,
+                51
+            ],
+            "Buster": [
+                16,
+                33,
+                51
+            ],
+            "Extra": [
+                6,
+                13,
+                20,
+                26,
+                35
+            ],
+            "NP": [
+                4,
+                9,
+                14,
+                19,
+                23,
+                31
+            ]
+        },
+        "npRate": {
+            "Quick": "0.60%",
+            "Arts": "0.60%",
+            "Buster": "0.60%",
+            "Extra": "0.60%",
+            "NP": "0.60%",
+            "Defense": "3%"
+        },
+        "atkMin": 1800,
+        "hpMin": 1986,
+        "atkMax": 11651,
+        "hpMax": 13543,
+        "atk90": 11651,
+        "hp90": 13543,
+        "atk100": 12754,
+        "hp100": 14837,
+        "starRate": "9.1%",
+        "deathRate": "25.0%",
+        "criticalRate": "205"
+    },
+    "noblePhantasm": [
+        {
+            "state": "",
+            "openCondition": "==宝具==\n{{参阅|{{PAGENAME}}/宝具动画|该从者的宝具动画}}",
+            "name": "打神鞭",
+            "nameJp": "打神鞭",
+            "upperName": "Dashinben",
+            "upperNameJp": "だしんべん",
+            "color": "Quick",
+            "category": "全体",
+            "rank": "EX",
+            "typeText": "对神宝具",
+            "effects": [
+                {
+                    "description": "对敌方全体发动强大的攻击<宝具升级效果提升>",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "600%",
+                        "800%",
+                        "900%",
+                        "950%",
+                        "1000%"
+                    ]
+                },
+                {
+                    "description": "对〔神性〕特攻",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "150%"
+                    ]
+                },
+                {
+                    "description": "Quick攻击耐性下降(3回合)<Over Charge时效果提升>",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "20%",
+                        "25%",
+                        "30%",
+                        "35%",
+                        "40%"
+                    ]
+                }
+            ]
+        }
+    ],
+    "noblePhantasmEn": [
+        {
+            "state": "Rank EX",
+            "openCondition": null,
+            "name": "Gods-Smiting Whip",
+            "nameJp": null,
+            "upperName": "Gods-Smiting Whip",
+            "upperNameJp": null,
+            "color": "Quick",
+            "category": "",
+            "rank": "EX",
+            "typeText": "Anti-Divine",
+            "effects": [
+                {
+                    "description": "Deals damage to all enemies.\n{{NP Extra Damage Tooltip| Deals 150% extra damage to Divine enemies.}}",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                },
+                {
+                    "description": " Damage +",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "600%",
+                        "800%",
+                        "900%",
+                        "950%",
+                        "1000%"
+                    ]
+                },
+                {
+                    "description": "<Over Charge>\nReduces their Quick resistance for 3 turns.",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                },
+                {
+                    "description": " Quick Res -",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "20%",
+                        "25%",
+                        "30%",
+                        "35%",
+                        "40%"
+                    ]
+                }
+            ]
+        }
+    ],
+    "activeSkills": [
+        {
+            "cnState": 0,
+            "skills": [
+                {
+                    "state": "",
+                    "openCondition": "",
+                    "name": "原始兵法",
+                    "nameJp": "原始兵法",
+                    "nameEn": null,
+                    "rank": "A+",
+                    "icon": "绿放.png",
+                    "cd": 9,
+                    "effects": [
+                        {
+                            "description": "己方全体的Quick指令卡性能提升(3回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "10%",
+                                "10.5%",
+                                "11%",
+                                "11.5%",
+                                "12%",
+                                "12.5%",
+                                "13%",
+                                "13.5%",
+                                "14%",
+                                "15%"
+                            ]
+                        },
+                        {
+                            "description": "攻击力提升(3回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "10%",
+                                "10.5%",
+                                "11%",
+                                "11.5%",
+                                "12%",
+                                "12.5%",
+                                "13%",
+                                "13.5%",
+                                "14%",
+                                "15%"
+                            ]
+                        },
+                        {
+                            "description": "宝具威力提升(3回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "10%",
+                                "10.5%",
+                                "11%",
+                                "11.5%",
+                                "12%",
+                                "12.5%",
+                                "13%",
+                                "13.5%",
+                                "14%",
+                                "15%"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "cnState": 0,
+            "skills": [
+                {
+                    "state": "",
+                    "openCondition": "",
+                    "name": "封神执行",
+                    "nameJp": "封神執行",
+                    "nameEn": null,
+                    "rank": "B",
+                    "icon": "封印.png",
+                    "cd": 8,
+                    "effects": [
+                        {
+                            "description": "付与敌方全体技能封印状态(1回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "∅"
+                            ]
+                        },
+                        {
+                            "description": "付与自身对〔神性〕特攻状态(3回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "30%",
+                                "32%",
+                                "34%",
+                                "36%",
+                                "38%",
+                                "40%",
+                                "42%",
+                                "44%",
+                                "46%",
+                                "50%"
+                            ]
+                        },
+                        {
+                            "description": "付与对〔魔性〕特攻状态(3回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "30%",
+                                "32%",
+                                "34%",
+                                "36%",
+                                "38%",
+                                "40%",
+                                "42%",
+                                "44%",
+                                "46%",
+                                "50%"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "cnState": 0,
+            "skills": [
+                {
+                    "state": "",
+                    "openCondition": "",
+                    "name": "思想键纹",
+                    "nameJp": "思想鍵紋",
+                    "nameEn": null,
+                    "rank": "EX",
+                    "icon": "充能.png",
+                    "cd": 8,
+                    "effects": [
+                        {
+                            "description": "自身的NP增加",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "20%",
+                                "21%",
+                                "22%",
+                                "23%",
+                                "24%",
+                                "25%",
+                                "26%",
+                                "27%",
+                                "28%",
+                                "30%"
+                            ]
+                        },
+                        {
+                            "description": "己方全体的NP增加",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "10%",
+                                "11%",
+                                "12%",
+                                "13%",
+                                "14%",
+                                "15%",
+                                "16%",
+                                "17%",
+                                "18%",
+                                "20%"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "activeSkillsEn": [
+        {
+            "cnState": 0,
+            "skills": [
+                {
+                    "state": "",
+                    "openCondition": null,
+                    "name": "The Original Art of War",
+                    "nameJp": null,
+                    "nameEn": null,
+                    "rank": "A+",
+                    "icon": "绿放.png",
+                    "cd": 9,
+                    "effects": [
+                        {
+                            "description": "Increases party's Quick performance for 3 turns.\nIncreases party's attack for 3 turns.\nIncreases party's NP damage for 3 turns.",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": []
+                        },
+                        {
+                            "description": " Quick +",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "10%",
+                                "10.5%",
+                                "11%",
+                                "11.5%",
+                                "12%",
+                                "12.5%",
+                                "13%",
+                                "13.5%",
+                                "14%",
+                                "15%"
+                            ]
+                        },
+                        {
+                            "description": " Attack +",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "10%",
+                                "10.5%",
+                                "11%",
+                                "11.5%",
+                                "12%",
+                                "12.5%",
+                                "13%",
+                                "13.5%",
+                                "14%",
+                                "15%"
+                            ]
+                        },
+                        {
+                            "description": " NP Damage +",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "10%",
+                                "10.5%",
+                                "11%",
+                                "11.5%",
+                                "12%",
+                                "12.5%",
+                                "13%",
+                                "13.5%",
+                                "14%",
+                                "15%"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "cnState": 0,
+            "skills": [
+                {
+                    "state": "",
+                    "openCondition": null,
+                    "name": "God's Execution",
+                    "nameJp": null,
+                    "nameEn": null,
+                    "rank": "B",
+                    "icon": "封印.png",
+                    "cd": 8,
+                    "effects": [
+                        {
+                            "description": " Seals all enemies' skills for 1 turn.\nIncreases own damage against Divine enemies for 3 turns.\nIncreases own damage against Demonic enemies for 3 turns.",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": []
+                        },
+                        {
+                            "description": " Divine Damage +",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "30%",
+                                "32%",
+                                "34%",
+                                "36%",
+                                "38%",
+                                "40%",
+                                "42%",
+                                "44%",
+                                "46%",
+                                "50%"
+                            ]
+                        },
+                        {
+                            "description": " Demonic Damage +",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "30%",
+                                "32%",
+                                "34%",
+                                "36%",
+                                "38%",
+                                "40%",
+                                "42%",
+                                "44%",
+                                "46%",
+                                "50%"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "cnState": 0,
+            "skills": [
+                {
+                    "state": "",
+                    "openCondition": null,
+                    "name": "Philosophy Key Crest",
+                    "nameJp": null,
+                    "nameEn": null,
+                    "rank": "EX",
+                    "icon": "充能.png",
+                    "cd": 8,
+                    "effects": [
+                        {
+                            "description": "Charges own NP gauge.\nCharges party's NP gauge.",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": []
+                        },
+                        {
+                            "description": " NP +",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "20%",
+                                "21%",
+                                "22%",
+                                "23%",
+                                "24%",
+                                "25%",
+                                "26%",
+                                "27%",
+                                "28%",
+                                "30%"
+                            ]
+                        },
+                        {
+                            "description": " Party NP +",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "10%",
+                                "11%",
+                                "12%",
+                                "13%",
+                                "14%",
+                                "15%",
+                                "16%",
+                                "17%",
+                                "18%",
+                                "20%"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "passiveSkills": [
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "骑乘",
+            "nameJp": null,
+            "nameEn": null,
+            "rank": "A+",
+            "icon": "骑乘.png",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": "自身的Quick指令卡性能提升(11%)",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                }
+            ]
+        }
+    ],
+    "passiveSkillsEn": [
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "Riding",
+            "nameJp": null,
+            "nameEn": null,
+            "rank": "A+",
+            "icon": "fandom.riding.png",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": " Increases own Quick performance by 11%.",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                }
+            ]
+        }
+    ],
+    "appendSkills": [
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "追击技巧提升",
+            "nameJp": "追撃技巧向上",
+            "nameEn": "Extra Attack Finesse Improvement",
+            "rank": null,
+            "icon": "特攻",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": "自身的Extra Attack指令卡性能提升",
+                    "descriptionJp": "自身のExtra Attackカードの性能をアップする",
+                    "descriptionEn": "Increases own Extra Attack performance",
+                    "lvData": [
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "38%",
+                        "40%",
+                        "42%",
+                        "44%",
+                        "46%",
+                        "50%"
+                    ]
+                }
+            ]
+        },
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "魔力装填",
+            "nameJp": "魔力装填",
+            "nameEn": "Mana Loading",
+            "rank": null,
+            "icon": "充能",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": "自身以NP已达一定数值的状态开始战斗",
+                    "descriptionJp": "自身のNPをチャージした状態でバトルを開始する",
+                    "descriptionEn": "Starts battle with NP gauge",
+                    "lvData": [
+                        "10%",
+                        "11%",
+                        "12%",
+                        "13%",
+                        "14%",
+                        "15%",
+                        "16%",
+                        "17%",
+                        "18%",
+                        "20%"
+                    ]
+                }
+            ]
+        },
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "对Foreigner攻击适性",
+            "nameJp": "対Foreigner攻撃適性",
+            "nameEn": "Anti-Foreigner Attack Damage Aptitude",
+            "rank": null,
+            "icon": "加攻",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": "自身对Foreigner的攻击力提升",
+                    "descriptionJp": "自身の〔Foreigner〕クラスに対する攻撃力をアップする",
+                    "descriptionEn": "Increases own attack against Foreigner enemies",
+                    "lvData": [
+                        "20%",
+                        "21%",
+                        "22%",
+                        "23%",
+                        "24%",
+                        "25%",
+                        "26%",
+                        "27%",
+                        "28%",
+                        "30%"
+                    ]
+                }
+            ]
+        }
+    ],
+    "coinSummonNum": 90,
+    "itemCost": {
+        "ascension": [
+            {
+                "骑阶银棋": 5,
+                "QP": 100000
+            },
+            {
+                "骑阶银棋": 12,
+                "禁断书页": 8,
+                "QP": 300000
+            },
+            {
+                "骑阶金像": 5,
+                "起源的胎毛": 6,
+                "蛮神心脏": 2,
+                "QP": 1000000
+            },
+            {
+                "骑阶金像": 12,
+                "蛮神心脏": 4,
+                "奇奇神酒": 5,
+                "QP": 3000000
+            }
+        ],
+        "skill": [
+            {
+                "骑之辉石": 5,
+                "QP": 200000
+            },
+            {
+                "骑之辉石": 12,
+                "QP": 400000
+            },
+            {
+                "骑之魔石": 5,
+                "QP": 1200000
+            },
+            {
+                "骑之魔石": 12,
+                "起源的胎毛": 3,
+                "QP": 1600000
+            },
+            {
+                "骑之秘石": 5,
+                "起源的胎毛": 6,
+                "QP": 4000000
+            },
+            {
+                "骑之秘石": 12,
+                "禁断书页": 5,
+                "QP": 5000000
+            },
+            {
+                "禁断书页": 10,
+                "封魔之灯": 4,
+                "QP": 10000000
+            },
+            {
+                "封魔之灯": 11,
+                "真理之卵": 10,
+                "QP": 12000000
+            },
+            {
+                "传承结晶": 1,
+                "QP": 20000000
+            }
+        ],
+        "appendSkill": [
+            {
+                "骑之辉石": 5,
+                "QP": 200000
+            },
+            {
+                "骑之辉石": 12,
+                "QP": 400000
+            },
+            {
+                "骑之魔石": 5,
+                "QP": 1200000
+            },
+            {
+                "骑之魔石": 12,
+                "鬼魂提灯": 5,
+                "QP": 1600000
+            },
+            {
+                "骑之秘石": 5,
+                "鬼魂提灯": 10,
+                "QP": 4000000
+            },
+            {
+                "骑之秘石": 12,
+                "龙之逆鳞": 2,
+                "QP": 5000000
+            },
+            {
+                "龙之逆鳞": 4,
+                "奇奇神酒": 3,
+                "QP": 10000000
+            },
+            {
+                "奇奇神酒": 8,
+                "虹之线球": 24,
+                "QP": 12000000
+            },
+            {
+                "传承结晶": 1,
+                "QP": 20000000
+            }
+        ]
+    },
+    "costumeNos": [],
+    "bondPoints": [
+        6000,
+        24000,
+        15000,
+        2500,
+        2500,
+        160000,
+        440000,
+        330000,
+        350000,
+        375000,
+        1090000,
+        1230000,
+        1360000,
+        1500000,
+        1640000
+    ],
+    "profiles": [
+        {
+            "title": "0",
+            "description": "古代中国的名军师。\n姓姜，名尚，字子牙或牙。\n他在黄河支流渭水北岸钓鱼时\n与周文王（西伯昌）相遇。\n据说他就是周先君太公所盼望的贤者，\n因此有了「太公望」的名号。\n\n他协助文王和武王，为打败殷王朝贡献力量，\n因这一功劳被封为齐侯，也成为了春秋战国中的\n大国·齐的祖先。\n又被称为师尚父、姜太公、姜子牙。\n\n在明代小说『封神演义』中，\n他被描述为拥有超常能力的存在——道士。\n据本人说，\n「真可惜啊。\n　如果被作为Caster召唤的话，\n　我一定会是Grand Caster吧。」",
+            "descriptionJp": "古代中国の名軍師。\n姓は姜、名は尚、字（あざな）は子牙、或いは牙。\n黄河支流の渭水北岸で釣りをするさなかに\n周の文王（西伯昌）と出逢い、\n彼こそは周の先君太公が望んだ賢者だとして\n「太公望」の号で呼ばれたという。\n\n文王および武王を助け、殷王朝の打倒に力を注ぎ、\nその功によって斉侯となり、春秋戦国時代における\n大国・斉の祖となった。\n師尚父、姜太公、姜子牙とも呼ばれる。\n\n明代の小説『封神演義』では、\n超常の能力を有した存在―――道士とされている。\n「惜しいなァー。\n　キャスターで喚ばれていたら、\n　僕は絶対、グランドキャスターだったろうになァ」\nと、本人談。",
+            "descriptionEn": "A famed tactician from ancient China. His surname is Jiang, given name Shang, courtesy name Ziya or Ya. While fishing on the north coast of the Weihe, a branch of the Yellow River, he met with King Wen of Zhou (Xi Bochang). King Wen declared he was the sage that the previous rulers of Zhou wished for, and accordingly started calling him by the title of Taigong Wang (meaning \"my father's wish\").\n\n\nHe helped King Wen and his Royal General, putting high effort into toppling the Yin Dynasty. His successes award him the title of Ruler of Qi, making him the founder of the Qi kingdom from the Spring and Autumn Period and the Warring States period. He's also known as Shi Shangfu, Jiang Taigong, or Jiang Ziya.\n\n\nIn the Ming Dynasty novel Fengshen Yanyi, he's portrayed as a Daoist: a being with paranormal abilities.\n\n\n\"Man, what a shame. If I were summoned as a Caster, I'm sure I could have made it Grand Caster.\", or so he claims.",
+            "condition": null,
+            "conditionEn": null
+        },
+        {
+            "title": "1",
+            "description": "身高／体重：179cm·63kg\n出典：史实、『史记』『封神演义』等\n地域：中国\n属性：中立·善　　性别：男性\n虽然和「覆水难收」的语源有关……\n说起这件事，他还是会露出有些悲伤的表情。",
+            "descriptionJp": "身長／体重：179cm・63kg\n出典：史実、『史記』『封神演義』など\n地域：中国\n属性：中立・善　　性別：男性\n「覆水盆に返らず」の語源に関わっているのだが……\nそのことを言われると、少し悲しい顔をする。",
+            "descriptionEn": "Height/Weight: 179 cm / 63 kg\n\nSource: Historical fact, The Historical Records, Investiture of the Gods, etc\n\nRegion: China\n\nAlignment: Neutral Good\n\nGender: Male\n\nHe originated the Chinese proverb \"spilled water won't go back to its tray\", but when asked about it, he looked a bit sad.",
+            "condition": "羁绊达到Lv.1后开放",
+            "conditionEn": null
+        },
+        {
+            "title": "2",
+            "description": "周的军师、武将，也是元始天尊的弟子。道士。\n作为以古代中国殷末期的战乱为背景展开的，\n将仙界与人界皆卷入其中的大杀神（人）——\n也就是“封神”的执行者活动。\n\n最终结果就像历史所说，他协助文王与武王，\n作为道士的同时也作为军师指挥军队，\n为推翻殷王朝贡献了巨大力量。此后成为了大国齐的祖先。\n\n○原始兵法：A+\n在兵法确立为一种学问体系之前，自行编撰战略·战术并加以应用的人物就是太公望。\n传说，他还编著了包含在武经七书中的古代中国兵法书『六韬』『三略』。",
+            "descriptionJp": "周の軍師、武将にして、元始天尊の弟子。道士。\n古代中国、殷末期の戦乱を背景として繰り広げられる、\n仙境と人界を巻き込んだ大殺神（人）―――\nすなわち“封神”の執行者として活動。\n\n最終的には歴史の通り、文王および武王を助け、\n道士でありつつも軍師として軍勢を指揮し、\n殷王朝の打倒に貢献。後の大国である斉の祖となった。\n\n○原始兵法：Ａ＋\n兵法が学問の体系として確立される以前に戦略・戦術を自ら編み出し、駆使した人物が太公望であるという。\n武経七書に数えられる古代中国の兵法書『六韜』『三略』を著した、と伝えられることもある。",
+            "descriptionEn": "A general and the tactician of Zhou, and a disciple of Yuanshi Tianzun. A Taoist. He carried out a grand deicide (homicide) plot that unfolded in the background of ancient China's Yin Dynasty insurrections, bringing collateral damage to both Xian and human realms. That was the Investiture.\n\n\nUltimately, as history tells, he helped King Wen and his Royal General, commanded the troops as a tactician despite being a Taoist, and served the cause of toppling the Yin Dynasty. Later he founded the kingdom of Qi.\n\n\n•Primordial Military Arts: A+\n\nTaigong Wang is credited with devising and utilizing tactics and strategies before military arts were established as a studiable discipline.\n\nTwo out of the Seven Military Classics of ancient China (the Six Secret Teachings and the Three Strategies of Huang Shigong) are authored by him.",
+            "condition": "羁绊达到Lv.2后开放",
+            "conditionEn": null
+        },
+        {
+            "title": "3",
+            "description": "○骑乘：A+\n太公望能够自由骑乘神兽级别的幻想种，\n但对于龙种的话他表示「那样的肯定不行！」。\n\n○封神执行：B\n作为“封神”的执行者的存在方式。\n神性特攻、魔性特攻。\n\n○思想键纹：EX\n太公望是道教的最高存在·元始天尊的弟子，\n也就是道士。\n与西洋魔术完全不同，他拥有东方思想魔术中的思想键纹，似乎能使用仙术、方术（道术）。\n作为公元前1000年上下的人物，连思想盘的特权领域\n都能够接触的太公望所使用的，可以称之为「神代的思想魔术」。",
+            "descriptionJp": "○騎乗：Ａ＋\n太公望は神獣ランクの幻想種さえ自在に乗りこなすが、\n竜種については「あんなのは無理ですよ！」とのこと。\n\n○封神執行：Ｂ\n“封神”の執行者としての在り方。\n神性特攻、魔性特攻。\n\n○思想鍵紋：ＥＸ\n太公望は道教における最高存在・元始天尊の弟子、\nすなわち道士である。\n西洋魔術とはまったく異なる、東方における思想魔術にまつわる思想鍵紋を有し、仙術や方術（道術）と称して使用している模様。\n紀元前1000年頃の人物であり、思想盤の特権領域への\nアクセスさえ可能とする太公望の使うそれは、言わば「神代の思想魔術」とも言うべきモノだろう。",
+            "descriptionEn": "•Riding: A+\n\nTaigong Wang can freely ride even Divine Beast class species, but when asked about the dragon kind, his answer is \"You're asking for too much!\"\n\n\n•Investiture Enforcer: B\n\nHis state as the one carrying out the Investiture of the Gods. Super effective against divinity and demonic traits.\n\n\n•Philosophy Key: EX\n\nTaigong Wang is a disciple of Yuanshi Tianzun, the supreme being in Taoism, therefore, he's a Taoist. He has a Philosophy Key from the Far East's Philosophy Magecraft, which is completely different from Western Magecraft. He uses this Key for what he calls Xian Arts and Fangshi (Tao Arts).\n\n\nHe's a figure from the 1000s BC, meaning he's able to access even the Privileged Domains of the Philosophy Foundations, so the magecraft he uses should be called Philosophy Magecraft from the Age of Gods.",
+            "condition": "羁绊达到Lv.3后开放",
+            "conditionEn": null
+        },
+        {
+            "title": "4",
+            "description": "『拟龙神兽·四不相』\n阶级：A　种类：对军宝具\n有效范围：1～50　最大捕捉：600人\n\nGiryuushinjuu Shifusou。\n神兽。在『封神演义』中是太公望的坐骑。\n虽然其他仙人似乎说四不相君是龙种的一种，\n但太公望表示，\n「龙种我肯定是骑不了的吧。」\n\n虽说是常时发动型的骑乘用宝具，\n但也能暂时做到身缠如龙一般巨大的魔力，变换形态，\n飞翔于空中，有时能够将敌军灼烧殆尽。\n本作中能够变身和攻击，但真名解放后\n对军歼灭级别的力量基本无法使用。",
+            "descriptionJp": "『擬竜神獣・四不相』\nランク：Ａ　種別：対軍宝具\nレンジ：１～５０　最大捕捉：６００人\n\nぎりゅうしんじゅう・しふそう。\n神獣。『封神演義』では太公望の乗騎として語られる。\nシフソウ君は竜種の一種なのだと他の仙人たちは言っているようなのだが、\n「竜種なら僕が乗れるワケないじゃないですか」\nと太公望談。\n\n常時発動型の騎乗用宝具だが、\n一時的に竜の如き巨大な魔力を纏い、姿を変え、\n空を駆け抜け、時には敵軍を灼き尽くす。\n本作では変身と攻撃こそするものの、真名解放による\n対軍殲滅級の力については基本的に使用されない。",
+            "descriptionEn": "Nilong Shenshou - Sibuxiang (Dracomorphized Divine Beast - Sibuxiang)\n\nRank: A\n\nType: Anti-Army Noble Phantasm\n\nRange: 1-50\n\nMax. Targets: 600 people\n\n\nA Divine Beast. Taigong Wang's mount in the Investiture of the Gods. The other Xians say our buddy Shibuxiang is a species of dragon, but Taigong's words on the matter are \"No way I'd able to ride him if he were a dragon\".\n\n\nHe's a constantly active Mount Noble Phantasm. He can cover himself in a gigantic cover of magical energy as dragons do, shapeshift, fly, and sometimes even burn down the enemy troops.\n\nIn this game, he does shapeshift and attack but doesn't get to use the Anti-Army Annihilation-level power that comes with his True Name release.",
+            "condition": "羁绊达到Lv.4后开放",
+            "conditionEn": null
+        },
+        {
+            "title": "5",
+            "description": "『打神鞭』\n阶级：EX　种类：对神宝具\n有效范围：0～90　最大捕捉：1～800人\n\nDashinben。\n用来打倒神的鞭。\n赋予作为“封神”执行者的太公望的宝具。\n封神执行技能的根源大概就是这个宝具。\n以前似乎有使用限制，但作为英灵现界时\n这个限制似乎消失了。\n\n真名解放时，会从天空飞来超巨大的打神鞭将大地上的敌人贯穿。\n本人说这就是真名解放时宝具的威力，\n但使用思想键纹时也能通过暂时连接思想盘的特权领域释放出神仙级别的魔术攻击。\n\n或者，也可以怀疑是他借用了\n修行到最后成为神仙的自己的力量。\n这样的话，Rider太公望虽说看上去像是从英灵之座\n前来造访的样子，实际上却是作为神仙的「本来的太公望」的分灵从者化后的存在。\n\n事实究竟为何……\n太公望没有说。\n很可能连他自己也不清楚。",
+            "descriptionJp": "『打神鞭』\nランク：ＥＸ　種別：対神宝具\nレンジ：０～９０　最大捕捉：１～８００人\n\nだしんべん。\n神打ちのめす鞭。\n“封神”の執行者としての太公望に与えられた宝具。\n封神執行スキルの源はこの宝具であるものと思しい。\nかつては使用制限があったらしいが、英霊としての\n現界では制限がなくなっている模様。\n\n真名解放時には、超サイズの打神鞭が天空より飛来して大地ごと敵を穿つ。\nこれぞ真名解放による宝具の威、と本人は言うが、\n思想鍵紋を用いたごく一時的な思想盤の特権領域接続によって神仙級の魔術攻撃を放っている可能性がある。\n\n或いは、修行の末に神仙と化した自分自身の力を\n借り受けている、という疑いもある。\nこの場合、ライダー太公望は、さも英霊の座から\n罷り越したという顔をしているが、実際には神仙である「大本の太公望」の分霊などがサーヴァント化した存在ということになる。\n\n実際のところどうなのかは……\n太公望は語らない。\n自身でも、よく分かっていないのかもしれない。",
+            "descriptionEn": "Dashenbian (God-Striking Whip)\n\nRank: EX\n\nType: Anti-Divine Noble Phantasm\n\nRange: 0-90\n\nMax. Targets: 1-800 people\n\n\nThe whip to strike gods.\n\nThe Noble Phantasm given to Taigong Wang as the one carrying out the investiture of the gods.\n\nThis Noble Phantasm is thought to be the source of his Investiture Enforcer Skill. It used to have a limited number of uses, but when manifested as Heroic Spirit, this restriction is apparently gone.\n\n\nWhen its True Name is released, a supersized God-Striking Whip falls from the sky, piercing the land along with the enemy. Taigong claims such is the might of a Noble Phantasm called by name, but it's possible that he's unleashing a Shenxian-level magecraft attack by using his Philosophy Key to momentarily connect to the Privileged Domains of his Philosophy Foundation.\n\n\nAnother possibility to be evaluated is that he's borrowing power from his Shenxian self, as he turned into one at the end of his training. If that is actually the case, then Rider Taigong Wang is a Servantfied bunrei of a Shenxian, ''the original Taigong Wang'', just pretending to have come from the Throne of Heroes.",
+            "condition": "羁绊达到Lv.5后开放",
+            "conditionEn": null
+        },
+        {
+            "title": "6",
+            "description": "在通古斯卡当中现界的太公望，\n本以为能和妲己再会，充满了打倒她的干劲，\n然而意料之外的是，高扬斯卡娅完全是另一个人。\n关于这件事……\n太公望不是特别愿意发表意见。\n既没觉得很失望，也不是觉得能松一口气，\n只是露出了暧昧的微笑。\n就算尼基季奇逼着他给期望被辜负的大家道歉，\n他也只是顽固地露出微笑。\n\n　　　◆\n\n过去并没有过太公望和妲己交心的记录。\n就像『封神演义』里说的一样，他击败了妲己，\n打倒了天数已尽的殷王朝。\n太公望绝不可能为妲己所笼络，\n和他一同战斗的同伴们，也都会这么说吧。\n\n实际上，他也从未被笼络。\n他反而是受尽了妲己的憎恶，\n最后，是太公望亲手击败了她。\n\n「笼络我？ 怎么可能呢。\n　你跟她这么说可是会被打死的。\n　只是，怎么说呢。\n　——她非常美丽。这一点毋庸置疑。」",
+            "descriptionJp": "ツングースカでの現界にあたっての太公望は、\n妲己との再会もとい妲己退治にやる気を出していたが、\nコヤンスカヤはまさかの完全別人であった。\nそのことについて……\n太公望は特に感想を言わない。\nがっかりしたとも、ほっとしたとも言わない。\nただ、曖昧に微笑むのみである。\n予想を外してごめんなさいと言いなさい、と\nニキチッチが迫っても、断固として微笑むのみである。\n\n　　　◆\n\n過去、太公望が妲己と心を交わしたという記録はない。\n『封神演義』に語られる通り、彼は妲己を倒し、\n天数の尽きた殷王朝を打倒した。\n彼と共に戦った仲間たちも、口を揃えて言うだろう。\n太公望が妲己に籠絡されることはありえない、と。\n\n実際、彼は籠絡されていない。\nむしろ妲己からは憎まれているし、\n結局のところ、太公望は彼女を自ら倒している。\n\n「籠絡？　まさか。\n　それ彼女に言ったら殺されますよ。\n　ただ、そうですね。\n　―――彼女は美しかった。それだけは事実です」",
+            "descriptionEn": "In his Tunguska manifestation, he was motivated to meet Daji again in his Daji hunt, but to everyone's surprise, Koyanskaya was a completely different person. Taigong Wang didn't express any opinions about it. He didn't say if he was disappointed or relieved. All he had was an ambiguous smile. Nikitich pressed him to apologize for his mistaken conjecture, but he stayed resolutely smiling without a word.\n\n\n♦\n\n\nThe past contains no records of a romance between Taigong Wang and Daji. As told in The Investiture of the Gods, he defeated Daji and brought the Yin Dynasty to the end of its days. All companions fighting alongside him would unanimously say the thought of Daji seducing Taigong is not plausible.\n\nThey're correct, she didn't seduce him. On the contrary, Daji hated him, and he ultimately defeated her with his own hands.\n\n\n\"Seducing me? No, she'd never. She'd kill you if she ever heard you say that. It's just that, you know... She was beautiful. That's the one undeniable fact.\"",
+            "condition": "通关 非灵长生存圈 通古斯卡庇护所 尾声 及羁绊达到Lv.5后开放",
+            "conditionEn": "Clear Tunguska Sanctuary"
+        },
+        {
+            "title": "aprilfool",
+            "description": null,
+            "descriptionJp": null,
+            "descriptionEn": null,
+            "condition": null,
+            "conditionEn": null
+        }
+    ],
+    "voices": [
+        {
+            "section": "战斗",
+            "table": [
+                {
+                    "title": "开始 1",
+                    "text": "好了，来吧。",
+                    "textJp": "さて、と。",
+                    "textEn": "Let's get to it.",
+                    "condition": null,
+                    "voiceFile": "SV331_0_开始1.mp3"
+                },
+                {
+                    "title": "开始 2",
+                    "text": "开始吧。",
+                    "textJp": "やりますか。",
+                    "textEn": "Shall we begin?",
+                    "condition": null,
+                    "voiceFile": "SV331_0_开始2.mp3"
+                },
+                {
+                    "title": "开始 3",
+                    "text": "没什么干劲啊。",
+                    "textJp": "気は進みませんが。",
+                    "textEn": "I wish I wouldn't have to.",
+                    "condition": null,
+                    "voiceFile": "SV331_0_开始3.mp3"
+                },
+                {
+                    "title": "开始 4",
+                    "text": "唉，迫不得已。",
+                    "textJp": "ま、致し方なし。",
+                    "textEn": "Well, what else could I do?",
+                    "condition": null,
+                    "voiceFile": "SV331_0_开始4.mp3"
+                },
+                {
+                    "title": "技能 1",
+                    "text": "哎呀呀，唔……",
+                    "textJp": "さてさて、うん。",
+                    "textEn": "Anyways, hm.",
+                    "condition": null,
+                    "voiceFile": "SV331_0_技能1.mp3"
+                },
+                {
+                    "title": "技能 2",
+                    "text": "这个可是很痛的喔？",
+                    "textJp": "痛いですよ？これ。",
+                    "textEn": "This is going to hurt.",
+                    "condition": null,
+                    "voiceFile": "SV331_0_技能2.mp3"
+                },
+                {
+                    "title": "技能 3",
+                    "text": "呼呼……啊！？",
+                    "textJp": "むにゃむにゃ……はっ！？",
+                    "textEn": "Zzzzz... AH!",
+                    "condition": null,
+                    "voiceFile": "SV331_0_技能3.mp3"
+                },
+                {
+                    "title": "技能 4",
+                    "text": "哼哼哼。",
+                    "textJp": "ふふふっ",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV331_0_技能4.mp3"
+                },
+                {
+                    "title": "指令卡 1",
+                    "text": "好。",
+                    "textJp": "えぇ。",
+                    "textEn": "Yes.",
+                    "condition": null,
+                    "voiceFile": "SV331_0_指令卡1.mp3"
+                },
+                {
+                    "title": "指令卡 2",
+                    "text": "明白了。",
+                    "textJp": "わかります。",
+                    "textEn": "Understood.",
+                    "condition": null,
+                    "voiceFile": "SV331_0_指令卡2.mp3"
+                },
+                {
+                    "title": "指令卡 3",
+                    "text": "就这么做吧。",
+                    "textJp": "そうしましょう。",
+                    "textEn": "So I will.",
+                    "condition": null,
+                    "voiceFile": "SV331_0_指令卡3.mp3"
+                },
+                {
+                    "title": "宝具卡 1",
+                    "text": "没办法。",
+                    "textJp": "仕方ない。",
+                    "textEn": "If I must.",
+                    "condition": null,
+                    "voiceFile": "SV331_0_宝具卡1.mp3"
+                },
+                {
+                    "title": "宝具卡 2",
+                    "text": "这是破例。",
+                    "textJp": "特別ですよ。",
+                    "textEn": "Only on special occasions.",
+                    "condition": null,
+                    "voiceFile": "SV331_0_宝具卡2.mp3"
+                },
+                {
+                    "title": "宝具卡 3",
+                    "text": "思想键纹，激发。",
+                    "textJp": "思想鍵紋、励起。",
+                    "textEn": "Philosophy Key, on.",
+                    "condition": null,
+                    "voiceFile": "SV331_0_宝具卡3.mp3"
+                },
+                {
+                    "title": "宝具卡 4",
+                    "text": "──哈哈哈！",
+                    "textJp": "ははは！",
+                    "textEn": "Hahaha!",
+                    "condition": null,
+                    "voiceFile": "SV331_0_宝具卡4.mp3"
+                },
+                {
+                    "title": "攻击 1",
+                    "text": "──哈哈哈哈哈！",
+                    "textJp": "ははははは！",
+                    "textEn": "Hahahaha!",
+                    "condition": null,
+                    "voiceFile": "SV331_0_攻击1.mp3"
+                },
+                {
+                    "title": "攻击 2",
+                    "text": "看招！",
+                    "textJp": "そうれ！",
+                    "textEn": "There!",
+                    "condition": null,
+                    "voiceFile": "SV331_0_攻击2.mp3"
+                },
+                {
+                    "title": "攻击 3",
+                    "text": "就是这样的招式。",
+                    "textJp": "こういう、ことです。",
+                    "textEn": "That's how it goes.",
+                    "condition": null,
+                    "voiceFile": "SV331_0_攻击3.mp3"
+                },
+                {
+                    "title": "攻击 4",
+                    "text": "怎么样？",
+                    "textJp": "どうでしょう。",
+                    "textEn": "How about this?",
+                    "condition": null,
+                    "voiceFile": "SV331_0_攻击4.mp3"
+                },
+                {
+                    "title": "攻击 5",
+                    "text": "姆──喝！",
+                    "textJp": "んんっ、ふっ！",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV331_0_攻击5.mp3"
+                },
+                {
+                    "title": "攻击 6",
+                    "text": "看招看招！",
+                    "textJp": "そうれ、そうれ！",
+                    "textEn": "There, there!",
+                    "condition": null,
+                    "voiceFile": "SV331_0_攻击6.mp3"
+                },
+                {
+                    "title": "Extra 1",
+                    "text": "稍微休息一下……哦？",
+                    "textJp": "ちょっとお休みを......おっ？",
+                    "textEn": "I'll take a little break...HM?!",
+                    "condition": null,
+                    "voiceFile": "SV331_0_Extra1.mp3"
+                },
+                {
+                    "title": "Extra 2",
+                    "text": "啊啊，酸痛都消散了……哎呀？",
+                    "textJp": "ああ、凝りがとれる......おや？",
+                    "textEn": "Ah, I got time to relax my muscles... Huh?",
+                    "condition": null,
+                    "voiceFile": "SV331_0_Extra2.mp3"
+                },
+                {
+                    "title": "Extra 3",
+                    "text": "四不相君！",
+                    "textJp": "四不相くん！",
+                    "textEn": "Sibuxiang!",
+                    "condition": null,
+                    "voiceFile": "SV331_0_Extra3.mp3"
+                },
+                {
+                    "title": "Extra 4",
+                    "text": "『拟龙神兽·四不相』！",
+                    "textJp": "『擬竜神獣・四不相』！",
+                    "textEn": "Dracomorphized Divine Beast - Sibuxiang!",
+                    "condition": null,
+                    "voiceFile": "SV331_0_Extra4.mp3"
+                },
+                {
+                    "title": "宝具 1",
+                    "text": "八十四符印，全机启动。唉呀唉呀……苍穹啊，洞开吧。坠落吧──打神鞭！消失在光芒中吧。",
+                    "textJp": "八十四符印、全機起動。やれやれ、っと......空よ、ひらけ！落ちろ、『打神鞭』！光に消えろ。",
+                    "textEn": "Activating all 84 seals! Good grief. Sky, open. Fall, God-Striking Whip! Disappear into the light.",
+                    "condition": null,
+                    "voiceFile": "SV331_0_宝具1.mp3"
+                },
+                {
+                    "title": "宝具 2",
+                    "text": "八十四符印，全机启动。嘿咻。苍天啊，洞开吧。将群星——打神鞭！God Break Arm！！",
+                    "textJp": "八十四符印、全機起動。よーいしょっと。天よ、ひらけ！星を、『打神鞭』！ゴッド・ブレイク・アーム！！",
+                    "textEn": "Activating all 84 seals! Here it goes. Open the heavens! Get the stars, God-Striking Whip. Godbreak Arm!",
+                    "condition": null,
+                    "voiceFile": "SV331_0_宝具2.mp3"
+                },
+                {
+                    "title": "受击 1",
+                    "text": "咕啊啊？ ！",
+                    "textJp": "ぐうっ！",
+                    "textEn": "Uhgggh!",
+                    "condition": null,
+                    "voiceFile": "SV331_0_受击1.mp3"
+                },
+                {
+                    "title": "受击 2",
+                    "text": "咕……！",
+                    "textJp": "くっ！",
+                    "textEn": "Ghh.",
+                    "condition": null,
+                    "voiceFile": "SV331_0_受击2.mp3"
+                },
+                {
+                    "title": "受击 3",
+                    "text": "什么？ ！",
+                    "textJp": "何っ！？",
+                    "textEn": "What?!",
+                    "condition": null,
+                    "voiceFile": "SV331_0_受击3.mp3"
+                },
+                {
+                    "title": "受击 4",
+                    "text": "唔……！",
+                    "textJp": "ぬうっ！",
+                    "textEn": "Uhgh.",
+                    "condition": null,
+                    "voiceFile": "SV331_0_受击4.mp3"
+                },
+                {
+                    "title": "无法战斗 1",
+                    "text": "这个……是……！",
+                    "textJp": "これ……は……！",
+                    "textEn": "Unbelievable.",
+                    "condition": null,
+                    "voiceFile": "SV331_0_无法战斗1.mp3"
+                },
+                {
+                    "title": "无法战斗 2",
+                    "text": "是我输了……",
+                    "textJp": "参ったな……",
+                    "textEn": "Well, I'm beat.",
+                    "condition": null,
+                    "voiceFile": "SV331_0_无法战斗2.mp3"
+                },
+                {
+                    "title": "无法战斗 3",
+                    "text": "到底……搞错了什么……？",
+                    "textJp": "何を……間違えた……？",
+                    "textEn": "What did I... do wrong?",
+                    "condition": null,
+                    "voiceFile": "SV331_0_无法战斗3.mp3"
+                },
+                {
+                    "title": "无法战斗 4",
+                    "text": "到此为止了吗……",
+                    "textJp": "ここまでか……",
+                    "textEn": "This is as far I go?",
+                    "condition": null,
+                    "voiceFile": "SV331_0_无法战斗4.mp3"
+                },
+                {
+                    "title": "胜利 1",
+                    "text": "到此为止。",
+                    "textJp": "ここまで",
+                    "textEn": "It's over.",
+                    "condition": null,
+                    "voiceFile": "SV331_0_胜利1.mp3"
+                },
+                {
+                    "title": "胜利 2",
+                    "text": "结束了！",
+                    "textJp": "終了、です",
+                    "textEn": "That's the end.",
+                    "condition": null,
+                    "voiceFile": "SV331_0_胜利2.mp3"
+                },
+                {
+                    "title": "胜利 3",
+                    "text": "呼~",
+                    "textJp": "ふう",
+                    "textEn": "Phew.",
+                    "condition": null,
+                    "voiceFile": "SV331_0_胜利3.mp3"
+                },
+                {
+                    "title": "胜利 4",
+                    "text": "太难的事就算啦。",
+                    "textJp": "いいんだよ難しい事は",
+                    "textEn": "Don't bother with the complicated stuff.",
+                    "condition": null,
+                    "voiceFile": "SV331_0_胜利4.mp3"
+                }
+            ]
+        },
+        {
+            "section": "召唤和强化",
+            "table": [
+                {
+                    "title": "召唤",
+                    "text": "此次，以Rider的灵基现界。真名，太公望！啊，吕尚也好姜子牙也好姜太公也好，按你喜欢的方式称呼也没关系喔。但是好可惜啊，如果是作为Caster被召唤的话，我绝对会是Grand Caster的啊……",
+                    "textJp": "此度はライダーの霊基にて現界しました。真名を、太公望！あ、呂尚でも姜子牙でも姜太公でも、好きに呼んでくれて構いませんよ。しかし、惜しいなァー。キャスターで喚ばれてたら、僕は絶対、グランドキャスターだったろうになァ。",
+                    "textEn": "I'm hereby manifested in a Rider Saint Graph. My True Name is Taigong Wang! Oh, but I don't mind if you prefer calling me Lu Shang, Jiang Ziya, or Jiang Taigong. But, man, what a shame. If I were summoned as a Caster, I'm sure I could have made it Grand Caster.",
+                    "condition": null,
+                    "voiceFile": "SV331_0_召唤.mp3"
+                },
+                {
+                    "title": "升级 1",
+                    "text": "这可太谢谢你了。",
+                    "textJp": "これはどうも",
+                    "textEn": "Thanks a bunch.",
+                    "condition": null,
+                    "voiceFile": "SV331_0_升级1.mp3"
+                },
+                {
+                    "title": "升级 2",
+                    "text": "非常感谢！",
+                    "textJp": "ありがとうございます",
+                    "textEn": "Thank you very much.",
+                    "condition": null,
+                    "voiceFile": "SV331_0_升级2.mp3"
+                },
+                {
+                    "title": "升级 3",
+                    "text": "多谢多谢！",
+                    "textJp": "どうもどうも",
+                    "textEn": "Thanks, thanks.",
+                    "condition": null,
+                    "voiceFile": "SV331_0_升级3.mp3"
+                },
+                {
+                    "title": "灵基再临 1",
+                    "text": "轻便的衣服虽然很好，但还是这身更稳重呢。怎么样？适合我吗？",
+                    "textJp": "軽装もいいですが、この姿が落ち着きますねえ。どうです？ 似合ってます？",
+                    "textEn": "It feels good to dress more lightly, but this is the look I'm the most comfortable with. So? Do I look good?",
+                    "condition": null,
+                    "voiceFile": "SV331_0_灵基再临1.mp3"
+                },
+                {
+                    "title": "灵基再临 2",
+                    "text": "灵基再临了！虽然是以太构成的身体，到现在这种程度已经开始习惯了。",
+                    "textJp": "霊基再臨、と。エーテルの体とはいえ、ここまで来ると馴染んできますねえ",
+                    "textEn": "Ascension! Made of Ether or not, you sure can get used to any body with enough time.",
+                    "condition": null,
+                    "voiceFile": "SV331_0_灵基再临2.mp3"
+                },
+                {
+                    "title": "灵基再临 3",
+                    "text": "噢噢！ 这可真是……这幅灵基的我，真的太帅了吧！哈哈哈！",
+                    "textJp": "おお！ これはなかなか……。この霊基であれば、けっこうイケますよ僕は！ はっはっは！",
+                    "textEn": "Oh, impressive. I'm doing great with this Saint Graph. Hahaha!",
+                    "condition": null,
+                    "voiceFile": "SV331_0_灵基再临3.mp3"
+                },
+                {
+                    "title": "灵基再临 4",
+                    "text": "能常侍您左右，不胜荣幸。就算还没达到神仙的级别，也是很出色的灵基了吧？既然您对我如此宽厚，没错……我定不负您的期望！",
+                    "textJp": "長らくお付き合いいただき、恐縮です。神仙級、とまでは申しませんが、見事な霊基でしょう？ ここまでしていただいたからには、そうですねぇ……ご期待には、応えましょうとも",
+                    "textEn": "I'm honored to have been with you for this long. Not really Shenxian-level but this is still quite the formidable Saint Graph, isn't it? Since you offered me this much... yes, I'll live up to your expectations.",
+                    "condition": null,
+                    "voiceFile": "SV331_0_灵基再临4.mp3"
+                }
+            ]
+        },
+        {
+            "section": "个人空间",
+            "table": [
+                {
+                    "title": "羁绊 Lv.1",
+                    "text": "仙术？我当然会用啦。现在我的形象，不是在人类时期，而是在仙境积累修行，成为道士之后的样子。我可是非常厉害的哦～！毕竟我要是Caster灵基，成为冠位Caster也不在话下啦。",
+                    "textJp": "仙術？使えますとも。この僕は、ひとりの人間であった頃の僕ではなく、仙境にて修行を積んで、道士になった後の僕の様ですし。僕はなかなかやりますよ〜！キャスター霊基なら、グランドキャスターにもなりうる僕ですからね。",
+                    "textEn": "Tactics? I do use them. I'm seemingly not here as me from when I was just a human, but me as a Taoist, after training in the Xian realm. I'm quite competent. I could have been a Grand Caster if in a Caster Saint Graph after all.",
+                    "condition": null,
+                    "voiceFile": "SV331_0_羁绊Lv1.mp3"
+                },
+                {
+                    "title": "羁绊 Lv.2",
+                    "text": "元始天尊大人……师傅大人叫我来，说要我到地上去封神的时候，我可慌张了。都修行了几十年了，叫我下山去是干什么……！话虽如此，师傅大人这样说，只是因为天数罢了。我和殷战斗，打倒妲己，只是因为我命中注定，并不是因要炒我的鱿鱼。不过嘛，师傅还说了，我也没有什么追求仙道极致的才能，打倒殷王朝还能作为人类出世呢。",
+                    "textJp": "元始天尊様……お師匠様に呼ばれて、地上へ降りて封神せよ！っと言われた時には、それはもう慌てました。何十年も修行して来たのに、山を降りるとは何たる……！んとはいえ、お師匠様がそういったのは、単に天数。僕が殷と戦い、妲己を倒すという運命にあった故のこと、クビって訳じゃなかったんです。まあ、仙道を極める才能はなさそうだし、殷を倒せば人間として出世できるぞ、っとは言われましたけどね",
+                    "textEn": "When my mentor, Lord Yuanshi Tianzun ordered me to descend to the Earth and seal the gods, I was panicking. Climbing down the mountains after decades of training? How could anyone? That said, my teacher told me to do it simply because my grades were... because I was destined to fight Yin and defeat Daji. I wasn't fired! Well, he did tell me \"You don't have the talent to further the way of the Xian, so you could defeat Yin to be successful as a human\".",
+                    "condition": null,
+                    "voiceFile": "SV331_0_羁绊Lv2.mp3"
+                },
+                {
+                    "title": "羁绊 Lv.3",
+                    "text": "诶？打倒殷王朝之后的事情吗？我想想，元始天尊阁下是这样说的，可以回到山里，超越自我的才能，向着神仙的领域进发，也可以出世人界，安稳地度过余生。我是怎么选择的？呵呵，你猜我选是的什么呢？",
+                    "textJp": "え？殷を打ち倒した後のこと、ですか？そうですね。元始天尊様からはこう言われていました、山に戻り、おのが才能を超えて、神仙の域を目指すもよし、人界にて出世して、穏やかに余生を過ごすもよし。どちらを僕が選んだのか、っふふ、さあ？どちっでしょうね。",
+                    "textEn": "Huh? What happened after I toppled Yin? Well... Here's what Lord Yuanshi Tianzun told me: \"You may return to the mountain, surpass your talents, and reach Shenxian. Or you may earn success in the human realm and enjoy a quiet life.\". My choice was... huhu, can you guess it?",
+                    "condition": null,
+                    "voiceFile": "SV331_0_羁绊Lv3.mp3"
+                },
+                {
+                    "title": "羁绊 Lv.4",
+                    "text": "妲己……真是可怕的兽。虽然听说了是狐狸的精怪，没想到竟然是那种程度的存在。除此之外不予置评……哈哈哈，不行吗？",
+                    "textJp": "妲己……恐ろしい獣でした。狐狸の精だと聞いては言ったものの、まさか、あそこまでの存在であったとは。以上、あどはノーコメント……っははは、だめですか？",
+                    "textEn": "Daji... She was a frightening Beast. I was informed that she was a fox spirit, but I'd never expected she'd be of that level. No further comments. Hahaha, can't I?",
+                    "condition": null,
+                    "voiceFile": "SV331_0_羁绊Lv4.mp3"
+                },
+                {
+                    "title": "羁绊 Lv.5",
+                    "text": "什么？你说我远远地看着玉藻系英灵的时候，怎么了？不不，前提就很奇怪吧！我可没有远远地观察妙龄女性这种兴趣……听好了，只是妲己的气息，相当的……诶？什么？表情像是快要哭出来了？谁？我吗？……哈哈哈，怎么会呢。",
+                    "textJp": "はい？玉藻系の英霊を遠目に見ている時の僕は、なんですって？いやいや、前提がおっかしい……！僕は別に、うら若き女性を遠目に観察する様な趣味はありません……いいですか？単に、妲己の気配がですね、少なからず……えっ？はい？泣きそうな顔してる？誰がですか？僕が？……っははは、まさか。",
+                    "textEn": "Excuse me? What did you say I look like when I see Tamamo Servants? No, no, your premise makes no sense. I don't care for looking at gorgeous women from a distance. Listen, it's just that... Daji's presence is very prevalent. Huh? What? Tearing up? Who? Me? Haha, I couldn't be...",
+                    "condition": null,
+                    "voiceFile": "SV331_0_羁绊Lv5.mp3"
+                },
+                {
+                    "title": "羁绊 Lv.5",
+                    "text": "",
+                    "textJp": "",
+                    "textEn": null,
+                    "condition": "通关非灵长生存圈 通古斯卡庇护所",
+                    "voiceFile": "SV331_0_羁绊Lv5-2.mp3"
+                },
+                {
+                    "title": "对话 1",
+                    "text": "要出门吗？我没问题的哟。",
+                    "textJp": "お出かけですか？構いませんよ、僕は。",
+                    "textEn": "Are we leaving? I don't mind.",
+                    "condition": null,
+                    "voiceFile": "SV331_0_对话1.mp3"
+                },
+                {
+                    "title": "对话 2",
+                    "text": "我太公望明白，我会助你一臂之力的。当然，是作为钓鱼专家啦，交给我吧。",
+                    "textJp": "この太公望了承。あなたの力になりましょう。もちろん、釣りの師としてね。おまかせを。",
+                    "textEn": "I, Taigong Wang Lu Shang, am here to help you. As your fishing teacher, of course. Count on me.",
+                    "condition": null,
+                    "voiceFile": "SV331_0_对话2.mp3"
+                },
+                {
+                    "title": "对话 3",
+                    "text": "说起太公望，大家就想到钓鱼。那么，你就来和我一起钓鱼吧。",
+                    "textJp": "太公望と言えば釣り人の代名詞。ですので、僕は釣りをしましょう。あなたと",
+                    "textEn": "Taigong Wang is the most famed fisherman. As such, I'm going fishing. With you.",
+                    "condition": null,
+                    "voiceFile": "SV331_0_对话3.mp3"
+                },
+                {
+                    "title": "对话 4",
+                    "text": "哦呀，真巧啊。你好啊，猫阁下。",
+                    "textJp": "おや、これは。ごきげんよう、キャット殿",
+                    "textEn": "Oh, hello. How do you do, Lady Cat?",
+                    "condition": "持有玉藻猫",
+                    "voiceFile": "SV331_0_对话4.mp3"
+                },
+                {
+                    "title": "对话 5",
+                    "text": "妲己！？ ……啊，不，没什么，非常抱歉！是你啊，玉藻前阁下。我真是太失礼了。",
+                    "textJp": "妲己！？ ……あ、い、いえ、これは申し訳ない！ あなたでしたか、玉藻の前殿。これは失礼を",
+                    "textEn": "DAJI! H...! AH! Sorry, my sincerest apologies! I didn't see it was you, Lady Tamamo no Mae. Forgive my blunder.",
+                    "condition": "持有玉藻前(Lancer)、玉藻前",
+                    "voiceFile": "SV331_0_对话5.mp3"
+                },
+                {
+                    "title": "对话 6",
+                    "text": "噢噢，哪吒！ 哎呀，你还是那么可爱呐。爱闹腾的脾气改正了吗？还没有？这样啊。",
+                    "textJp": "おお、哪吒！ いやー、相変わらずかわいいですね、あなたは。暴れん坊なところは治ったかな？ 治ってない？ そうかぁ",
+                    "textEn": "Oh, Nezha! Looking cute as ever. Got less rambunctious with time? You didn't? I see.",
+                    "condition": "持有哪吒",
+                    "voiceFile": "SV331_0_对话6.mp3"
+                },
+                {
+                    "title": "对话 7",
+                    "text": "噢噢！ 孔明阁下，你也会用法术吗？诶？ “之前都想办法糊弄过去不挑明了，你对我这个西洋魔术大本营时钟塔的人说些什么呢？”哈哈哈哈！孔明阁下真是的，净说些复杂的话！",
+                    "textJp": "おお！ 孔明殿、あなたも法術を使うのですか。え？ そこは明言せずに誤魔化しておいたのに、西洋魔術の総本山たる時計塔の人間を前に何を言ってるんだ貴様は、ですか？ はははは！ 孔明殿はなんだ、面倒なことを仰る！",
+                    "textEn": "Oh, Kongming. So you're also a user of Fangshi. What? \"I made a point to never say that. Watch what you say within an earshot of a man from the Clock Tower, the headquarters of Western Magecraft.\" Hahaha, I see how it is, Kongming. What an annoying request.",
+                    "condition": "持有诸葛孔明〔埃尔梅罗Ⅱ世〕",
+                    "voiceFile": "SV331_0_对话7.mp3"
+                },
+                {
+                    "title": "对话 8",
+                    "text": "嗯……你也会用一点法术？什么样的呢？",
+                    "textJp": "んー……あなたも法術、ちょっと使ってます？ どうです？",
+                    "textEn": "Hm... You also use Fangshi, but not much. Is that right?",
+                    "condition": "持有司马懿〔莱妮丝〕、陈宫",
+                    "voiceFile": "SV331_0_对话8.mp3"
+                },
+                {
+                    "title": "对话 9",
+                    "text": "奥德修斯……西方传说中的军师阁下也在啊。足够成为我的对手。好，我们来一决胜负吧！就用双陆棋！",
+                    "textJp": "オデュッセウス……伝説の、西方の軍師殿ときましたか。相手にとって不足なし。よし、一手やってみようじゃないか。バックギャモンで！　勝負です！",
+                    "textEn": "Odysseus. The legendary tactician of the West, huh. An opponent I can't complain about. Ok, let's have a match. Of backgammon! Take me on.",
+                    "condition": "持有奥德修斯",
+                    "voiceFile": "SV331_0_对话9.mp3"
+                },
+                {
+                    "title": "对话 10",
+                    "text": "诶！？真的吗？把我用暗号偷偷藏在《三略》中的兵法的奥义给解读出来了吗！？啊，这可真是令我惊讶。请容我表达深深的敬佩。干得好，鬼一法眼大人！",
+                    "textJp": "えっ！？ ほんとに？ 三略にこっそり暗号で入れ込んでおいた兵法の奥義、解読したんです！？ はー、これは驚きました。いやまこと感服申し上げる。お見事、鬼一法眼殿！",
+                    "textEn": "Huh? For real? You deciphered the secret military arts I wrote in code on the Three Strategies? HAAAAH, that's a big surprise. Yes, I am truly most impressed. Very well done, Kiichi Hougen.",
+                    "condition": "持有鬼一法眼",
+                    "voiceFile": "SV331_0_对话10.mp3"
+                },
+                {
+                    "title": "对话 11",
+                    "text": "噢噢噢噢噢好厉害！ 鲜花在绽放！ 花之魔术师梅林阁下，您和传说中一样俊美！ 太美了。不过……要是惹您生气了，我先道个歉。不用猜就知道，您应该是个恶人吧？不是吗？",
+                    "textJp": "おおおおおすごい！ 花が咲いている！ 花の魔術師マーリン殿、噂通りの美形だ！ 美しい。しかし……気分を悪くしたら済まないのだけど、君、もしかしなくてもけっこう悪人ですよね？ 違う？",
+                    "textEn": "Oooooooh, amazing. Flowers blooming everywhere. Lord Merlin, mage of flowers! You're as beautiful as the rumors said. Still... sorry if it offends you, but... are you perhaps very, very evil? No?",
+                    "condition": "持有梅林",
+                    "voiceFile": "SV331_0_对话11.mp3"
+                },
+                {
+                    "title": "对话 12",
+                    "text": "卫宫阁下，那个……难道是莫邪的宝剑？不是吗？",
+                    "textJp": "エミヤ殿、それ……もしかして、莫耶の宝剣？ 違います？",
+                    "textEn": "Sir Emiya, those are those perhaps the Swords of Moye? They're not?",
+                    "condition": "持有卫宫、卫宫〔Alter〕",
+                    "voiceFile": "SV331_0_对话12.mp3"
+                },
+                {
+                    "title": "对话 13",
+                    "text": "好久不见，尼基季奇……啊不对！初次见面。",
+                    "textJp": "お久しぶりです、ニキチッチ……ああいや！ 初めまして初めまして",
+                    "textEn": "Long time no see, Nikitich. Ah, no. I meant \"Nice to meet you\".",
+                    "condition": "持有多布雷尼娅·尼基季奇",
+                    "voiceFile": "SV331_0_对话13.mp3"
+                },
+                {
+                    "title": "对话 14",
+                    "text": "噢噢，竟然是仙女！ 太棒了！ 多么大胆，多么无畏！ 穿着泳装的葛饰北斋阁下……迦勒底真是有各种各样的从者呢。……嗯？ 哦呀？ 原本灵基的葛饰北斋阁下？ 您的脸怎么这么红呀？ 什么？ 你说穿着泳装的你没有修炼道术，仙女只不过是自称和目标？……原来如此。没有！ 我觉得没什么不好。对，对！不如说我很喜欢这样的，很显干劲！ 真的，您放心大胆地接着穿吧！ 既然如此，我要不要也换成泳装呢？",
+                    "textJp": "おお、仙女とは！ 素晴らしい！ 何たる豪胆、何たる不敵！　水着となった葛飾北斎殿……カルデアには様々なサーヴァントがいるものだ。……ん？ おや？ 元の霊基の葛飾北斎殿？ その様に顔を赤くして、どうなさいました？ なに？ 水着のあなたは道術を修めてはいないし、仙女は自称かつ目標に過ぎない、と。……なるほど。いえ！ いいと思いますよ、僕は。ええ、ええ！ 僕はむしろ好きですよ、そういうの。やる気重視で！ 本当です、どんどんやっていきましょう！ なんなら、僕も水着になりましょうか？",
+                    "textEn": "Oh, a xiannu, you say? Amazing! How daring, how fearless! Katsushika Hokusai in a swimsuit... Chaldea has all sorts of Servants. Hm? Hello, original Katsushika Hokusai. What's making your face so red? What? Your swimsuit version didn't study the Tao arts, and calls herself a xiannu just as a boast and a goal? I see... No, I think that's nice. Yeah, I love it actually. Motivation is everything. I do mean it! Keep up the pace. Should I get a swimsuit too?",
+                    "condition": "同时持有葛饰北斋(Saber)与葛饰北斋",
+                    "voiceFile": "SV331_0_对话14.mp3"
+                },
+                {
+                    "title": "对话 15",
+                    "text": "",
+                    "textJp": "",
+                    "textEn": null,
+                    "condition": "持有光之高扬斯卡娅、暗之高扬斯卡娅",
+                    "voiceFile": "SV331_0_对话15.mp3"
+                },
+                {
+                    "title": "喜欢的东西",
+                    "text": "除了钓鱼还喜欢什么？ 嗯……对了，我喜欢御主呀。今天去钓点什么呢？",
+                    "textJp": "釣りの他に好きなもの？ んー……ああ、マスターの事は好きですね。今日は何を釣りましょう？",
+                    "textEn": "What do I like other than fishing? Hm... Oh. I like you, Master. What do you think we'll fish today?",
+                    "condition": null,
+                    "voiceFile": "SV331_0_喜欢的东西.mp3"
+                },
+                {
+                    "title": "讨厌的东西",
+                    "text": "关羽阁下让我很头疼！ 就是三国志那个！ 拿偃月刀的那个！ 说起来，我不是被当做武的象征吗，就好比是战争的神。可是呢，在到了宋的时候，人气就被关羽阁下比下去了。……诶？我嫉妒了？ 没有没有，没有没有没有！",
+                    "textJp": "関羽殿は苦手です！ 三国志の！ 偃月刀の！ というのも僕、武の象徴とされていたんです。戦いの神様みたいなものですね。これがまあ、宋あたりになると関羽殿の人気に押されていくわけです。……え？ 妬み？ いやいや、いやいやいや",
+                    "textEn": "I'm not fond of Lord Guan Yu. The one from Three Kingdoms. With the scimitar. I mean, I was considered the symbol of military prowess. Practically a god of war. But then around the Song Era, I started losing in popularity to Guan Yu. Huh? Jealousy? No, no, perish the thought.",
+                    "condition": null,
+                    "voiceFile": "SV331_0_讨厌的东西.mp3"
+                },
+                {
+                    "title": "关于圣杯",
+                    "text": "圣杯。可以实现愿望的东西吗。感觉实在是很麻烦的东西，我还是敬谢不敏了吧。",
+                    "textJp": "聖杯。願いを叶えるものですか。いかにも厄介そうですね、僕は遠慮しておきましょう",
+                    "textEn": "The Holy Grail? That's something that grants wishes? Sounds like a terrible thing to have around. I'll pass.",
+                    "condition": null,
+                    "voiceFile": "SV331_0_关于圣杯.mp3"
+                },
+                {
+                    "title": "活动举行中",
+                    "text": "哦呀！ 好像很热闹的样子。让我看看……活动举办中……嚯！ 我们也去参加吧，御主！",
+                    "textJp": "おや！　何やら賑やかな。どれどれ……イベント開催中……ほう！ 僕らも参りましょうか、マスター！",
+                    "textEn": "Oh, how lively! What does this say? \"Event open\". Oh. Let us check it, Master.",
+                    "condition": null,
+                    "voiceFile": "SV331_0_活动举行中.mp3"
+                },
+                {
+                    "title": "生日",
+                    "text": "生日快乐！御主，我听玛修阁下说，今天是您诞生的日子。啊啊，实在是可喜可贺！那么，嗯，就为您设宴吧。我会备好我珍藏的甘露和仙桃的！",
+                    "textJp": "おめでとうございます！マシュ殿から聞きましたよ、マスター、今日はあなたの生誕なさった日なのだとか。ああ、実にめでたい！では、ええ、宴と行きましょう。とっておきの甘露や仙桃を出ししますよ。",
+                    "textEn": "Congratulations! Lady Mash told me you were born this day, Master. What a festive day. Well then... Yes, let's have a feast. I'll bring the nectar and the Xian peaches for the occasion.",
+                    "condition": null,
+                    "voiceFile": "SV331_0_生日.mp3"
+                }
+            ]
+        }
+    ],
+    "bondCraft": -1,
+    "valentineCraft": [],
+    "icons": [
+        {
+            "key": "icon1",
+            "valueList": [
+                "太公望_status_1.png",
+                "太公望_status_2.png",
+                "太公望_status_3.png"
+            ]
+        }
+    ],
+    "sprites": [
+        {
+            "key": "sprite1",
+            "valueList": [
+                "太公望_model_1.png",
+                "太公望_model_2.png",
+                "太公望_model_3.png"
+            ]
+        }
+    ],
+    "fandomIcons": {
+        "fandom.S331Icon.png": "Stage 1",
+        "fandom.S331A2Icon.png": "Stage 2",
+        "fandom.S331A3Icon.png": "Stage 3",
+        "fandom.S331A4Icon.png": "Stage 4",
+        "fandom.S331 status servant 1.png": "Portrait (Stage 1)",
+        "fandom.S331 status servant 2.png": "Portrait (Stage 2)",
+        "fandom.S331 status servant 3.png": "Portrait (Stage 3)"
+    },
+    "fandomSprites": {
+        "fandom.Tai Gong Wang Sprite 1.png": "Sprite 1",
+        "fandom.Tai Gong Wang Sprite 2.png": "Sprite 2",
+        "fandom.Tai Gong Wang Sprite 3.png": "Sprite 3",
+        "fandom.S331 card servant 1.png": "Command Card (Stage 1)",
+        "fandom.S331 card servant 2.png": "Command Card (Stage 2)",
+        "fandom.S331 card servant 3.png": "Command Card (Stage 3)",
+        "fandom.Tai Gong Wang 1 Spell 3 Sprite.png": "Skill (Stage 1)",
+        "fandom.Tai Gong Wang 2 Spell 3 Sprite.png": "Skill (Stage 2)",
+        "fandom.Tai Gong Wang 3 Spell 3 Sprite.png": "Skill (Stage 3)",
+        "fandom.Tai Gong Wang 1 NP Fishing Sprite.png": "NP Sprite (Stage 1)",
+        "fandom.Tai Gong Wang 2 NP Fishing Sprite.png": "NP Sprite (Stage 2)",
+        "fandom.Tai Gong Wang 3 NP Fishing Sprite.png": "NP Sprite (Stage 3)",
+        "fandom.Tai Gong Wang Sibuxiang Sprite.png": "Sibuxiang"
+    },
+    "niceSkills": [
+        {
+            "id": 2012551,
+            "num": 1,
+            "name": "原始兵法 A+",
+            "ruby": "げんしへいほう",
+            "detail": "味方全体のQuickカード性能をアップ(3ターン)＆攻撃力をアップ(3ターン)＆宝具威力をアップ(3ターン)",
+            "type": "active",
+            "strengthStatus": 0,
+            "priority": 1,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "conLv": 0,
+            "condLimitCount": 0,
+            "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00304.png",
+            "coolDown": [
+                9,
+                9,
+                9,
+                9,
+                9,
+                8,
+                8,
+                8,
+                8,
+                7
+            ],
+            "functions": [
+                {
+                    "funcId": 107,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "ptAll",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "クイックアップ",
+                    "buffs": [
+                        {
+                            "id": 100,
+                            "name": "Quickアップ",
+                            "detail": "Quickカードの性能をアップ",
+                            "type": "upCommandall",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 105
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 110
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 115
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 120
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 125
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 130
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 135
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 140
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 150
+                        }
+                    ]
+                },
+                {
+                    "funcId": 152,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "ptAll",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "攻撃力アップ",
+                    "buffs": [
+                        {
+                            "id": 126,
+                            "name": "攻撃力アップ",
+                            "detail": "攻撃力をアップ",
+                            "type": "upAtk",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 105
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 110
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 115
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 120
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 125
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 130
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 135
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 140
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 150
+                        }
+                    ]
+                },
+                {
+                    "funcId": 254,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "ptAll",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "宝具威力アップ",
+                    "buffs": [
+                        {
+                            "id": 138,
+                            "name": "宝具威力アップ",
+                            "detail": "宝具で与えるダメージをアップ",
+                            "type": "upNpdamage",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 105
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 110
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 115
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 120
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 125
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 130
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 135
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 140
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 150
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2013450,
+            "num": 2,
+            "name": "封神執行 B",
+            "ruby": "ほうしんしっこう",
+            "detail": "敵全体にスキル封印状態を付与(1ターン) ＋ 自身に〔神性〕特攻状態を付与(3ターン)＆〔魔性〕特攻状態を付与(3ターン)",
+            "type": "active",
+            "strengthStatus": 0,
+            "priority": 1,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "conLv": 0,
+            "condLimitCount": 1,
+            "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00512.png",
+            "coolDown": [
+                8,
+                8,
+                8,
+                8,
+                8,
+                7,
+                7,
+                7,
+                7,
+                6
+            ],
+            "functions": [
+                {
+                    "funcId": 361,
+                    "funcType": "addState",
+                    "funcTargetType": "enemyAll",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "スキル封印",
+                    "buffs": [
+                        {
+                            "id": 182,
+                            "name": "スキル封印",
+                            "detail": "スキルを使用できなくなる",
+                            "type": "donotSkill",
+                            "buffGroup": 800
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1
+                        }
+                    ]
+                },
+                {
+                    "funcId": 520,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "威力アップ・対神性",
+                    "buffs": [
+                        {
+                            "id": 190,
+                            "name": "威力アップ〔神性〕",
+                            "detail": "〔神性〕特性に与えるダメージをアップ",
+                            "type": "upDamage",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 300
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 320
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 340
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 360
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 380
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 400
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 420
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 440
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 460
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 500
+                        }
+                    ]
+                },
+                {
+                    "funcId": 908,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "威力アップ・対魔性",
+                    "buffs": [
+                        {
+                            "id": 249,
+                            "name": "威力アップ〔魔性〕",
+                            "detail": "〔魔性〕に与えるダメージをアップ",
+                            "type": "upDamage",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 300
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 320
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 340
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 360
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 380
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 400
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 420
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 440
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 460
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 500
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2014650,
+            "num": 3,
+            "name": "思想鍵紋 EX",
+            "ruby": "しそうかぎもん",
+            "detail": "自身のNPを増やす ＋ 味方全体のNPを増やす",
+            "type": "active",
+            "strengthStatus": 0,
+            "priority": 1,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "conLv": 0,
+            "condLimitCount": 3,
+            "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00601.png",
+            "coolDown": [
+                8,
+                8,
+                8,
+                8,
+                8,
+                7,
+                7,
+                7,
+                7,
+                6
+            ],
+            "functions": [
+                {
+                    "funcId": 460,
+                    "funcType": "gainNp",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "player",
+                    "funcPopupText": "NP増加",
+                    "buffs": [],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Value": 2000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 2100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 2200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 2300
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 2400
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 2500
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 2600
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 2700
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 2800
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 3000
+                        }
+                    ]
+                },
+                {
+                    "funcId": 470,
+                    "funcType": "hastenNpturn",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "enemy",
+                    "funcPopupText": "チャージ増加",
+                    "buffs": [],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        }
+                    ]
+                },
+                {
+                    "funcId": 466,
+                    "funcType": "gainNp",
+                    "funcTargetType": "ptAll",
+                    "funcTargetTeam": "player",
+                    "funcPopupText": "NP増加",
+                    "buffs": [],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Value": 1000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1300
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1400
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1500
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1600
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1700
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1800
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 2000
+                        }
+                    ]
+                },
+                {
+                    "funcId": 472,
+                    "funcType": "hastenNpturn",
+                    "funcTargetType": "ptAll",
+                    "funcTargetTeam": "enemy",
+                    "funcPopupText": "チャージ増加",
+                    "buffs": [],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "niceClassPassive": [
+        {
+            "id": 88551,
+            "num": 1,
+            "name": "騎乗 A+",
+            "ruby": "きじょう",
+            "detail": "自身のQuickカードの性能をアップ",
+            "type": "passive",
+            "strengthStatus": 1,
+            "priority": 1,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "conLv": 0,
+            "condLimitCount": 0,
+            "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00102.png",
+            "coolDown": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "functions": [
+                {
+                    "funcId": 100,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "クイックアップ",
+                    "buffs": [
+                        {
+                            "id": 100,
+                            "name": "Quickアップ",
+                            "detail": "Quickカードの性能をアップ",
+                            "type": "upCommandall",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 110
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 110
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 110
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 110
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 110
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 110
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 110
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 110
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 110
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 110
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "niceNoblePhantasms": [
+        {
+            "id": 404301,
+            "num": 1,
+            "card": "quick",
+            "name": "打神鞭",
+            "ruby": "だしんべん",
+            "rank": "EX",
+            "type": "対神宝具",
+            "detail": "敵全体に強力な〔神性〕特攻攻撃＆Quick攻撃耐性をダウン(3ターン)<オーバーチャージで効果アップ>",
+            "npGain": {
+                "buster": [
+                    60,
+                    60,
+                    60,
+                    60,
+                    60
+                ],
+                "arts": [
+                    60,
+                    60,
+                    60,
+                    60,
+                    60
+                ],
+                "quick": [
+                    60,
+                    60,
+                    60,
+                    60,
+                    60
+                ],
+                "extra": [
+                    60,
+                    60,
+                    60,
+                    60,
+                    60
+                ],
+                "defence": [
+                    300,
+                    300,
+                    300,
+                    300,
+                    300
+                ],
+                "np": [
+                    60,
+                    60,
+                    60,
+                    60,
+                    60
+                ]
+            },
+            "npDistribution": [
+                4,
+                9,
+                14,
+                19,
+                23,
+                31
+            ],
+            "strengthStatus": 0,
+            "priority": 101,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "individuality": [
+                {
+                    "id": 3002,
+                    "name": "attackMagical"
+                },
+                {
+                    "id": 4003,
+                    "name": "cardQuick"
+                },
+                {
+                    "id": 4007,
+                    "name": "cardNP"
+                },
+                {
+                    "id": 4101,
+                    "name": "aoeNP"
+                }
+            ],
+            "functions": [
+                {
+                    "funcId": 17,
+                    "funcType": "damageNpIndividual",
+                    "funcTargetType": "enemyAll",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "なし",
+                    "buffs": [],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Value": 6000,
+                            "Target": 2000,
+                            "Correction": 1500
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 8000,
+                            "Target": 2000,
+                            "Correction": 1500
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 9000,
+                            "Target": 2000,
+                            "Correction": 1500
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 9500,
+                            "Target": 2000,
+                            "Correction": 1500
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 10000,
+                            "Target": 2000,
+                            "Correction": 1500
+                        }
+                    ]
+                },
+                {
+                    "funcId": 1596,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "enemyAll",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "クイック耐性ダウン",
+                    "buffs": [
+                        {
+                            "id": 504,
+                            "name": "Quickカード耐性ダウン",
+                            "detail": "Quickカードの攻撃による被ダメージ、被NP発生量、被スター発生率が増加する",
+                            "type": "downDefencecommandall",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "atkGrowth": [
+        1800,
+        1967,
+        2144,
+        2312,
+        2489,
+        2657,
+        2834,
+        3001,
+        3169,
+        3336,
+        3494,
+        3661,
+        3819,
+        3977,
+        4134,
+        4282,
+        4430,
+        4577,
+        4715,
+        4853,
+        4991,
+        5119,
+        5247,
+        5366,
+        5484,
+        5602,
+        5710,
+        5809,
+        5907,
+        6006,
+        6085,
+        6173,
+        6252,
+        6321,
+        6390,
+        6449,
+        6498,
+        6548,
+        6587,
+        6626,
+        6656,
+        6686,
+        6705,
+        6715,
+        6725,
+        6735,
+        6745,
+        6755,
+        6764,
+        6784,
+        6814,
+        6853,
+        6892,
+        6942,
+        6991,
+        7050,
+        7119,
+        7188,
+        7267,
+        7355,
+        7434,
+        7533,
+        7631,
+        7730,
+        7838,
+        7956,
+        8075,
+        8193,
+        8321,
+        8449,
+        8587,
+        8725,
+        8863,
+        9010,
+        9158,
+        9306,
+        9464,
+        9621,
+        9779,
+        9946,
+        10104,
+        10271,
+        10439,
+        10606,
+        10784,
+        10951,
+        11128,
+        11296,
+        11473,
+        11651,
+        11759,
+        11867,
+        11976,
+        12084,
+        12202,
+        12311,
+        12419,
+        12527,
+        12645,
+        12754,
+        12862,
+        12971,
+        13089,
+        13197,
+        13305,
+        13414,
+        13532,
+        13640,
+        13749,
+        13857,
+        13965,
+        14084,
+        14192,
+        14300,
+        14409,
+        14527,
+        14635,
+        14744,
+        14852,
+        14970
+    ],
+    "hpGrowth": [
+        1986,
+        2182,
+        2390,
+        2586,
+        2794,
+        2991,
+        3199,
+        3395,
+        3592,
+        3788,
+        3973,
+        4170,
+        4355,
+        4540,
+        4725,
+        4898,
+        5071,
+        5245,
+        5406,
+        5568,
+        5730,
+        5880,
+        6030,
+        6169,
+        6308,
+        6447,
+        6574,
+        6689,
+        6805,
+        6920,
+        7013,
+        7117,
+        7209,
+        7290,
+        7371,
+        7440,
+        7498,
+        7556,
+        7602,
+        7648,
+        7683,
+        7718,
+        7741,
+        7752,
+        7764,
+        7776,
+        7787,
+        7799,
+        7810,
+        7833,
+        7868,
+        7914,
+        7960,
+        8018,
+        8076,
+        8145,
+        8226,
+        8307,
+        8400,
+        8504,
+        8596,
+        8712,
+        8827,
+        8943,
+        9070,
+        9209,
+        9347,
+        9486,
+        9636,
+        9786,
+        9948,
+        10110,
+        10272,
+        10445,
+        10619,
+        10792,
+        10977,
+        11162,
+        11347,
+        11543,
+        11728,
+        11925,
+        12121,
+        12317,
+        12525,
+        12722,
+        12930,
+        13126,
+        13334,
+        13543,
+        13670,
+        13797,
+        13924,
+        14051,
+        14190,
+        14317,
+        14444,
+        14571,
+        14710,
+        14837,
+        14964,
+        15091,
+        15230,
+        15357,
+        15484,
+        15611,
+        15750,
+        15877,
+        16004,
+        16131,
+        16258,
+        16397,
+        16524,
+        16651,
+        16778,
+        16917,
+        17044,
+        17171,
+        17299,
+        17437
+    ],
+    "figure": [
+        "https://static.atlasacademy.io/JP/CharaFigure/4043000/4043000_merged.png",
+        "https://static.atlasacademy.io/JP/CharaFigure/4043001/4043001_merged.png",
+        "https://static.atlasacademy.io/JP/CharaFigure/4043002/4043002_merged.png"
+    ],
+    "ascension": [
+        "https://static.atlasacademy.io/JP/CharaGraph/404300/404300a@1.png",
+        "https://static.atlasacademy.io/JP/CharaGraph/404300/404300a@2.png",
+        "https://static.atlasacademy.io/JP/CharaGraph/404300/404300b@1.png",
+        "https://static.atlasacademy.io/JP/CharaGraph/404300/404300b@2.png"
+    ]
+}

@@ -1,0 +1,4121 @@
+{
+    "no": 329,
+    "svtId": 305000,
+    "mcLink": "坂本龙马(Lancer)",
+    "icon": "Servant329.jpg",
+    "info": {
+        "gameId": 305000,
+        "name": "坂本龙马",
+        "nameJp": "坂本龍馬",
+        "nameEn": "Sakamoto Ryōma (Lancer)",
+        "namesOther": [
+            "坂本龙马",
+            "サカモトリョウマ"
+        ],
+        "namesJpOther": [
+            "坂本龍馬"
+        ],
+        "namesEnOther": [
+            "Sakamoto Ryouma"
+        ],
+        "nicknames": [
+            "枪龙马"
+        ],
+        "obtain": "限定",
+        "obtains": [
+            "期间限定"
+        ],
+        "rarity": 5,
+        "rarity2": 5,
+        "weight": "72kg",
+        "height": "178cm",
+        "gender": "男性",
+        "illustrator": "pako",
+        "illustratorJp": "pako",
+        "illustratorEn": "pako",
+        "className": "Lancer",
+        "attribute": "人",
+        "isHumanoid": true,
+        "isWeakToEA": true,
+        "isTDNS": false,
+        "cv": [
+            "加濑康之",
+            "堀江由衣"
+        ],
+        "cvJp": [
+            "加瀬康之＆堀江由衣"
+        ],
+        "cvEn": [
+            "Kase Yasuyuki",
+            "Horie Yui"
+        ],
+        "alignments": [
+            "中立",
+            "中庸"
+        ],
+        "traits": [
+            "骑乘",
+            "人科"
+        ],
+        "ability": {
+            "strength": "B",
+            "endurance": "C",
+            "agility": "B+",
+            "mana": "C",
+            "luck": "A-",
+            "np": "EX"
+        },
+        "illustrations": {
+            "第１阶段": "坂本龍馬初始.png",
+            "第２阶段": "坂本龍馬一破.png",
+            "第３阶段": "坂本龍馬三破.png",
+            "第４阶段": "坂本龍馬满破.png",
+            "第４阶段（扩大版）": "坂本龙马满破（扩大版）.png"
+        },
+        "cards": [
+            "Quick",
+            "Arts",
+            "Arts",
+            "Buster",
+            "Buster"
+        ],
+        "cardHits": {
+            "Quick": 5,
+            "Arts": 4,
+            "Buster": 4,
+            "Extra": 5,
+            "NP": 3
+        },
+        "cardHitsDamage": {
+            "Quick": [
+                6,
+                13,
+                20,
+                26,
+                35
+            ],
+            "Arts": [
+                10,
+                20,
+                30,
+                40
+            ],
+            "Buster": [
+                10,
+                20,
+                30,
+                40
+            ],
+            "Extra": [
+                6,
+                13,
+                20,
+                26,
+                35
+            ],
+            "NP": [
+                16,
+                33,
+                51
+            ]
+        },
+        "npRate": {
+            "Quick": "0.47%",
+            "Arts": "0.47%",
+            "Buster": "0.47%",
+            "Extra": "0.47%",
+            "NP": "0.47%",
+            "Defense": "4%"
+        },
+        "atkMin": 1661,
+        "hpMin": 2221,
+        "atkMax": 10753,
+        "hpMax": 15147,
+        "atk90": 10753,
+        "hp90": 15147,
+        "atk100": 11771,
+        "hp100": 16594,
+        "starRate": "12.0%",
+        "deathRate": "32.0%",
+        "criticalRate": "91"
+    },
+    "noblePhantasm": [
+        {
+            "state": "",
+            "openCondition": "==宝具==\n{{参阅|{{PAGENAME}}/宝具动画|该从者的宝具动画}}\n{{参阅|音乐鉴赏/宝具背景音乐合集#坂本龙马(Lancer)|该从者的宝具背景音乐}}",
+            "name": "与你同征绵津见之原",
+            "nameJp": "君よ、綿津見の原を征け",
+            "upperName": "Ryu yo, Wadatsuminohara wo Yuke",
+            "upperNameJp": "りゅうよ、わだつみのはらをゆけ",
+            "color": "Arts",
+            "category": "全体",
+            "rank": "EX",
+            "typeText": "对军宝具",
+            "effects": [
+                {
+                    "description": "自身的宝具威力提升(3回合)<Over Charge时效果提升>",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "20%",
+                        "25%",
+                        "30%",
+                        "35%",
+                        "40%"
+                    ]
+                },
+                {
+                    "description": "防御力大幅提升(1回合)",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "50%"
+                    ]
+                },
+                {
+                    "description": "对敌方全体发动强大的攻击<宝具升级效果提升>",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "450%",
+                        "600%",
+                        "675%",
+                        "712.5%",
+                        "750%"
+                    ]
+                }
+            ]
+        }
+    ],
+    "noblePhantasmEn": [
+        {
+            "state": "Normal",
+            "openCondition": null,
+            "name": "Ryuu yo, Wadatsumi no Hara wo Yuke",
+            "nameJp": null,
+            "upperName": "Ryuu yo, Wadatsumi no Hara wo Yuke",
+            "upperNameJp": null,
+            "color": "Arts",
+            "category": "",
+            "rank": "EX",
+            "typeText": "Anti-Army",
+            "effects": [
+                {
+                    "description": " Increases own defense by 50% for 1 turn. {{Activates First}}\nDeals damage to all enemies.",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                },
+                {
+                    "description": " Damage +",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "450%",
+                        "600%",
+                        "675%",
+                        "712.5%",
+                        "750%"
+                    ]
+                },
+                {
+                    "description": "<Over Charge>\nIncreases own NP damage for 3 turns. {{Activates First}}",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                },
+                {
+                    "description": " NP Damage +",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "20%",
+                        "25%",
+                        "30%",
+                        "35%",
+                        "40%"
+                    ]
+                }
+            ]
+        },
+        {
+            "state": "Enemy NPC",
+            "openCondition": "Only the Enemy NPC Version of GUDAGUDA Close Call 2021",
+            "name": "Heaven-Opposing Artillery",
+            "nameJp": null,
+            "upperName": "Heaven-Opposing Artillery",
+            "upperNameJp": null,
+            "color": "Arts",
+            "category": "",
+            "rank": "",
+            "typeText": "",
+            "effects": [
+                {
+                    "description": " Deals 600% damage to one enemy.",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                },
+                {
+                    "description": "<Over Charge>\nNone.",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                }
+            ]
+        }
+    ],
+    "activeSkills": [
+        {
+            "cnState": 0,
+            "skills": [
+                {
+                    "state": "",
+                    "openCondition": "",
+                    "name": "维新之龙",
+                    "nameJp": "維新の龍",
+                    "nameEn": null,
+                    "rank": "A",
+                    "icon": "蓝放.png",
+                    "cd": 8,
+                    "effects": [
+                        {
+                            "description": "己方全体的Arts指令卡性能提升(3回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "10%",
+                                "11%",
+                                "12%",
+                                "13%",
+                                "14%",
+                                "15%",
+                                "16%",
+                                "17%",
+                                "18%",
+                                "20%"
+                            ]
+                        },
+                        {
+                            "description": "暴击威力提升(3回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "20%",
+                                "21%",
+                                "22%",
+                                "23%",
+                                "24%",
+                                "25%",
+                                "26%",
+                                "27%",
+                                "28%",
+                                "30%"
+                            ]
+                        },
+                        {
+                            "description": "付与使用宝具时的充能阶段上升1级的状态(1次·3回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "∅"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "cnState": 0,
+            "skills": [
+                {
+                    "state": "",
+                    "openCondition": "",
+                    "name": "高千穗的白色大蛇",
+                    "nameJp": "高千穂の白き大蛇",
+                    "nameEn": null,
+                    "rank": "A-",
+                    "icon": "充能.png",
+                    "cd": 8,
+                    "effects": [
+                        {
+                            "description": "自身的NP增加",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "30%",
+                                "32%",
+                                "34%",
+                                "36%",
+                                "38%",
+                                "40%",
+                                "42%",
+                                "44%",
+                                "46%",
+                                "50%"
+                            ]
+                        },
+                        {
+                            "description": "付与弱化无效状态(3回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "∅"
+                            ]
+                        },
+                        {
+                            "description": "强化解除耐性提升(3回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "50%",
+                                "55%",
+                                "60%",
+                                "65%",
+                                "70%",
+                                "75%",
+                                "80%",
+                                "85%",
+                                "90%",
+                                "100%"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "cnState": 0,
+            "skills": [
+                {
+                    "state": "",
+                    "openCondition": "",
+                    "name": "天逆鉾（双）",
+                    "nameJp": "天逆鉾（双）",
+                    "nameEn": null,
+                    "rank": "B",
+                    "icon": "红蓝放.png",
+                    "cd": 8,
+                    "effects": [
+                        {
+                            "description": "自身的Arts指令卡性能提升(3回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "20%",
+                                "21%",
+                                "22%",
+                                "23%",
+                                "24%",
+                                "25%",
+                                "26%",
+                                "27%",
+                                "28%",
+                                "30%"
+                            ]
+                        },
+                        {
+                            "description": "Buster指令卡性能提升(3回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "20%",
+                                "21%",
+                                "22%",
+                                "23%",
+                                "24%",
+                                "25%",
+                                "26%",
+                                "27%",
+                                "28%",
+                                "30%"
+                            ]
+                        },
+                        {
+                            "description": "付与每回合获得暴击星的状态(3回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "5",
+                                "6",
+                                "6",
+                                "7",
+                                "7",
+                                "8",
+                                "8",
+                                "9",
+                                "9",
+                                "10"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "activeSkillsEn": [
+        {
+            "cnState": 0,
+            "skills": [
+                {
+                    "state": "",
+                    "openCondition": null,
+                    "name": "Dragon of the Reformation",
+                    "nameJp": null,
+                    "nameEn": null,
+                    "rank": "A",
+                    "icon": "蓝放.png",
+                    "cd": 8,
+                    "effects": [
+                        {
+                            "description": "Increases party's Arts performance for 3 turns.\nIncreases party's critical damage for 3 turns.\n Overcharges party's NP by 1 stages for 1 time, 3 turns.",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": []
+                        },
+                        {
+                            "description": " Arts +",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "10%",
+                                "11%",
+                                "12%",
+                                "13%",
+                                "14%",
+                                "15%",
+                                "16%",
+                                "17%",
+                                "18%",
+                                "20%"
+                            ]
+                        },
+                        {
+                            "description": " Crit Damage +",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "20%",
+                                "21%",
+                                "22%",
+                                "23%",
+                                "24%",
+                                "25%",
+                                "26%",
+                                "27%",
+                                "28%",
+                                "30%"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "cnState": 0,
+            "skills": [
+                {
+                    "state": "Normal",
+                    "openCondition": null,
+                    "name": "White Orochi of Takachiho",
+                    "nameJp": null,
+                    "nameEn": null,
+                    "rank": "A-",
+                    "icon": "充能.png",
+                    "cd": 8,
+                    "effects": [
+                        {
+                            "description": "Charges own NP gauge.\nIncreases own buff removal resistance for 3 turns.\n Grants self Debuff Immunity for 3 turns.",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": []
+                        },
+                        {
+                            "description": " NP +",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "30%",
+                                "32%",
+                                "34%",
+                                "36%",
+                                "38%",
+                                "40%",
+                                "42%",
+                                "44%",
+                                "46%",
+                                "50%"
+                            ]
+                        },
+                        {
+                            "description": " Buff Removal Res +",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "50%",
+                                "55%",
+                                "60%",
+                                "65%",
+                                "70%",
+                                "75%",
+                                "80%",
+                                "85%",
+                                "90%",
+                                "100%"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "cnState": 0,
+            "skills": [
+                {
+                    "state": "Normal",
+                    "openCondition": null,
+                    "name": "Amasakahoko (Dual)",
+                    "nameJp": null,
+                    "nameEn": null,
+                    "rank": "B",
+                    "icon": "红蓝放.png",
+                    "cd": 8,
+                    "effects": [
+                        {
+                            "description": "Increases own Arts performance for 3 turns.\nIncreases own Buster performance for 3 turns.\nGains critical stars every turn for 3 turns.",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": []
+                        },
+                        {
+                            "description": " Arts +",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "20%",
+                                "21%",
+                                "22%",
+                                "23%",
+                                "24%",
+                                "25%",
+                                "26%",
+                                "27%",
+                                "28%",
+                                "30%"
+                            ]
+                        },
+                        {
+                            "description": " Buster +",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "20%",
+                                "21%",
+                                "22%",
+                                "23%",
+                                "24%",
+                                "25%",
+                                "26%",
+                                "27%",
+                                "28%",
+                                "30%"
+                            ]
+                        },
+                        {
+                            "description": " Star Regen +",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "5",
+                                "6",
+                                "6",
+                                "7",
+                                "7",
+                                "8",
+                                "8",
+                                "9",
+                                "9",
+                                "10"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "passiveSkills": [
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "对魔力",
+            "nameJp": null,
+            "nameEn": null,
+            "rank": "C+",
+            "icon": "对魔力.png",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": "自身的弱化耐性少量提升(15.5%)",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                }
+            ]
+        },
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "骑乘",
+            "nameJp": null,
+            "nameEn": null,
+            "rank": "EX",
+            "icon": "骑乘.png",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": "自身的Quick指令卡性能提升(12%)",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                }
+            ]
+        },
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "变化（大蛇）",
+            "nameJp": null,
+            "nameEn": null,
+            "rank": "A",
+            "icon": "被暴击发生耐性提升.png",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": "自身的被暴击发生耐性提升(10%)＆暴击威力提升(10%)",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                }
+            ]
+        }
+    ],
+    "passiveSkillsEn": [
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "Magic Resistance",
+            "nameJp": null,
+            "nameEn": null,
+            "rank": "C+",
+            "icon": "fandom.Anti magic.png",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": " Increases own debuff resistance by 15.5%.",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                }
+            ]
+        },
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "Riding",
+            "nameJp": null,
+            "nameEn": null,
+            "rank": "EX",
+            "icon": "fandom.riding.png",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": " Increases own Quick performance by 12%.",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                }
+            ]
+        },
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "Shapeshift (Orochi)",
+            "nameJp": null,
+            "nameEn": null,
+            "rank": "A",
+            "icon": "fandom.Criticalchanceresup.png",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": " Increases own critical attack chance resistance by 10%.\n Increases own critical damage by 10%.",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                }
+            ]
+        }
+    ],
+    "appendSkills": [
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "追击技巧提升",
+            "nameJp": "追撃技巧向上",
+            "nameEn": "Extra Attack Finesse Improvement",
+            "rank": null,
+            "icon": "特攻",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": "自身的Extra Attack指令卡性能提升",
+                    "descriptionJp": "自身のExtra Attackカードの性能をアップする",
+                    "descriptionEn": "Increases own Extra Attack performance",
+                    "lvData": [
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "38%",
+                        "40%",
+                        "42%",
+                        "44%",
+                        "46%",
+                        "50%"
+                    ]
+                }
+            ]
+        },
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "魔力装填",
+            "nameJp": "魔力装填",
+            "nameEn": "Mana Loading",
+            "rank": null,
+            "icon": "充能",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": "自身以NP已达一定数值的状态开始战斗",
+                    "descriptionJp": "自身のNPをチャージした状態でバトルを開始する",
+                    "descriptionEn": "Starts battle with NP gauge",
+                    "lvData": [
+                        "10%",
+                        "11%",
+                        "12%",
+                        "13%",
+                        "14%",
+                        "15%",
+                        "16%",
+                        "17%",
+                        "18%",
+                        "20%"
+                    ]
+                }
+            ]
+        },
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "对Alterego攻击适性",
+            "nameJp": "対Alterego攻撃適性",
+            "nameEn": "Anti-Alterego Attack Damage Aptitude",
+            "rank": null,
+            "icon": "加攻",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": "自身对Alterego的攻击力提升",
+                    "descriptionJp": "自身の〔Alterego〕クラスに対する攻撃力をアップする",
+                    "descriptionEn": "Increases own attack against Alterego enemies",
+                    "lvData": [
+                        "20%",
+                        "21%",
+                        "22%",
+                        "23%",
+                        "24%",
+                        "25%",
+                        "26%",
+                        "27%",
+                        "28%",
+                        "30%"
+                    ]
+                }
+            ]
+        }
+    ],
+    "coinSummonNum": 90,
+    "itemCost": {
+        "ascension": [
+            {
+                "枪阶银棋": 5,
+                "QP": 100000
+            },
+            {
+                "枪阶银棋": 12,
+                "英雄之证": 22,
+                "QP": 300000
+            },
+            {
+                "枪阶金像": 5,
+                "虚影之尘": 20,
+                "战马的幼角": 3,
+                "QP": 1000000
+            },
+            {
+                "枪阶金像": 12,
+                "战马的幼角": 6,
+                "龙之逆鳞": 5,
+                "QP": 3000000
+            }
+        ],
+        "skill": [
+            {
+                "枪之辉石": 5,
+                "QP": 200000
+            },
+            {
+                "枪之辉石": 12,
+                "QP": 400000
+            },
+            {
+                "枪之魔石": 5,
+                "QP": 1200000
+            },
+            {
+                "枪之魔石": 12,
+                "虚影之尘": 10,
+                "QP": 1600000
+            },
+            {
+                "枪之秘石": 5,
+                "虚影之尘": 20,
+                "QP": 4000000
+            },
+            {
+                "枪之秘石": 12,
+                "英雄之证": 15,
+                "QP": 5000000
+            },
+            {
+                "英雄之证": 29,
+                "闲古铃": 6,
+                "QP": 10000000
+            },
+            {
+                "闲古铃": 18,
+                "龙之逆鳞": 10,
+                "QP": 12000000
+            },
+            {
+                "传承结晶": 1,
+                "QP": 20000000
+            }
+        ],
+        "appendSkill": [
+            {
+                "枪之辉石": 5,
+                "QP": 200000
+            },
+            {
+                "枪之辉石": 12,
+                "QP": 400000
+            },
+            {
+                "枪之魔石": 5,
+                "QP": 1200000
+            },
+            {
+                "枪之魔石": 12,
+                "蛇之宝玉": 4,
+                "QP": 1600000
+            },
+            {
+                "枪之秘石": 5,
+                "蛇之宝玉": 8,
+                "QP": 4000000
+            },
+            {
+                "枪之秘石": 12,
+                "战马的幼角": 3,
+                "QP": 5000000
+            },
+            {
+                "战马的幼角": 6,
+                "振荡火药": 18,
+                "QP": 10000000
+            },
+            {
+                "振荡火药": 54,
+                "晓光炉心": 15,
+                "QP": 12000000
+            },
+            {
+                "传承结晶": 1,
+                "QP": 20000000
+            }
+        ]
+    },
+    "costumeNos": [],
+    "bondPoints": [
+        2000,
+        3000,
+        4000,
+        5000,
+        6000,
+        230000,
+        250000,
+        300000,
+        380000,
+        438000,
+        1090000,
+        1230000,
+        1360000,
+        1500000,
+        1640000
+    ],
+    "profiles": [
+        {
+            "title": "0",
+            "description": "奔走于幕末日本的志士之一。\n出身土佐藩乡士之家，脱藩后师从胜海舟，\n组建了后来的海援队龟山社中。\n致力于萨长同盟的牵线搭桥和大政奉还的成立等，\n为明治维新做出了巨大贡献。\n但是自己没能看到明治的世道，壮志未决就倒在了凶刃之下。\n\n外表看起来是个飘飘然的二十多岁的男人。\n虽然是北辰一刀流的高手，但本人却是个不喜欢挥剑的老好人。\n取而代之的是战斗时十分贴近他的那位谜之美女所展现出的纵横无尽的作用。\n\n本来适性的职阶是Rider，\n因为某种原因，这次作为Lancer现界。",
+            "descriptionJp": "幕末の日本を駆け抜けた志士の一人。\n土佐藩の郷士の家に生まれ、脱藩したのちは勝海舟に\n師事、のちの海援隊である亀山社中を結成し、\n薩長同盟の仲立ちや大政奉還の成立に尽力するなど、\n明治維新に大きく貢献した。\nだが自身は明治の世を見る事なく、志半ばで凶刃に\n倒れる事となる。\n\n見た目は飄々とした20代半ばの優男。\n北辰一刀流の達人ではあるが、本人は剣を振るうのを\n好まない根っからのお人好し。代わりに戦闘時は\n彼に寄り添う謎の美女が縦横無尽の働きを見せる。\n\n本来の適性クラスはライダーではあるが、\nとある経緯で此度はランサーとして現界している。",
+            "descriptionEn": "A patriot who shot through Japan during the Bakumatsu period.\n\nBorn to a low-ranking samurai in the domain of Tosa, he left the clan and trained under Katsu Kaishuu, eventually establishing the Kameyama Company which would later become the Kaientai.\n\nHe played an instrumental role in mediating the Satchou Alliance and restoring imperial rule, and contributed greatly to the Meiji Restoration.\n\nHowever, he himself did not live to see the Meiji era, dying to an assassin's blade whilst still in the midst of his ambitions.\n\n\nHe appears as a slender, aloof man in his mid-twenties.\n\nHe is trained in the Hokushin Ittou style of swordsmanship, but he is a gentle person at heart who would rather avoid wielding a sword if he can. Instead, a mysterious beauty glued to his side during battle can be seen doing most of the fighting.\n\n\nHe is best suited in the Rider class, but for some reason he has now been summoned as a Lancer.",
+            "condition": null,
+            "conditionEn": null
+        },
+        {
+            "title": "1",
+            "description": "身高／体重：178cm·72kg\n出处：史实\n地域：日本\n属性：中立·中庸　　性别：男性\n「那么，去洗涤日本，不，去洗涤世界吧。」\n\n身高／体重：173cm·57kg\n出处：帝都圣杯奇谭\n地区：日本\n属性：混沌·善　　性别：女性\n「交给超级阿龙小姐吧。」",
+            "descriptionJp": "身長／体重：178cm・72kg\n出典：史実\n地域：日本\n属性：中立・中庸　　性別：男性\n「それじゃあ、日本、いや世界の洗濯と行こうか」\n\n身長／体重：173cm・57kg\n出典：帝都聖杯奇譚\n地域：日本\n属性：混沌・善　　性別：女性\n「スーパーなお竜さんにドーンと任せとけ」",
+            "descriptionEn": "Height/Weight: 178 cm/72 kg\n\nSource: Historical fact\n\nRegion: Japan\n\nAlignment: True Neutral\n\nGender: Male\n\n\"Alright, let's go deal with Japan, no, the world's laundry.\"\n\n\nHeight/Weight: 173 cm/57 kg\n\nSource: Strange Tales of the Imperial Holy Grail\n\nRegion: Japan\n\nAlignment: Chaotic Good\n\nGender: Female\n\n\"Leave everything to Super Oryou-san.\"",
+            "condition": "羁绊达到Lv.1后开放",
+            "conditionEn": null
+        },
+        {
+            "title": "2",
+            "description": "圣杯战争中的三骑士之一，以Lancer的职阶现界\n此外，手持天逆鉾的这个形象，是作为坂本龙马可能到达的样子，也是无愧于维新英雄之名的强大从者。\n\n在名为坂本龙马的英灵作为从者被召唤出来的场合，一般情况下，宝具只限于矛或大蛇之一。\n所以，二者能同时出现是何等的奇迹，简直难以想象。\n\n是北辰一刀流的高手，剑术也相当厉害。\n学习的剑术包含了长刀兵法，所以作为Lancer职阶被召唤时可以充分发挥其能力，再加上超级阿龙小姐的力量也会大爆发，简直就是无敌的海援队。",
+            "descriptionJp": "聖杯戦争における三騎士、ランサークラスでの現界に\n加え、天逆鉾を手にしたこの姿は、坂本龍馬として\n到達しえたかもしれないもしもの姿であり、\n維新の英雄の名に恥じない強力なサーヴァントである。\n\n坂本龍馬という英霊がサーヴァントとして召喚される\n場合、通常は鉾か大蛇のどちらかに宝具は限定される。\nそれを同時に扱いうるという事実がいかなる奇跡によるものなのかは推して知るべしというところか。\n\n北辰一刀流の達人であり、剣の腕前も相当のものだが、\n彼が受けた目録は長刀兵法のものであり、\nその腕前をいかんなく発揮する事が出来るランサークラスでの召喚に加え、スーパーお竜さんのパワーも炸裂するとか、まさに無敵の海援隊といったところ。",
+            "descriptionEn": "In addition to materializing in one of the three knight classes in the Holy Grail War as a Lancer, this Sakamoto Ryouma possessing Amasakahoko is a hypothetical version of himself that he had the potential to reach, as well as being a powerful Servant capable of living up to his name as a hero of the Reformation.\n\n\nWhen the Heroic Spirit Sakamoto Ryouma is summoned as a Servant, his Noble Phantasm is usually limited to either the spear or the orochi.\n\nThe fact that he can handle both at the same time is something of a miracle that one can only guess at.\n\n\nHe is trained in the Hokushin Ittou style, and although his skill in swordsmanship is impressive, the certificate he received includes long-handled sword usage.\n\nAs he can go all out with this power while summoned as a Lancer, in addition to the explosive power of Super Oryou-san, they are a near-invincible Kaientai.",
+            "condition": "羁绊达到Lv.2后开放",
+            "conditionEn": null
+        },
+        {
+            "title": "3",
+            "description": "○维新之龙：A\n被人称为龙的男人。乘着名为时代的巨龙，在幕末的世界上，只为他人而奔走的虚幻而骄傲的生存方式，简直就像天边飞驰的龙一般。\n\n○高千穗的白色大蛇：A-\n没能变成龙的大蛇。曾经作为黑色异形而被鄙视的大蛇为了成为龙而向着天空进发，但最终大蛇还是没能成为龙。\n\n○天逆鉾（双）：B\n从天上落下的光之矛。为了封印黑色异形而将天地缝合的天神之矛。\n本来只有一杆矛，但那个人和大蛇一起挥动时，会以双矛的形态发动两次攻击。\n\n从天上落下的光之矛既是诅咒，也是一种祝福。",
+            "descriptionJp": "○維新の龍：Ａ\n人の身で龍と呼ばれた男。時代という名の竜に乗り幕末の世を、ただ人のために駆け抜けた儚くも誇り高きその生き様は、まさに天駆ける竜が如くであった。\n\n○高千穂の白き大蛇：Ａ－\n竜になれなかった大蛇。かつて黒き異形としてさげすまれた大蛇は竜へならんと天を目指したが、果たして大蛇は竜となる事は叶わなかった。\n\n○天逆鉾（双）：Ｂ\n天より逆落ちた光の鉾。黒き異形を封じるために天と地を縫い合わせた天の神の鉾。\n本来は一振りの鉾であるが、かの者と大蛇が振るうとき、双鉾として二振りの形態を取る。\n\n天より逆落ちた光の鉾は呪いでもあり、\n祝福でもあったのだ。",
+            "descriptionEn": "Dragon of the Reformation: A\n\nA man who was once called a dragon in human form. His short-lived but prideful way of life, shooting through the Bakumatsu period on the dragon representing the ages for the sake of others, was like a dragon soaring through the heavens.\n\n\nWhite Orochi of Takachiho: A-\n\nAn orochi that couldn't become a dragon. Once despised for her black aberration, the orochi aimed for the heavens to become a dragon, but wasn't able to achieve that wish.\n\n\nAmasakahoko (Dual): B\n\nA spear of light descended from the heavens. This is the heavenly divine spear used to sew together the heavens and the earth to seal the black aberration.\n\nIt is originally a single spear, but when wielded by a certain person and orochi, it takes on the form of dual spears.\n\n\nThe spear of light descended from the heavens was just as much of a blessing as it was a curse.",
+            "condition": "羁绊达到Lv.3后开放",
+            "conditionEn": null
+        },
+        {
+            "title": "4",
+            "description": "『与你同征绵津见之原』\n阶级：EX　种类：对军宝具\n有效范围：2～70　最大捕捉：700人\n\nRyu yo, Wadatsuminohara wo Yuke\n龙马向黑色的大蛇奉上升天的天逆鉾，使她蜕皮羽化，变成与神圣之龙相称的美丽的白色大蛇。\n\n身上缠绕着洁白、光辉的神代之神秘，能发挥强大力量的高千穗白色大蛇。\n展开一般攻击无法击穿的坚硬物理障壁，拥有超次元战斗力的这个姿态，或许就是新时代的神应有的模样。\n\n她没有成为龙在天空中飞翔，而是选择成为蛇和那个人在这片海中奔驰。",
+            "descriptionJp": "『君よ、綿津見の原を征け』\nランク：ＥＸ　種別：対軍宝具\nレンジ：２～７０　最大捕捉：７００人\n\nりゅうよ、わだつみのはらをゆけ。\n黒き大蛇に龍馬が天へと掲げた天逆鉾を捧げる事により脱皮羽化し、神々しい竜と見まごう美しき白き大蛇へと変鱗する。\n\n白く輝く神代の神秘をその身に纏い、\n強大な力を振るう高千穂の白き大蛇。\n生半可な攻撃では傷つかない強固な物理障壁を展開し、次元違いの戦闘力を有するその姿は新しき時代の神の姿なのかもしれない。\n\n彼女は竜となり空を翔ける事ではなく、大蛇としてかの者とこの海を駆ける事を選んだのだ。",
+            "descriptionEn": "O You, Conquer the Fields of Wadatsumi\n\nRank: EX\n\nType: Anti-Army Noble Phantasm\n\nRange: 2-70\n\nMaximum targets: 700 people\n\n\nO Dragon, Conquer the Fields of Wadatsumi.\n\nRyouma raises Amasakahoko to the heavens and offers it to the black orochi, shedding its skin and transforming into a beautiful white orochi that resembles a divine dragon.\n\n\nThe white orochi of Takachiho, clothed in the shining white mysteries from the age of the gods, wields a great power.\n\nWith her stalwart physical barriers that cannot be penetrated by half-hearted attacks and her completely unparalleled combat prowess, this form may very well be the figure of a god of a new age.\n\n\nBut instead of becoming a dragon that soars through the skies, she chose to race through the seas as an orochi with a certain someone.",
+            "condition": "羁绊达到Lv.4后开放",
+            "conditionEn": null
+        },
+        {
+            "title": "5",
+            "description": "作为高千穗的白色大蛇降临的超级阿龙小姐。\n据说那种力量是普通的龙的一百万倍，但说到底只是本人的申报，被认为是情绪化的产物，希望阿龙小姐自己能察觉到这一点。\n\n在原本的力量型战斗风格基础上，还射出了神一般的神秘光束之类的，阿龙小姐的超级高千穗战斗风格终于完成了哦龙马。\n\n在某个遥远的国家作为小小的黑色异形出生的她\n被忌讳，被远离，被流放到了此地。\n满是怨念，发誓要复仇的她不久便获得了力量，骄傲自大，想成为龙，想要升天到达神之座。\n但是由于那样的傲慢，她受到了被天降的天逆鉾封印在高千穗山的惩罚。\n\n在被封印的漫长岁月中，一味地憎恨、憎恨、\n其身不久就变成了吞噬国家、使之腐朽的祸害。\n\n但是，在漫长时间的尽头，她终于遇到了。\n\n——比成为龙升天更重要的是什么。",
+            "descriptionJp": "高千穂の白き大蛇として降臨したスーパーお竜さん。\nそのパワーは通常のお竜さんの１００万倍と言われるが、あくまで本人の申告であり、気持ち的なものだと思われるのでそのあたりはお竜さん察して欲しい。\n\n本来のパワフルファイトスタイルに加え、神様めいた謎ビームを射出するなど、お竜さんのスーパー高千穂バトルスタイルはついに完成を見たんだぞリョーマ。\n\nとある遠き国で小さく黒き異形として生まれた彼女は、\n忌まれ、遠ざけられ、この地に流された。\n怨念にまみれ、復讐を誓う彼女はやがて力を得、驕り高ぶり、竜となり神の座へと昇ろうと天を目指す。\nだがその驕りにより、彼女は天より落とされた天逆鉾による高千穂峰への封印という罰を受ける事となった。\n\n封じられた長き時の中で、ひたすらに天を恨み、憎み、\nその身はやがては国をも喰らい朽ち果てさせる禍へと変じていった。\n\nだが、長くとても永い時の果て、ついに彼女は\nめぐり合う事となった。\n\n―――竜となり天に昇る事よりも大切な何かに。",
+            "descriptionEn": "Super Oryou-san who has descended as the White Orochi of Takachiho.\n\nIt's said that she is one million times more powerful than normal Oryou-san, but this is just a self-declaration that seems to be based off her feelings, so just go along with what she says.\n\n\nOn top of her original powerful fighting style, Oryou-san's Super Takachiho Battle Style, which includes things like shooting mysterious god-like beams is officially complete, Ryouma.\n\n\nBorn in a distant land as a tiny black aberration, she was shunned and kept far away at a distance, and eventually washed up onto this land.\n\nEnveloped in hatred and vowing to seek revenge, she became strong and grew arrogant, aiming for the heavens in order to become a dragon and ascend to divinity.\n\nHowever, her arrogance resulted in her being punished and sealed on the summit of Takachiho with Amasakahoko sent from the heavens.\n\n\nDuring the endless period of time she was sealed, her resentment and hatred for the heavens grew so intense that her body eventually turned into a calamity that could devour a nation and destroy it.\n\n\nBut it was after what seemed like an eternity that she finally met him.\n\n\n― Something more important than becoming a dragon and ascending to the heavens.",
+            "condition": "羁绊达到Lv.5后开放",
+            "conditionEn": null
+        },
+        {
+            "title": "6",
+            "description": "——那家伙应该很辛苦吧。\n\n只是那样，真的只是那样。在不知道是怪物还是神，还是什么的大蛇面前，那个人只是这样想。\n\n尽管被认为会做出恶行，但对于这条被矛钉住，动弹不得，度过了很长时间的大蛇，只是觉得它很可怜。\n\n那个人根本没想到，大蛇竟然想骗自己然后把自己吃掉。\n\n所以拔出了矛。仅此而已。\n\n这样就可以自由地去任何地方了吧。这样想着放下了心。然而，大蛇却不知道在想什么，没有选择自由，而是依附于那个人，和那个人一起走过人生之路。\n\n于是，那个人和大蛇就投身于时代这一洪流之中。\n不是人的某物，不是龙的某物，二人扭曲的旅途最终还是在时代的浪潮中无可奈何地被一分为二，迎来了无可奈何的结局。\n\n即便如此，龙和龙还是会这么想。\n\n——感谢能与你相遇。",
+            "descriptionJp": "―――そいつは大変だったろうに。\n\nただそれだけ、本当にただそれだけだった。化け物か、はたまた神なのか、何なのかさえわからないその大蛇を前にして、かの者が思った事はただそれだけ。\n\nいかに悪行を成したとはいえ、鉾に縫い付けられ、身動きも取れず長い時を過ごしてきたというその大蛇を、ただ気の毒にと、そう思った。\n\n大蛇が己を騙して喰らおうと思っていたなどとは、その人間は考えもしなかったのだ。\n\nだから鉾を抜いた。ただそれだけ。\n\nこれで自由に何処へでも行けるだろう。そう思ってホッとした。ところが大蛇は何を思ったか、自由にはならず、今度はかの者にとり憑き、かの者との道行きを共に歩む事となる。\n\nそうして、その人間と大蛇は時代という大きな時の流れにその身を投じる事となった。\n人ではない何か、竜ではない何か、歪な二人の旅路はやがて時代のうねりの中でどうしようもなく二人を分かち、どうにもならない終わりを迎えたのであった。\n\nそれでも龍と竜はやはり思うのだ。\n\n―――出会えてありがとう、と。",
+            "descriptionEn": "― How agonizing it must have been.\n\n\nThat was it, nothing else. That was the only thing that man could think of as he stood in front of that orochi, not even knowing what she was, a monster, or even a god.\n\n\nIt didn't matter to him what evil deeds she may have committed, he felt sorry for the orochi who had been affixed to the spear for such a long time, unable to move.\n\n\nThe human didn't even consider the possibility that the orochi might try to trick and eat him.\n\n\nSo he pulled out the spear. Just like that.\n\n\nAnd with that, she was free to go anywhere she pleased. She was relieved by the thought. However, the orochi didn't go free. Instead she possessed the man and walked by his side on his travels.\n\n\nAnd so, the human and the orochi devoted themselves to the great tide of the times.\n\nThe twisting journey of these two people, one that wasn't a human and one not a dragon, would come to an inevitable end as the swell of time forced these two apart.\n\n\n\nNevertheless, the two dragons were still able to think:\n\n\n― I'm thankful to have met you.",
+            "condition": "通关 昭和机神计划 唠唠叨叨龙马千钧一发！ 消失的信首之谜 且 羁绊达到Lv.5开放",
+            "conditionEn": null
+        },
+        {
+            "title": "aprilfool",
+            "description": null,
+            "descriptionJp": null,
+            "descriptionEn": null,
+            "condition": null,
+            "conditionEn": null
+        }
+    ],
+    "voices": [
+        {
+            "section": "战斗(战斗形象1 2)",
+            "table": [
+                {
+                    "title": "开始 1",
+                    "text": "龙马：那么，就把你们全部冲刷掉吧。\n阿龙：充满干劲地上咯！",
+                    "textJp": "龍馬「それじゃあ、まとめて洗濯するとしようか」\nお竜さん「ゴシゴシいくぞー！」",
+                    "textEn": "Ryouma: Well then, shall we do a load of laundry?\n\nOryou: Let’s get to scrubbing!",
+                    "condition": null,
+                    "voiceFile": "SV329_0_开始1.mp3"
+                },
+                {
+                    "title": "开始 2",
+                    "text": "龙马：偶尔也要展现一下帅气的一面呢。\n阿龙：哦，罕见地有干劲呢。",
+                    "textJp": "龍馬「たまにはいいところ見せないとねー」\nお竜さん「お、珍しくやる気だな」",
+                    "textEn": "Ryouma: I have to show my good side every once in a while.\n\nOryou: Ooh, it's rare for you to be fired up!",
+                    "condition": null,
+                    "voiceFile": "SV329_0_开始2.mp3"
+                },
+                {
+                    "title": "开始 3",
+                    "text": "阿龙：把妨碍龙马的家伙们全部打飞！\n龙马：谢谢，帮大忙啦。",
+                    "textJp": "お竜さん「リョーマの邪魔する奴はみんなぶっとばす」\n龍馬「ありがとう、助かるよ」",
+                    "textEn": "Oryou: I’ll blow away everyone who gets in Ryouma’s way!\n\nRyouma: That’s very helpful, thank you.",
+                    "condition": null,
+                    "voiceFile": "SV329_0_开始3.mp3"
+                },
+                {
+                    "title": "技能 1",
+                    "text": "阿龙：阿龙小姐干劲百倍。\n龙马：劳烦手下留情啦。",
+                    "textJp": "お竜さん「やる気満々お竜さんだ」\n龍馬「お手柔らかにね」",
+                    "textEn": "Oryou: Oryou-san is all fired up!\n\nRyouma: Please be gentle, alright?",
+                    "condition": null,
+                    "voiceFile": "SV329_0_技能1.mp3"
+                },
+                {
+                    "title": "技能 2",
+                    "text": "阿龙：全部都给我一起上吧——\n龙马：那还真是可靠。",
+                    "textJp": "お竜さん「みんなまとめてかかってこーい」\n龍馬「そいつは頼もしい」",
+                    "textEn": "Oryou: All of you, come at me all at once!\n\nRyouma: That would be very helpful.",
+                    "condition": null,
+                    "voiceFile": "SV329_0_技能2.mp3"
+                },
+                {
+                    "title": "技能 3",
+                    "text": "阿龙：我，我是，外星人。\n龙马：不不，是从者才对吧？",
+                    "textJp": "お竜さん「ワレ ワレハ ウチュウジンダ」\n龍馬「いやいや、サーヴァントでしょ」",
+                    "textEn": "Oryou: We. Are. Aliens.\n\nRyouma: No, no, we’re Servants, okay?",
+                    "condition": null,
+                    "voiceFile": "SV329_0_技能3.mp3"
+                },
+                {
+                    "title": "技能 4",
+                    "text": "龙马：上吧，阿龙小姐！\n阿龙：交给我吧，龙马！",
+                    "textJp": "龍馬「行くぜよ、お竜さん！」\nお竜さん「任せとけ、リョーマ！」",
+                    "textEn": "Ryouma: Let’s go, Oryou-san!\nOryou: Leave it to me, Ryouma!",
+                    "condition": null,
+                    "voiceFile": "SV329_0_技能4.mp3"
+                },
+                {
+                    "title": "指令卡 1",
+                    "text": "阿龙：这样吗？",
+                    "textJp": "お竜さん「そういうことか」",
+                    "textEn": "Oryou: So that’s it, huh?",
+                    "condition": null,
+                    "voiceFile": "SV329_0_指令卡1.mp3"
+                },
+                {
+                    "title": "指令卡 2",
+                    "text": "龙马：原来如此。",
+                    "textJp": "龍馬「なるほどね」",
+                    "textEn": "Ryouma: I see.",
+                    "condition": null,
+                    "voiceFile": "SV329_0_指令卡2.mp3"
+                },
+                {
+                    "title": "指令卡 3",
+                    "text": "龙马：那就上吧。",
+                    "textJp": "龍馬「やるとしますか」",
+                    "textEn": "Ryouma: Very well, let’s do it.",
+                    "condition": null,
+                    "voiceFile": "SV329_0_指令卡3.mp3"
+                },
+                {
+                    "title": "指令卡 4",
+                    "text": "龙马：好，就这么做。",
+                    "textJp": "龍馬「ああ！ そうしよう」",
+                    "textEn": "Ryouma: Yeah, let’s do that!",
+                    "condition": null,
+                    "voiceFile": "SV329_0_指令卡4.mp3"
+                },
+                {
+                    "title": "指令卡 5",
+                    "text": "阿龙：有说什么吗？",
+                    "textJp": "お竜さん「何か言ったか？」",
+                    "textEn": "Oryou: Did you say something?",
+                    "condition": null,
+                    "voiceFile": "SV329_0_指令卡5.mp3"
+                },
+                {
+                    "title": "指令卡 6",
+                    "text": "阿龙：交给我吧！",
+                    "textJp": "お竜さん「任せとけー！」",
+                    "textEn": "Oryou: Leave it to me!",
+                    "condition": null,
+                    "voiceFile": "SV329_0_指令卡6.mp3"
+                },
+                {
+                    "title": "宝具卡 1",
+                    "text": "龙马：阿龙小姐，我要解放宝具了！\n阿龙：随时都可以哦，龙马。",
+                    "textJp": "龍馬「お竜さん、宝具を抜くぜよ！」\nお竜さん「いつでもいいぞ、リョーマ」",
+                    "textEn": "Ryouma: Oryou-san, it’s time for our Noble Phantasm!\n\nOryou: I’m ready any time, Ryouma!",
+                    "condition": null,
+                    "voiceFile": "SV329_0_宝具卡1.mp3"
+                },
+                {
+                    "title": "宝具卡 2",
+                    "text": "龙马：啊啊，我们一同前往吧。",
+                    "textJp": "龍馬「ああ。一緒に征こう」",
+                    "textEn": "Ryouma: Yes. Let’s conquer this together.",
+                    "condition": null,
+                    "voiceFile": "SV329_0_宝具卡2.mp3"
+                },
+                {
+                    "title": "宝具卡 3",
+                    "text": "阿龙：吾乃非归顺之神，高千穗的大蛇。然后——",
+                    "textJp": "お竜さん「吾はまつろわぬ神、高千穂のオロチ。そして──」",
+                    "textEn": "Oryou: I am the Wayward God, the Great Snake of Takachiho and―",
+                    "condition": null,
+                    "voiceFile": "SV329_0_宝具卡3.mp3"
+                },
+                {
+                    "title": "攻击 1",
+                    "text": "龙马：哈！\n阿龙：嘿！",
+                    "textJp": "龍馬「はっ！」\nお竜さん「せいっ！」",
+                    "textEn": "Ryouma: Hyah!\n\nOryou: Ei!",
+                    "condition": null,
+                    "voiceFile": "SV329_0_攻击1.mp3"
+                },
+                {
+                    "title": "攻击 2",
+                    "text": "阿龙：去吧！\n龙马：好嘞！",
+                    "textJp": "お竜さん「行け！」\n龍馬「あいよ！」",
+                    "textEn": "Oryou: Go!\n\nRyouma: Understood!",
+                    "condition": null,
+                    "voiceFile": "SV329_0_攻击2.mp3"
+                },
+                {
+                    "title": "攻击 3",
+                    "text": "阿龙：哈啊啊啊啊……最后一击！",
+                    "textJp": "お竜さん「はああああ……とどめだっ！」",
+                    "textEn": "Oryou: Hyaaaah… this is the finishing blow!",
+                    "condition": null,
+                    "voiceFile": "SV329_0_攻击3.mp3"
+                },
+                {
+                    "title": "攻击 4",
+                    "text": "龙马：阿龙小姐！\n阿龙：交给我吧！……嘿呀！",
+                    "textJp": "龍馬「お竜さん！」\nお竜さん「任せろ！ ……どりゃっ！」",
+                    "textEn": "Ryouma: Oryou-san!\n\nOryou: Leave it to me! Hyaah!",
+                    "condition": null,
+                    "voiceFile": "SV329_0_攻击4.mp3"
+                },
+                {
+                    "title": "攻击 5",
+                    "text": "阿龙：好好瞄准哦！\n龙马：责任重大呢。",
+                    "textJp": "お竜さん「しっかり狙えよ！」\n龍馬「責任重大だね……！」",
+                    "textEn": "Oryou: Aim properly!\n\nRyouma: That’s quite a big responsibility…",
+                    "condition": null,
+                    "voiceFile": "SV329_0_攻击5.mp3"
+                },
+                {
+                    "title": "攻击 6",
+                    "text": "阿龙：哒哒哒哒哒哒……唔？",
+                    "textJp": "お竜さん「だだだだだだ……ん？」",
+                    "textEn": "Oryou: Dadadadadadan!",
+                    "condition": null,
+                    "voiceFile": "SV329_0_攻击6.mp3"
+                },
+                {
+                    "title": "Extra 1",
+                    "text": "阿龙：喔啦喔啦喔啦！\n龙马：用这招，将你击穿！",
+                    "textJp": "お竜さん「うりゃうりゃうりゃー！」\n龍馬「こいつで……撃ち抜く！」",
+                    "textEn": "Oryou: Uryah! Uryah! Uryaaah!\n\nRyouma: I’ll shoot you through… with this!",
+                    "condition": null,
+                    "voiceFile": "SV329_0_Extra1.mp3"
+                },
+                {
+                    "title": "Extra 2",
+                    "text": "阿龙：两个人的共同作业！\n龙马：你在哪学到这词的啊？",
+                    "textJp": "お竜さん「二人の共同作業だぞ！」\n龍馬「どこで覚えたの、それ」",
+                    "textEn": "Oryou: This is our productive collaboration!\n\nRyouma: Just where did you learn that…",
+                    "condition": null,
+                    "voiceFile": "SV329_0_Extra2.mp3"
+                },
+                {
+                    "title": "Extra 3",
+                    "text": "龙马：阿龙小姐，就在这里解决！\n阿龙：去吧！！",
+                    "textJp": "龍馬「お竜さん！ ここで決めるきに！」\nお竜さん「行けぇ！」",
+                    "textEn": "Ryouma: Oryou-san! We’ll clinch our victory here!\n\nOryou: Go!!!",
+                    "condition": null,
+                    "voiceFile": "SV329_0_Extra3.mp3"
+                },
+                {
+                    "title": "宝具 1",
+                    "text": "龙马：为天逆鉾所结缘的国津之大蛇，我欲成之事只有你知————纯白的你啊，前往绵津见之原吧！\n阿龙：哈啊啊啊啊啊啊啊！！！",
+                    "textJp": "龍馬「あまさかほこに結われし、国津のオロチ、……我成す事は君のみぞ知る。──白き君よ、綿津見の原を征け！！」\nお竜さん「はあああああああああ！！！！」",
+                    "textEn": "Ryouma: The Great Snake of the Land bound to the Inverted Spear of Heaven... Only you know what I can do. O' White One, Conquer the Oceans of Wadatsumi!\n\nOryou: Hyaaaaaaaa!!!",
+                    "condition": null,
+                    "voiceFile": "SV329_0_宝具1.mp3"
+                },
+                {
+                    "title": "宝具 2",
+                    "text": "龙马：这就是我们的宝具……上吧，阿龙小姐！\n阿龙：啊，不管到哪我们都要一起！\n龙马：白龙啊，前往绵津见之原吧！！",
+                    "textJp": "龍馬「これがわしらの宝具……行くぜよ、お竜さん！」\nお竜さん「ああ。何処までも一緒だ！」\n龍馬「白き竜よ、綿津見の原を征け！！」",
+                    "textEn": "Ryouma: It's our Noble Phantasm's turn this time... Oryou-san, let's go!\n\nOryou: Yes. I'll go with you anywhere!\n\nRyouma: O' White Dragon, Conquer the Oceans of Wadatsumi!",
+                    "condition": null,
+                    "voiceFile": "SV329_0_宝具2.mp3"
+                },
+                {
+                    "title": "宝具 3",
+                    "text": "阿龙：yeah，阿龙小姐大peace～\n龙马：这就是所谓的发挥海援队的本领吧？\n阿龙：啊啊——与你共征绵津见之原！",
+                    "textJp": "お竜さん「いえーい、お竜さん大ぴーす」\n龍馬「海援隊の本領発揮、ってとこかな？」\nお竜さん「ああ。──『君よ、綿津見の原を征け』！！」",
+                    "textEn": "Oryou: Yaaay~ Oryou-san, big peace!\n\nRyouma: I guess this is the best way to show the Kaientai's true ability, huh?\n\nOryou: Yes! My Dear, Go Conquer the Oceans of Wadatsumi!!",
+                    "condition": null,
+                    "voiceFile": "SV329_0_宝具3.mp3"
+                },
+                {
+                    "title": "受击 1",
+                    "text": "龙马：咕啊啊啊啊啊！",
+                    "textJp": "龍馬「ぐあああああっ！」",
+                    "textEn": "Ryouma: Graaaah!",
+                    "condition": null,
+                    "voiceFile": "SV329_0_受击1.mp3"
+                },
+                {
+                    "title": "受击 2",
+                    "text": "龙马：唔！",
+                    "textJp": "龍馬「くっ！」",
+                    "textEn": "Ryouma: Kuh!",
+                    "condition": null,
+                    "voiceFile": "SV329_0_受击2.mp3"
+                },
+                {
+                    "title": "受击 3",
+                    "text": "",
+                    "textJp": "お竜さん「ぐぎぎぎぎぎぎぎ……！」",
+                    "textEn": "Oryou: Grrrrr….!",
+                    "condition": null,
+                    "voiceFile": "SV329_0_受击3.mp3"
+                },
+                {
+                    "title": "受击 4",
+                    "text": "阿龙：没用的！",
+                    "textJp": "お竜さん「無駄だ……！」",
+                    "textEn": "Oryou: That’s no use…!",
+                    "condition": null,
+                    "voiceFile": "SV329_0_受击4.mp3"
+                },
+                {
+                    "title": "无法战斗 1",
+                    "text": "阿龙：一直，在一起……",
+                    "textJp": "お竜さん「ずっと……一緒だ……」",
+                    "textEn": "Oryou: We’ll be together… forever…",
+                    "condition": null,
+                    "voiceFile": "SV329_0_无法战斗1.mp3"
+                },
+                {
+                    "title": "无法战斗 2",
+                    "text": "龙马：才不是什么没有意义的事……",
+                    "textJp": "龍馬「無駄なことなんて、ないさ……」",
+                    "textEn": "Ryouma: This is not in vain…",
+                    "condition": null,
+                    "voiceFile": "SV329_0_无法战斗2.mp3"
+                },
+                {
+                    "title": "无法战斗 3",
+                    "text": "阿龙：没事，没事的……",
+                    "textJp": "お竜さん「大丈夫、大丈夫だ……」",
+                    "textEn": "Oryou: It’s okay, it’s okay….",
+                    "condition": null,
+                    "voiceFile": "SV329_0_无法战斗3.mp3"
+                },
+                {
+                    "title": "无法战斗 4",
+                    "text": "龙马：抱歉了啊，大家……",
+                    "textJp": "龍馬「すまんのう、みんな……」",
+                    "textEn": "Ryouma: I’m sorry, everyone…",
+                    "condition": null,
+                    "voiceFile": "SV329_0_无法战斗4.mp3"
+                },
+                {
+                    "title": "胜利 1",
+                    "text": "龙马：看来总算是设法解决了，大家都还好吗？\n阿龙：阿龙小姐还是那个元气满溢的阿龙小姐。",
+                    "textJp": "龍馬「なんとかなったみたいだね。みんな無事かい？」\nお竜さん「お竜さんは元気モリモリお竜さんだ」",
+                    "textEn": "Ryouma: Looks like we somehow won. Everyone are you unhurt?\n\nOryou: Oryou-san is full of energy!",
+                    "condition": null,
+                    "voiceFile": "SV329_0_胜利1.mp3"
+                },
+                {
+                    "title": "胜利 2",
+                    "text": "阿龙：成功了！胜利的阿龙小姐peace。龙马也快来做。\n龙马：这，这样吗？\n两人：yeah！",
+                    "textJp": "お竜さん「やったぞ！ 勝利のお竜さんぴーす。リョーマもやれ」\n龍馬「こ、こうかい？」\n龍馬＆お竜さん「いえーい」",
+                    "textEn": "Oryou: We won! This is Oryou-san’s victory PEACE! Ryouma, you do it too!\n\nRyouma: L-like this?\n\nRyouma + Oryou: Yay~!",
+                    "condition": null,
+                    "voiceFile": "SV329_0_胜利2.mp3"
+                },
+                {
+                    "title": "胜利 3",
+                    "text": "龙马：呼，我的肝都凉了半截啊。\n阿龙：嗯？可别让肚子着凉啊。\n龙马：不是在说这种事啦。",
+                    "textJp": "龍馬「ふぅ。肝を冷やしたぜよ」\nお竜さん「ん？ 腹は冷やすなよ」\n龍馬「そういうことじゃなくてね」",
+                    "textEn": "Ryouma: Phew. That gave me the chills.\n\nOryou: Hmm? Don't let your stomach get cold\n\nRyouma: No, that's not what I meant...",
+                    "condition": null,
+                    "voiceFile": "SV329_0_胜利3.mp3"
+                }
+            ]
+        },
+        {
+            "section": "召唤和强化(战斗形象1 2)",
+            "table": [
+                {
+                    "title": "召唤",
+                    "text": "",
+                    "textJp": "ランサー、坂本龍馬。召喚に応じ参上した。そして相棒のお竜さんだ、よろしくな人間。とはいえ僕がランサーとはね。それにこの槍……。そうか、どうやら僕も大海に出るときが来たようだ。そうだ、その時が来たんだぞ。ああ、行くとしよう、共にワダツミの原へ。",
+                    "textEn": "Ryouma: Lancer, Sakamoto Ryouma. I've come in response to your summons.\n\nOryou: And I'm his partner, Oryou-san. Nice to meet you, human!\n\nRyouma: So I'm a Lancer, huh? And this spear... I see, it looks like the time for me to hit the open seas has come.\n\nOryou: That's right! The time has come!\n\nRyouma: Yeah, let's go together, towards the oceans of Wadatsumi.",
+                    "condition": null,
+                    "voiceFile": "SV329_0_召唤.mp3"
+                },
+                {
+                    "title": "升级 1",
+                    "text": "",
+                    "textJp": "お竜さん「お竜さん、超強化だぞ」\n龍馬「そいつはめでたい！」",
+                    "textEn": "Oryou: Oryou-san is getting super powered up!\n\nRyouma: That sure is something to celebrate!",
+                    "condition": null,
+                    "voiceFile": "SV329_0_升级1.mp3"
+                },
+                {
+                    "title": "升级 2",
+                    "text": "",
+                    "textJp": "龍馬「うん、いい調子だ」\nお竜さん「リョーマは弱っちいから、ちゃんと鍛えてやらないとな」",
+                    "textEn": "Ryouma: Hmm, I’m feeling great.\n\nOryou: Ryouma is a weakling after all, so you have to train properly!",
+                    "condition": null,
+                    "voiceFile": "SV329_0_升级2.mp3"
+                },
+                {
+                    "title": "灵基再临 1",
+                    "text": "",
+                    "textJp": "龍馬「どうだいこの姿は。さながら海援隊の船長、いやキャプテンってとこかな？」\nお竜さん「リョーマは、船とか船長とか大好きマンだからな」\n龍馬「こればっかりは、子供の頃から変わらなくてね」",
+                    "textEn": "Ryouma: What do you think of this appearance? Do I properly look like Kaientai’s captain, no, a ship captain?\n\nOryou: Ryouma really loves ships and captains after all.\n\nRyouma: Well, that is one thing that hasn’t changed, ever since when I was a kid.",
+                    "condition": null,
+                    "voiceFile": "SV329_0_灵基再临1.mp3"
+                },
+                {
+                    "title": "灵基再临 2",
+                    "text": "",
+                    "textJp": "龍馬「いつかこの姿で、世界の海を航海してみたいモンだね」\nお竜さん「その時は、お竜さんが船長でリョーマは水夫な」\n龍馬「あれま、そう来たか……。はいはい、この水兵坂本に何なりとお申し付けください、船長」\nお竜さん「楽しそうだな、リョーマ」",
+                    "textEn": "Ryouma: Someday, I’d like to sail the world’s seas in this form.\n\nOryou: When that time comes, Oryou-san will be the captain and Ryouma will be the sailor!\n\nRyouma: So that’s how it’s going to be, huh… Oh well, please tell this sailor Sakamoto what he needs to do, Captain!\n\nOryou: You’re having fun huh, Ryouma.",
+                    "condition": null,
+                    "voiceFile": "SV329_0_灵基再临2.mp3"
+                }
+            ]
+        },
+        {
+            "section": "个人空间(战斗形象1 2)",
+            "table": [
+                {
+                    "title": "羁绊 Lv.1",
+                    "text": "",
+                    "textJp": "お竜さん「こう見えてお竜さんは凶暴だからな。あまり怒らせないほうがいい」\n龍馬「おっと…今日は虫の居所が悪いみたいだ。ごめんね。しばらくそっとしておいてあげてくれると嬉しい」",
+                    "textEn": "Oryou: Even though I look like this, Oryou-san is quite fierce, you know? It’s better if you don’t make me too angry.\n\nRyouma: Oh dear… Looks like she’s not in a good mood today. Sorry about that. I’d appreciate it if you just left her alone for a while.",
+                    "condition": null,
+                    "voiceFile": "SV329_0_羁绊Lv1.mp3"
+                },
+                {
+                    "title": "羁绊 Lv.2",
+                    "text": "",
+                    "textJp": "龍馬「何もしないでいるより、動けるうちに動いたほうがいい。志があるなら尚更ね」\nお竜さん「どうしたリョーマ、急に真面目なこと言い出して」\n龍馬「はは……いつも真面目なつもりなんだけどね。……うん。確かに僕が言うようなことでもないね。そう、君には分かっているはずさ」",
+                    "textEn": "Ryouma: It’s better to move while you still can, rather than do nothing at all. Even more so if you have aspirations.\n\nOryou: What’s wrong, Ryouma? You’re suddenly saying something serious.\n\nRyouma: Haha… I’m always serious though… Hm. But it’s true that it’s not something I would usually say. Yes, if it’s you, you would really know that.",
+                    "condition": null,
+                    "voiceFile": "SV329_0_羁绊Lv2.mp3"
+                },
+                {
+                    "title": "羁绊 Lv.3",
+                    "text": "",
+                    "textJp": "龍馬「こう見えて槍の扱い、と言うか長物の扱いは得意でね。若い頃に江戸で薙刀の目録も貰ってるんだよ」\nお竜さん「おい、その話、何気にお竜さん初耳だぞ」\n龍馬「あれ？ 言った事なかったっけ。まあでも、結局、刀も槍も銃には敵わない。ましてやお竜さんにはね」\nお竜さん「フフン、分かってるじゃないか」",
+                    "textEn": "Ryouma: Despite looking like this, I'm actually very good at handling spears, or rather, long weapons. When I was young, I even received a catalogue certificate for a naginata in Edo.\n\nOryou: Hey, this the first time that Oryou-san heard of that story!\n\nRyouma: Huh? Didn't I ever tell you? Oh well, in the end, swords and spears were no match for guns. And even more so for Oryou-san.\n\nOryou: Hehe, so you understand after all!",
+                    "condition": null,
+                    "voiceFile": "SV329_0_羁绊Lv3.mp3"
+                },
+                {
+                    "title": "羁绊 Lv.4",
+                    "text": "",
+                    "textJp": "龍馬「土佐訛りかい？ こうやって喋るのも長いから、最近はずいぶん抜けちゃってね」\nお竜さん「たまには訛っていいぞ。山に来た時、そんな感じだっただろ？」\n龍馬「ハハ、ほうかのう。ほじゃき、あん頃はワシも恐いもん知らずだったがよ。いや～、何も分かっちょらんかったっちゅうべきかのう」\nお竜さん「やっぱイゾーみたいだからやめていいぞ」\n龍馬「あれま、これ、以蔵さんには言わないであげてね」",
+                    "textEn": "Ryouma: My Tosa accent? Hmm, I've been talking like this for a long time already, so I think I've grown out of it.\n\nOryou: It'll be great if you talked like that once in a while. You had that accent when we first met in the mountains, right?\n\nRyouma: (In Tosa-ben) Ahaha! That so? Back then, I ain't scared of anythin'. Well~ maybe 'cos I didn't know anythin'.\n\nOryou: Ugh, you sound like Izou, so you can stop that now.\n\nRyouma: Oh dear, don't say that to Izou-san, okay?",
+                    "condition": null,
+                    "voiceFile": "SV329_0_羁绊Lv4.mp3"
+                },
+                {
+                    "title": "羁绊 Lv.5",
+                    "text": "",
+                    "textJp": "龍馬「僕はね、何の事はない、ただ、みんなに幸せになってほしかったんだ。……そう、土佐を出る時の僕は、ただそれだけだった。でもね、僕は知らなかったんだ。みんなに幸せになってほしい、それがどんなに残酷な事なのかって事をね」\nお竜さん「龍馬……」\n龍馬「でも、君に出会って、そう、このカルデアに来て、やっぱり僕は思うんだ。みんなに幸せになってほしいってね」\nお竜さん「そうだな。お竜さんも、龍馬にもお前にも、幸せになってほしいぞ」\n龍馬「そうだね。本当にそう思う。僕は君に、みんなに幸せになってほしいんだ」",
+                    "textEn": "Ryouma: You know, I don't have anything to my name. I just wanted everyone to be happy. When I left Tosa, that was my only wish. But you see, back then, I didn't know then how cruel it will be, to strive for everyone's happiness.\n\nOryou: Ryouma...\n\nRyouma: But now that I've met you and have come to Chaldea, I really do want everyone to be happy.\n\nOryou: That's right! Oryou-san too, wants Ryouma and even you, to be happy!\n\nRyouma: Yes, I truly wish for that. I want you and everyone to be happy.",
+                    "condition": null,
+                    "voiceFile": "SV329_0_羁绊Lv5.mp3"
+                },
+                {
+                    "title": "对话 1",
+                    "text": "",
+                    "textJp": "龍馬「さあ、出かけようか。大切なのは何よりまず動くことだ。君の志へと向かってね」\nお竜さん「そうだな、やれる事はやれる内にな」",
+                    "textEn": "Ryouma: Well then, let's head out. The most important thing is to move, first and foremost. Towards your aspirations.\n\nOryou: That's right, you should do what you can, while you can.",
+                    "condition": null,
+                    "voiceFile": "SV329_0_对话1.mp3"
+                },
+                {
+                    "title": "对话 2",
+                    "text": "",
+                    "textJp": "龍馬「僕は誰かと主従を結ぶとかは苦手でね。やっぱり僕は、誰かと友達になりたい。そう、君ともね。というわけで、シェイクハンド、僕とお願いできるかな」\nお竜さん「ずるいぞ、お竜さんも握らせろ。シェイクハンドシェイクハンド！」\n龍馬「ふっ、力入れすぎないでね」",
+                    "textEn": "Ryouma: I'm not very good at being in a master - servant relationship. That's why I want to become friends with everybody. That includes you too. And with that, can I ask you to shake hands with me?\n\nOryou: That's unfair! Oryou-san wants to hold your hand too! Shake hands! Shake hands!\n\nRyouma: Don't put too much power on it, okay?",
+                    "condition": null,
+                    "voiceFile": "SV329_0_对话2.mp3"
+                },
+                {
+                    "title": "对话 3",
+                    "text": "",
+                    "textJp": "龍馬「君の目指すもの、僕の目指すもの、それが同じかどうかは問題じゃない。目的はどうあれ、僕は君に力を貸したいと思った。だから君とは、マスターとサーヴァントとかではなくて、そうだなあ……ううん、対等な同盟関係だと思ってくれると嬉しい」\nお竜さん「言うならリョーマスター同盟、だな」\n龍馬「語呂はちょっとアレだけどね……」",
+                    "textEn": "Ryouma: It's not a problem if what you're aiming for and what I'm aiming for is not the same. Putting our goals aside, I want to lend you my power. That's why instead of a Master and Servant relationship, I'd like for us to have a... ah, yes, I'd be happy if you think of us being in an equal partnership.\n\nOryou: If I have to say it, it's the RyouMaster alliance!\n\nRyouma: That wordplay is a bit...",
+                    "condition": null,
+                    "voiceFile": "SV329_0_对话3.mp3"
+                },
+                {
+                    "title": "对话 4",
+                    "text": "",
+                    "textJp": "龍馬「第六天魔王、信長公……いや、文字通りの魔王信長公かな。僕がここに来たのは、信長公と戦うためかと思っていたけど、どうやら違ったみたいだね」\nお竜さん「リョーマ、よく間違えてる気がするぞ」\n龍馬「そ、そうかい？ なに、抑止の力や守護者の云々なんてのは、話半分に聞いていてくれればいいのさ。僕らは自分の意思でここにいる。それは間違いないんだからね、きっと」\nお竜さん「ま、戦っても勝つがな」",
+                    "textEn": "Ryouma: Lord Nobunaga the Demon King of the Sixth Heaven, huh... Isn't she literally just the Demon King Nobunaga? I thought I was summoned here to fight against Lord Nobunaga, but it seems like I'm wrong, huh?\n\nOryou: Ryouma, I think you're really mistaken.\n\nRyouma: I-is that so? Well, the thing about the Counter Force and being a Counter Guardian is only half of the story after all. We're here now out of our own free will. I'm sure that I'm not mistaken about that.\n\nOryou: Though if we're gonna fight, we'll absolutely win!",
+                    "condition": "持有织田信长(Avenger)",
+                    "voiceFile": "SV329_0_对话4.mp3"
+                },
+                {
+                    "title": "对话 5",
+                    "text": "",
+                    "textJp": "龍馬「以蔵さんと肩を並べて戦えるなんて、本当に嬉しいよ。……ああ、本当に嬉しい。───って、ちょっと待ってちょっと待って！ 刀に手をかけないでね！ ホントごめん、ついうっかりね」\nお竜さん「お、お竜さんは全然嬉しくないから勘違いしないでよね、ってやつだぞ」\n龍馬「どこで覚えたのそれ」",
+                    "textEn": "Ryouma: I'm really happy to be able to fight side by side with Izou-san... Aah, I'm truly happ― H-hey, wait! Whoa! Wait one moment! Put the sword down, okay? Sorry, I'm really sorry! That was careless of me, okay?\n\nOryou: O...Oryou-san is not happy at all, don't get me wrong!\n\nRyouma: Just where did you learn that...",
+                    "condition": "持有冈田以藏",
+                    "voiceFile": "SV329_0_对话5.mp3"
+                },
+                {
+                    "title": "对话 6",
+                    "text": "",
+                    "textJp": "龍馬「なるほど……その姿こそが、本来の君の力を最大限発揮できる姿というわけか。うん、これは間違いなく、抑止の守護者といっていい異界の英霊だよ、君は。そうか……君はそうして至ったのか」\nお竜さん「ところでそのちっこいの、うまそうだな」\n龍馬「多分、お腹壊すどころじゃすまないから止めようね」",
+                    "textEn": "Ryouma: I see... So this is the form in which you can display your power to the fullest. Yeah, you are without a doubt, a Counter Guardian from another world, aren't you? I see, so that's how you came to be...\n\nOryou: By the way, that little thing beside you looks tasty.\n\nRyouma: You probably won't get away with just a stomachache if you eat them, so let's not do that, okay?",
+                    "condition": "持有冲田总司〔Alter〕(Saber)",
+                    "voiceFile": "SV329_0_对话6.mp3"
+                },
+                {
+                    "title": "对话 7",
+                    "text": "",
+                    "textJp": "龍馬「新選組三番隊隊長──斎藤一……。明治を生きた新選組か……いやあ、僕も明治という時代を見てみたかったよ」\nお竜さん「すまん……龍馬」\n龍馬「あ、いや、そういう意味じゃないよ。気にしないでね」",
+                    "textEn": "Ryouma: The captain of the Shinsengumi's third squad, Saitou Hajime... A member of the Shinsengumi who lived until the Meiji era, huh... I wish I could've seen the Meiji era too.\n\nOryou: Ryouma, sorry...\n\nRyouma: Ah, no, no, I didn't mean it like that. Don't worry about it.",
+                    "condition": "持有斋藤一",
+                    "voiceFile": "SV329_0_对话7.mp3"
+                },
+                {
+                    "title": "对话 8",
+                    "text": "",
+                    "textJp": "龍馬「信長公に続いて、かの謙信公まで現れるとはね。これはいよいよ僕ぐらいの格の英霊じゃ、ついていけなくなるかな」\nお竜さん「安心しろ、お竜さんはあいつらより百倍格上だ」\n龍馬「そういうことなら、安心だ」",
+                    "textEn": "Ryouma: After Lord Nobunaga, now it's Lord Kenshin who appeared, huh? I wonder if this will finally be too much for a Heroic Spirit of my rank to keep up with...\n\nOryou: Don't worry, Oryou-san is a hundred times better than them!\n\nRyouma: If that's the case, then I'm relieved.",
+                    "condition": "持有长尾景虎",
+                    "voiceFile": "SV329_0_对话8.mp3"
+                },
+                {
+                    "title": "对话 9",
+                    "text": "",
+                    "textJp": "龍馬「ボイジャー……星の大海を行く英霊か。……そうか、遠く彼方の空にまで人間は行けるんだね」\nお竜さん「むむむ……さすがのお竜さんでも難しいかもしれない。でも、月くらいまでなら何とかなるかもしれないぞ」\n龍馬「お竜さんと月世界旅行か……そいつは楽しそうだ」",
+                    "textEn": "Ryouma: Voyager, a Heroic Spirit that went on a journey to the Sea of Stars. I see... So humans can now travel towards the distant skies, huh?\n\nOryou: Hnnn... That would be quite difficult, even for Oryou-san. But, if it's just the moon, then maybe I can do it!\n\nRyouma: Traveling to the moon with Oryou-san, huh... That sounds fun!",
+                    "condition": "持有旅行者",
+                    "voiceFile": "SV329_0_对话9.mp3"
+                },
+                {
+                    "title": "对话 10",
+                    "text": "",
+                    "textJp": "龍馬「やあ、阿国さんか。お互い色々あったけど、今後はよろしく頼むよ」\nお竜さん「お前の後ろの奴、なかなか手強かったぞ」\n龍馬「カルデア公演の方も楽しみにしてるからね」\nお竜さん「なんならお竜さんも出てやるぞ」",
+                    "textEn": "Ryouma: Oh if it isn't Okuni-san. We've both been through a lot but I look forward to working with you.\n\nOryou: That guy behind you is pretty strong, huh.\n\nRyouma: I'm also looking forward to your performances here in Chaldea.\n\nOryou: If that's the case, the Oryou-san will join too!",
+                    "condition": "持有出云阿国&通关昭和机神计划 唠唠叨叨龙马千钧一发！ 消失的信首之谜",
+                    "voiceFile": "SV329_0_对话10.mp3"
+                },
+                {
+                    "title": "对话 11",
+                    "text": "",
+                    "textJp": "龍馬「高杉さんかい？ ああ、あの通りの男さ」\nお竜さん「とにかく好き放題だったな、あいつ」\n龍馬「ハハ、確かにその通りだね。本当に昔のままだったよ、彼は。……そう、正に麒麟児、いや、麒麟だったよ」",
+                    "textEn": "Ryouma: Oh, Takasugi-san? Yeah, he truly was just like that.\n\nOryou: That guy, he just did whatever he wanted, right?\n\nRyouma: Haha, you're right. He's really the same as back then... Yeah, he truly was a child prodigy, no, truly, a prodigy.",
+                    "condition": "通关昭和机神计划 唠唠叨叨龙马千钧一发！ 消失的信首之谜",
+                    "voiceFile": "SV329_0_对话11.mp3"
+                },
+                {
+                    "title": "对话 12",
+                    "text": "",
+                    "textJp": "お竜さん「なんて言ったかな、あいつ」\n龍馬「武市さんかい？」\nお竜さん「ああ、そいつだそいつ。色々あったが、人間にしては気合いが入っていたと思うぞ」\n龍馬「そうだね、その通りだ。……見事じゃったぜよ、武市さん」",
+                    "textEn": "Oryou: What’s that guy’s name again?\n\nRyouma: You mean Takechi-san?\n\nOryou: Yeah, yeah, him! A lot of things happened but I think that guy has quite the spirit for a human.\n\nRyouma: Yes, that’s right… Takechi-san was an admirable person.",
+                    "condition": "通关昭和机神计划 唠唠叨叨龙马千钧一发！ 消失的信首之谜",
+                    "voiceFile": "SV329_0_对话12.mp3"
+                },
+                {
+                    "title": "喜欢的东西",
+                    "text": "",
+                    "textJp": "龍馬「好きなもの、か…。そうだね、やっぱり海は好きかな。小さい頃はよく海を眺めてぼんやりしてたもんさ。夜になっても気が付かないで、家の人間にこっぴどく叱られたりね」\nお竜さん「お竜さんも好きだぞ、海。昔はそうでもなかったけど……うん、今は好きだ」\n龍馬「──そうか。ありがとう、お竜さん」",
+                    "textEn": "Ryouma: Something I like, huh... Well, I guess I do like the sea. When I was little, I used to space out and just stare at the sea. I wouldn't even notice that the night has come while doing so, so my family used to scold me a lot about that.\n\nOryou: Oyou-san too, likes the sea. I didn't like it before though... But now, I like it.\n\nRyouma: Is that so? Thank you, Oryou-san.",
+                    "condition": null,
+                    "voiceFile": "SV329_0_喜欢的东西.mp3"
+                },
+                {
+                    "title": "讨厌的东西",
+                    "text": "",
+                    "textJp": "龍馬「嫌いなことか…。やっぱり、悲しいことは嫌いかな。もちろんどうにもならないことはたくさんあるけど、僕の手の届くところでは、少しでも悲しいことが無くなればいい。そう思って僕は、昔も今もここにいる」\nお竜さん「辛気臭いぞリョーマ！悲しいことは、もっと楽しいことでブッ飛ばせばいいんだ！」\n龍馬「確かに。…いやぁ、お竜さんには頭が下がるよ」",
+                    "textEn": "Ryouma: Something I dislike... I guess I dislike sad things. Of course there are a lot of things that are beyond my control, but as long as it's within my reach, I would like to make sad things disappear, even for just a little bit. That has been how I felt ever since then, until now.\n\nOryou: Don't be so depressing, Ryouma! Let all of these sad things be blown away by even more fun things!\n\nRyouma: That is true... Truly, I take my hat off to you, Oryou-san.",
+                    "condition": null,
+                    "voiceFile": "SV329_0_讨厌的东西.mp3"
+                },
+                {
+                    "title": "关于圣杯",
+                    "text": "",
+                    "textJp": "龍馬「聖杯への願い事かい？ 前にも言ったかもしれないけど、僕には特にないかなぁ」\nお竜さん「カンパニーの設立はどうだ？ 敏腕美人秘書の準備はいつでもドンとこいお竜さんだ」\n龍馬「そういうのは自分でやるから面白いんだよ。そうだ、僕とお竜さんと一緒に新カンパニーを立ち上げないかい？」\nお竜さん「お、やろうやろう」",
+                    "textEn": "Ryouma: A wish for the Holy Grail? I think I've already said this before but, I don't really have one.\n\nOryou: How about starting up a company? Oryou-san is always ready to play the part of a beautiful and aloof secretary!\n\nRyouma: That kind of thing is fun when you do it yourself, isn’t it? Oh, that's right! Do you want to start up a new company with me and Oryou-san?\n\nOryou: Ooh, let's do it, let's do it!",
+                    "condition": null,
+                    "voiceFile": "SV329_0_关于圣杯.mp3"
+                },
+                {
+                    "title": "活动举行中",
+                    "text": "",
+                    "textJp": "お竜さん「おい、なんだか騒がしいぞ」\n龍馬「本当だね。何かまた揉め事……いや、楽しいことでも始まったかな」\nお竜さん「それを早く言え！おい、人間！お竜さんと一緒に出かけるぞ！」\n龍馬「それじゃあ、出かけようか」",
+                    "textEn": "Oryou: Oi, it's kind of noisy.\n\nRyouma: You're right. Is it the start of another trouble...Or is it the start of something fun?\n\nOryou: Say that earlier! Hey, human! You're going out together with Oryou-san!\n\nRyouma: Well then, shall we head out?",
+                    "condition": null,
+                    "voiceFile": "SV329_0_活动举行中.mp3"
+                },
+                {
+                    "title": "生日",
+                    "text": "",
+                    "textJp": "龍馬「誕生日おめでとう、マスター。何かプレゼントをと思ったんだけど……そうだ。一緒に海にでも行かないかい」\nお竜さん「いいだろう、今日は特別だ。お竜さんの背中に乗せてやるぞ。しっかり掴まってろよ」\n龍馬「そいつはいい。それじゃあ頼むよ、お竜さん」",
+                    "textEn": "Ryouma: Happy birthday, Master. I thought I should give you something as a present... Oh, that's right. Would you like to go to the sea together?\n\nOryou: Alright, since it's a special day today. I'll let you ride on Oryou-san's back. Make sure to hold on tightly, okay?\n\nRyouma: That's great. Well then, I'll leave it up to you, Oryou-san.",
+                    "condition": null,
+                    "voiceFile": "SV329_0_生日.mp3"
+                }
+            ]
+        },
+        {
+            "section": "战斗(战斗形象3)",
+            "table": [
+                {
+                    "title": "开始 1",
+                    "text": "",
+                    "textJp": "龍馬「世界の海援隊、出航じゃ！」\nお竜さん「えい、えい、おー」",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV329_2_开始1.mp3"
+                },
+                {
+                    "title": "开始 2",
+                    "text": "",
+                    "textJp": "お竜さん「おいリョーマ、割と手ごわそうだぞ」\n龍馬「ああ、本気で行くとしよう」",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV329_2_开始2.mp3"
+                },
+                {
+                    "title": "开始 3",
+                    "text": "",
+                    "textJp": "龍馬「マスター、ここは僕らに任せてくれ」\nお竜さん「どーんと大船に……いや、お竜さんに乗ったつもりでな」",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV329_2_开始3.mp3"
+                },
+                {
+                    "title": "技能 1",
+                    "text": "",
+                    "textJp": "お竜さん「行くか、リョーマ」\n龍馬「ああ、行こう」",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV329_2_技能1.mp3"
+                },
+                {
+                    "title": "技能 2",
+                    "text": "",
+                    "textJp": "龍馬「少し下がっていてくれるかな？」\nお竜さん「お、気合い入ってるな」",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV329_2_技能2.mp3"
+                },
+                {
+                    "title": "技能 3",
+                    "text": "",
+                    "textJp": "お竜さん「スーパーお竜さんパワー！」\n龍馬「実際凄いから気をつけてね？」",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV329_2_技能3.mp3"
+                },
+                {
+                    "title": "技能 4",
+                    "text": "",
+                    "textJp": "お竜さん「ちょっと寝る」\n龍馬「ごゆっくり」",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV329_2_技能4.mp3"
+                },
+                {
+                    "title": "指令卡 1",
+                    "text": "",
+                    "textJp": "龍馬「いい読みだね」",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV329_2_指令卡1.mp3"
+                },
+                {
+                    "title": "指令卡 2",
+                    "text": "",
+                    "textJp": "龍馬「わかった」",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV329_2_指令卡2.mp3"
+                },
+                {
+                    "title": "指令卡 3",
+                    "text": "",
+                    "textJp": "龍馬「そうしよう」",
+                    "textEn": "Ryouma: Yeah, let’s do that!",
+                    "condition": null,
+                    "voiceFile": "SV329_2_指令卡3.mp3"
+                },
+                {
+                    "title": "指令卡 4",
+                    "text": "",
+                    "textJp": "お竜さん「そうなのか？」",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV329_2_指令卡4.mp3"
+                },
+                {
+                    "title": "指令卡 5",
+                    "text": "",
+                    "textJp": "お竜さん「聞こえてるぞ」",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV329_2_指令卡5.mp3"
+                },
+                {
+                    "title": "指令卡 6",
+                    "text": "",
+                    "textJp": "お竜さん「よーし」",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV329_2_指令卡6.mp3"
+                },
+                {
+                    "title": "宝具卡 1",
+                    "text": "",
+                    "textJp": "龍馬「あまさかほこよ、空と海の狭間を貫け！」",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV329_2_宝具卡1.mp3"
+                },
+                {
+                    "title": "宝具卡 2",
+                    "text": "",
+                    "textJp": "お竜さん「吾は高千穂の白きオロチ。空と海の狭間を征くものなり！」",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV329_2_宝具卡2.mp3"
+                },
+                {
+                    "title": "宝具卡 3",
+                    "text": "",
+                    "textJp": "龍馬「お竜さん！」\nお竜さん「ああ」",
+                    "textEn": "Ryouma: Oryou-san!\n\nOryou: Leave it to me! Hyaah!",
+                    "condition": null,
+                    "voiceFile": "SV329_2_宝具卡3.mp3"
+                },
+                {
+                    "title": "攻击 1",
+                    "text": "",
+                    "textJp": "龍馬「逆浪！」\nお竜さん「開け！」",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV329_2_攻击1.mp3"
+                },
+                {
+                    "title": "攻击 2",
+                    "text": "",
+                    "textJp": "龍馬「行くぜよ！」\nお竜さん「ああ！」",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV329_2_攻击2.mp3"
+                },
+                {
+                    "title": "攻击 3",
+                    "text": "",
+                    "textJp": "お竜さん「はああっ！ 消し飛べぇ！」",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV329_2_攻击3.mp3"
+                },
+                {
+                    "title": "攻击 4",
+                    "text": "",
+                    "textJp": "龍馬「押し通す！」",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV329_2_攻击4.mp3"
+                },
+                {
+                    "title": "攻击 5",
+                    "text": "",
+                    "textJp": "お竜さん「それそれぇ！」\n龍馬「貫け！」",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV329_2_攻击5.mp3"
+                },
+                {
+                    "title": "攻击 6",
+                    "text": "",
+                    "textJp": "お竜さん「合わせろ！」\n龍馬「あいよ！」",
+                    "textEn": "Oryou: Go!\n\nRyouma: Understood!",
+                    "condition": null,
+                    "voiceFile": "SV329_2_攻击6.mp3"
+                },
+                {
+                    "title": "Extra 1",
+                    "text": "",
+                    "textJp": "お竜さん「それそれそれぇ！！」\n龍馬「ブチ抜くぜよ！」",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV329_2_Extra1.mp3"
+                },
+                {
+                    "title": "Extra 2",
+                    "text": "",
+                    "textJp": "龍馬「ここまでだ！ ……お竜さん！」\nお竜さん「喰らえぇっ！」",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV329_2_Extra2.mp3"
+                },
+                {
+                    "title": "Extra 3",
+                    "text": "",
+                    "textJp": "龍馬「とっておきと行こうか！」\nお竜さん「よし！」\n龍馬「当たれえええっ！！」",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV329_2_Extra3.mp3"
+                },
+                {
+                    "title": "宝具 1",
+                    "text": "",
+                    "textJp": "龍馬「あまさかほこよ、僕の全てを彼の者に」\nお竜さん「吾の全てを此の者に」\n龍馬「──白き竜よ、綿津見の原を征け！！」",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV329_2_宝具1.mp3"
+                },
+                {
+                    "title": "宝具 2",
+                    "text": "",
+                    "textJp": "龍馬「この綿津見の原を」\nお竜さん「越えて征く……」\n龍馬「僕ら」\nお竜さん「二人ぼっちの」\n龍馬＆お竜さん「──海援隊！！」",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV329_2_宝具2.mp3"
+                },
+                {
+                    "title": "宝具 3",
+                    "text": "",
+                    "textJp": "お竜さん「お竜さんスペシャルぴーす。いえいっ」\n龍馬「はは、やっぱり僕らはこうじゃないとね」\nお竜さん「さあ、共に綿津見の原を征こう。──ラアアアアアアアア！！」",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV329_2_宝具3.mp3"
+                },
+                {
+                    "title": "受击 1",
+                    "text": "",
+                    "textJp": "龍馬「コイツは堪えるな……！」",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV329_2_受击1.mp3"
+                },
+                {
+                    "title": "受击 2",
+                    "text": "",
+                    "textJp": "龍馬「ぐっ！」",
+                    "textEn": "Ryouma: Kuh!",
+                    "condition": null,
+                    "voiceFile": "SV329_2_受击2.mp3"
+                },
+                {
+                    "title": "受击 3",
+                    "text": "",
+                    "textJp": "お竜さん「やらせない！」",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV329_2_受击3.mp3"
+                },
+                {
+                    "title": "受击 4",
+                    "text": "",
+                    "textJp": "お竜さん「ちぃっ！」",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV329_2_受击4.mp3"
+                },
+                {
+                    "title": "无法战斗 1",
+                    "text": "",
+                    "textJp": "龍馬「征くんだ……君は……！」",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV329_2_无法战斗1.mp3"
+                },
+                {
+                    "title": "无法战斗 2",
+                    "text": "",
+                    "textJp": "お竜さん「もう、離れない……」",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV329_2_无法战斗2.mp3"
+                },
+                {
+                    "title": "无法战斗 3",
+                    "text": "",
+                    "textJp": "龍馬「儘ならんモンじゃのう……」",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV329_2_无法战斗3.mp3"
+                },
+                {
+                    "title": "无法战斗 4",
+                    "text": "",
+                    "textJp": "お竜さん「──ここに、いるぞ……」",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV329_2_无法战斗4.mp3"
+                },
+                {
+                    "title": "胜利 1",
+                    "text": "",
+                    "textJp": "龍馬「ふぅ……いつまで経っても人を斬るのは慣れないな」\nお竜さん「リョーマはそれでいい」",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV329_2_胜利1.mp3"
+                },
+                {
+                    "title": "胜利 2",
+                    "text": "",
+                    "textJp": "お竜さん「吾は高千穂の白きオロチ。お供えはカエルとかでよいよいよい！」\n龍馬「はは、お竜さんも威厳が出てきたねぇ」",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV329_2_胜利2.mp3"
+                },
+                {
+                    "title": "胜利 3",
+                    "text": "",
+                    "textJp": "龍馬「さぁ、往こう。この先へ！」\nお竜さん「ああ。ずっと共に、彼方まで──！」",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV329_2_胜利3.mp3"
+                }
+            ]
+        },
+        {
+            "section": "召唤和强化(战斗形象3)",
+            "table": [
+                {
+                    "title": "升级 1",
+                    "text": "",
+                    "textJp": "お竜さん「お竜さん、超強化だぞ」\n龍馬「そいつはめでたい！」",
+                    "textEn": "Oryou: Oryou-san is getting super powered up!\n\nRyouma: That sure is something to celebrate!",
+                    "condition": null,
+                    "voiceFile": "SV329_2_升级1.mp3"
+                },
+                {
+                    "title": "升级 2",
+                    "text": "",
+                    "textJp": "龍馬「うん、いい調子だ」\nお竜さん「リョーマは弱っちいから、ちゃんと鍛えてやらないとな」",
+                    "textEn": "Ryouma: Hmm, I’m feeling great.\n\nOryou: Ryouma is a weakling after all, so you have to train properly!",
+                    "condition": null,
+                    "voiceFile": "SV329_2_升级2.mp3"
+                },
+                {
+                    "title": "灵基再临 3",
+                    "text": "",
+                    "textJp": "龍馬「この姿は……そうか。これがあまさかほこの力という訳か」\nお竜さん「言うなら、スーパーリョーマにハイパーお竜さん、といったところだな」\n龍馬「はは、そりゃ景気が良くていいねぇ。さぁ、君の願いの為に、この力、存分に役立ててほしい！」\nお竜さん「お竜さんとリョーマが、見ているぞ」",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV329_2_灵基再临1.mp3"
+                },
+                {
+                    "title": "灵基再临 4",
+                    "text": "",
+                    "textJp": "龍馬「ああ……これが僕の行き着く果てという訳か」\nお竜さん「終わりじゃない。これから先も、ずっと続いていくんだ。そうだろ、リョーマ」\n龍馬「……そうだね、そうしよう。何処までも征こう──この海を！」",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV329_2_灵基再临2.mp3"
+                }
+            ]
+        },
+        {
+            "section": "个人空间(战斗形象3)",
+            "table": [
+                {
+                    "title": "羁绊 Lv.1",
+                    "text": "",
+                    "textJp": "お竜さん「こう見えてお竜さんは凶暴だからな。あまり怒らせないほうがいい」\n龍馬「おっと…今日は虫の居所が悪いみたいだ。ごめんね。しばらくそっとしておいてあげてくれると嬉しい」",
+                    "textEn": "Oryou: Even though I look like this, Oryou-san is quite fierce, you know? It’s better if you don’t make me too angry.\n\nRyouma: Oh dear… Looks like she’s not in a good mood today. Sorry about that. I’d appreciate it if you just left her alone for a while.",
+                    "condition": null,
+                    "voiceFile": "SV329_2_羁绊Lv1.mp3"
+                },
+                {
+                    "title": "羁绊 Lv.2",
+                    "text": "",
+                    "textJp": "龍馬「何もしないでいるより、動けるうちに動いたほうがいい。志があるなら尚更ね」\nお竜さん「どうしたリョーマ、急に真面目なこと言い出して」\n龍馬「はは……いつも真面目なつもりなんだけどね。……うん。確かに僕が言うようなことでもないね。そう、君には分かっているはずさ」",
+                    "textEn": "Ryouma: It’s better to move while you still can, rather than do nothing at all. Even more so if you have aspirations.\n\nOryou: What’s wrong, Ryouma? You’re suddenly saying something serious.\n\nRyouma: Haha… I’m always serious though… Hm. But it’s true that it’s not something I would usually say. Yes, if it’s you, you would really know that.",
+                    "condition": null,
+                    "voiceFile": "SV329_2_羁绊Lv2.mp3"
+                },
+                {
+                    "title": "羁绊 Lv.3",
+                    "text": "",
+                    "textJp": "龍馬「こう見えて槍の扱い、と言うか長物の扱いは得意でね。若い頃に江戸で薙刀の目録も貰ってるんだよ」\nお竜さん「おい、その話、何気にお竜さん初耳だぞ」\n龍馬「あれ？ 言った事なかったっけ。まあでも、結局、刀も槍も銃には敵わない。ましてやお竜さんにはね」\nお竜さん「フフン、分かってるじゃないか」",
+                    "textEn": "Ryouma: Despite looking like this, I'm actually very good at handling spears, or rather, long weapons. When I was young, I even received a catalogue certificate for a naginata in Edo.\n\nOryou: Hey, this the first time that Oryou-san heard of that story!\n\nRyouma: Huh? Didn't I ever tell you? Oh well, in the end, swords and spears were no match for guns. And even more so for Oryou-san.\n\nOryou: Hehe, so you understand after all!",
+                    "condition": null,
+                    "voiceFile": "SV329_2_羁绊Lv3.mp3"
+                },
+                {
+                    "title": "羁绊 Lv.4",
+                    "text": "",
+                    "textJp": "龍馬「土佐訛りかい？ こうやって喋るのも長いから、最近はずいぶん抜けちゃってね」\nお竜さん「たまには訛っていいぞ。山に来た時、そんな感じだっただろ？」\n龍馬「ハハ、ほうかのう。ほじゃき、あん頃はワシも恐いもん知らずだったがよ。いや～、何も分かっちょらんかったっちゅうべきかのう」\nお竜さん「やっぱイゾーみたいだからやめていいぞ」\n龍馬「あれま、これ、以蔵さんには言わないであげてね」",
+                    "textEn": "Ryouma: My Tosa accent? Hmm, I've been talking like this for a long time already, so I think I've grown out of it.\n\nOryou: It'll be great if you talked like that once in a while. You had that accent when we first met in the mountains, right?\n\nRyouma: (In Tosa-ben) Ahaha! That so? Back then, I ain't scared of anythin'. Well~ maybe 'cos I didn't know anythin'.\n\nOryou: Ugh, you sound like Izou, so you can stop that now.\n\nRyouma: Oh dear, don't say that to Izou-san, okay?",
+                    "condition": null,
+                    "voiceFile": "SV329_2_羁绊Lv4.mp3"
+                },
+                {
+                    "title": "羁绊 Lv.5",
+                    "text": "",
+                    "textJp": "龍馬「僕はね、何の事はない、ただ、みんなに幸せになってほしかったんだ。……そう、土佐を出る時の僕は、ただそれだけだった。でもね、僕は知らなかったんだ。みんなに幸せになってほしい、それがどんなに残酷な事なのかって事をね」\nお竜さん「龍馬……」\n龍馬「でも、君に出会って、そう、このカルデアに来て、やっぱり僕は思うんだ。みんなに幸せになってほしいってね」\nお竜さん「そうだな。お竜さんも、龍馬にもお前にも、幸せになってほしいぞ」\n龍馬「そうだね。本当にそう思う。僕は君に、みんなに幸せになってほしいんだ」",
+                    "textEn": "Ryouma: You know, I don't have anything to my name. I just wanted everyone to be happy. When I left Tosa, that was my only wish. But you see, back then, I didn't know then how cruel it will be, to strive for everyone's happiness.\n\nOryou: Ryouma...\n\nRyouma: But now that I've met you and have come to Chaldea, I really do want everyone to be happy.\n\nOryou: That's right! Oryou-san too, wants Ryouma and even you, to be happy!\n\nRyouma: Yes, I truly wish for that. I want you and everyone to be happy.",
+                    "condition": null,
+                    "voiceFile": "SV329_2_羁绊Lv5.mp3"
+                },
+                {
+                    "title": "对话 1",
+                    "text": "",
+                    "textJp": "龍馬「さあ、出かけようか。大切なのは何よりまず動くことだ。君の志へと向かってね」\nお竜さん「そうだな、やれる事はやれる内にな」",
+                    "textEn": "Ryouma: Well then, let's head out. The most important thing is to move, first and foremost. Towards your aspirations.\n\nOryou: That's right, you should do what you can, while you can.",
+                    "condition": null,
+                    "voiceFile": "SV329_2_对话1.mp3"
+                },
+                {
+                    "title": "对话 2",
+                    "text": "",
+                    "textJp": "龍馬「僕は誰かと主従を結ぶとかは苦手でね。やっぱり僕は、誰かと友達になりたい。そう、君ともね。というわけで、シェイクハンド、僕とお願いできるかな」\nお竜さん「ずるいぞ、お竜さんも握らせろ。シェイクハンドシェイクハンド！」\n龍馬「ふっ、力入れすぎないでね」",
+                    "textEn": "Ryouma: I'm not very good at being in a master - servant relationship. That's why I want to become friends with everybody. That includes you too. And with that, can I ask you to shake hands with me?\n\nOryou: That's unfair! Oryou-san wants to hold your hand too! Shake hands! Shake hands!\n\nRyouma: Don't put too much power on it, okay?",
+                    "condition": null,
+                    "voiceFile": "SV329_2_对话2.mp3"
+                },
+                {
+                    "title": "对话 3",
+                    "text": "",
+                    "textJp": "龍馬「君の目指すもの、僕の目指すもの、それが同じかどうかは問題じゃない。目的はどうあれ、僕は君に力を貸したいと思った。だから君とは、マスターとサーヴァントとかではなくて、そうだなあ……ううん、対等な同盟関係だと思ってくれると嬉しい」\nお竜さん「言うならリョーマスター同盟、だな」\n龍馬「語呂はちょっとアレだけどね……」",
+                    "textEn": "Ryouma: It's not a problem if what you're aiming for and what I'm aiming for is not the same. Putting our goals aside, I want to lend you my power. That's why instead of a Master and Servant relationship, I'd like for us to have a... ah, yes, I'd be happy if you think of us being in an equal partnership.\n\nOryou: If I have to say it, it's the RyouMaster alliance!\n\nRyouma: That wordplay is a bit...",
+                    "condition": null,
+                    "voiceFile": "SV329_2_对话3.mp3"
+                },
+                {
+                    "title": "对话 4",
+                    "text": "",
+                    "textJp": "龍馬「第六天魔王、信長公……いや、文字通りの魔王信長公かな。僕がここに来たのは、信長公と戦うためかと思っていたけど、どうやら違ったみたいだね」\nお竜さん「リョーマ、よく間違えてる気がするぞ」\n龍馬「そ、そうかい？ なに、抑止の力や守護者の云々なんてのは、話半分に聞いていてくれればいいのさ。僕らは自分の意思でここにいる。それは間違いないんだからね、きっと」\nお竜さん「ま、戦っても勝つがな」",
+                    "textEn": "Ryouma: Lord Nobunaga the Demon King of the Sixth Heaven, huh... Isn't she literally just the Demon King Nobunaga? I thought I was summoned here to fight against Lord Nobunaga, but it seems like I'm wrong, huh?\n\nOryou: Ryouma, I think you're really mistaken.\n\nRyouma: I-is that so? Well, the thing about the Counter Force and being a Counter Guardian is only half of the story after all. We're here now out of our own free will. I'm sure that I'm not mistaken about that.\n\nOryou: Though if we're gonna fight, we'll absolutely win!",
+                    "condition": "持有织田信长(Avenger)",
+                    "voiceFile": "SV329_2_对话4.mp3"
+                },
+                {
+                    "title": "对话 5",
+                    "text": "",
+                    "textJp": "龍馬「以蔵さんと肩を並べて戦えるなんて、本当に嬉しいよ。……ああ、本当に嬉しい。───って、ちょっと待ってちょっと待って！ 刀に手をかけないでね！ ホントごめん、ついうっかりね」\nお竜さん「お、お竜さんは全然嬉しくないから勘違いしないでよね、ってやつだぞ」\n龍馬「どこで覚えたのそれ」",
+                    "textEn": "Ryouma: I'm really happy to be able to fight side by side with Izou-san... Aah, I'm truly happ― H-hey, wait! Whoa! Wait one moment! Put the sword down, okay? Sorry, I'm really sorry! That was careless of me, okay?\n\nOryou: O...Oryou-san is not happy at all, don't get me wrong!\n\nRyouma: Just where did you learn that...",
+                    "condition": "持有冈田以藏",
+                    "voiceFile": "SV329_2_对话5.mp3"
+                },
+                {
+                    "title": "对话 6",
+                    "text": "",
+                    "textJp": "龍馬「なるほど……その姿こそが、本来の君の力を最大限発揮できる姿というわけか。うん、これは間違いなく、抑止の守護者といっていい異界の英霊だよ、君は。そうか……君はそうして至ったのか」\nお竜さん「ところでそのちっこいの、うまそうだな」\n龍馬「多分、お腹壊すどころじゃすまないから止めようね」",
+                    "textEn": "Ryouma: I see... So this is the form in which you can display your power to the fullest. Yeah, you are without a doubt, a Counter Guardian from another world, aren't you? I see, so that's how you came to be...\n\nOryou: By the way, that little thing beside you looks tasty.\n\nRyouma: You probably won't get away with just a stomachache if you eat them, so let's not do that, okay?",
+                    "condition": "持有冲田总司〔Alter〕(Saber)",
+                    "voiceFile": "SV329_2_对话6.mp3"
+                },
+                {
+                    "title": "对话 7",
+                    "text": "",
+                    "textJp": "龍馬「新選組三番隊隊長──斎藤一……。明治を生きた新選組か……いやあ、僕も明治という時代を見てみたかったよ」\nお竜さん「すまん……龍馬」\n龍馬「あ、いや、そういう意味じゃないよ。気にしないでね」",
+                    "textEn": "Ryouma: The captain of the Shinsengumi's third squad, Saitou Hajime... A member of the Shinsengumi who lived until the Meiji era, huh... I wish I could've seen the Meiji era too.\n\nOryou: Ryouma, sorry...\n\nRyouma: Ah, no, no, I didn't mean it like that. Don't worry about it.",
+                    "condition": "持有斋藤一",
+                    "voiceFile": "SV329_2_对话7.mp3"
+                },
+                {
+                    "title": "对话 8",
+                    "text": "",
+                    "textJp": "龍馬「信長公に続いて、かの謙信公まで現れるとはね。これはいよいよ僕ぐらいの格の英霊じゃ、ついていけなくなるかな」\nお竜さん「安心しろ、お竜さんはあいつらより百倍格上だ」\n龍馬「そういうことなら、安心だ」",
+                    "textEn": "Ryouma: After Lord Nobunaga, now it's Lord Kenshin who appeared, huh? I wonder if this will finally be too much for a Heroic Spirit of my rank to keep up with...\n\nOryou: Don't worry, Oryou-san is a hundred times better than them!\n\nRyouma: If that's the case, then I'm relieved.",
+                    "condition": "持有长尾景虎",
+                    "voiceFile": "SV329_2_对话8.mp3"
+                },
+                {
+                    "title": "对话 9",
+                    "text": "",
+                    "textJp": "龍馬「ボイジャー……星の大海を行く英霊か。……そうか、遠く彼方の空にまで人間は行けるんだね」\nお竜さん「むむむ……さすがのお竜さんでも難しいかもしれない。でも、月くらいまでなら何とかなるかもしれないぞ」\n龍馬「お竜さんと月世界旅行か……そいつは楽しそうだ」",
+                    "textEn": "Ryouma: Voyager, a Heroic Spirit that went on a journey to the Sea of Stars. I see... So humans can now travel towards the distant skies, huh?\n\nOryou: Hnnn... That would be quite difficult, even for Oryou-san. But, if it's just the moon, then maybe I can do it!\n\nRyouma: Traveling to the moon with Oryou-san, huh... That sounds fun!",
+                    "condition": "持有旅行者",
+                    "voiceFile": "SV329_2_对话9.mp3"
+                },
+                {
+                    "title": "对话 10",
+                    "text": "",
+                    "textJp": "龍馬「やあ、阿国さんか。お互い色々あったけど、今後はよろしく頼むよ」\nお竜さん「お前の後ろの奴、なかなか手強かったぞ」\n龍馬「カルデア公演の方も楽しみにしてるからね」\nお竜さん「なんならお竜さんも出てやるぞ」",
+                    "textEn": "Ryouma: Oh if it isn't Okuni-san. We've both been through a lot but I look forward to working with you.\n\nOryou: That guy behind you is pretty strong, huh.\n\nRyouma: I'm also looking forward to your performances here in Chaldea.\n\nOryou: If that's the case, the Oryou-san will join too!",
+                    "condition": "持有出云阿国&通关昭和机神计划 唠唠叨叨龙马千钧一发！ 消失的信首之谜",
+                    "voiceFile": "SV329_2_对话10.mp3"
+                },
+                {
+                    "title": "对话 11",
+                    "text": "",
+                    "textJp": "龍馬「高杉さんかい？ ああ、あの通りの男さ」\nお竜さん「とにかく好き放題だったな、あいつ」\n龍馬「ハハ、確かにその通りだね。本当に昔のままだったよ、彼は。……そう、正に麒麟児、いや、麒麟だったよ」",
+                    "textEn": "Ryouma: Oh, Takasugi-san? Yeah, he truly was just like that.\n\nOryou: That guy, he just did whatever he wanted, right?\n\nRyouma: Haha, you're right. He's really the same as back then... Yeah, he truly was a child prodigy, no, truly, a prodigy.",
+                    "condition": "通关昭和机神计划 唠唠叨叨龙马千钧一发！ 消失的信首之谜",
+                    "voiceFile": "SV329_2_对话11.mp3"
+                },
+                {
+                    "title": "对话 12",
+                    "text": "",
+                    "textJp": "お竜さん「なんて言ったかな、あいつ」\n龍馬「武市さんかい？」\nお竜さん「ああ、そいつだそいつ。色々あったが、人間にしては気合いが入っていたと思うぞ」\n龍馬「そうだね、その通りだ。……見事じゃったぜよ、武市さん」",
+                    "textEn": "Oryou: What’s that guy’s name again?\n\nRyouma: You mean Takechi-san?\n\nOryou: Yeah, yeah, him! A lot of things happened but I think that guy has quite the spirit for a human.\n\nRyouma: Yes, that’s right… Takechi-san was an admirable person.",
+                    "condition": "通关昭和机神计划 唠唠叨叨龙马千钧一发！ 消失的信首之谜",
+                    "voiceFile": "SV329_2_对话12.mp3"
+                },
+                {
+                    "title": "喜欢的东西",
+                    "text": "",
+                    "textJp": "龍馬「好きなもの、か…。そうだね、やっぱり海は好きかな。小さい頃はよく海を眺めてぼんやりしてたもんさ。夜になっても気が付かないで、家の人間にこっぴどく叱られたりね」\nお竜さん「お竜さんも好きだぞ、海。昔はそうでもなかったけど……うん、今は好きだ」\n龍馬「──そうか。ありがとう、お竜さん」",
+                    "textEn": "Ryouma: Something I like, huh... Well, I guess I do like the sea. When I was little, I used to space out and just stare at the sea. I wouldn't even notice that the night has come while doing so, so my family used to scold me a lot about that.\n\nOryou: Oyou-san too, likes the sea. I didn't like it before though... But now, I like it.\n\nRyouma: Is that so? Thank you, Oryou-san.",
+                    "condition": null,
+                    "voiceFile": "SV329_2_喜欢的东西.mp3"
+                },
+                {
+                    "title": "讨厌的东西",
+                    "text": "",
+                    "textJp": "龍馬「嫌いなことか…。やっぱり、悲しいことは嫌いかな。もちろんどうにもならないことはたくさんあるけど、僕の手の届くところでは、少しでも悲しいことが無くなればいい。そう思って僕は、昔も今もここにいる」\nお竜さん「辛気臭いぞリョーマ！悲しいことは、もっと楽しいことでブッ飛ばせばいいんだ！」\n龍馬「確かに。…いやぁ、お竜さんには頭が下がるよ」",
+                    "textEn": "Ryouma: Something I dislike... I guess I dislike sad things. Of course there are a lot of things that are beyond my control, but as long as it's within my reach, I would like to make sad things disappear, even for just a little bit. That has been how I felt ever since then, until now.\n\nOryou: Don't be so depressing, Ryouma! Let all of these sad things be blown away by even more fun things!\n\nRyouma: That is true... Truly, I take my hat off to you, Oryou-san.",
+                    "condition": null,
+                    "voiceFile": "SV329_2_讨厌的东西.mp3"
+                },
+                {
+                    "title": "关于圣杯",
+                    "text": "",
+                    "textJp": "龍馬「聖杯への願い事かい？ 前にも言ったかもしれないけど、僕には特にないかなぁ」\nお竜さん「カンパニーの設立はどうだ？ 敏腕美人秘書の準備はいつでもドンとこいお竜さんだ」\n龍馬「そういうのは自分でやるから面白いんだよ。そうだ、僕とお竜さんと一緒に新カンパニーを立ち上げないかい？」\nお竜さん「お、やろうやろう」",
+                    "textEn": "Ryouma: A wish for the Holy Grail? I think I've already said this before but, I don't really have one.\n\nOryou: How about starting up a company? Oryou-san is always ready to play the part of a beautiful and aloof secretary!\n\nRyouma: That kind of thing is fun when you do it yourself, isn’t it? Oh, that's right! Do you want to start up a new company with me and Oryou-san?\n\nOryou: Ooh, let's do it, let's do it!",
+                    "condition": null,
+                    "voiceFile": "SV329_2_关于圣杯.mp3"
+                },
+                {
+                    "title": "活动举行中",
+                    "text": "",
+                    "textJp": "お竜さん「おい、なんだか騒がしいぞ」\n龍馬「本当だね。何かまた揉め事……いや、楽しいことでも始まったかな」\nお竜さん「それを早く言え！おい、人間！お竜さんと一緒に出かけるぞ！」\n龍馬「それじゃあ、出かけようか」",
+                    "textEn": "Oryou: Oi, it's kind of noisy.\n\nRyouma: You're right. Is it the start of another trouble...Or is it the start of something fun?\n\nOryou: Say that earlier! Hey, human! You're going out together with Oryou-san!\n\nRyouma: Well then, shall we head out?",
+                    "condition": null,
+                    "voiceFile": "SV329_2_活动举行中.mp3"
+                },
+                {
+                    "title": "生日",
+                    "text": "",
+                    "textJp": "龍馬「誕生日おめでとう、マスター。何かプレゼントをと思ったんだけど……そうだ。一緒に海にでも行かないかい」\nお竜さん「いいだろう、今日は特別だ。お竜さんの背中に乗せてやるぞ。しっかり掴まってろよ」\n龍馬「そいつはいい。それじゃあ頼むよ、お竜さん」",
+                    "textEn": "Ryouma: Happy birthday, Master. I thought I should give you something as a present... Oh, that's right. Would you like to go to the sea together?\n\nOryou: Alright, since it's a special day today. I'll let you ride on Oryou-san's back. Make sure to hold on tightly, okay?\n\nRyouma: That's great. Well then, I'll leave it up to you, Oryou-san.",
+                    "condition": null,
+                    "voiceFile": "SV329_2_生日.mp3"
+                }
+            ]
+        },
+        {
+            "section": "昭和机神计划 唠唠叨叨龙马千钧一发！ 消失的信首之谜",
+            "table": [
+                {
+                    "title": "对话 1",
+                    "text": "",
+                    "textJp": "",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV329_0_活动1.mp3"
+                },
+                {
+                    "title": "对话 2",
+                    "text": "",
+                    "textJp": "",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV329_0_活动2.mp3"
+                },
+                {
+                    "title": "对话 3",
+                    "text": "",
+                    "textJp": "",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV329_0_活动3.mp3"
+                },
+                {
+                    "title": "对话 4",
+                    "text": "",
+                    "textJp": "",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV329_0_活动4.mp3"
+                },
+                {
+                    "title": "对话 5",
+                    "text": "",
+                    "textJp": "",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV329_0_活动5.mp3"
+                },
+                {
+                    "title": "对话 6",
+                    "text": "",
+                    "textJp": "",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV329_0_活动6.mp3"
+                },
+                {
+                    "title": "对话 7",
+                    "text": "",
+                    "textJp": "",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV329_0_活动7.mp3"
+                },
+                {
+                    "title": "对话 8",
+                    "text": "",
+                    "textJp": "",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV329_0_活动8.mp3"
+                },
+                {
+                    "title": "对话 9",
+                    "text": "",
+                    "textJp": "",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV329_0_活动9.mp3"
+                },
+                {
+                    "title": "对话 10",
+                    "text": "",
+                    "textJp": "",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV329_0_活动10.mp3"
+                },
+                {
+                    "title": "对话 11",
+                    "text": "",
+                    "textJp": "",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV329_0_活动11.mp3"
+                },
+                {
+                    "title": "对话 12",
+                    "text": "",
+                    "textJp": "",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV329_0_活动12.mp3"
+                },
+                {
+                    "title": "对话 13",
+                    "text": "",
+                    "textJp": "",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV329_0_活动13.mp3"
+                },
+                {
+                    "title": "对话 14",
+                    "text": "",
+                    "textJp": "",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV329_0_活动14.mp3"
+                },
+                {
+                    "title": "对话 15",
+                    "text": "",
+                    "textJp": "",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV329_0_活动15.mp3"
+                }
+            ]
+        }
+    ],
+    "bondCraft": -1,
+    "valentineCraft": [],
+    "icons": [
+        {
+            "key": "icon1",
+            "valueList": [
+                "坂本龍馬_status_1.png",
+                "坂本龍馬_status_2.png",
+                "坂本龍馬_status_3.png"
+            ]
+        }
+    ],
+    "sprites": [
+        {
+            "key": "sprite1",
+            "valueList": [
+                "坂本龍馬_model_1.png",
+                "坂本龍馬_model_2.png",
+                "坂本龍馬_model_3.png"
+            ]
+        }
+    ],
+    "fandomIcons": {
+        "fandom.S329Icon.png": "Stage 1",
+        "fandom.S329A2Icon.png": "Stage 2",
+        "fandom.S329A3Icon.png": "Stage 3",
+        "fandom.S329A4Icon.png": "Stage 4",
+        "fandom.S329 status servant 1.png": "Stage 1",
+        "fandom.S329 status servant 2.png": "Stage 2",
+        "fandom.S329 status servant 3.png": "Stage 3"
+    },
+    "fandomSprites": {
+        "fandom.Sakamoto Ryouma Lancer 1 Sprite.png": "Stage 1",
+        "fandom.Sakamoto Ryouma Lancer 2 Sprite.png": "Stage 2",
+        "fandom.Sakamoto Ryouma Lancer 3 Sprite.png": "Stage 3",
+        "fandom.S329 card servant 1.png": "Command Card (Stage 1)",
+        "fandom.S329 card servant 2.png": "Command Card (Stage 2)",
+        "fandom.S329 card servant 3.png": "Command Card (Stage 3)",
+        "fandom.Sakamoto_Ryouma_Only_Lancer_2_Sprite.png": "Ryōma (Stage 2)",
+        "fandom.Sakamoto_Ryouma_Lancer_Oryo_Only_2_Sprite.png": "Oryō (Stage 2)",
+        "fandom.Sakamoto_Ryouma_Lancer_NP.png": "NP Illust",
+        "fandom.Sakamoto_Ryouma_Lancer_Ryouma_Only_NP_Sprite.png": "NP Illust (Ryōma)",
+        "fandom.Sakamoto_Ryouma_Lancer_Oryou_Only_NP_Sprite.png": "NP Illust (Oryō)",
+        "fandom.Sakamoto_Ryouma_Lancer_3D_Dragon_Oryou_Only_Perpective_View_Sprite.png": "White Oryō Model",
+        "fandom.Sakamoto_Ryouma_Lancer_3D_Dragon_Oryou_Only_Side_View_Sprite.png": "White Oryō (Side View)",
+        "fandom.Sakamoto_Ryouma_Lancer_3D_Dragon_Oryou_Only_Top_View_Sprite.png": "White Oryō (Top View)"
+    },
+    "niceSkills": [
+        {
+            "id": 2000550,
+            "num": 1,
+            "name": "維新の龍 A",
+            "ruby": "いしんのりゅう",
+            "detail": "味方全体のArtsカード性能をアップ(3ターン)＆クリティカル威力をアップ(3ターン)＆宝具使用時のチャージ段階を1段階引き上げる状態を付与(1回・3ターン)",
+            "type": "active",
+            "strengthStatus": 0,
+            "priority": 1,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "conLv": 0,
+            "condLimitCount": 0,
+            "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00305.png",
+            "coolDown": [
+                8,
+                8,
+                8,
+                8,
+                8,
+                7,
+                7,
+                7,
+                7,
+                6
+            ],
+            "functions": [
+                {
+                    "funcId": 116,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "ptAll",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "アーツアップ",
+                    "buffs": [
+                        {
+                            "id": 101,
+                            "name": "Artsアップ",
+                            "detail": "Artsカードの性能をアップ",
+                            "type": "upCommandall",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 110
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 120
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 130
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 140
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 150
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 160
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 170
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 180
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200
+                        }
+                    ]
+                },
+                {
+                    "funcId": 206,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "ptAll",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "クリティカル威力アップ",
+                    "buffs": [
+                        {
+                            "id": 142,
+                            "name": "クリティカル威力アップ",
+                            "detail": "クリティカル時のダメージをアップ",
+                            "type": "upCriticaldamage",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 210
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 220
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 230
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 240
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 250
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 260
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 270
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 280
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 300
+                        }
+                    ]
+                },
+                {
+                    "funcId": 759,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "ptAll",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "オーバーチャージ段階UP",
+                    "buffs": [
+                        {
+                            "id": 227,
+                            "name": "オーバーチャージ段階UP",
+                            "detail": "宝具発動時、オーバーチャージ段階をアップする",
+                            "type": "upChagetd",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 1,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 1,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 1,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 1,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 1,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 1,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 1,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 1,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 1,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 1,
+                            "Value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2001549,
+            "num": 2,
+            "name": "高千穂の白き大蛇 A-",
+            "ruby": "たかちほのしろきおろち",
+            "detail": "自身のNPを増やす＆弱体無効状態を付与(3ターン)＆強化解除耐性をアップ(3ターン)",
+            "type": "active",
+            "strengthStatus": 0,
+            "priority": 1,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "conLv": 0,
+            "condLimitCount": 1,
+            "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00601.png",
+            "coolDown": [
+                8,
+                8,
+                8,
+                8,
+                8,
+                7,
+                7,
+                7,
+                7,
+                6
+            ],
+            "functions": [
+                {
+                    "funcId": 460,
+                    "funcType": "gainNp",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "player",
+                    "funcPopupText": "NP増加",
+                    "buffs": [],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Value": 3000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 3200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 3400
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 3600
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 3800
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 4000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 4200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 4400
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 4600
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 5000
+                        }
+                    ]
+                },
+                {
+                    "funcId": 470,
+                    "funcType": "hastenNpturn",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "enemy",
+                    "funcPopupText": "チャージ増加",
+                    "buffs": [],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        }
+                    ]
+                },
+                {
+                    "funcId": 627,
+                    "funcType": "addState",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "弱体無効",
+                    "buffs": [
+                        {
+                            "id": 171,
+                            "name": "弱体無効",
+                            "detail": "弱体を受けなくなる",
+                            "type": "avoidState",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1
+                        }
+                    ]
+                },
+                {
+                    "funcId": 2086,
+                    "funcType": "addState",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "強化解除耐性アップ",
+                    "buffs": [
+                        {
+                            "id": 887,
+                            "name": "強化解除耐性アップ",
+                            "detail": "強化解除耐性をアップ",
+                            "type": "upToleranceSubstate",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 500
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 550
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 600
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 650
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 700
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 750
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 800
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 850
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 900
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 1000
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2002450,
+            "num": 3,
+            "name": "天逆鉾（双） B",
+            "ruby": "あまさかほこ（そう）",
+            "detail": "自身のArtsカード性能をアップ(3ターン)＆Busterカード性能をアップ(3ターン)＆毎ターンスター獲得状態を付与(3ターン)",
+            "type": "active",
+            "strengthStatus": 0,
+            "priority": 1,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "conLv": 0,
+            "condLimitCount": 3,
+            "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00315.png",
+            "coolDown": [
+                8,
+                8,
+                8,
+                8,
+                8,
+                7,
+                7,
+                7,
+                7,
+                6
+            ],
+            "functions": [
+                {
+                    "funcId": 110,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "アーツアップ",
+                    "buffs": [
+                        {
+                            "id": 101,
+                            "name": "Artsアップ",
+                            "detail": "Artsカードの性能をアップ",
+                            "type": "upCommandall",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 210
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 220
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 230
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 240
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 250
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 260
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 270
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 280
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 300
+                        }
+                    ]
+                },
+                {
+                    "funcId": 119,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "バスターアップ",
+                    "buffs": [
+                        {
+                            "id": 102,
+                            "name": "Busterアップ",
+                            "detail": "Busterカードの性能をアップ",
+                            "type": "upCommandall",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 210
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 220
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 230
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 240
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 250
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 260
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 270
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 280
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 300
+                        }
+                    ]
+                },
+                {
+                    "funcId": 334,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "player",
+                    "funcPopupText": "毎ターンスター獲得",
+                    "buffs": [
+                        {
+                            "id": 121,
+                            "name": "毎ターンスター獲得",
+                            "detail": "ターン終了時にスターを獲得する",
+                            "type": "regainStar",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 5
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 6
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 6
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 7
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 7
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 8
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 8
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 9
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 9
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 10
+                        }
+                    ]
+                },
+                {
+                    "funcId": 215,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "enemy",
+                    "funcPopupText": "クリティカル発生アップ",
+                    "buffs": [
+                        {
+                            "id": 144,
+                            "name": "クリティカル発生アップ",
+                            "detail": "クリティカルの発生率をアップ",
+                            "type": "upCriticalrate",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 100
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "niceClassPassive": [
+        {
+            "id": 34351,
+            "num": 1,
+            "name": "対魔力 C+",
+            "ruby": "たいまりょく",
+            "detail": "自身の弱体耐性を少しアップ",
+            "type": "passive",
+            "strengthStatus": 1,
+            "priority": 1,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "conLv": 0,
+            "condLimitCount": 0,
+            "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00100.png",
+            "coolDown": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "functions": [
+                {
+                    "funcId": 388,
+                    "funcType": "addState",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "弱体耐性アップ",
+                    "buffs": [
+                        {
+                            "id": 162,
+                            "name": "弱体耐性アップ",
+                            "detail": "弱体耐性をアップ",
+                            "type": "upTolerance",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 155
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 155
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 155
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 155
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 155
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 155
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 155
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 155
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 155
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 155
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 88650,
+            "num": 1,
+            "name": "騎乗 EX",
+            "ruby": "きじょう",
+            "detail": "自身のQuickカードの性能をアップ",
+            "type": "passive",
+            "strengthStatus": 1,
+            "priority": 1,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "conLv": 0,
+            "condLimitCount": 0,
+            "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00102.png",
+            "coolDown": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "functions": [
+                {
+                    "funcId": 100,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "クイックアップ",
+                    "buffs": [
+                        {
+                            "id": 100,
+                            "name": "Quickアップ",
+                            "detail": "Quickカードの性能をアップ",
+                            "type": "upCommandall",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 120
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 120
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 120
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 120
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 120
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 120
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 120
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 120
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 120
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 120
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2008550,
+            "num": 1,
+            "name": "変化（大蛇） A",
+            "ruby": "へんげ（おろち）",
+            "detail": "自身の被クリティカル発生耐性をアップ＆クリティカル威力をアップ",
+            "type": "passive",
+            "strengthStatus": 1,
+            "priority": 1,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "conLv": 0,
+            "condLimitCount": 0,
+            "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00417.png",
+            "coolDown": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "functions": [
+                {
+                    "funcId": 5655,
+                    "funcType": "addState",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "player",
+                    "funcPopupText": "被クリティカル発生耐性アップ",
+                    "buffs": [
+                        {
+                            "id": 2888,
+                            "name": "被クリティカル発生耐性アップ",
+                            "detail": "クリティカル攻撃を受ける確率を減らす",
+                            "type": "downCriticalRateDamageTaken",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        }
+                    ]
+                },
+                {
+                    "funcId": 7204,
+                    "funcType": "addState",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "enemy",
+                    "funcPopupText": "被スター発生耐性アップ",
+                    "buffs": [
+                        {
+                            "id": 2889,
+                            "name": "被スター発生耐性アップ",
+                            "detail": "スターが発生する確率を減らす",
+                            "type": "downCriticalStarDamageTaken",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        }
+                    ]
+                },
+                {
+                    "funcId": 199,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "クリティカル威力アップ",
+                    "buffs": [
+                        {
+                            "id": 142,
+                            "name": "クリティカル威力アップ",
+                            "detail": "クリティカル時のダメージをアップ",
+                            "type": "upCriticaldamage",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "niceNoblePhantasms": [
+        {
+            "id": 305001,
+            "num": 1,
+            "card": "arts",
+            "name": "君よ、綿津見の原を征け",
+            "ruby": "りゅうよ、わだつみのはらをゆけ",
+            "rank": "EX",
+            "type": "対軍宝具",
+            "detail": "自身の宝具威力をアップ(3ターン)<オーバーチャージで効果アップ>＆防御力を大アップ(1ターン) ＋ 敵全体に強力な攻撃",
+            "npGain": {
+                "buster": [
+                    47,
+                    47,
+                    47,
+                    47,
+                    47
+                ],
+                "arts": [
+                    47,
+                    47,
+                    47,
+                    47,
+                    47
+                ],
+                "quick": [
+                    47,
+                    47,
+                    47,
+                    47,
+                    47
+                ],
+                "extra": [
+                    47,
+                    47,
+                    47,
+                    47,
+                    47
+                ],
+                "defence": [
+                    400,
+                    400,
+                    400,
+                    400,
+                    400
+                ],
+                "np": [
+                    47,
+                    47,
+                    47,
+                    47,
+                    47
+                ]
+            },
+            "npDistribution": [
+                16,
+                33,
+                51
+            ],
+            "strengthStatus": 0,
+            "priority": 101,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "individuality": [
+                {
+                    "id": 3002,
+                    "name": "attackMagical"
+                },
+                {
+                    "id": 4001,
+                    "name": "cardArts"
+                },
+                {
+                    "id": 4007,
+                    "name": "cardNP"
+                },
+                {
+                    "id": 4101,
+                    "name": "aoeNP"
+                }
+            ],
+            "functions": [
+                {
+                    "funcId": 248,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "宝具威力アップ",
+                    "buffs": [
+                        {
+                            "id": 138,
+                            "name": "宝具威力アップ",
+                            "detail": "宝具で与えるダメージをアップ",
+                            "type": "upNpdamage",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200
+                        }
+                    ]
+                },
+                {
+                    "funcId": 177,
+                    "funcType": "addState",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "防御力アップ",
+                    "buffs": [
+                        {
+                            "id": 146,
+                            "name": "防御力アップ",
+                            "detail": "防御力をアップ",
+                            "type": "upDefence",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 500
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 500
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 500
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 500
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 500
+                        }
+                    ]
+                },
+                {
+                    "funcId": 13,
+                    "funcType": "damageNp",
+                    "funcTargetType": "enemyAll",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "なし",
+                    "buffs": [],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Value": 4500
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 6000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 6750
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 7125
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 7500
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "atkGrowth": [
+        1661,
+        1670,
+        1679,
+        1697,
+        1724,
+        1761,
+        1797,
+        1833,
+        1888,
+        1933,
+        1997,
+        2061,
+        2124,
+        2197,
+        2279,
+        2361,
+        2452,
+        2542,
+        2642,
+        2742,
+        2852,
+        2961,
+        3070,
+        3188,
+        3315,
+        3443,
+        3570,
+        3697,
+        3833,
+        3979,
+        4115,
+        4261,
+        4406,
+        4552,
+        4706,
+        4861,
+        5015,
+        5170,
+        5325,
+        5479,
+        5643,
+        5797,
+        5961,
+        6125,
+        6279,
+        6443,
+        6607,
+        6761,
+        6925,
+        7079,
+        7234,
+        7388,
+        7543,
+        7698,
+        7852,
+        7998,
+        8143,
+        8289,
+        8425,
+        8570,
+        8707,
+        8834,
+        8961,
+        9089,
+        9216,
+        9334,
+        9443,
+        9552,
+        9661,
+        9761,
+        9861,
+        9952,
+        10043,
+        10125,
+        10207,
+        10280,
+        10343,
+        10407,
+        10471,
+        10516,
+        10571,
+        10607,
+        10625,
+        10643,
+        10662,
+        10680,
+        10698,
+        10716,
+        10734,
+        10753,
+        10853,
+        10953,
+        11053,
+        11153,
+        11262,
+        11362,
+        11462,
+        11562,
+        11671,
+        11771,
+        11871,
+        11971,
+        12080,
+        12180,
+        12280,
+        12380,
+        12489,
+        12589,
+        12689,
+        12789,
+        12889,
+        12998,
+        13098,
+        13198,
+        13298,
+        13407,
+        13507,
+        13607,
+        13707,
+        13817
+    ],
+    "hpGrowth": [
+        2221,
+        2233,
+        2246,
+        2272,
+        2311,
+        2363,
+        2414,
+        2466,
+        2544,
+        2608,
+        2699,
+        2789,
+        2880,
+        2983,
+        3099,
+        3216,
+        3345,
+        3474,
+        3617,
+        3759,
+        3914,
+        4069,
+        4224,
+        4392,
+        4573,
+        4754,
+        4935,
+        5116,
+        5310,
+        5517,
+        5711,
+        5917,
+        6124,
+        6331,
+        6551,
+        6770,
+        6990,
+        7210,
+        7430,
+        7649,
+        7882,
+        8102,
+        8334,
+        8567,
+        8787,
+        9020,
+        9252,
+        9472,
+        9705,
+        9924,
+        10144,
+        10364,
+        10584,
+        10803,
+        11023,
+        11230,
+        11437,
+        11644,
+        11837,
+        12044,
+        12238,
+        12419,
+        12600,
+        12781,
+        12962,
+        13130,
+        13285,
+        13440,
+        13595,
+        13738,
+        13880,
+        14009,
+        14138,
+        14255,
+        14371,
+        14474,
+        14565,
+        14655,
+        14746,
+        14810,
+        14888,
+        14940,
+        14966,
+        14991,
+        15017,
+        15043,
+        15069,
+        15095,
+        15121,
+        15147,
+        15289,
+        15431,
+        15573,
+        15715,
+        15870,
+        16013,
+        16155,
+        16297,
+        16452,
+        16594,
+        16736,
+        16879,
+        17034,
+        17176,
+        17318,
+        17460,
+        17615,
+        17758,
+        17900,
+        18042,
+        18184,
+        18339,
+        18481,
+        18624,
+        18766,
+        18921,
+        19063,
+        19205,
+        19347,
+        19503
+    ],
+    "figure": [
+        "https://static.atlasacademy.io/JP/CharaFigure/3050000/3050000_merged.png",
+        "https://static.atlasacademy.io/JP/CharaFigure/3050001/3050001_merged.png",
+        "https://static.atlasacademy.io/JP/CharaFigure/3050002/3050002_merged.png"
+    ],
+    "ascension": [
+        "https://static.atlasacademy.io/JP/CharaGraph/305000/305000a@1.png",
+        "https://static.atlasacademy.io/JP/CharaGraph/305000/305000a@2.png",
+        "https://static.atlasacademy.io/JP/CharaGraph/305000/305000b@1.png",
+        "https://static.atlasacademy.io/JP/CharaGraph/305000/305000b@2.png"
+    ]
+}

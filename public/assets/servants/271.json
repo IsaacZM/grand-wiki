@@ -1,0 +1,3080 @@
+{
+    "no": 271,
+    "svtId": 203900,
+    "mcLink": "南丁格尔〔圣诞〕",
+    "icon": "Servant271.jpg",
+    "info": {
+        "gameId": 203900,
+        "name": "南丁格尔〔圣诞〕",
+        "nameJp": "ナイチンゲール〔サンタ〕",
+        "nameEn": "Nightingale (Santa)",
+        "namesOther": [
+            "南丁格尔·圣诞",
+            "南丁格尔",
+            "ナイチンゲール〔サンタ〕"
+        ],
+        "namesJpOther": [
+            "ナイチンゲール",
+            "ナイチンゲール・サンタ"
+        ],
+        "namesEnOther": [
+            "Florence Nightingale"
+        ],
+        "nicknames": [
+            "弓南丁"
+        ],
+        "obtain": "活动",
+        "obtains": [
+            "活动赠送"
+        ],
+        "rarity": 4,
+        "rarity2": 4,
+        "weight": "52kg",
+        "height": "165cm",
+        "gender": "女性",
+        "illustrator": "高桥庆太郎",
+        "illustratorJp": null,
+        "illustratorEn": "Takahashi Keitarō",
+        "className": "Archer",
+        "attribute": "人",
+        "isHumanoid": true,
+        "isWeakToEA": true,
+        "isTDNS": false,
+        "cv": [
+            "泽城美雪"
+        ],
+        "cvJp": [
+            "泽城美雪"
+        ],
+        "cvEn": [
+            "Sawashiro Miyuki"
+        ],
+        "alignments": [
+            "秩序",
+            "善"
+        ],
+        "traits": [
+            "人科"
+        ],
+        "ability": {
+            "strength": "D+",
+            "endurance": "B+",
+            "agility": "B+",
+            "mana": "D+",
+            "luck": "A+",
+            "np": "B"
+        },
+        "illustrations": {
+            "第１阶段": "南丁格尔〔圣诞〕初始.png",
+            "第２阶段": "南丁格尔〔圣诞〕初始.png",
+            "第３阶段": "南丁格尔〔圣诞〕初始.png",
+            "第４阶段": "南丁格尔〔圣诞〕满破.png",
+            "愚人节": "南丁格尔〔圣诞〕愚人节卡面.png"
+        },
+        "cards": [
+            "Quick",
+            "Quick",
+            "Arts",
+            "Arts",
+            "Buster"
+        ],
+        "cardHits": {
+            "Quick": 4,
+            "Arts": 3,
+            "Buster": 3,
+            "Extra": 5,
+            "NP": 6
+        },
+        "cardHitsDamage": {
+            "Quick": [
+                10,
+                20,
+                30,
+                40
+            ],
+            "Arts": [
+                16,
+                33,
+                51
+            ],
+            "Buster": [
+                16,
+                33,
+                51
+            ],
+            "Extra": [
+                6,
+                13,
+                20,
+                26,
+                35
+            ],
+            "NP": [
+                4,
+                9,
+                14,
+                19,
+                23,
+                31
+            ]
+        },
+        "npRate": {
+            "Quick": "0.60%",
+            "Arts": "0.60%",
+            "Buster": "0.60%",
+            "Extra": "0.60%",
+            "NP": "0.60%",
+            "Defense": "3%"
+        },
+        "atkMin": 1643,
+        "hpMin": 1772,
+        "atkMax": 9858,
+        "hpMax": 11080,
+        "atk90": 10893,
+        "hp90": 12252,
+        "atk100": 11936,
+        "hp100": 13434,
+        "starRate": "8.0%",
+        "deathRate": "39.3%",
+        "criticalRate": "153"
+    },
+    "noblePhantasm": [
+        {
+            "state": "",
+            "openCondition": "==宝具==\n{{参阅|{{PAGENAME}}/宝具动画|该从者的宝具动画}}",
+            "name": "天使在呐喊，恶魔消失于影中",
+            "nameJp": "天使は叫び、悪魔は影の中に消える",
+            "upperName": "Assault Medicine Full Burst Party",
+            "upperNameJp": "アサルト・メディスン・フルバースト・パーティー",
+            "color": "Quick",
+            "category": "全体",
+            "rank": "B",
+            "typeText": "对军宝具",
+            "effects": [
+                {
+                    "description": "对敌方全体发动强大的攻击<宝具升级效果提升>",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "600%",
+                        "800%",
+                        "900%",
+                        "950%",
+                        "1000%"
+                    ]
+                },
+                {
+                    "description": "防御力下降(3回合)<Over Charge时效果提升>",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "10%",
+                        "12.5%",
+                        "15%",
+                        "17.5%",
+                        "20%"
+                    ]
+                },
+                {
+                    "description": "攻击强化状态解除",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "∅"
+                    ]
+                },
+                {
+                    "description": "毒·诅咒·灼伤状态解除【负面效果】",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "∅"
+                    ]
+                }
+            ]
+        }
+    ],
+    "noblePhantasmEn": [
+        {
+            "state": "Rank B",
+            "openCondition": null,
+            "name": "Assault Medicine Full-Burst Party",
+            "nameJp": null,
+            "upperName": "Assault Medicine Full-Burst Party",
+            "upperNameJp": null,
+            "color": "Quick",
+            "category": "",
+            "rank": "B",
+            "typeText": "Anti-Army",
+            "effects": [
+                {
+                    "description": "Deals damage to all enemies.\n Removes their offensive buffs.\n({{Offensive Buffs}})\n 500% Chance to remove their Ailment debuffs. ''[Demerit]''\n({{Ailment Debuffs}})",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                },
+                {
+                    "description": " Damage +",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "600%",
+                        "800%",
+                        "900%",
+                        "950%",
+                        "1000%"
+                    ]
+                },
+                {
+                    "description": "<Over Charge>\nReduces their defense for 3 turns.",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                },
+                {
+                    "description": " Defense -",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "10%",
+                        "12.5%",
+                        "15%",
+                        "17.5%",
+                        "20%"
+                    ]
+                }
+            ]
+        }
+    ],
+    "activeSkills": [
+        {
+            "cnState": 0,
+            "skills": [
+                {
+                    "state": "",
+                    "openCondition": "",
+                    "name": "突击药物",
+                    "nameJp": "アサルト・メディスン",
+                    "nameEn": null,
+                    "rank": "C+",
+                    "icon": "封印.png",
+                    "cd": 7,
+                    "effects": [
+                        {
+                            "description": "解除敌方全体的1个强化状态",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "∅"
+                            ]
+                        },
+                        {
+                            "description": "解除己方全体的1个弱化状态",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "∅"
+                            ]
+                        },
+                        {
+                            "description": "HP回复",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "1000",
+                                "1200",
+                                "1400",
+                                "1600",
+                                "1800",
+                                "2000",
+                                "2200",
+                                "2400",
+                                "2600",
+                                "3000"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "cnState": 0,
+            "skills": [
+                {
+                    "state": "",
+                    "openCondition": "",
+                    "name": "钢之看护（圣夜）",
+                    "nameJp": "鋼の看護（聖夜）",
+                    "nameEn": null,
+                    "rank": "A",
+                    "icon": "毅力.png",
+                    "cd": 9,
+                    "effects": [
+                        {
+                            "description": "付与己方单体毅力状态(1次·3回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "1000"
+                            ]
+                        },
+                        {
+                            "description": "强化解除耐性提升(3回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "50%",
+                                "55%",
+                                "60%",
+                                "65%",
+                                "70%",
+                                "75%",
+                                "80%",
+                                "85%",
+                                "90%",
+                                "100%"
+                            ]
+                        },
+                        {
+                            "description": "宝具威力提升(3回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "20%",
+                                "21%",
+                                "22%",
+                                "23%",
+                                "24%",
+                                "25%",
+                                "26%",
+                                "27%",
+                                "28%",
+                                "30%"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "cnState": 0,
+            "skills": [
+                {
+                    "state": "",
+                    "openCondition": "",
+                    "name": "天使于圣夜奏响之铃",
+                    "nameJp": "天使が聖夜に鳴らす鐘",
+                    "nameEn": null,
+                    "rank": "EX",
+                    "icon": "加攻.png",
+                    "cd": 8,
+                    "effects": [
+                        {
+                            "description": "己方全体的攻击力提升(3回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "10%",
+                                "11%",
+                                "12%",
+                                "13%",
+                                "14%",
+                                "15%",
+                                "16%",
+                                "17%",
+                                "18%",
+                                "20%"
+                            ]
+                        },
+                        {
+                            "description": "暴击威力提升(3回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "20%",
+                                "21%",
+                                "22%",
+                                "23%",
+                                "24%",
+                                "25%",
+                                "26%",
+                                "27%",
+                                "28%",
+                                "30%"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "activeSkillsEn": [
+        {
+            "cnState": 0,
+            "skills": [
+                {
+                    "state": "",
+                    "openCondition": null,
+                    "name": "Assault Medicine",
+                    "nameJp": null,
+                    "nameEn": null,
+                    "rank": "C+",
+                    "icon": "封印.png",
+                    "cd": 7,
+                    "effects": [
+                        {
+                            "description": " Removes one latest buff from all enemies.\n Removes one latest debuff from party.\nRecovers party's HP.",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": []
+                        },
+                        {
+                            "description": " Heal +",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "1000",
+                                "1200",
+                                "1400",
+                                "1600",
+                                "1800",
+                                "2000",
+                                "2200",
+                                "2400",
+                                "2600",
+                                "3000"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "cnState": 0,
+            "skills": [
+                {
+                    "state": "",
+                    "openCondition": null,
+                    "name": "Nurse of Steel (Holy Night)",
+                    "nameJp": null,
+                    "nameEn": null,
+                    "rank": "A",
+                    "icon": "毅力.png",
+                    "cd": 9,
+                    "effects": [
+                        {
+                            "description": " Grants one ally Guts status for 1 time, 3 turns. (Revives with 1000 HP.)\nIncreases their buff removal resistance for 3 turns.\nIncreases their NP damage for 3 turns.",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": []
+                        },
+                        {
+                            "description": " Buff Removal Res +",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "50%",
+                                "55%",
+                                "60%",
+                                "65%",
+                                "70%",
+                                "75%",
+                                "80%",
+                                "85%",
+                                "90%",
+                                "100%"
+                            ]
+                        },
+                        {
+                            "description": " NP Damage +",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "20%",
+                                "21%",
+                                "22%",
+                                "23%",
+                                "24%",
+                                "25%",
+                                "26%",
+                                "27%",
+                                "28%",
+                                "30%"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "cnState": 0,
+            "skills": [
+                {
+                    "state": "",
+                    "openCondition": null,
+                    "name": "The Angel that Rings the Bell on Holy Night",
+                    "nameJp": null,
+                    "nameEn": null,
+                    "rank": "EX",
+                    "icon": "加攻.png",
+                    "cd": 8,
+                    "effects": [
+                        {
+                            "description": "Increases party's attack for 3 turns.\nIncreases party's critical damage for 3 turns.",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": []
+                        },
+                        {
+                            "description": " Attack +",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "10%",
+                                "11%",
+                                "12%",
+                                "13%",
+                                "14%",
+                                "15%",
+                                "16%",
+                                "17%",
+                                "18%",
+                                "20%"
+                            ]
+                        },
+                        {
+                            "description": " Crit Damage +",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "20%",
+                                "21%",
+                                "22%",
+                                "23%",
+                                "24%",
+                                "25%",
+                                "26%",
+                                "27%",
+                                "28%",
+                                "30%"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "passiveSkills": [
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "对魔力",
+            "nameJp": null,
+            "nameEn": null,
+            "rank": "C",
+            "icon": "对魔力.png",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": "自身的弱化状态耐性少量提升(15%)",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                }
+            ]
+        },
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "单独行动",
+            "nameJp": null,
+            "nameEn": null,
+            "rank": "A+",
+            "icon": "单独行动.png",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": "自身的暴击威力提升(11%)",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                }
+            ]
+        },
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "狂化",
+            "nameJp": null,
+            "nameEn": null,
+            "rank": "EX",
+            "icon": "狂化.png",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": "自身的Buster指令卡性能提升(12%)",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                }
+            ]
+        }
+    ],
+    "passiveSkillsEn": [
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "Magic Resistance",
+            "nameJp": null,
+            "nameEn": null,
+            "rank": "C",
+            "icon": "fandom.anti magic.png",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": " Increases own debuff resistance by 15%.",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                }
+            ]
+        },
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "Independent Action",
+            "nameJp": null,
+            "nameEn": null,
+            "rank": "A+",
+            "icon": "fandom.Independent action.png",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": " Increases own critical damage by 11%.",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                }
+            ]
+        },
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "Mad Enhancement",
+            "nameJp": null,
+            "nameEn": null,
+            "rank": "EX",
+            "icon": "fandom.madness.png",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": " Increases own Buster performance by 12%.",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                }
+            ]
+        }
+    ],
+    "appendSkills": [
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "追击技巧提升",
+            "nameJp": "追撃技巧向上",
+            "nameEn": "Extra Attack Finesse Improvement",
+            "rank": null,
+            "icon": "特攻",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": "自身的Extra Attack指令卡性能提升",
+                    "descriptionJp": "自身のExtra Attackカードの性能をアップする",
+                    "descriptionEn": "Increases own Extra Attack performance",
+                    "lvData": [
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "38%",
+                        "40%",
+                        "42%",
+                        "44%",
+                        "46%",
+                        "50%"
+                    ]
+                }
+            ]
+        },
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "魔力装填",
+            "nameJp": "魔力装填",
+            "nameEn": "Mana Loading",
+            "rank": null,
+            "icon": "充能",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": "自身以NP已达一定数值的状态开始战斗",
+                    "descriptionJp": "自身のNPをチャージした状態でバトルを開始する",
+                    "descriptionEn": "Starts battle with NP gauge",
+                    "lvData": [
+                        "10%",
+                        "11%",
+                        "12%",
+                        "13%",
+                        "14%",
+                        "15%",
+                        "16%",
+                        "17%",
+                        "18%",
+                        "20%"
+                    ]
+                }
+            ]
+        },
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "对Avenger攻击适性",
+            "nameJp": "対Avenger攻撃適性",
+            "nameEn": "Anti-Avenger Attack Damage Aptitude",
+            "rank": null,
+            "icon": "加攻",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": "自身对Avenger的攻击力提升",
+                    "descriptionJp": "自身の〔Avenger〕クラスに対する攻撃力をアップする",
+                    "descriptionEn": "Increases own attack against Avenger enemies",
+                    "lvData": [
+                        "20%",
+                        "21%",
+                        "22%",
+                        "23%",
+                        "24%",
+                        "25%",
+                        "26%",
+                        "27%",
+                        "28%",
+                        "30%"
+                    ]
+                }
+            ]
+        }
+    ],
+    "coinSummonNum": 0,
+    "itemCost": {
+        "ascension": [
+            {
+                "献身的提灯": 1,
+                "QP": 50000
+            },
+            {
+                "献身的提灯": 1,
+                "QP": 150000
+            },
+            {
+                "献身的提灯": 1,
+                "QP": 500000
+            },
+            {
+                "献身的提灯": 1,
+                "QP": 1500000
+            }
+        ],
+        "skill": [
+            {
+                "弓之辉石": 4,
+                "QP": 100000
+            },
+            {
+                "弓之辉石": 10,
+                "QP": 200000
+            },
+            {
+                "弓之魔石": 4,
+                "QP": 600000
+            },
+            {
+                "弓之魔石": 10,
+                "人工生命体幼体": 4,
+                "QP": 800000
+            },
+            {
+                "弓之秘石": 4,
+                "人工生命体幼体": 8,
+                "QP": 2000000
+            },
+            {
+                "弓之秘石": 10,
+                "封魔之灯": 3,
+                "QP": 2500000
+            },
+            {
+                "封魔之灯": 5,
+                "魔术髓液": 15,
+                "QP": 5000000
+            },
+            {
+                "魔术髓液": 45,
+                "振荡火药": 60,
+                "QP": 6000000
+            },
+            {
+                "传承结晶": 1,
+                "QP": 10000000
+            }
+        ],
+        "appendSkill": [
+            {
+                "弓之辉石": 4,
+                "QP": 100000
+            },
+            {
+                "弓之辉石": 10,
+                "QP": 200000
+            },
+            {
+                "弓之魔石": 4,
+                "QP": 600000
+            },
+            {
+                "弓之魔石": 10,
+                "世界树之种": 5,
+                "QP": 800000
+            },
+            {
+                "弓之秘石": 4,
+                "世界树之种": 10,
+                "QP": 2000000
+            },
+            {
+                "弓之秘石": 10,
+                "精灵根": 2,
+                "QP": 2500000
+            },
+            {
+                "精灵根": 4,
+                "永远结冰": 5,
+                "QP": 5000000
+            },
+            {
+                "永远结冰": 15,
+                "悠久果实": 12,
+                "QP": 6000000
+            },
+            {
+                "传承结晶": 1,
+                "QP": 10000000
+            }
+        ]
+    },
+    "costumeNos": [],
+    "bondPoints": [
+        4500,
+        20000,
+        2500,
+        2500,
+        10500,
+        160000,
+        365000,
+        315000,
+        310000,
+        350000,
+        1090000,
+        1230000,
+        1360000,
+        1500000,
+        1640000
+    ],
+    "profiles": [
+        {
+            "title": "0",
+            "description": "以奉献与献身为信条的克里米亚天使。钢铁的信念。救人者。小陆军部。\n人物印象与身为Berserker时「几乎」一样。\n手持像枪又像伞的谜之大型射击武器，职阶变更为Archer。\n根据她那红色基调的服装来看……\n好像是……\n圣诞系的从者……？",
+            "descriptionJp": "奉仕と献身を信条とする、クリミアの天使。鋼の信念。人を救うもの。小陸軍省。\n人物像はバーサーカー時と「ほぼ」同じ。\n銃のようにも傘のようにも見える、謎の大型射撃武器を所持しており、クラスはアーチャーへと変化。\n赤を基調とした服装からすると……\nサンタ系サーヴァント……\nのようではあるが……？",
+            "descriptionEn": "A Crimean angel who believes in service and dedication. As a Small Army Ministry, her steel resolve was what gave people salvation.\n\nHer behavior is \"almost\" the same when manifested as a Berserker.\n\nSince she possesses a mysterious large shooting weapon that looks like a gun disguised as an umbrella, her class was changed to an Archer.\n\nNow that she wears red-based clothing.....\n\nshe now behaves as a Santa Servant.....\n\nmost likely.....?",
+            "condition": null,
+            "conditionEn": null
+        },
+        {
+            "title": "1",
+            "description": "身高／体重：165cm·52kg\n出处：史实\n地域：欧洲\n属性：秩序·善　　　性别：女性\n南丁格尔将所有从者都视为「士兵」。他们经常负伤。也就是说，他们都是看护对象。",
+            "descriptionJp": "身長／体重：165cm・52kg\n出典：史実\n地域：欧州\n属性：秩序・善　　　性別：女性\nサーヴァント全般のことをナイチンゲールは「兵隊さん」と認識している。彼らはよく負傷する。つまり、看護対象である。",
+            "descriptionEn": "Height/Weight: 165 cm, 52 kg\nSource: Historical Fact\n\nOrigin: Europe\n\nAlignment: Lawful Good\n  \nGender: Female \n\nNightingale recognizes Servants as \"soldiers.\" She often sees them injured; otherwise, she sees them all as targets of nursing.",
+            "condition": "羁绊达到Lv.1后开放",
+            "conditionEn": null
+        },
+        {
+            "title": "2",
+            "description": "单独行动：A+\n即便御主中断了魔力供给，也能在短时间内自立行动的能力。 \n只要是为了使命，她不惜独自与伤病战斗。\n\n狂化：EX\n令能力阶级提升，却夺走了大部分理性。\n不知是来自原本Berserker灵基的性质残留，还是来自英灵南丁格尔的特征残留。\n虽说比身为Berserker时的措辞稍微柔和了一些，但对话风格还是基本没什么变化。",
+            "descriptionJp": "○単独行動：Ａ＋\nマスターからの魔力供給を断ってもしばらくは自立できる能力。 \n使命のためであれば彼女は一人で傷病と戦う。\n\n○狂化：ＥＸ\nパラメーターをランクアップさせるが、理性の大半を奪われる。\n本来の霊基であるバーサーカーとしての性質が残ってしまったのか、英霊ナイチンゲールの特徴として残されたのかは不明。\nバーサーカー時よりは幾分か柔和な言葉が出ることもあるが、会話の基本スタイルはさほど変わらない。",
+            "descriptionEn": "○Independent Action:A+\nThe ability to stand independent for a while without the supplying magical power from a Master.\n\nShe fights all alone on her mission.\n\n\n○Mad Enhancement: EX\n\nParameters are Ranked-Up, but is deprived most of her reason.\n\nIt is unknown whether the nature of the original spirit base of Berserker has remained, or whether it has been retained as a feature of the hero Nightingale.\n\nAlthough some words may be more subtle than those of Berserker, her basic style of conversation does not change much.",
+            "condition": "羁绊达到Lv.2后开放",
+            "conditionEn": null
+        },
+        {
+            "title": "3",
+            "description": "突击药物：C+\nArcher南丁格尔所持的「像枪的注射器」可以像远程武器一样射出具备各种药效的安瓿瓶。射速每秒20发。\n被直接攻击的治疗、看护对象会立刻回复。\n被直接攻击的杀菌、灭菌对象会遭到歼灭。\n是始终发动型的宝具，但在本作中以技能形式表现。\n\n天使于圣夜奏响之铃：EX\n尽管Archer南丁格尔对圣诞节这一事象本身兴趣缺缺，但她的这种生活方式反倒与圣夜建立了密切的关系。\n鲜红的服饰，以及绑在旅行包上的黄金铃铛就是证明。\n只不过，她对这两者的来源都毫无头绪，是「不知不觉就变成这样了」的存在。",
+            "descriptionJp": "○アサルト・メディスン：Ｃ＋\nアーチャー・ナイチンゲールの所持する「銃のような注射器」は、さまざまな薬効をもたらすアンプルを遠距離武器のようにして射出する。秒間に２０発射出する。\n直撃を受けた治療・看護対象はたちまち回復するだろう。\n直撃を受けた殺菌・滅菌対象は撃滅されるだろう。\n常時発動型の宝具だが、本作ではスキルとして表現される。\n\n○天使が聖夜に鳴らす鐘：ＥＸ\nクリスマスという事象そのものに興味が薄い反応を見せるアーチャー・ナイチンゲールだが、その在り方は聖夜に深く結び付いている。\n真紅の衣裳と、そして―旅行鞄に括り付けられた黄金の鐘がその証。\nもっとも、そのどちらにも彼女自身は心当たりがなく、「いつの間にかこうなっていました」である。",
+            "descriptionEn": "○Assault Medicine:C+\n\nArcher Nightingale's \"gun-like syringe\" fires ampules with a variety of medicinal properties like a ranged weapon.\n\nFires 20 shots per second.\n\nThe treatment and nursing of subjects who have been hit directly will recover immediately.\n\nSterilization of targets that have been hit directly will be obliterated.\n\nThis is a Noble Phantasm that is always active, but is expressed as a skill in this work.\n\n\n\n○The Angel that Rings the Bell on Holy Night:EX\n\nArcher Nightingale, who is less interested in Christmas itself, has a deep connection to the holy night.\n\nThe Crimson clothing and a golden bell that's tied to her luggage are proof of this. However, she doesn't recognize it herself, saying, \"It was something that happened.\"\n",
+            "condition": "羁绊达到Lv.3后开放",
+            "conditionEn": null
+        },
+        {
+            "title": "4",
+            "description": "Archer南丁格尔希望世界上所有的点心都能变成药（就像甜的感冒药） 。\n然而，这决不是应该向圣杯许下的愿望。\nArcher南丁格尔认为，这件事应该由自己去完成。\n\n如果询问她，难道不是『如果世界上所有药都变成点心就好了』吗？\n她一定会回答\n「药！　怎么可以！　变成点心！」\n这就是她注重的关键。\n「将点心变成药确实充满了梦想。但是，药必须是药才行。」",
+            "descriptionJp": "アーチャー・ナイチンゲールは世界中のすべてのお菓子が薬になればいいと思っている（甘い風邪薬のように） 。\nだが、決して聖杯に願うものではない。\n自分でやろうとアーチャー・ナイチンゲールは考える。\n\n『世界中すべての薬がお菓子になればいいのに』ではないの？　と問えば、\n「薬が！　お菓子になって！　どうするのです！」\nと返答があるだろう。\nそこは拘るところなのである。\n「お菓子が薬になる分には夢があるでしょう。ですが、薬は薬のままでなければならないのです」",
+            "descriptionEn": "Archer Nightingale wants all the sweets around the world to be turned into medicines (like a sweet cold medicine).\n\nHowever, it is not a wish she wants from the Holy Grail.\n\nArcher Nightingale believes she can do it herself.\n\n\nWhen asked, \"Wouldn't it be good if all the medicines in the world become sweets?\"\n\nWe should probably reply to that.\n\nThere is a lot of place of concern.\n\n\"It is but a dream for sweets to become medicine, but the fact is that medicine must remain as medicine.\"",
+            "condition": "羁绊达到Lv.4后开放",
+            "conditionEn": null
+        },
+        {
+            "title": "5",
+            "description": "『天使雨滴，恶魔泪滴』\n阶级：C+　种类：对人宝具\n有效范围：0～30　最大捕捉：10人\n\nAssault Medicine\n若是需要祛除的病原，就彻底消除，若是需治疗的伤病员，就进行治愈。这是由南丁格尔的精神升华而成的射击型宝具。\n始终发动型的宝具。\n之所以表现成枪械的形态，应该是受到她从军经历的影响吧。\n在本作中以技能形式表现。\n\n『天使在呐喊，恶魔消失于影中』\n阶级：B　种类：对军宝具\n有效范围：0～60　最大捕捉：50人\n\nAssault Medicine Full Burst Party\nArcher南丁格尔使用「像枪一样的注射器」，也就是宝具『天使雨滴，恶魔泪滴』的全力射击。\n若是需要祛除的病原，就即刻消除，若是需治疗的伤病员，就即刻治愈。",
+            "descriptionJp": "『天使の雫、悪魔の涙』\nランク：Ｃ＋　種別：対人宝具\nレンジ：０～３０　最大捕捉：１０人\n\nアサルト・メディスン。\n除去すべき病源であれば地上から消し去り、治療すべき傷病者であれば癒やしてみせる、ナイチンゲールの精神性が射撃型宝具として昇華されたもの。\n常時発動型の宝具。\n銃に似た形態を取っているのは、彼女の従軍経験が影響しているためと思しい。\n本作ではスキルとして表現されている。\n\n\n『天使は叫び、悪魔は影の中に消える』\nランク：Ｂ　種別：対軍宝具\nレンジ：０～６０　最大捕捉：５０人\n\nアサルト・メディスン・フルバースト・パーティー。\nアーチャー・ナイチンゲールが所有する「銃のような注射器」こと宝具『天使の雫、悪魔の涙』を用いての全力射撃。\n除去すべき病源であれば即刻消し去り、治療すべき傷病者であれば即刻癒やす。",
+            "descriptionEn": "『Angelic,but Devilish Tears』\nRank:C+ Type:Anti-Personal Noble Phantasm\n\nRange: 0 ~ 30 Maximum targets: 10 people\n\n\nAssault Medicine.\n\nThe spirit of Nightingale has been sublimated as a shooting-type Noble Phantasm tool, which has the ability to eliminate the source of the disease from the face of the earth, and it also treats the victim's wounds.\n\nThe type of Noble Phantasm that's always active.\n\nIt seems that the reason for the tool to take the form similar to a gun was because of her years of experience in the service.\n\nHer work can be expressed as a skill.\n\n\n'''『The Angel's Cry that causes Demons to Disappear from their Shadows』\n\nRank:B Type:Anti-army Noble Phantasm\n\nRange: 0 ~ 60 Maximum capture:''' 50 people\n\nAssault Medicine Full-Burst Party.\n\nArcher Nightingale's \"Gun-like Syringe\", a Noble Phantasm that delivers shots from an \"Angel.\"\n\nThis ability immediately searches for the source of the patient's disease and erases it while also treating them of other ailments.",
+            "condition": "羁绊达到Lv.5后开放",
+            "conditionEn": null
+        },
+        {
+            "title": "6",
+            "description": "有些偏差的认知，与不由分说的治疗。\n尽管这本身和平时的英灵南丁格尔一样……\n只要仔细观察，就会发现她的措辞比平时稍微端庄了一些。\n尽管频率不高，但偶尔也会说一些充满梦想的话。\nArcher南丁格尔的体内混着赶赴看护、医疗现场前的少女时期南丁格尔的精神。因此，能表现出她受到良好教育的措辞会比身为Berserker时用得更多一些。\n\n这次的灵基变质是由于童谣的干涉。\n经历了一连串事件的Archer南丁格尔接受了身为少女的自己，应该会作为新圣诞系从者开始活动吧。\n具体来说……\n就是一边在圣夜祈祷……\n一边为提升卫生与看护水平，为了打倒所有疾病而战斗。\n\n……一如既往？\n或许是这样吧，\n但或许也并非如此。",
+            "descriptionJp": "どこかずれた認識と、問答無用の治療。\nそれ自体は普段の英霊ナイチンゲールと同じだが……\nよく観察すると、普段よりも幾らか言葉がお淑やかであることに気付くだろうか。\n頻度は多くないが、どこか夢見がちな言葉を述べたりもする。\nアーチャー・ナイチンゲールには、看護・医療の現場へ赴く前の、少女期のナイチンゲールの精神が混ざっているのである。そのためバーサーカー時よりも、育ちの良さをうかがわせる言い回しがほんのり増えている。\n\n今回、霊基が変質した理由はナーサリー・ライムの干渉によるもの。\n一連の事件を経たアーチャー・ナイチンゲールは、少女であった自身を受け入れ、新たなサンタ系サーヴァントとして活動するだろう。\n具体的には……\n聖夜に祈りながら……\n衛生と看護を向上させるため、あらゆる疾病を打ち倒すため、戦うのである。\n\n……いつも通り？\nそういうこともあるだろうし、\nそうでないこともあるだろう。",
+            "descriptionEn": "Perception that is slightly off somewhere and treatment that isn't allowed to be argued with.\n\nThat in itself is the same with the normal Heroic Spirit Nightingale, however...\n\nIf you observe her closely, you would notice that her language is a bit more polite than her normal self.\n\nWhile it doesn't happen often, she also expresses herself with somewhat dreamy words.\n\nArcher Nightingale is also infused with the spirit of the Nightingale in her youth, before she headed to the Army Nurse Medical Care. For that reason, there is an increase in phrases that show her well-upbringing compare to when she is a Berserker.\n\n\nThis time, the reason for her Spirit Origin's transformation is due to Nursery Rhyme's meddling. After experiencing a chain of events, Archer Nightingale accepts her maiden self, and acts as a new Santa Servant.\n\nTo be more specific...\n\nWhile praying on the Holy Night...\n\nShe fights, for the sake of improving sanitary and army nursing, and for the sake of defeating every illnesses.\n\n\n...The same as usual?\n\nIt seems to be the case, but it also doesn't seem to be the case.",
+            "condition": "羁绊达到Lv.5后开放",
+            "conditionEn": null
+        },
+        {
+            "title": "aprilfool",
+            "description": "护士从者。\n就算已经不再是狂战士了，也还是一副奇怪样子的护士。以圣诞老人的姿态从天而降，不管是好孩子还是坏孩子，都会被她敌我不分地给打痛针。",
+            "descriptionJp": "かんごしサーヴァント\nバーサーカーじゃなくなっても相変わらずおかしい看護師さん。サンタさんの姿で空から舞い降り、良い子にも悪い子にも分け隔てなく痛い注射を打ってくれる。",
+            "descriptionEn": "Nurse Servant\nA nurse that is weird as usual although she's not a Berserker. Flying down from the sky under the form of Santa, she shoots painful injections without differentiating good and bad children.",
+            "condition": null,
+            "conditionEn": null
+        }
+    ],
+    "voices": [
+        {
+            "section": "战斗",
+            "table": [
+                {
+                    "title": "开始 1",
+                    "text": "初次见面，你好。身体状况如何？",
+                    "textJp": "初めまして。ごきげんよう。お加減はいかが？",
+                    "textEn": "Very nice to meet you. How do you do? How are you feeling?",
+                    "condition": null,
+                    "voiceFile": "SV271_0_开始1.mp3"
+                },
+                {
+                    "title": "开始 2",
+                    "text": "——开始投药！",
+                    "textJp": "投薬、開始です",
+                    "textEn": "Begin administering medication!",
+                    "condition": null,
+                    "voiceFile": "SV271_0_开始2.mp3"
+                },
+                {
+                    "title": "开始 3",
+                    "text": "那开始吧。",
+                    "textJp": "では参ります",
+                    "textEn": "I shall head out.",
+                    "condition": null,
+                    "voiceFile": "SV271_0_开始3.mp3"
+                },
+                {
+                    "title": "开始 4",
+                    "text": "失礼了。现在是治疗的时间。",
+                    "textJp": "失礼、治療のお時間ですので",
+                    "textEn": "Excuse me. It's time for your treatment.",
+                    "condition": null,
+                    "voiceFile": "SV271_0_开始4.mp3"
+                },
+                {
+                    "title": "技能 1",
+                    "text": "安瓿弹链，余量充足。继续开始治疗。",
+                    "textJp": "ベルトリンクアンプル、残量十分。治療を再開いたしましょう",
+                    "textEn": "I still have plenty of ampoule munitions left. Let's resume treatment.",
+                    "condition": null,
+                    "voiceFile": "SV271_0_技能1.mp3"
+                },
+                {
+                    "title": "技能 2",
+                    "text": "没有问题，毕竟我已经习惯了。",
+                    "textJp": "問題ありません。慣れておりますので",
+                    "textEn": "There is no issue. I am used to this.",
+                    "condition": null,
+                    "voiceFile": "SV271_0_技能2.mp3"
+                },
+                {
+                    "title": "技能 3",
+                    "text": "铃铛啊，高声鸣响吧……",
+                    "textJp": "ベルよ、高らかに鳴れ！",
+                    "textEn": "O bell, ring loudly...",
+                    "condition": null,
+                    "voiceFile": "SV271_0_技能3.mp3"
+                },
+                {
+                    "title": "指令卡 1",
+                    "text": "进行投药。",
+                    "textJp": "投薬します！",
+                    "textEn": "Administering.",
+                    "condition": null,
+                    "voiceFile": "SV271_0_指令卡1.mp3"
+                },
+                {
+                    "title": "指令卡 2",
+                    "text": "进行注入。",
+                    "textJp": "注入します",
+                    "textEn": "Injecting.",
+                    "condition": null,
+                    "voiceFile": "SV271_0_指令卡2.mp3"
+                },
+                {
+                    "title": "指令卡 3",
+                    "text": "不会痛的。",
+                    "textJp": "痛くはありませんよ",
+                    "textEn": "This won't hurt.",
+                    "condition": null,
+                    "voiceFile": "SV271_0_指令卡3.mp3"
+                },
+                {
+                    "title": "宝具卡 1",
+                    "text": "那让我们开始吧。",
+                    "textJp": "それでは、始めましょう",
+                    "textEn": "Then let's begin.",
+                    "condition": null,
+                    "voiceFile": "SV271_0_宝具卡1.mp3"
+                },
+                {
+                    "title": "宝具卡 2",
+                    "text": "现在是宴会时间。",
+                    "textJp": "パーティタイムです",
+                    "textEn": "It's party time.",
+                    "condition": null,
+                    "voiceFile": "SV271_0_宝具卡2.mp3"
+                },
+                {
+                    "title": "攻击 1",
+                    "text": "要清洁！",
+                    "textJp": "清潔に！",
+                    "textEn": "Do it cleanly!",
+                    "condition": null,
+                    "voiceFile": "SV271_0_攻击1.mp3"
+                },
+                {
+                    "title": "攻击 2",
+                    "text": "就是那边！",
+                    "textJp": "そこ！",
+                    "textEn": "There!",
+                    "condition": null,
+                    "voiceFile": "SV271_0_攻击2.mp3"
+                },
+                {
+                    "title": "攻击 3",
+                    "text": "一点不剩！",
+                    "textJp": "一片たりとも！",
+                    "textEn": "Not one scrap shall be left behind!",
+                    "condition": null,
+                    "voiceFile": "SV271_0_攻击3.mp3"
+                },
+                {
+                    "title": "攻击 4",
+                    "text": "投药！",
+                    "textJp": "投薬！",
+                    "textEn": "Administer!",
+                    "condition": null,
+                    "voiceFile": "SV271_0_攻击4.mp3"
+                },
+                {
+                    "title": "攻击 5",
+                    "text": "治疗！",
+                    "textJp": "治療！",
+                    "textEn": "Treatment!",
+                    "condition": null,
+                    "voiceFile": "SV271_0_攻击5.mp3"
+                },
+                {
+                    "title": "攻击 6",
+                    "text": "请吧！",
+                    "textJp": "どうぞ",
+                    "textEn": "There you go!",
+                    "condition": null,
+                    "voiceFile": "SV271_0_攻击6.mp3"
+                },
+                {
+                    "title": "Extra 1",
+                    "text": "现在！　为你灭菌！",
+                    "textJp": "今、滅菌してさしあげる！",
+                    "textEn": "Now! Time to sterilize!",
+                    "condition": null,
+                    "voiceFile": "SV271_0_Extra1.mp3"
+                },
+                {
+                    "title": "Extra 2",
+                    "text": "杀菌灭菌！无菌！",
+                    "textJp": "殺菌滅菌！ 無菌！！",
+                    "textEn": "Sterilize, cleanse!\nGerm-free!",
+                    "condition": null,
+                    "voiceFile": "SV271_0_Extra2.mp3"
+                },
+                {
+                    "title": "宝具 1",
+                    "text": "拭去有毒之物，击碎有害之物！——失礼了！——天使在呐喊，恶魔消失于影中！",
+                    "textJp": "毒ある物を拭い去り、害ある物を打ち砕く！ ……失礼！ 『天使は叫び、悪魔は影の中に消える』！！",
+                    "textEn": "I will wipe away all that is toxic and crush anything that is harmful!\n...Now if you will excuse me!\nAssault Medicine Full Burst Party!",
+                    "condition": null,
+                    "voiceFile": "SV271_0_宝具1.mp3"
+                },
+                {
+                    "title": "宝具 2",
+                    "text": "疾病、负伤！　不饶恕地表所有有害之物！——要开始了。——天使在呐喊，恶魔消失于影中！",
+                    "textJp": "疾病、負傷、地上の害……全てを許さじ！ ……参ります！ 『天使は叫び、悪魔は影の中に消える』！！",
+                    "textEn": "Diseases and injuries! All that is harmful on this earth will not be tolerated!\nI am heading out.\nAssault Medicine Full Burst Party!",
+                    "condition": null,
+                    "voiceFile": "SV271_0_宝具2.mp3"
+                },
+                {
+                    "title": "受击 1",
+                    "text": "妨碍我！　坏孩子……！",
+                    "textJp": "邪魔をして、悪い子",
+                    "textEn": "You are in my way! Shame on you!",
+                    "condition": null,
+                    "voiceFile": "SV271_0_受击1.mp3"
+                },
+                {
+                    "title": "受击 2",
+                    "text": "呵呵。",
+                    "textJp": "ふふっ",
+                    "textEn": "Ahhh!",
+                    "condition": null,
+                    "voiceFile": "SV271_0_受击2.mp3"
+                },
+                {
+                    "title": "受击 3",
+                    "text": "唔！",
+                    "textJp": "うっ！",
+                    "textEn": "Hah!",
+                    "condition": null,
+                    "voiceFile": "SV271_0_受击3.mp3"
+                },
+                {
+                    "title": "受击 4",
+                    "text": "是这样啊。",
+                    "textJp": "そうですか",
+                    "textEn": "I see.",
+                    "condition": null,
+                    "voiceFile": "SV271_0_受击4.mp3"
+                },
+                {
+                    "title": "无法战斗 1",
+                    "text": "哪怕讨厌注射的坏孩子……也必须拯救……！",
+                    "textJp": "注射を嫌がる悪い子を……救わなくては……！",
+                    "textEn": "I must save...even the bad children who detest injections!",
+                    "condition": null,
+                    "voiceFile": "SV271_0_无法战斗1.mp3"
+                },
+                {
+                    "title": "无法战斗 2",
+                    "text": "我是不会倒下的，不会倒下的，决不倒下，不行啊，不行……！",
+                    "textJp": "私は倒れない……倒れない……倒れません！ 駄目よ、駄目っ……",
+                    "textEn": "I will not fall, I will not fall, I will not fall... No...I must not!",
+                    "condition": null,
+                    "voiceFile": "SV271_0_无法战斗2.mp3"
+                },
+                {
+                    "title": "无法战斗 3",
+                    "text": "天……亮了……？",
+                    "textJp": "夜が、明ける……？",
+                    "textEn": "Is dawn...breaking...?",
+                    "condition": null,
+                    "voiceFile": "SV271_0_无法战斗3.mp3"
+                },
+                {
+                    "title": "胜利 1",
+                    "text": "我不是天使。请务必不要搞错。",
+                    "textJp": "私は、天使ではありません。どうかくれぐれも、お間違えの無いように",
+                    "textEn": "I am no angel. Please do not mistake me for one.",
+                    "condition": null,
+                    "voiceFile": "SV271_0_胜利1.mp3"
+                },
+                {
+                    "title": "胜利 2",
+                    "text": "如果能将世界上所有的点心……都变成药……",
+                    "textJp": "世界の全てのお菓子が、薬になれば……",
+                    "textEn": "If only the world's sweets would turn into medicine...",
+                    "condition": null,
+                    "voiceFile": "SV271_0_胜利2.mp3"
+                },
+                {
+                    "title": "胜利 3",
+                    "text": "投药完成。",
+                    "textJp": "投薬完了",
+                    "textEn": "Administration complete.",
+                    "condition": null,
+                    "voiceFile": "SV271_0_胜利3.mp3"
+                },
+                {
+                    "title": "胜利 4",
+                    "text": "治疗结束。",
+                    "textJp": "治療終了",
+                    "textEn": "Treatment finished.",
+                    "condition": null,
+                    "voiceFile": "SV271_0_胜利4.mp3"
+                }
+            ]
+        },
+        {
+            "section": "召唤和强化",
+            "table": [
+                {
+                    "title": "期间限定加入",
+                    "text": "谢谢。嗯，谢谢。我非常高兴。尽管我不是很了解所谓的契约，但接下来你会帮我的忙吧。那我们走吧——消除所有疾病的夜晚要开始了。",
+                    "textJp": "ありがとう。ええ、ありがとう。とても嬉しく思います。契約というのはよく分かりませんが、これで貴方が私をお手伝いしてくれるのですね。では、参りましょう―――すべての疾病を打ち消す夜のはじまりです。",
+                    "textEn": "Thank you.\nThat's right. Thank you. I am very happy.\nI do not quite understand what you mean by contract,\nbut now you can continue to assist me.\nSo let us head out.\nThe night to eradicate all diseases has just begun.",
+                    "condition": null,
+                    "voiceFile": "SV271_0_仮加入.mp3"
+                },
+                {
+                    "title": "召唤",
+                    "text": "各位，大家好。身体状况还好吗？嗯，是我。什么？　Archer？　你在说什么呢？我会为了拯救所有的生命而在夜空中驰骋。请容我再次请你多多关照。",
+                    "textJp": "皆々様、ごきげんよう。お加減はよろしくて？はい。私です。はい？　アーチャー？　何を言っているのです？すべての命を救うために、私は夜空を駆けましょう。あらためてよろしくお願いいたします。",
+                    "textEn": "How are you all doing? Are you all feeling well?\nThat's right. It is I.\nCome again? Archer? What are you talking about?\nI am simply one who soars through the night sky to save lives.\nI ask you once again to take good care of me.",
+                    "condition": null,
+                    "voiceFile": "SV271_0_召唤.mp3"
+                },
+                {
+                    "title": "升级 1",
+                    "text": "谢谢……你是在为周围环境杀菌吧……！",
+                    "textJp": "ありがとう。周囲を殺菌してくださるのですね",
+                    "textEn": "Thank you...\nFor volunteering to sterilize our surroundings!",
+                    "condition": null,
+                    "voiceFile": "SV271_0_升级1.mp3"
+                },
+                {
+                    "title": "升级 2",
+                    "text": "我觉得这样很好。",
+                    "textJp": "いいと思います",
+                    "textEn": "I think this is fine.",
+                    "condition": null,
+                    "voiceFile": "SV271_0_升级2.mp3"
+                },
+                {
+                    "title": "升级 3",
+                    "text": "哎呀，太感谢了。",
+                    "textJp": "まあ、それはどうも",
+                    "textEn": "My, thank you.",
+                    "condition": null,
+                    "voiceFile": "SV271_0_升级3.mp3"
+                },
+                {
+                    "title": "灵基再临 1",
+                    "text": "确认突击药物的性能提升。哎呀！　重量变轻了呢！　呵呵。",
+                    "textJp": "アサルトメディスンの性能向上を確認しました。まあ、重量が軽くなっていますね！",
+                    "textEn": "I have verified that the performance of my Assault Medicine has improved.\nOh my! It's gotten lighter! Heh!",
+                    "condition": null,
+                    "voiceFile": "SV271_0_灵基再临1.mp3"
+                },
+                {
+                    "title": "灵基再临 2",
+                    "text": "突击药物的性能进一步提升了。呵呵呵，扳机都变轻了。这是好事。",
+                    "textJp": "アサルトメディスンが、さらに性能向上しました。ふふ、トリガーが軽くなりました。良いことです",
+                    "textEn": "My Assault Medicine has improved even more.\nHehe...it's a lighter trigger pull now. That is a good thing.",
+                    "condition": null,
+                    "voiceFile": "SV271_0_灵基再临2.mp3"
+                },
+                {
+                    "title": "灵基再临 3",
+                    "text": "弹链好像有一些……啊啊，我能理解。安瓿弹链的药水品质提升了。太棒了……",
+                    "textJp": "ベルトリンクがなにやら……ああ、わかります。ベルトリンクアンプルの薬液の品質が、向上しています。素晴らしい！",
+                    "textEn": "Something has happened to my ammunition belt...\nAh yes, I see now.The liquid medication in my ampoule bandolier has improved in quality. Wonderful...",
+                    "condition": null,
+                    "voiceFile": "SV271_0_灵基再临3.mp3"
+                },
+                {
+                    "title": "灵基再临 4",
+                    "text": "我会不断前进。哪怕前方是地狱，我也相信，总有一天，能在那里找到希望。",
+                    "textJp": "どこまでも、私は進んで行きます。進む先が地獄であろうとも、いつか、そこにも希望が見出されるものと信じて",
+                    "textEn": "I will keep on going forever.\nEven if my destination should be hell,I will continue to believe that there is hope at the end of that path.",
+                    "condition": null,
+                    "voiceFile": "SV271_0_灵基再临4.mp3"
+                }
+            ]
+        },
+        {
+            "section": "个人空间",
+            "table": [
+                {
+                    "title": "羁绊 Lv.1",
+                    "text": "对。我是弗洛伦斯·南丁格尔。你好。有什么事吗？啊？……和平时样子不太一样？　呵，你真会开玩笑。",
+                    "textJp": "はい。フローレンス・ナイチンゲールです。ごきげんよう。何か？……はい？『普段と様子が違う』ですか……？ふっ、ご冗談を",
+                    "textEn": "Yes. I am Florence Nightingale. How do you do?\nDo you have business with me?\nWhat's that?\n...I'm acting different than usual? \nHeh. Stop with the jokes.",
+                    "condition": null,
+                    "voiceFile": "SV271_0_羁绊Lv1.mp3"
+                },
+                {
+                    "title": "羁绊 Lv.2",
+                    "text": "我们喝茶吧。杰基尔氏给了我一些好茶叶……什么？我泡茶就那么稀罕吗？没有这种事啊。",
+                    "textJp": "お茶にいたしましょう。ジキル氏よりいただいた良いものが……はい？私がお茶を淹れるのが、それほど珍しいですか？そんなことはありません",
+                    "textEn": "Let's have some tea.\nI've received some good quality leaves from Mr. Jekyll...\nCome again? Is it really that strange for me to prepare tea? That can't be true.",
+                    "condition": null,
+                    "voiceFile": "SV271_0_羁绊Lv2.mp3"
+                },
+                {
+                    "title": "羁绊 Lv.3",
+                    "text": "啊啊，我正在写信。寄信的对象是我的……我的……不，我究竟该向谁寄什么呢。呵呵……",
+                    "textJp": "あぁ……今は、手紙を認めていました。便りを送るのは、私の……私の……？……あぁ、いえ。私は誰に……何を送るというのでしょうね……はっ",
+                    "textEn": "Ah, I was just writing a letter.\nI was just about to send it to my...my...\nNothing... To whom do you think I am sending this letter?\nHehe...",
+                    "condition": null,
+                    "voiceFile": "SV271_0_羁绊Lv3.mp3"
+                },
+                {
+                    "title": "羁绊 Lv.4",
+                    "text": "……我开始有些明白了。现在的我确实和平时的我有一些不同。我理应身处的战场，理应维持清洁与治疗的场所，仿佛非常遥远。并不是怀念。这……没错……似乎发生在将来……",
+                    "textJp": "少しわかってきました。たしかに、今の私は、普段の私と、些か異なっているようです。私が立つべき戦場を、清潔と治療を維持するための場を、どこか遠くに感じてしまう。懐かしさではありません。これは……そう、明日の先に、感じるような……",
+                    "textEn": "I'm slowly beginning to understand.\nI do feel that my current self is slightly different from the normal me.\nThe battlefield where I'm supposed to be...the place where sanitation and medical treatment are executed...feels a bit distant to me right now.\nAnd I probably feel this way because it's not nostalgic to me.\nBut rather...I feel I'm compelled to look ahead and into the future...",
+                    "condition": null,
+                    "voiceFile": "SV271_0_羁绊Lv4.mp3"
+                },
+                {
+                    "title": "羁绊 Lv.5",
+                    "text": "现在的我，感觉就像是赶赴克里米亚之前的我……还是学生时代的意识……在这里显得非常强烈。所以，会说出一些身为绅士阶级之女那时的措辞。甚至还想向家里写信。呵。真是……太可笑了——",
+                    "textJp": "今の私は、クリミアへと赴く前の私の感覚を……未だ、学ぶ身であった頃のそれを、強く持って、ここに立っているように思います。だから、ジェントリの娘として振る舞っていた頃の言動が出てしまう。実家への手紙まで、認めそうになる……ふふっ、なんとも、可笑しなことになったものです",
+                    "textEn": "This me as I am now retains that same feeling of excitement as when I was preparing to head out to Crimea...\nThat same feeling as when I was ready to learn so much...\nI stand here today carrying those strong sentiments.\nAnd that's why the words and mannerisms I used during my time as a daughter of a gentry find occasional expression.\nHeh. Things have certainly turned out to be strange...",
+                    "condition": null,
+                    "voiceFile": "SV271_0_羁绊Lv5.mp3"
+                },
+                {
+                    "title": "对话 1",
+                    "text": "我们走吧。人们在等着我。包里塞满药，来吧，漫步地狱不停歇。哎呀，可不能停下脚步哦。",
+                    "textJp": "参りましょう。人々が私を待っています。鞄いっぱいにお薬を詰めて、さ、地獄を歩いてどこまでも……。あら、足を止めてはいけません",
+                    "textEn": "Let's head out.\nThe people are waiting for me.\nI will pack a bag full of medicine, and we will head anywhere as we walk through hell.\nOh come on, do not stop walking.",
+                    "condition": null,
+                    "voiceFile": "SV271_0_对话1.mp3"
+                },
+                {
+                    "title": "对话 2",
+                    "text": "外出返回的时候，不能忘记洗手漱口。明白了吗？",
+                    "textJp": "外出から戻った時は、手洗いとうがいを忘れずに。よろしくて？",
+                    "textEn": "Do not forget to wash your hands and gargle when you come back from outside.\nUnderstood?",
+                    "condition": null,
+                    "voiceFile": "SV271_0_对话2.mp3"
+                },
+                {
+                    "title": "对话 3",
+                    "text": "衣服要始终保持清洁。礼装？　你在说什么呢。不能一直穿一套衣服。我要送去洗，快点，脱下来。把手举起来。抵抗是没有意义的。",
+                    "textJp": "衣服は常に清潔なものを。──礼装？ 何を言っているのです？ いつも同じ服を着ていてはいけません。お洗濯をしますので、ほら、脱いでください。両腕を上げて。抵抗は無意味ですよ……？",
+                    "textEn": "Always keep your clothes clean.\nSpiritron Dresses? What are you talking about? You must not wear the same outfit twice.\nI will do your laundry, so please take those off. Now raise your arms.\nThere is no point resisting.",
+                    "condition": null,
+                    "voiceFile": "SV271_0_对话3.mp3"
+                },
+                {
+                    "title": "对话 4",
+                    "text": "这里有好多士兵啊。那看来一定该轮到我出场了。令人摩拳擦掌！",
+                    "textJp": "ここには兵隊さんが多いのですね。では、私の出番という事に違いありません。腕が鳴ります！",
+                    "textEn": "There are many soldiers here.\nWhich means I am needed.\nI'm itching to get to work!",
+                    "condition": null,
+                    "voiceFile": "SV271_0_对话4.mp3"
+                },
+                {
+                    "title": "对话 5",
+                    "text": "以前我只关注肉体的伤病……看来精神上的负伤也不得不认真考虑才行。我究竟能为他们做什么……",
+                    "textJp": "肉体の傷病ばかりに気を取られていましたが、精神の負傷についても考えなくてはならないのかもしれません。彼らの為に、私に何ができるでしょうか",
+                    "textEn": "I've been too focused on physical injuries... It appears that I may need to consider psychological injuries as well.\nI wonder what I could do for those in need of such care...",
+                    "condition": "持有部分从者",
+                    "voiceFile": "SV271_0_对话5.mp3"
+                },
+                {
+                    "title": "对话 6",
+                    "text": "请问……先生……？我的脸上沾着什么东西吗？「太残酷了」……是什么意思啊。",
+                    "textJp": "あの……ミスター？ 私の顔になにか付いていまして？ ……残酷なことだ、とはどういう意味でしょう？",
+                    "textEn": "Um...\nSir...?\nIs there something on my face?\nWhat do you mean by when you say \"how unfortunate...\"?",
+                    "condition": "持有岩窟王",
+                    "voiceFile": "SV271_0_对话6.mp3"
+                },
+                {
+                    "title": "对话 7",
+                    "text": "哎呀……这里已经有好几位先行者了啊。只在圣夜闪耀，为等待礼物的所有人忙碌奔走的医护人员啊。希望我也向大家打个招呼吗？那么……咳咳……圣诞……快乐。",
+                    "textJp": "まあ、既に何人かの先達がいたのですね。聖夜にだけ輝く、贈り物を待つ全ての者の為に奔走するメディックが。……わ、私にも挨拶をしてほしい、と仰るのですか？それでは、こほん。メリー……クリスマス",
+                    "textEn": "Oh. So a number of Santas came before me...\nMedics who roam the world with gifts for others only during the Holy Night.\nOh? You want me to say it?\nWell then...\nMerry...Christmas.",
+                    "condition": "持有圣诞系从者",
+                    "voiceFile": "SV271_0_对话7.mp3"
+                },
+                {
+                    "title": "喜欢的东西",
+                    "text": "清洁是好事。保持卫生、健康……非常宝贵。明白了吗？",
+                    "textJp": "清潔は、よいものです。衛生維持、健康、とても尊いものです。よろしくて？",
+                    "textEn": "Being sanitary is a good thing.\nMaintaining hygiene, health... They are very precious things.\nDo you understand?",
+                    "condition": null,
+                    "voiceFile": "SV271_0_喜欢的东西.mp3"
+                },
+                {
+                    "title": "讨厌的东西",
+                    "text": "肮脏是不行的。卫生环境的崩溃，以及伤病是不行的……令人悲伤的东西不应该存在于世……",
+                    "textJp": "不潔はいけません。衛生環境の崩壊、そして傷病もいけません。悲しむべきもので、この世にあってはならないものです",
+                    "textEn": "There is nothing worse than being unsanitary.\nThe collapse of a hygienic environment, injuries, sickness... All these are horrible things.\nThey are distressing and should not exist in this world.",
+                    "condition": null,
+                    "voiceFile": "SV271_0_讨厌的东西.mp3"
+                },
+                {
+                    "title": "关于圣杯",
+                    "text": "这铃铛已经不是圣杯了。我居然会做这种事，实在是无地自容……如果圣杯再次显现，我还是不能接受。生命，就该由生命来拯救。",
+                    "textJp": "この鐘はすでに聖杯ではありません。私としたことが、本当にお恥ずかしい限り……もしも再び聖杯が現れたとしても、私はやはり、それを受け入れるわけには参りません。命は、命が救うのです。",
+                    "textEn": "This bell is no longer a Holy Grail.\nI am embarrassed by my earlier actions...\nAnd so even if the Holy Grail reappears, I will not accept it again.\nLives can only be saved by the efforts of others.",
+                    "condition": null,
+                    "voiceFile": "SV271_0_关于圣杯.mp3"
+                },
+                {
+                    "title": "活动举行中",
+                    "text": "是节日吗？啊，那应该需要救护站吧。我们走吧，我们走吧！",
+                    "textJp": "お祭りですか？ ああ、では救護所が必要ですね。参りましょう、参りましょう",
+                    "textEn": "Is there a festival?\nThat means a first aid station will be needed. Let's head out!",
+                    "condition": null,
+                    "voiceFile": "SV271_0_活动举行中.mp3"
+                },
+                {
+                    "title": "生日",
+                    "text": "祝您生日快乐。那我来烤一个蛋糕吧。您会品尝吗？不是什么精致的东西，但烤箱我还是会用的。",
+                    "textJp": "お誕生日、おめでとうございます。では、ケーキを焼きましょう。召し上がってくださいますか？ ……あまり凝ったものはできませんが、オーブンを使うくらいは私にもできますから",
+                    "textEn": "Happy birthday.\nI shall bake you a cake. Would you take a bite?\nI may not be able to make anything elaborate, but even I can use the oven.",
+                    "condition": null,
+                    "voiceFile": "SV271_0_生日.mp3"
+                }
+            ]
+        },
+        {
+            "section": "圣诞节2019 南丁格尔的圣诞颂歌",
+            "table": [
+                {
+                    "title": "对话 1",
+                    "text": "我是弗洛伦斯·南丁格尔。您好。让我来帮您的忙吧。",
+                    "textJp": "フローレンス・ナイチンゲールです。ごきげんよう。あなたのお役に立ちましょう",
+                    "textEn": "I am Florence Nightingale. How do you do?\nI shall be of help to you.",
+                    "condition": null,
+                    "voiceFile": "SV271_0_活动1.mp3"
+                },
+                {
+                    "title": "对话 2",
+                    "text": "尽管我不是很明白……好像说是围绕物资补给的某种措施。兵站是非常重要的。",
+                    "textJp": "私にはよくわかりませんが……物資の補給にまつわる何かが行われるのだとか。兵站、大切ですね",
+                    "textEn": "I do not fully understand it...but this appears to be something that helps in supplying you with goods.\nMaintaining logistics is indeed important.",
+                    "condition": null,
+                    "voiceFile": "SV271_0_活动2.mp3"
+                },
+                {
+                    "title": "对话 3",
+                    "text": "您好，状况还不错吧？只要您感到高兴就好。",
+                    "textJp": "ごきげんよう。調子はいかがですか？お楽しみいただいているなら、何よりです",
+                    "textEn": "How do you do? How are things?\nI am glad that you are enjoying yourself.",
+                    "condition": null,
+                    "voiceFile": "SV271_0_活动3.mp3"
+                },
+                {
+                    "title": "对话 4",
+                    "text": "抽奖就是一切，这是先人的教诲。来吧，现在是抽奖时间。",
+                    "textJp": "回転こそすべて、と先人に教われました。さあ、回転の時間です！",
+                    "textEn": "My predecessors have taught me that spinning is everything.\nNow then, it's time to spin.",
+                    "condition": null,
+                    "voiceFile": "SV271_0_活动4.mp3"
+                },
+                {
+                    "title": "对话 5",
+                    "text": "啊啊，请稍等片刻。您看过帮助信息了吗？建议您先去看一眼。",
+                    "textJp": "あ、お待ちを！インフォメーションをご覧になられましたか？一度ご確認をお勧めします",
+                    "textEn": "Oh, hold on.\nHave you taken a look at all the information?\nI recommend you checking it at least once.",
+                    "condition": null,
+                    "voiceFile": "SV271_0_活动5.mp3"
+                },
+                {
+                    "title": "对话 6",
+                    "text": "补给完成。辛苦了。",
+                    "textJp": "補給終了です。お疲れ様でした",
+                    "textEn": "I'm all out of stock. Thank you for your hard work.",
+                    "condition": null,
+                    "voiceFile": "SV271_0_活动6.mp3"
+                },
+                {
+                    "title": "对话 7",
+                    "text": "补给完成，补给完成。有缘在别的地方再见吧。",
+                    "textJp": "補給終了、補給終了。またどこかでお会い致しましょう",
+                    "textEn": "I'm all out of stock, I'm all out of stock. See you again some time.",
+                    "condition": null,
+                    "voiceFile": "SV271_0_活动7.mp3"
+                },
+                {
+                    "title": "对话 8",
+                    "text": "啊，开始了吧。好了……但愿您希望的物资能够送达。",
+                    "textJp": "ああ、始まりましたね。さて……お望みの物資が届きますように。",
+                    "textEn": "Oh, so it has begun. Now then...\nMay the resources you desire be delivered.",
+                    "condition": null,
+                    "voiceFile": "SV271_0_活动8.mp3"
+                },
+                {
+                    "title": "对话 9",
+                    "text": "抽奖开始！接下来唯有等待结果。但是……至少可以祈祷呢。",
+                    "textJp": "回転開始！後は、結果だけが待っています。でも……祈ることはできますね。",
+                    "textEn": "Commence spinning! All we need to do now is to await \nthe results. But at least we can pray while we wait.",
+                    "condition": null,
+                    "voiceFile": "SV271_0_活动9.mp3"
+                },
+                {
+                    "title": "对话 10",
+                    "text": "开关开启！抽吧。抽吧！",
+                    "textJp": "スイッチオン！回ります。回ります！",
+                    "textEn": "Switch on!\nIt's spinning. It's spinning!",
+                    "condition": null,
+                    "voiceFile": "SV271_0_活动10.mp3"
+                },
+                {
+                    "title": "对话 11",
+                    "text": "苹果——营养丰富。而且还很甜。我很喜欢哦。",
+                    "textJp": "林檎は―――栄養に富んでいます。それに甘い。私は好きですよ。",
+                    "textEn": "Apples...are full of nutrients. And very sweet.\nI like them.",
+                    "condition": null,
+                    "voiceFile": "SV271_0_活动11.mp3"
+                },
+                {
+                    "title": "对话 12",
+                    "text": "看来重要物资送到了！运气真好。",
+                    "textJp": "重要物資が到着したようです！強運ですね。",
+                    "textEn": "It appears a key commodity has arrived!\nYou have remarkable luck.",
+                    "condition": null,
+                    "voiceFile": "SV271_0_活动12.mp3"
+                },
+                {
+                    "title": "对话 13",
+                    "text": "啊，是最后的重要物资吧！……失……失礼了。我稍微有点兴奋。",
+                    "textJp": "ああ、最後の重要物資ですね！……し、失礼。少し、興奮してしまいました。",
+                    "textEn": "Oh...this is the final key commodity!\nM-my apologies. I got a bit overexcited.",
+                    "condition": null,
+                    "voiceFile": "SV271_0_活动13.mp3"
+                },
+                {
+                    "title": "对话 14",
+                    "text": "那请签收物资吧。在这里签字。",
+                    "textJp": "では、物資を受領してください。ここにサインを。",
+                    "textEn": "Please receive your goods.\nSign here.",
+                    "condition": null,
+                    "voiceFile": "SV271_0_活动14.mp3"
+                },
+                {
+                    "title": "对话 15",
+                    "text": "嗯嗯。是这种……",
+                    "textJp": "フムフム。そういう……",
+                    "textEn": "Uh-huh.\nI see...",
+                    "condition": null,
+                    "voiceFile": "SV271_0_活动15.mp3"
+                },
+                {
+                    "title": "对话 16",
+                    "text": "您收到自己想要的物资了吗？",
+                    "textJp": "希望の物資は届きましたか？",
+                    "textEn": "Did you receive the goods you desired?",
+                    "condition": null,
+                    "voiceFile": "SV271_0_活动16.mp3"
+                },
+                {
+                    "title": "对话 17",
+                    "text": "那开始下一次抽奖吧。",
+                    "textJp": "では、次の回転ですね。",
+                    "textEn": "On with the next spin.",
+                    "condition": null,
+                    "voiceFile": "SV271_0_活动17.mp3"
+                },
+                {
+                    "title": "对话 18",
+                    "text": "重要物资……使用方法取决于你。可以立刻使用，也可以先行保管！如果是现在的我，没错，或许会立刻使用。",
+                    "textJp": "重要物資……使い道は貴方次第です。すぐに使うもよし、保管するもよし！今の私ならそうですね、すぐに使ってしまうかも。",
+                    "textEn": "Key commodities...\nTheir use will be at your discretion.\nYou may use them immediately, or save them for later!\nIf it was me, I might use them up immediately.",
+                    "condition": null,
+                    "voiceFile": "SV271_0_活动18.mp3"
+                },
+                {
+                    "title": "对话 19",
+                    "text": "重要物资已经全部送到了。全部完成！　恭喜了。向您的抽奖表示敬意。",
+                    "textJp": "重要物資はこれですべて、とのことです。コンプリート！　おめでとうございます。貴方の回転に敬意を表しましょう。",
+                    "textEn": "That is the last of the key commodities. Complete!\nCongratulations. My respect for your stunning efforts.",
+                    "condition": null,
+                    "voiceFile": "SV271_0_活动19.mp3"
+                }
+            ]
+        }
+    ],
+    "bondCraft": -1,
+    "valentineCraft": [],
+    "icons": [
+        {
+            "key": "icon1",
+            "valueList": [
+                "南丁格尔〔圣诞〕_status.png",
+                "南丁格尔〔圣诞〕_status.png",
+                "南丁格尔〔圣诞〕_status.png"
+            ]
+        }
+    ],
+    "sprites": [
+        {
+            "key": "sprite1",
+            "valueList": [
+                "南丁格尔〔圣诞〕_model.png",
+                "南丁格尔〔圣诞〕_model.png",
+                "南丁格尔〔圣诞〕_model.png"
+            ]
+        }
+    ],
+    "fandomIcons": {
+        "fandom.S271Icon.png": "Stage 1-3",
+        "fandom.NightingaleSantaFinalIcon.png": "Stage 4",
+        "fandom.S271 status servant 1.png": "Portrait (Stage 1-3)"
+    },
+    "fandomSprites": {
+        "fandom.Nightingale Santa Sprite.png": "Stage 1-3",
+        "fandom.S271 card servant 1.png": "Command Card (Stage 1-3)",
+        "fandom.Nplogo271.png": "NP Logo"
+    },
+    "niceSkills": [
+        {
+            "id": 695351,
+            "num": 1,
+            "name": "アサルト・メディスン C+",
+            "ruby": "あさると・めでぃすん",
+            "detail": "敵全体の強化状態を1つ解除 ＋ 味方全体の弱体状態を1つ解除＆HPを回復",
+            "type": "active",
+            "strengthStatus": 0,
+            "priority": 1,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "conLv": 0,
+            "condLimitCount": 0,
+            "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00512.png",
+            "coolDown": [
+                7,
+                7,
+                7,
+                7,
+                7,
+                6,
+                6,
+                6,
+                6,
+                5
+            ],
+            "functions": [
+                {
+                    "funcId": 4894,
+                    "funcType": "subState",
+                    "funcTargetType": "enemyAll",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "強化解除",
+                    "buffs": [],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Value": 0,
+                            "Value2": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 0,
+                            "Value2": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 0,
+                            "Value2": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 0,
+                            "Value2": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 0,
+                            "Value2": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 0,
+                            "Value2": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 0,
+                            "Value2": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 0,
+                            "Value2": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 0,
+                            "Value2": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 0,
+                            "Value2": 1
+                        }
+                    ]
+                },
+                {
+                    "funcId": 4895,
+                    "funcType": "subState",
+                    "funcTargetType": "ptAll",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "弱体解除",
+                    "buffs": [],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Value": 0,
+                            "Value2": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 0,
+                            "Value2": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 0,
+                            "Value2": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 0,
+                            "Value2": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 0,
+                            "Value2": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 0,
+                            "Value2": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 0,
+                            "Value2": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 0,
+                            "Value2": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 0,
+                            "Value2": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 0,
+                            "Value2": 1
+                        }
+                    ]
+                },
+                {
+                    "funcId": 446,
+                    "funcType": "gainHp",
+                    "funcTargetType": "ptAll",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "",
+                    "buffs": [],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Value": 1000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1400
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1600
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1800
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 2000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 2200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 2400
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 2600
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 3000
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 696550,
+            "num": 2,
+            "name": "鋼の看護（聖夜） A",
+            "ruby": "はがねのかんご（せいや）",
+            "detail": "味方単体にガッツ状態を付与(1回・3ターン)＆強化解除耐性をアップ(3ターン)＆宝具威力をアップ(3ターン)",
+            "type": "active",
+            "strengthStatus": 0,
+            "priority": 1,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "conLv": 0,
+            "condLimitCount": 1,
+            "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00404.png",
+            "coolDown": [
+                9,
+                9,
+                9,
+                9,
+                9,
+                8,
+                8,
+                8,
+                8,
+                7
+            ],
+            "functions": [
+                {
+                    "funcId": 293,
+                    "funcType": "addState",
+                    "funcTargetType": "ptOne",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "ガッツ",
+                    "buffs": [
+                        {
+                            "id": 180,
+                            "name": "ガッツ",
+                            "detail": "HPが0になった時、HPを回復して耐える",
+                            "type": "guts",
+                            "buffGroup": 600
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 1,
+                            "Value": 1000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 1,
+                            "Value": 1000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 1,
+                            "Value": 1000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 1,
+                            "Value": 1000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 1,
+                            "Value": 1000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 1,
+                            "Value": 1000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 1,
+                            "Value": 1000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 1,
+                            "Value": 1000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 1,
+                            "Value": 1000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 1,
+                            "Value": 1000
+                        }
+                    ]
+                },
+                {
+                    "funcId": 2565,
+                    "funcType": "addState",
+                    "funcTargetType": "ptOne",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "強化解除耐性アップ",
+                    "buffs": [
+                        {
+                            "id": 887,
+                            "name": "強化解除耐性アップ",
+                            "detail": "強化解除耐性をアップ",
+                            "type": "upToleranceSubstate",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 500
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 550
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 600
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 650
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 700
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 750
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 800
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 850
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 900
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 1000
+                        }
+                    ]
+                },
+                {
+                    "funcId": 251,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "ptOne",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "宝具威力アップ",
+                    "buffs": [
+                        {
+                            "id": 138,
+                            "name": "宝具威力アップ",
+                            "detail": "宝具で与えるダメージをアップ",
+                            "type": "upNpdamage",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 210
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 220
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 230
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 240
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 250
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 260
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 270
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 280
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 300
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 697650,
+            "num": 3,
+            "name": "天使が聖夜に鳴らす鐘 EX",
+            "ruby": "てんしがせいやにならすかね",
+            "detail": "味方全体の攻撃力をアップ(3ターン)＆クリティカル威力をアップ(3ターン)",
+            "type": "active",
+            "strengthStatus": 0,
+            "priority": 1,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "conLv": 0,
+            "condLimitCount": 3,
+            "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00300.png",
+            "coolDown": [
+                8,
+                8,
+                8,
+                8,
+                8,
+                7,
+                7,
+                7,
+                7,
+                6
+            ],
+            "functions": [
+                {
+                    "funcId": 152,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "ptAll",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "攻撃力アップ",
+                    "buffs": [
+                        {
+                            "id": 126,
+                            "name": "攻撃力アップ",
+                            "detail": "攻撃力をアップ",
+                            "type": "upAtk",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 110
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 120
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 130
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 140
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 150
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 160
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 170
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 180
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200
+                        }
+                    ]
+                },
+                {
+                    "funcId": 206,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "ptAll",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "クリティカル威力アップ",
+                    "buffs": [
+                        {
+                            "id": 142,
+                            "name": "クリティカル威力アップ",
+                            "detail": "クリティカル時のダメージをアップ",
+                            "type": "upCriticaldamage",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 210
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 220
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 230
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 240
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 250
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 260
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 270
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 280
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 300
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "niceClassPassive": [
+        {
+            "id": 34350,
+            "num": 1,
+            "name": "対魔力 C",
+            "ruby": "たいまりょく",
+            "detail": "自身の弱体耐性を少しアップ",
+            "type": "passive",
+            "strengthStatus": 1,
+            "priority": 1,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "conLv": 0,
+            "condLimitCount": 0,
+            "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00100.png",
+            "coolDown": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "functions": [
+                {
+                    "funcId": 388,
+                    "funcType": "addState",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "弱体耐性アップ",
+                    "buffs": [
+                        {
+                            "id": 162,
+                            "name": "弱体耐性アップ",
+                            "detail": "弱体耐性をアップ",
+                            "type": "upTolerance",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 150
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 150
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 150
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 150
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 150
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 150
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 150
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 150
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 150
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 150
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 20551,
+            "num": 1,
+            "name": "単独行動 A+",
+            "ruby": "たんどくこうどう",
+            "detail": "自身のクリティカル威力をアップ",
+            "type": "passive",
+            "strengthStatus": 1,
+            "priority": 1,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "conLv": 0,
+            "condLimitCount": 0,
+            "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00101.png",
+            "coolDown": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "functions": [
+                {
+                    "funcId": 199,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "クリティカル威力アップ",
+                    "buffs": [
+                        {
+                            "id": 142,
+                            "name": "クリティカル威力アップ",
+                            "detail": "クリティカル時のダメージをアップ",
+                            "type": "upCriticaldamage",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 110
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 110
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 110
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 110
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 110
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 110
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 110
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 110
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 110
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 110
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 54650,
+            "num": 1,
+            "name": "狂化 EX",
+            "ruby": "きょうか",
+            "detail": "自身のBusterカードの性能をアップ",
+            "type": "passive",
+            "strengthStatus": 1,
+            "priority": 1,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "conLv": 0,
+            "condLimitCount": 0,
+            "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00106.png",
+            "coolDown": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "functions": [
+                {
+                    "funcId": 118,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "バスターアップ",
+                    "buffs": [
+                        {
+                            "id": 102,
+                            "name": "Busterアップ",
+                            "detail": "Busterカードの性能をアップ",
+                            "type": "upCommandall",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 120
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 120
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 120
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 120
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 120
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 120
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 120
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 120
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 120
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 120
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "niceNoblePhantasms": [
+        {
+            "id": 203901,
+            "num": 1,
+            "card": "quick",
+            "name": "天使は叫び、悪魔は影の中に消える",
+            "ruby": "アサルト・メディスン・フルバースト・パーティー",
+            "rank": "B",
+            "type": "対軍宝具",
+            "detail": "敵全体に強力な攻撃＆防御力をダウン(3ターン)<オーバーチャージで効果アップ>＆攻撃強化状態を解除＆毒・呪い・やけど状態を解除【デメリット】",
+            "npGain": {
+                "buster": [
+                    60,
+                    60,
+                    60,
+                    60,
+                    60
+                ],
+                "arts": [
+                    60,
+                    60,
+                    60,
+                    60,
+                    60
+                ],
+                "quick": [
+                    60,
+                    60,
+                    60,
+                    60,
+                    60
+                ],
+                "extra": [
+                    60,
+                    60,
+                    60,
+                    60,
+                    60
+                ],
+                "defence": [
+                    300,
+                    300,
+                    300,
+                    300,
+                    300
+                ],
+                "np": [
+                    60,
+                    60,
+                    60,
+                    60,
+                    60
+                ]
+            },
+            "npDistribution": [
+                4,
+                9,
+                14,
+                19,
+                23,
+                31
+            ],
+            "strengthStatus": 0,
+            "priority": 101,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "individuality": [
+                {
+                    "id": 3001,
+                    "name": "attackProjectile"
+                },
+                {
+                    "id": 4003,
+                    "name": "cardQuick"
+                },
+                {
+                    "id": 4007,
+                    "name": "cardNP"
+                },
+                {
+                    "id": 4101,
+                    "name": "aoeNP"
+                }
+            ],
+            "functions": [
+                {
+                    "funcId": 13,
+                    "funcType": "damageNp",
+                    "funcTargetType": "enemyAll",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "なし",
+                    "buffs": [],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Value": 6000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 8000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 9000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 9500
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 10000
+                        }
+                    ]
+                },
+                {
+                    "funcId": 197,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "enemyAll",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "防御力ダウン",
+                    "buffs": [
+                        {
+                            "id": 148,
+                            "name": "防御力ダウン",
+                            "detail": "防御力をダウン",
+                            "type": "downDefence",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 100
+                        }
+                    ]
+                },
+                {
+                    "funcId": 2212,
+                    "funcType": "subState",
+                    "funcTargetType": "enemyAll",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "攻撃強化解除",
+                    "buffs": [],
+                    "svals": [
+                        {
+                            "Rate": 1000
+                        },
+                        {
+                            "Rate": 1000
+                        },
+                        {
+                            "Rate": 1000
+                        },
+                        {
+                            "Rate": 1000
+                        },
+                        {
+                            "Rate": 1000
+                        }
+                    ]
+                },
+                {
+                    "funcId": 4881,
+                    "funcType": "subState",
+                    "funcTargetType": "enemyAll",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "毒・呪い・やけど解除",
+                    "buffs": [],
+                    "svals": [
+                        {
+                            "Rate": 5000
+                        },
+                        {
+                            "Rate": 5000
+                        },
+                        {
+                            "Rate": 5000
+                        },
+                        {
+                            "Rate": 5000
+                        },
+                        {
+                            "Rate": 5000
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "atkGrowth": [
+        1643,
+        1741,
+        1848,
+        1946,
+        2053,
+        2160,
+        2259,
+        2365,
+        2472,
+        2571,
+        2678,
+        2784,
+        2883,
+        2990,
+        3097,
+        3195,
+        3302,
+        3409,
+        3507,
+        3614,
+        3721,
+        3819,
+        3926,
+        4033,
+        4132,
+        4238,
+        4345,
+        4444,
+        4551,
+        4657,
+        4756,
+        4863,
+        4970,
+        5068,
+        5175,
+        5282,
+        5380,
+        5487,
+        5594,
+        5692,
+        5799,
+        5898,
+        6005,
+        6111,
+        6210,
+        6317,
+        6424,
+        6522,
+        6629,
+        6736,
+        6834,
+        6941,
+        7048,
+        7147,
+        7253,
+        7360,
+        7459,
+        7566,
+        7672,
+        7771,
+        7878,
+        7984,
+        8083,
+        8190,
+        8297,
+        8395,
+        8502,
+        8609,
+        8707,
+        8814,
+        8921,
+        9020,
+        9126,
+        9233,
+        9332,
+        9439,
+        9545,
+        9644,
+        9751,
+        9858,
+        9956,
+        10063,
+        10161,
+        10268,
+        10375,
+        10474,
+        10580,
+        10687,
+        10786,
+        10893,
+        10999,
+        11098,
+        11205,
+        11312,
+        11410,
+        11517,
+        11624,
+        11722,
+        11829,
+        11936,
+        12034,
+        12141,
+        12248,
+        12347,
+        12453,
+        12560,
+        12659,
+        12766,
+        12872,
+        12971,
+        13078,
+        13185,
+        13283,
+        13390,
+        13497,
+        13595,
+        13702,
+        13809,
+        13907,
+        14014
+    ],
+    "hpGrowth": [
+        1772,
+        1883,
+        2004,
+        2116,
+        2237,
+        2358,
+        2470,
+        2591,
+        2712,
+        2823,
+        2944,
+        3065,
+        3177,
+        3298,
+        3419,
+        3531,
+        3652,
+        3773,
+        3884,
+        4005,
+        4126,
+        4238,
+        4359,
+        4480,
+        4592,
+        4713,
+        4834,
+        4946,
+        5067,
+        5188,
+        5299,
+        5420,
+        5541,
+        5653,
+        5774,
+        5895,
+        6007,
+        6128,
+        6249,
+        6360,
+        6481,
+        6593,
+        6714,
+        6835,
+        6947,
+        7068,
+        7189,
+        7300,
+        7421,
+        7542,
+        7654,
+        7775,
+        7896,
+        8008,
+        8129,
+        8250,
+        8362,
+        8483,
+        8604,
+        8715,
+        8836,
+        8957,
+        9069,
+        9190,
+        9311,
+        9423,
+        9544,
+        9665,
+        9776,
+        9897,
+        10018,
+        10130,
+        10251,
+        10372,
+        10484,
+        10605,
+        10726,
+        10837,
+        10958,
+        11080,
+        11191,
+        11312,
+        11424,
+        11545,
+        11666,
+        11778,
+        11899,
+        12020,
+        12131,
+        12252,
+        12373,
+        12485,
+        12606,
+        12727,
+        12839,
+        12960,
+        13081,
+        13192,
+        13313,
+        13434,
+        13546,
+        13667,
+        13788,
+        13900,
+        14021,
+        14142,
+        14254,
+        14375,
+        14496,
+        14607,
+        14728,
+        14849,
+        14961,
+        15082,
+        15203,
+        15315,
+        15436,
+        15557,
+        15668,
+        15789
+    ],
+    "figure": [
+        "https://static.atlasacademy.io/JP/CharaFigure/2039000/2039000_merged.png",
+        "https://static.atlasacademy.io/JP/CharaFigure/2039001/2039001_merged.png",
+        "https://static.atlasacademy.io/JP/CharaFigure/2039002/2039002_merged.png"
+    ],
+    "ascension": [
+        "https://static.atlasacademy.io/JP/CharaGraph/203900/203900a@1.png",
+        "https://static.atlasacademy.io/JP/CharaGraph/203900/203900a@2.png",
+        "https://static.atlasacademy.io/JP/CharaGraph/203900/203900b@1.png",
+        "https://static.atlasacademy.io/JP/CharaGraph/203900/203900b@2.png"
+    ]
+}

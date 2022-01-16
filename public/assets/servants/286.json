@@ -1,0 +1,3371 @@
+{
+    "no": 286,
+    "svtId": 204200,
+    "mcLink": "伊莉雅丝菲尔·冯·爱因兹贝伦(Archer)",
+    "icon": "Servant286.jpg",
+    "info": {
+        "gameId": 204200,
+        "name": "伊莉雅丝菲尔·冯·爱因兹贝伦",
+        "nameJp": "イリヤスフィール・フォン・アインツベルン",
+        "nameEn": "Illyasviel von Einzbern (Archer)",
+        "namesOther": [
+            "伊莉雅丝菲尔·冯·爱因兹贝伦",
+            "伊莉雅",
+            "イリヤスフィール"
+        ],
+        "namesJpOther": [
+            "イリヤ",
+            "イリヤスフィール・フォン・アインツベルン"
+        ],
+        "namesEnOther": [
+            "Illyasviel von Einzbern"
+        ],
+        "nicknames": [
+            "弓伊莉雅"
+        ],
+        "obtain": "限定",
+        "obtains": [
+            "期间限定"
+        ],
+        "rarity": 4,
+        "rarity2": 4,
+        "weight": "29.5kg",
+        "height": "133cm",
+        "gender": "女性",
+        "illustrator": "HIROYAMA HIROSHI",
+        "illustratorJp": null,
+        "illustratorEn": "Hiroyama Hiroshi",
+        "className": "Archer",
+        "attribute": "人",
+        "isHumanoid": true,
+        "isWeakToEA": true,
+        "isTDNS": false,
+        "cv": [
+            "门胁舞以",
+            "高野直子"
+        ],
+        "cvJp": [
+            "门胁舞以",
+            "高野直子"
+        ],
+        "cvEn": [
+            "Kadowaki Mai",
+            "Takano Naoko"
+        ],
+        "alignments": [
+            "中立",
+            "夏"
+        ],
+        "traits": [
+            "伊莉雅",
+            "人科",
+            "活在当下的人类",
+            "孩童从者"
+        ],
+        "ability": {
+            "strength": "C",
+            "endurance": "C",
+            "agility": "B",
+            "mana": "B",
+            "luck": "C-",
+            "np": "A"
+        },
+        "illustrations": {
+            "第１阶段": "伊莉雅丝菲尔·冯·爱因兹贝伦(Archer)初始.png",
+            "第２阶段": "伊莉雅丝菲尔·冯·爱因兹贝伦(Archer)一破.png",
+            "第３阶段": "伊莉雅丝菲尔·冯·爱因兹贝伦(Archer)三破.png",
+            "第４阶段": "伊莉雅丝菲尔·冯·爱因兹贝伦(Archer)满破.png",
+            "愚人节": "愚人节-286.png"
+        },
+        "cards": [
+            "Quick",
+            "Quick",
+            "Arts",
+            "Arts",
+            "Buster"
+        ],
+        "cardHits": {
+            "Quick": 4,
+            "Arts": 3,
+            "Buster": 3,
+            "Extra": 4,
+            "NP": 5
+        },
+        "cardHitsDamage": {
+            "Quick": [
+                10,
+                20,
+                30,
+                40
+            ],
+            "Arts": [
+                16,
+                33,
+                51
+            ],
+            "Buster": [
+                16,
+                33,
+                51
+            ],
+            "Extra": [
+                10,
+                20,
+                30,
+                40
+            ],
+            "NP": [
+                6,
+                13,
+                20,
+                26,
+                35
+            ]
+        },
+        "npRate": {
+            "Quick": "0.63%",
+            "Arts": "0.63%",
+            "Buster": "0.63%",
+            "Extra": "0.63%",
+            "NP": "0.63%",
+            "Defense": "3%"
+        },
+        "atkMin": 1683,
+        "hpMin": 1746,
+        "atkMax": 10098,
+        "hpMax": 10914,
+        "atk90": 11158,
+        "hp90": 12069,
+        "atk100": 12226,
+        "hp100": 13233,
+        "starRate": "8.0%",
+        "deathRate": "31.5%",
+        "criticalRate": "148"
+    },
+    "noblePhantasm": [
+        {
+            "state": "",
+            "openCondition": "==宝具==\n{{参阅|{{PAGENAME}}/宝具动画|该从者的宝具动画}}",
+            "name": "少女啊，化为彩虹吧",
+            "nameJp": "少女よ虹になれ",
+            "upperName": "Prisma☆Splash Rainbow！",
+            "upperNameJp": "プリズマ☆スプラッシュレインボー！",
+            "color": "Quick",
+            "category": "全体",
+            "rank": "A",
+            "typeText": "对军宝具",
+            "effects": [
+                {
+                    "description": "自身的Quick指令卡性能提升(1回合)<Over Charge时效果提升>",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "10%",
+                        "20%",
+                        "30%",
+                        "40%",
+                        "50%"
+                    ]
+                },
+                {
+                    "description": "Arts指令卡性能提升(1回合)<Over Charge时效果提升>",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "10%",
+                        "20%",
+                        "30%",
+                        "40%",
+                        "50%"
+                    ]
+                },
+                {
+                    "description": "Buster指令卡性能提升(1回合)<Over Charge时效果提升>",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "10%",
+                        "20%",
+                        "30%",
+                        "40%",
+                        "50%"
+                    ]
+                },
+                {
+                    "description": "付与必中状态(1回合)",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "∅"
+                    ]
+                },
+                {
+                    "description": "对敌方全体发动强大的攻击<宝具升级效果提升>",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "600%",
+                        "800%",
+                        "900%",
+                        "950%",
+                        "1000%"
+                    ]
+                }
+            ]
+        }
+    ],
+    "noblePhantasmEn": [
+        {
+            "state": "Rank A",
+            "openCondition": null,
+            "name": "Prisma☆Splash Rainbow!",
+            "nameJp": null,
+            "upperName": "Prisma☆Splash Rainbow!",
+            "upperNameJp": null,
+            "color": "Quick",
+            "category": "",
+            "rank": "A",
+            "typeText": "Anti-Army",
+            "effects": [
+                {
+                    "description": " Ignores Evasion for 1 turn. {{Activates First}}\nDeals damage to all enemies.",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                },
+                {
+                    "description": " Damage +",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "600%",
+                        "800%",
+                        "900%",
+                        "950%",
+                        "1000%"
+                    ]
+                },
+                {
+                    "description": "<Over Charge>\nIncreases own Quick performance for 1 turn. {{Activates First}}\nIncreases own Arts performance for 1 turn. {{Activates First}}\nIncreases own Buster performance for 1 turn. {{Activates First}}",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                },
+                {
+                    "description": " Quick +",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "10%",
+                        "20%",
+                        "30%",
+                        "40%",
+                        "50%"
+                    ]
+                },
+                {
+                    "description": " Arts +",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "10%",
+                        "20%",
+                        "30%",
+                        "40%",
+                        "50%"
+                    ]
+                },
+                {
+                    "description": " Buster +",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "10%",
+                        "20%",
+                        "30%",
+                        "40%",
+                        "50%"
+                    ]
+                }
+            ]
+        }
+    ],
+    "activeSkills": [
+        {
+            "cnState": 0,
+            "skills": [
+                {
+                    "state": "",
+                    "openCondition": "",
+                    "name": "强水压！",
+                    "nameJp": "ハイ・プレッシャー！",
+                    "nameEn": null,
+                    "rank": "A",
+                    "icon": "绿放.png",
+                    "cd": 7,
+                    "effects": [
+                        {
+                            "description": "自身的Quick指令卡性能提升(3回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "10%",
+                                "11%",
+                                "12%",
+                                "13%",
+                                "14%",
+                                "15%",
+                                "16%",
+                                "17%",
+                                "18%",
+                                "20%"
+                            ]
+                        },
+                        {
+                            "description": "Quick指令卡暴击星集中度提升(1回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "300%",
+                                "320%",
+                                "340%",
+                                "360%",
+                                "380%",
+                                "400%",
+                                "420%",
+                                "440%",
+                                "460%",
+                                "500%"
+                            ]
+                        },
+                        {
+                            "description": "暴击威力提升(1回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "50%",
+                                "55%",
+                                "60%",
+                                "65%",
+                                "70%",
+                                "75%",
+                                "80%",
+                                "85%",
+                                "90%",
+                                "100%"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "cnState": 0,
+            "skills": [
+                {
+                    "state": "",
+                    "openCondition": "",
+                    "name": "夏日休假！（孩童）",
+                    "nameJp": "サマー・バケーション！（子供）",
+                    "nameEn": null,
+                    "rank": "A+",
+                    "icon": "无敌.png",
+                    "cd": 8,
+                    "effects": [
+                        {
+                            "description": "付与自身无敌状态(1次・3回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "∅"
+                            ]
+                        },
+                        {
+                            "description": "NP获得量提升(3回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "20%",
+                                "21%",
+                                "22%",
+                                "23%",
+                                "24%",
+                                "25%",
+                                "26%",
+                                "27%",
+                                "28%",
+                                "30%"
+                            ]
+                        },
+                        {
+                            "description": "己方全体的〔孩童从者〕的攻击力提升(3回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "10%",
+                                "11%",
+                                "12%",
+                                "13%",
+                                "14%",
+                                "15%",
+                                "16%",
+                                "17%",
+                                "18%",
+                                "20%"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "cnState": 0,
+            "skills": [
+                {
+                    "state": "",
+                    "openCondition": "",
+                    "name": "合法沐浴！",
+                    "nameJp": "リーガル・シャワー！",
+                    "nameEn": null,
+                    "rank": "B++",
+                    "icon": "充能.png",
+                    "cd": 7,
+                    "effects": [
+                        {
+                            "description": "自身NP增加",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "20%",
+                                "21%",
+                                "22%",
+                                "23%",
+                                "24%",
+                                "25%",
+                                "26%",
+                                "27%",
+                                "28%",
+                                "30%"
+                            ]
+                        },
+                        {
+                            "description": "暴击威力提升(3回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "30%",
+                                "32%",
+                                "34%",
+                                "36%",
+                                "38%",
+                                "40%",
+                                "42%",
+                                "44%",
+                                "46%",
+                                "50%"
+                            ]
+                        },
+                        {
+                            "description": "70%概率付与每回合HP回复的状态(5回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "500"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "activeSkillsEn": [
+        {
+            "cnState": 0,
+            "skills": [
+                {
+                    "state": "",
+                    "openCondition": null,
+                    "name": "High Pressure!",
+                    "nameJp": null,
+                    "nameEn": null,
+                    "rank": "A",
+                    "icon": "绿放.png",
+                    "cd": 7,
+                    "effects": [
+                        {
+                            "description": "Increases own Quick performance for 3 turns. \nIncreases own critical star absorption of  Quick Cards for 1 turn.\nIncreases own critical damage for 1 turn.",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": []
+                        },
+                        {
+                            "description": " Quick +",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "10%",
+                                "11%",
+                                "12%",
+                                "13%",
+                                "14%",
+                                "15%",
+                                "16%",
+                                "17%",
+                                "18%",
+                                "20%"
+                            ]
+                        },
+                        {
+                            "description": " Quick Absorption +",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "300%",
+                                "320%",
+                                "340%",
+                                "360%",
+                                "380%",
+                                "400%",
+                                "420%",
+                                "440%",
+                                "460%",
+                                "500%"
+                            ]
+                        },
+                        {
+                            "description": " Crit Damage +",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "50%",
+                                "55%",
+                                "60%",
+                                "65%",
+                                "70%",
+                                "75%",
+                                "80%",
+                                "85%",
+                                "90%",
+                                "100%"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "cnState": 0,
+            "skills": [
+                {
+                    "state": "",
+                    "openCondition": null,
+                    "name": "Summer Vacation! (Children)",
+                    "nameJp": null,
+                    "nameEn": null,
+                    "rank": "A",
+                    "icon": "无敌.png",
+                    "cd": 8,
+                    "effects": [
+                        {
+                            "description": " Grants self Invincibility for 1 attack, 3 turns.\nIncreases own NP generation rate for 3 turns.\nIncreases the attack of Children Servants allies for 3 turns.",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": []
+                        },
+                        {
+                            "description": " NP Rate +",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "20%",
+                                "21%",
+                                "22%",
+                                "23%",
+                                "24%",
+                                "25%",
+                                "26%",
+                                "27%",
+                                "28%",
+                                "30%"
+                            ]
+                        },
+                        {
+                            "description": " Children Servants Attack +",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "10%",
+                                "11%",
+                                "12%",
+                                "13%",
+                                "14%",
+                                "15%",
+                                "16%",
+                                "17%",
+                                "18%",
+                                "20%"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "cnState": 0,
+            "skills": [
+                {
+                    "state": "",
+                    "openCondition": null,
+                    "name": "Regal Shower!",
+                    "nameJp": null,
+                    "nameEn": null,
+                    "rank": "B++",
+                    "icon": "充能.png",
+                    "cd": 7,
+                    "effects": [
+                        {
+                            "description": "Charges own NP gauge.\nIncreases own critical damage for 3 turns.\n 70% Chance to recover own HP by 500 every turn for 5 turns.",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": []
+                        },
+                        {
+                            "description": " NP +",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "20%",
+                                "21%",
+                                "22%",
+                                "23%",
+                                "24%",
+                                "25%",
+                                "26%",
+                                "27%",
+                                "28%",
+                                "30%"
+                            ]
+                        },
+                        {
+                            "description": " Crit Damage +",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "30%",
+                                "32%",
+                                "34%",
+                                "36%",
+                                "38%",
+                                "40%",
+                                "42%",
+                                "44%",
+                                "46%",
+                                "50%"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "passiveSkills": [
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "对魔力",
+            "nameJp": null,
+            "nameEn": null,
+            "rank": "A",
+            "icon": "对魔力.png",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": "自身的弱化耐性提升(20%)",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                }
+            ]
+        },
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "单独行动",
+            "nameJp": null,
+            "nameEn": null,
+            "rank": "B",
+            "icon": "单独行动.png",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": "自身的暴击威力提升(8%)",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                }
+            ]
+        },
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "无限的魔力供给",
+            "nameJp": null,
+            "nameEn": null,
+            "rank": "C",
+            "icon": "回合充能.png",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": "付与自身每回合获得NP的状态(3%)",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                }
+            ]
+        }
+    ],
+    "passiveSkillsEn": [
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "Magic Resistance",
+            "nameJp": null,
+            "nameEn": null,
+            "rank": "A",
+            "icon": "fandom.anti magic.png",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": " Increases own debuff resistance by 20%.",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                }
+            ]
+        },
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "Independent Action",
+            "nameJp": null,
+            "nameEn": null,
+            "rank": "B",
+            "icon": "fandom.independent action.png",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": " Increases own critical damage by 8%.",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                }
+            ]
+        },
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "Unlimited Prana Supply",
+            "nameJp": null,
+            "nameEn": null,
+            "rank": "C",
+            "icon": "fandom.NPturn.png",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": " Charges own NP gauge by 3% every turn.",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                }
+            ]
+        }
+    ],
+    "appendSkills": [
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "追击技巧提升",
+            "nameJp": "追撃技巧向上",
+            "nameEn": "Extra Attack Finesse Improvement",
+            "rank": null,
+            "icon": "特攻",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": "自身的Extra Attack指令卡性能提升",
+                    "descriptionJp": "自身のExtra Attackカードの性能をアップする",
+                    "descriptionEn": "Increases own Extra Attack performance",
+                    "lvData": [
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "38%",
+                        "40%",
+                        "42%",
+                        "44%",
+                        "46%",
+                        "50%"
+                    ]
+                }
+            ]
+        },
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "魔力装填",
+            "nameJp": "魔力装填",
+            "nameEn": "Mana Loading",
+            "rank": null,
+            "icon": "充能",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": "自身以NP已达一定数值的状态开始战斗",
+                    "descriptionJp": "自身のNPをチャージした状態でバトルを開始する",
+                    "descriptionEn": "Starts battle with NP gauge",
+                    "lvData": [
+                        "10%",
+                        "11%",
+                        "12%",
+                        "13%",
+                        "14%",
+                        "15%",
+                        "16%",
+                        "17%",
+                        "18%",
+                        "20%"
+                    ]
+                }
+            ]
+        },
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "对Archer攻击适性",
+            "nameJp": "対Archer攻撃適性",
+            "nameEn": "Anti-Archer Attack Damage Aptitude",
+            "rank": null,
+            "icon": "加攻",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": "自身对Archer的攻击力提升",
+                    "descriptionJp": "自身の〔Archer〕クラスに対する攻撃力をアップする",
+                    "descriptionEn": "Increases own attack against Archer enemies",
+                    "lvData": [
+                        "20%",
+                        "21%",
+                        "22%",
+                        "23%",
+                        "24%",
+                        "25%",
+                        "26%",
+                        "27%",
+                        "28%",
+                        "30%"
+                    ]
+                }
+            ]
+        }
+    ],
+    "coinSummonNum": 50,
+    "itemCost": {
+        "ascension": [
+            {
+                "弓阶银棋": 4,
+                "QP": 50000
+            },
+            {
+                "弓阶银棋": 10,
+                "混沌之爪": 4,
+                "QP": 150000
+            },
+            {
+                "弓阶金像": 4,
+                "追忆的贝壳": 8,
+                "凤凰羽毛": 4,
+                "QP": 500000
+            },
+            {
+                "弓阶金像": 10,
+                "凤凰羽毛": 7,
+                "真理之卵": 4,
+                "QP": 1500000
+            }
+        ],
+        "skill": [
+            {
+                "弓之辉石": 4,
+                "QP": 100000
+            },
+            {
+                "弓之辉石": 10,
+                "QP": 200000
+            },
+            {
+                "弓之魔石": 4,
+                "QP": 600000
+            },
+            {
+                "弓之魔石": 10,
+                "追忆的贝壳": 4,
+                "QP": 800000
+            },
+            {
+                "弓之秘石": 4,
+                "追忆的贝壳": 8,
+                "QP": 2000000
+            },
+            {
+                "弓之秘石": 10,
+                "混沌之爪": 3,
+                "QP": 2500000
+            },
+            {
+                "混沌之爪": 5,
+                "魔术髓液": 15,
+                "QP": 5000000
+            },
+            {
+                "魔术髓液": 45,
+                "神脉灵子": 20,
+                "QP": 6000000
+            },
+            {
+                "传承结晶": 1,
+                "QP": 10000000
+            }
+        ],
+        "appendSkill": [
+            {
+                "弓之辉石": 4,
+                "QP": 100000
+            },
+            {
+                "弓之辉石": 10,
+                "QP": 200000
+            },
+            {
+                "弓之魔石": 4,
+                "QP": 600000
+            },
+            {
+                "弓之魔石": 10,
+                "凤凰羽毛": 4,
+                "QP": 800000
+            },
+            {
+                "弓之秘石": 4,
+                "凤凰羽毛": 7,
+                "QP": 2000000
+            },
+            {
+                "弓之秘石": 10,
+                "人工生命体幼体": 4,
+                "QP": 2500000
+            },
+            {
+                "人工生命体幼体": 8,
+                "永远结冰": 5,
+                "QP": 5000000
+            },
+            {
+                "永远结冰": 15,
+                "真理之卵": 8,
+                "QP": 6000000
+            },
+            {
+                "传承结晶": 1,
+                "QP": 10000000
+            }
+        ]
+    },
+    "costumeNos": [],
+    "bondPoints": [
+        1000,
+        1500,
+        2000,
+        2500,
+        3000,
+        225000,
+        255000,
+        285000,
+        315000,
+        365000,
+        1090000,
+        1230000,
+        1360000,
+        1500000,
+        1640000
+    ],
+    "profiles": [
+        {
+            "title": "0",
+            "description": "魔法少女也想玩！\n\n抛下自己的身份，\n在这盛夏时节魔法少女也化身成了普通的小学生。\n比平时更为兴奋，\nIQ与幸运低下中。\n换言之，是搞笑模式的伊莉雅小姐。\n多半情况下不会遇到什么好事，\n但这次依然会不屈不挠地挥洒笑容与泪水吧。\n\n红宝石正化身成水带卷盘＆喷嘴形态的『喷洒模式』。\n就算外表有所变化，一贯的擅自行动、\n到处乱飞搅局的捣乱属性依然健在。\n\n另外，卡片留在自己房间里了。",
+            "descriptionJp": "魔法少女だって遊びたい！\n\n自身のアイデンティティを脱ぎ捨て、\n魔法少女はこの夏満を持してただの小学生と化した。\nいつもよりややテンションが高く、\nＩＱと幸運が低下中。\nつまるところ、コメディモードのイリヤさんである。\nだいたいろくな目に遭わないのだが、\n今回もめげずに笑顔と涙を振りまいてくれるだろう。\n\nルビーはホースリール＆ノズル形態の\n『スプラッシュモード』に移行中。\n見た目は変わっても、相変わらずパタパタ勝手に\n飛び回り、場をかき乱す迷惑さは健在。\n\nあとカードは自室に置いてきた。",
+            "descriptionEn": "Even Magical Girls want to play!\n\n\nTaking off and throw away her identity, the Magical Girl turns into a simple elementary school student who is fully prepared for this summer.\n\nShe's somewhat more excited than normal, while her IQ and good luck is on the decline.\n\nTo sum it up, it's Illya-san in comedy-mode.\n\nAlthough it general won't fare well for her, she would still not be deterred from showering people with her smiles and tears.\n\n\nRuby is in the process of shifting into \"Splash Mode\" in the form of a hose reel and nozzle.\n\nEven if its appearance has changed, the nuisance that, as always, flies about on its own here and there and disturbs the place, is still going strong.\n\n\nShe also left the Cards behind in her room.",
+            "condition": null,
+            "conditionEn": null
+        },
+        {
+            "title": "1",
+            "description": "身高／体重：133cm·29.5kg\n出处：Fate/kaleid liner 魔法少女☆伊莉雅\n地域：日本·冬木市\n属性：中立·夏　　性别：女性\n稍微胖……不，是发育了一些。",
+            "descriptionJp": "身長／体重：133cm・29.5kg\n出典：Fate/kaleid liner プリズマ☆イリヤ\n地域：日本・冬木市\n属性：中立・夏　　性別：女性\nちょっとだけ太っ……いや、発育したのである。",
+            "descriptionEn": "Height/Weight: 133 cm ・29.5 kg\n\nOrigin: Fate/kaleid liner Prisma ☆ Illya\n\nRegion: Japan, Fuyuki City\n\nAttributes: Neutral ・Summer\n\nGender: Female\n\n''Did I get a little fa-...... No, it's just me growing up.''",
+            "condition": "羁绊达到Lv.1后开放",
+            "conditionEn": null
+        },
+        {
+            "title": "2",
+            "description": "这天，伊莉雅突然发现了。\n\n「只要还在迦勒底，就相当于在过无限暑假吧……？」\n\n伊莉雅小姐是那种会制定周密计划，\n在暑假前半把作业全部完成的人，\n但正因为如此，每次暑假后半都会无所事事。\n现在正处于这种暑假后半无限延长的状况。\n\n「应该可以去玩了吧……？\n　不是穿着泳装吗……？」\n\n原因不明的玩耍欲望与日俱增。\n这么说来，\n每年夏天都会有部分从者的精神变得不正常吧。\n\n美游说「这应该是某种地方疾病」。\n那是什么，好恐怖。\n小黑说「越是平时正经的人，症状越重」。\n不要吓唬人啦。\n红宝石说「为了预防，还是先打疫苗吧～」。\n哇啊，那我就放心了。\n\n「话说红宝石！？　这疫苗是什么……好热！\n　身体……！\n　灵基……变成夏日版了……！」\n\n于是，少女被变成了泳装灵基。",
+            "descriptionJp": "その日、イリヤは唐突に気付いた。\n\n「カルデアにいる限り、無限に夏休みなのでは……？」\n\nしっかり計画を立てて、夏休みの前半で宿題を\n終わらせる派のおりこうなイリヤさんであったが、\nそれが故にいつも夏休みの後半は暇を持て余していた。\n今はその後半が無限に間延びしている状況である。\n\n「そろそろ遊んでも良いのでは……？\n　水着なのでは……？」\n\n原因不明のはっちゃけ願望が、日に日に増してくる。\nそういえば毎年夏になるたび、一部のサーヴァントの\n頭が少しおかしくなっていた。\n\n「何らかの風土病では」と美遊。\nなにそれ怖い。\n「普段は真面目な人ほど症状が重い」とクロ。\n脅かすのはやめてよね。\n「予防のためにワクチン打っときますねー」とルビー。\nわぁ、それなら安心。\n\n「ってルビー！？　その注射なに……熱い！\n　体が……！\n　霊基がっ……夏になるっ……！」\n\nかくして少女は水着霊基へと変貌させられたのだった。",
+            "descriptionEn": "Illya had a sudden realization that day.\n\n\n\"While you are in Chaldea, you can have unlimited summers.....?\"\n\n\nThe smart Illya-san is someone who made proper plan and would finish her homework in the first half of the summer vacation, however, that left her with nothing to do in the later half.\n\nNow, that later half is stretching on infinitely.\n\n\n\"It's fine to play now, isn't it......? \n\nTime for swimsuit......?\"\n\n\nThe unexplainable desire to make merry and forget about her troubles is increasing every day.\n\nSpeaking of which, during summer every year, a portion of the Servants gets a little loose in the head.\n\n\nMiyu said it was \"Some sort of endemic disease.\"\n\nWhat the, it's scary.\n\nKuro said \"The more serious the person normally is, the more serious their symptoms.\"\n\nPlease stop scaring me.\n\nRuby said \"I'm going to give you a vaccination to prevent that.\"\n\nWah, in that case I'm relieved.\n\n\n\"So you said but Ruby!? What was that injection...... It's hot! \n\nMy body is......! My Spirit Origin is...... becoming Summer......!\"\n\n\nThus, she was transformed into a Swimsuit Spirit Origin.",
+            "condition": "羁绊达到Lv.2后开放",
+            "conditionEn": null
+        },
+        {
+            "title": "3",
+            "description": "事情经过姑且不论，\n身体与思维都夏日化的伊莉雅\n将『整个暑假期间彻底玩个痛快』作为至高命题。\n无论把她带去哪里，她都会高兴地到处玩耍吧。\n\n另外，食欲随着理性似乎也略有脱轨，\n常常会提及食物的话题。\n基本上什么都吃。饭菜真好吃。\n没有变胖。这是健全的成长。\n……没有变胖啦！",
+            "descriptionJp": "経緯はともかくとして、\n体と頭が夏になってしまったイリヤは、\n『夏休みを全力で遊び倒す』ことを至上の命題とした。\nどこに連れて行っても、喜んで遊び回ることだろう。\n\nなお理性とともに食欲のタガも若干外れかかって\nいるらしく、やたら食べ物の話をするとか。\n基本的になんでも食べる。ごはんおいしい。\n太ってはいない。これは健全な成長である。\n……太ってないってば！",
+            "descriptionEn": "Regardless of the circumstances, Illya, whose body and mind has changed into Summer, made it her top-most challenge to \"go all out on the summer vacation with everything she has\".\n\nNo matter where you bring her, she would gladly play around.\n\n\nIt seems together with reasons', her restraints for food has also loosened, and she does things like talking excessively about food.\n\n''Basically I would eat anything. The meals are delicious.''\n\n''I'm not getting fat. This is healthy growth.''\n\n''......I said I'm not getting fat!''",
+            "condition": "羁绊达到Lv.3后开放",
+            "conditionEn": null
+        },
+        {
+            "title": "4",
+            "description": "强水压！：A\n提升水带内的水压，提升喷水威力的技能。\n顺便一提，说是水，实际上则是红宝石\n将魔力加工成具有夏日感的某种存在，\n从喷嘴中喷出来的东西有时好像会发生变化。\n\n夏日休假！（孩童）：A+\n暑假期间的小学生是无敌的。\n（觉得）什么都做得到，（觉得）时间是无限的。\n\n合法沐浴！：B++\n填充红宝石亲认真制作的草药精华（猛毒）。\n非但皮肤接触有效，连吸入挥发的成分都能发挥效果。\n\n「由于这是高度选择性毒性，\n　对伊莉雅小姐是无害的，\n　而且还有些许提高集中力的附加效果哦！」\n\n成分本应是连许德拉都会退避三舍的存在，\n但似乎完全无害，所以各位家长大可以放心。",
+            "descriptionJp": "○ハイ・プレッシャー！：Ａ\nホース内の水圧を高め、放水の威力を上げるスキル。\nちなみに水とは言っているが、実際にはルビーが魔力を\nなんとなく夏っぽい感じに加工した何かであり、\nその時々でノズルから出てくるものは変わるらしい。\n\n○サマー・バケーション！（子供）：Ａ＋\n夏休みの小学生は無敵である。\nなんでもできる（気がする）し、時間は無限にある（気がする）。\n\n○リーガル・シャワー！：Ｂ＋＋\nルビーちゃんご謹製のハーブエキス（猛毒）を充填。\n皮膚接触はもちろん、揮発した成分を吸い込むだけでも\n効果を発揮。\n\n「ですが高度な選択毒性により、\n　イリヤさんには無害どころかちょっと\n　集中力とかUPするおまけ付きですよ！」\n\nヒュドラもドン引きするような成分のはずだが、\n完全無害とのことなので、親御さんも安心である。",
+            "descriptionEn": "○ High Pressure!: A\n\nA skill that raises the discharge power of the hose, increasing its water pressure.\n\nBy the way, even though it's called \"water\", it is actually something that Ruby manufactered using its magical power to give it that summer feeling, what comes out of the nozzle changes from time to time as well.\n\n\n○ Summer Vacation! (Children): A\n\nElementary school students during summer vacation are invicible.\n\n(They feel) They could do anything, and (they feel) that they have all the time in the world.\n\n\n○ Regal Shower!: B++\n\nFilled with Ruby-chan's carefully made herb extract (deadly poison).\n\nThe volatile ingredients come into effect not only via skin contact, but also from inhaling them even just a little.\n\n\n\"However, due to the sophisticated selective toxicity, it's not only harmless to Illya-san, but comes with the effect of raising her power of concentration!\"\n\n\nWhile it contains ingredients that would make even a Hydra recoils in shock, it is totally harmless, so her parents can also be relieved.",
+            "condition": "羁绊达到Lv.4后开放",
+            "conditionEn": null
+        },
+        {
+            "title": "5",
+            "description": "『少女啊，化为彩虹吧』\n阶级：A　种类：对军宝具\n有效范围：10～50　最大捕捉：30人\n\nPrisma☆Splash Rainbow！\n将人生中只有一次的小学五年级暑假……\n……延长数年的伊莉雅找寻到的夏日领悟。\n\n世间一切皆有终结。\n从某件事开始的那瞬间起，\n通往终结的倒计时也同时开始了。\n获得的宝物、当时的感情、重要的记忆，\n肯定迟早会消失。\n但哪怕因害怕消失而停住秒针，\n手中的宝物也会逐渐暗淡。\n所以我们不能停下脚步。\n边失去着什么，边终结着什么，\n边向着未来前进。\n遗落的陈旧宝物会化为星座，\n走过的轨迹会化作彩虹点缀天空——\n\n……获得了诸如此类关于人生重要的教训。\n希望她能在更为严肃的正篇领悟这些。\n不管怎么说，伊莉雅会将夏日的回忆以及\n和大家的羁绊这类东西化作力量，\n转身成为「魔法少女☆伊莉雅　喷射彩虹！」\n终结暑假的觉悟召唤来了其他时间的伊莉雅，\n7倍时间密度化作手中光弹，\n击破停滞之物。\n\n从新学期开始加油吧。",
+            "descriptionJp": "『少女よ虹になれ』\nランク：Ａ　種別：対軍宝具\nレンジ：１０～５０　最大捕捉：３０人\n\nプリズマ☆スプラッシュレインボー！\n人生に一度しかない、小学五年生の夏休み。\n……を、何年も延長してきたイリヤが至った夏の悟り。\n\nこの世の全てには終わりがある。\n何かを始めたその瞬間から、\n終わりに向かうカウントダウンもまた始まるのだ。\n手に入れた宝物も、その時の感情も、大切な記憶も、\nきっといつかは消えてしまう。\nけれど失うことを恐れ秒針を止めてしまったとしても、\n手の中の宝物はくすんでいくばかりだ。\nだからわたしたちは、止まることはできない。\n何かを失いながら、何かを終わらせながら、\n未来に向かって進んでいくんだ。\n落としてしまった古い宝物は星座となり、\n歩んだ軌跡は虹となって空を彩ることだろう―――。\n\n……とかなんとか、人生の大切な教訓めいた何かを\n得てしまった。そういうのはもっとシリアスな\n本編とかで悟って欲しい。\nともあれイリヤは、夏の思い出とかみんなとの絆とか、\nなんかそういうものを力に変えて\n「プリズマ☆イリヤ　スプラッシュレインボー！」\nへと転身する。\n夏休みを終わらせるという覚悟が別時間のイリヤを\n呼び寄せ、７倍の時間密度を持つ光弾となって\n停滞するものを打ち破る。\n\n新学期からは頑張ろう。",
+            "descriptionEn": "\"'''O' Maiden! Become Rainbow!\"\n\nRank: A\n\nType: Anti-Army\n\nRange: 10~50\n\nMaximum targets''': 30 people\n\n\n''Prisma ☆ Splash Rainbow!''\n\n......Is the summer enlightment of Illya-san, who has extended the summer vacation of an elementary school fifth grader that only happens once in a lifetime for several years, reached.\n\n\n''Everything in this world has an end.''\n\n''The moment you start something, the countdown for its end also begins.''\n\n''The treasures you got, the emotions of that time, even your precious memories, they would surely disappear one day.''\n\n''However, even if you were to stop the second hand of the clock counting the fear of that lost, the treasure you got would only become dull.''\n\n''That's why, we cannot stop it.''\n\n''Even if we lose something, even if things comes to an end, we would still go face the future.''\n\n''The old treasures that we lost would become the stars and the path we walk will dye the sky a rainbow colour―――.''\n\n\n''.....Somehow, I have come to understand this important lesson of the human life.''\n\n''That is to say, I want you to realize this as something like a more serious original story.''\n\nIn any case, Illya transforms such things like memories of the summer and the bonds with everyone into power and changes into \"Prisma ☆ Illya Splash Rainbow!\".\n\nThe resolution to end summer vacation calls forth Illyas from different timelines, turning into a light bullet with 7 times the time density and destroy the stagnant things.\n\n\n''Let's work hard in the new school term.''",
+            "condition": "羁绊达到Lv.5后开放",
+            "conditionEn": null
+        },
+        {
+            "title": "6",
+            "description": "作为恐怖故事中必不可少的尖叫人员，\n伊莉雅完成了她的工作。\n还是暂时让嗓子和心灵好好休息吧。\n睡上一觉后，一定又能精力充沛地欢蹦乱跳了吧\n因为，暑假期间的小学生是无敌的。\n\n在这个夏天留下了诸多回忆。\n这么说来，这次伊莉雅的愿望仅此而已。\n那这个愿望可以算是充分实现了吧。\n与大家共同渡过的湖边时光，\n将会作为鲜明的夏日回忆，\n一直留在内心深处吧。\n\n「我倒是想尽快忘掉那鲜明的血液颜色啦……」\n\n一直留在内心深处吧。",
+            "descriptionJp": "ホラーものには欠かせない、\n絶叫要員としての仕事を全うしたイリヤ。\nしばらくは喉と心を休ませてあげよう。\n一眠りしたあとは、きっとまた元気に\n飛び回ってくれることだろう。\nだって、夏休みの小学生は無敵なのだから。\n\nこの夏に、たくさんの思い出を。\n言ってしまえば、\n今回のイリヤの望みはそれだけである。\nならば、それは充分すぎるほどに叶えられた。\nみんなと過ごしたあの湖での日々は、\n鮮やかな夏の思い出として\nいつまでも心に残り続けるだろう。\n\n「あの鮮やかな血の色を早く忘れたいんだけど……」\n\nいつまでも心に残り続けるだろう。",
+            "descriptionEn": "Illya has completed her job as the screaming personnel, which is crucial to horror stuff.\n\nLet her heart and throat rest for a little while.\n\nAfter a short nap, she will surely fly about energetically again. \n\nBecause elementary school students in summer vacation are truly invincible.\n\n\nLet's make many memories this summer.\n\nThat is what all Illya basically wish for this time.\n\nThen it was more than sufficiently granted.\n\nThe days spent at that lake with everyone are vivid memories of summer that will forever remain in her heart.\n\n\n\"I want to hurry and forget that vivid blood colour though.....\"\n\n\nIt will forever remain in her heart.",
+            "condition": "通关 从者·夏令营！ ～迦勒底·惊悚之夜～ 且 羁绊达到Lv.5开放",
+            "conditionEn": "Unlocks at Bond Level 5, Clear Servant Summer Camp 2020"
+        },
+        {
+            "title": "aprilfool",
+            "description": "魔法从者\n和世界上所有小学生一样在暑假情绪爆表的泳装魔法少女。虽说如此但周围尽是怪人所以还是逃不掉担当吐槽的职务。",
+            "descriptionJp": "マジカルサーヴァント\n世の小学生の例に漏れず夏休みでテンションが振り切れてしまった水着魔法少女。とはいえ周囲は変人だらけなのでツッコミ役の責務からは逃れられない。",
+            "descriptionEn": null,
+            "condition": null,
+            "conditionEn": null
+        }
+    ],
+    "voices": [
+        {
+            "section": "战斗",
+            "table": [
+                {
+                    "title": "开始 1",
+                    "text": "伊莉雅：战斗开始！要全力休息啦！",
+                    "textJp": "イリヤ「戦闘開始！ 全力で休むよ！」",
+                    "textEn": "Illya: Battle start! I’ll rest with all my might!",
+                    "condition": null,
+                    "voiceFile": "SV286_0_开始1.mp3"
+                },
+                {
+                    "title": "开始 2",
+                    "text": "伊莉雅：我决不允许那些……妨碍暑假的人！",
+                    "textJp": "イリヤ「夏休みを邪魔する人たち、許さないよ！」",
+                    "textEn": "Illya: I won’t forgive those in the way of the summer holidays!",
+                    "condition": null,
+                    "voiceFile": "SV286_0_开始2.mp3"
+                },
+                {
+                    "title": "技能 1",
+                    "text": "伊莉雅：绝不放弃……夏天！",
+                    "textJp": "イリヤ「夏を！ 諦めない！」",
+                    "textEn": "Illya: I won’t give up on summer!",
+                    "condition": null,
+                    "voiceFile": "SV286_0_技能1.mp3"
+                },
+                {
+                    "title": "技能 2",
+                    "text": "伊莉雅：要猛烈射击了哦！",
+                    "textJp": "イリヤ「いっぱい撃つよー！」",
+                    "textEn": "Illya: I’ll shoot lots and lots~!",
+                    "condition": null,
+                    "voiceFile": "SV286_0_技能2.mp3"
+                },
+                {
+                    "title": "技能 3",
+                    "text": "红宝石：给花儿浇水吧～。",
+                    "textJp": "ルビー「お花に水をあげましょーう」",
+                    "textEn": "Ruby: Let’s give the flowers some water~.",
+                    "condition": null,
+                    "voiceFile": "SV286_0_技能3.mp3"
+                },
+                {
+                    "title": "指令卡 1",
+                    "text": "伊莉雅：举枪～。",
+                    "textJp": "イリヤ「構えてー！」",
+                    "textEn": "Illya: In your positions~.",
+                    "condition": null,
+                    "voiceFile": "SV286_0_指令卡1.mp3"
+                },
+                {
+                    "title": "指令卡 2",
+                    "text": "伊莉雅：瞄准～。",
+                    "textJp": "イリヤ「狙ってー」",
+                    "textEn": "Illya: Take aim~.",
+                    "condition": null,
+                    "voiceFile": "SV286_0_指令卡2.mp3"
+                },
+                {
+                    "title": "指令卡 3",
+                    "text": "伊莉雅：喷射！",
+                    "textJp": "イリヤ「ブシャー！！」",
+                    "textEn": "Illya: Sploosh~!",
+                    "condition": null,
+                    "voiceFile": "SV286_0_指令卡3.mp3"
+                },
+                {
+                    "title": "宝具卡 1",
+                    "text": "伊莉雅：啊，感觉……好像要领悟到什么了……",
+                    "textJp": "イリヤ「…はっ！ …何か、悟りそう…」",
+                    "textEn": "Illya: Huh?! Something is awakening…",
+                    "condition": null,
+                    "voiceFile": "SV286_0_宝具卡1.mp3"
+                },
+                {
+                    "title": "宝具卡 2",
+                    "text": "伊莉雅：我有种自己又要分裂的预感！",
+                    "textJp": "イリヤ「わたし、また分裂しそうな予感！」",
+                    "textEn": "Illya: I have the feeling I’m going to split again…!",
+                    "condition": null,
+                    "voiceFile": "SV286_0_宝具卡2.mp3"
+                },
+                {
+                    "title": "攻击 1",
+                    "text": "伊莉雅：Wasser（水）！",
+                    "textJp": "イリヤ「ウォッシャー！」",
+                    "textEn": "Illya: Wassa~",
+                    "condition": null,
+                    "voiceFile": "SV286_0_攻击1.mp3"
+                },
+                {
+                    "title": "攻击 2",
+                    "text": "伊莉雅：",
+                    "textJp": "イリヤ「てりゃりゃりゃ〜！」",
+                    "textEn": "Illya: Teryaryarya~",
+                    "condition": null,
+                    "voiceFile": "SV286_0_攻击2.mp3"
+                },
+                {
+                    "title": "攻击 3",
+                    "text": "伊莉雅：突击！",
+                    "textJp": "イリヤ「突撃ー！」",
+                    "textEn": "Illya: Charge!",
+                    "condition": null,
+                    "voiceFile": "SV286_0_攻击3.mp3"
+                },
+                {
+                    "title": "攻击 4",
+                    "text": "伊莉雅：收下这个吧！",
+                    "textJp": "イリヤ「これでもどうぞ！」",
+                    "textEn": "Illya: Take this too~",
+                    "condition": null,
+                    "voiceFile": "SV286_0_攻击4.mp3"
+                },
+                {
+                    "title": "攻击 5",
+                    "text": "伊莉雅：水压，最大！",
+                    "textJp": "イリヤ「水圧〜…マックスぅ！」",
+                    "textEn": "Illya: Water pressure max!",
+                    "condition": null,
+                    "voiceFile": "SV286_0_攻击5.mp3"
+                },
+                {
+                    "title": "攻击 6",
+                    "text": "红宝石：红宝石亲突击！",
+                    "textJp": "ルビー「ルビーちゃんラッシュー！」",
+                    "textEn": "Ruby: Ruby-chan Rush!",
+                    "condition": null,
+                    "voiceFile": "SV286_0_攻击6.mp3"
+                },
+                {
+                    "title": "Extra 1",
+                    "text": "伊莉雅：局部地区有雨！请注意脚下哦！",
+                    "textJp": "イリヤ「所によりにわか雨！ お足元注意だよー！」",
+                    "textEn": "Illya: It’ll rain in some places, watch your feet~!",
+                    "condition": null,
+                    "voiceFile": "SV286_0_Extra1.mp3"
+                },
+                {
+                    "title": "Extra 2",
+                    "text": "伊莉雅：无论是晴天还是雨天！都要积极向上地玩耍！",
+                    "textJp": "イリヤ「晴れの日も雨の日も！ 上を向いて遊ぼー！」",
+                    "textEn": "Illya: In clear days and in rainy days, let’s look above and play~!",
+                    "condition": null,
+                    "voiceFile": "SV286_0_Extra2.mp3"
+                },
+                {
+                    "title": "宝具 1",
+                    "text": "伊莉雅：上吧，红宝石！向着前方，向着未来，向着更远！哪怕夏天终结……正因为还有无数回忆，我都会飞翔！少女啊，化为彩虹吧！",
+                    "textJp": "イリヤ「行こう、ルビー！ 前へ、未来へ、その先へ！ 夏が終わっても、たくさんの思い出があるから、わたしは飛べる！『少女よ虹になれ』！」",
+                    "textEn": "Illya: Let’s go, Ruby! To the past, to the future, and ahead! Even if summer ends, since there are so many memories, I’ll fly! “O little girl, become the rainbow[Prisma☆Splash Rainbow]”!",
+                    "condition": null,
+                    "voiceFile": "SV286_0_宝具1.mp3"
+                },
+                {
+                    "title": "宝具 2",
+                    "text": "红宝石：好了~现在开始点名了哦~？学号1号的、伊莉雅？\n伊莉雅们：到！　到！　哇！　来了！　是！ 噢！　耶！\n红宝石：太多了吧！？\n伊莉雅们：新学期也要加油哦！",
+                    "textJp": "ルビー「はーい、それでは出欠をとりますよー？ 出席番号1番、イリヤさーん？」\nイリヤたち「はい」「はい」「ふぉー」「ほー」「うぃー！」「おぉー」「いえーい」\nルビー「多すぎなんですけど～！？」\nイリヤたち『新学期からもがんばろー！』",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV286_0_宝具2.mp3"
+                },
+                {
+                    "title": "受击 1",
+                    "text": "伊莉雅：可玩的太少了啦！",
+                    "textJp": "イリヤ「遊びがなさすぎるぅー…！」",
+                    "textEn": "Illya: That play is too much!",
+                    "condition": null,
+                    "voiceFile": "SV286_0_受击1.mp3"
+                },
+                {
+                    "title": "受击 2",
+                    "text": "伊莉雅：为什么啦！？",
+                    "textJp": "イリヤ「なんでぇっ！？」",
+                    "textEn": "Illya: Why?!",
+                    "condition": null,
+                    "voiceFile": "SV286_0_受击2.mp3"
+                },
+                {
+                    "title": "无法战斗 1",
+                    "text": "伊莉雅：新……新学期开始了……",
+                    "textJp": "イリヤ「し…新学期が、始まる…」",
+                    "textEn": "Illya: T-The new semester is, starting…",
+                    "condition": null,
+                    "voiceFile": "SV286_0_无法战斗1.mp3"
+                },
+                {
+                    "title": "无法战斗 2",
+                    "text": "伊莉雅：也就是说……不能只知道休息吗？",
+                    "textJp": "イリヤ「休んでばかりじゃ…ダメってことぉ…？」",
+                    "textEn": "Illya: Does this mean resting all the time, is bad…?",
+                    "condition": null,
+                    "voiceFile": "SV286_0_无法战斗2.mp3"
+                },
+                {
+                    "title": "胜利 1",
+                    "text": "伊莉雅：无论今天明天还是后天！还远远没有玩够！",
+                    "textJp": "イリヤ「今日も明日も明後日も！ まだまだ遊び足りないね！」",
+                    "textEn": "Illya: Today and tomorrow and the day after tomorrow, I won’t have played enough yet!",
+                    "condition": null,
+                    "voiceFile": "SV286_0_胜利1.mp3"
+                },
+                {
+                    "title": "胜利 2",
+                    "text": "伊莉雅：真开心啊！接下来要带我去哪儿呀？",
+                    "textJp": "イリヤ「楽しかったぁ〜。次は、どこに連れてってくれる？」",
+                    "textEn": "Illya: That was fun! Where are you taking me next time?",
+                    "condition": null,
+                    "voiceFile": "SV286_0_胜利2.mp3"
+                }
+            ]
+        },
+        {
+            "section": "召唤和强化",
+            "table": [
+                {
+                    "title": "召唤",
+                    "text": "伊莉雅：是大海！！是伊莉雅！　是Archer！　泳装也带来了！所以重新来一遍……是大海！！……哎，不是大海？　是湖？嗯，只要能游泳，哪儿都可以哦。让我们创造很多暑假的快乐回忆吧！\n红宝石：这时的伊莉雅小姐尚无从知晓，这将拉开惨剧的序幕……",
+                    "textJp": "イリヤ「海だー！！イリヤです！　アーチャーです！　水着も持ってきました！というわけで改めて……海だー！！……え、海じゃない？　湖？うん、泳げるならどこでも良いよ。夏休みの楽しい思い出、いっぱい作ろうね！」\nルビー「これが惨劇の幕開けになるとは、この時のイリヤさんには知る由もなかったのであった……。」",
+                    "textEn": "Illya: It’s the sea! I’m Illya! I’m an Archer! I’m an Archer! I brought a swimsuit! So again, it’s the sea! … Eh? It’s not the sea? A lake? Hm, it doesn’t matter as long as I can swim! Let’s make a lot of funny memories of the summer holidays!\n\nRuby: This time Illya-san didn’t know that this would be the beginning of a tragedy…",
+                    "condition": null,
+                    "voiceFile": "SV286_0_召唤.mp3"
+                },
+                {
+                    "title": "升级 1",
+                    "text": "伊莉雅：噢噢……明明只是玩耍吃饭睡觉而已，等级却提升了……",
+                    "textJp": "イリヤ「おぉ……遊んで食べて寝てるだけなのにレベルが上がっていく……」",
+                    "textEn": "Illya: Oh… Even though I’m just playing, eating, and sleeping, my level keeps rising.",
+                    "condition": null,
+                    "voiceFile": "SV286_0_升级1.mp3"
+                },
+                {
+                    "title": "升级 2",
+                    "text": "伊莉雅：谢谢！　这样就能尽情休息啦！",
+                    "textJp": "イリヤ「ありがとう！ これでいっぱい休めるよ〜！」",
+                    "textEn": "Illya: Thank you~! With this I can rest a lot!",
+                    "condition": null,
+                    "voiceFile": "SV286_0_升级2.mp3"
+                },
+                {
+                    "title": "升级 3",
+                    "text": "伊莉雅：不……不用那么着急地提升等级吧？",
+                    "textJp": "イリヤ「そ、そんなに急いでレベル上げなくても良いのでは……？」",
+                    "textEn": "Illya: I-Is it fine if my level doesn’t rise that quickly?",
+                    "condition": null,
+                    "voiceFile": "SV286_0_升级3.mp3"
+                },
+                {
+                    "title": "灵基再临 1",
+                    "text": "伊莉雅：换好衣服啦！可因为有些害羞，所以毛巾依然装备着……但……但这样一来准备就完成了。接下来只要尽情玩到天黑就行了！",
+                    "textJp": "イリヤ「着替えました！ けど、ちょっと恥ずかしいのでタオルは装備したままで……。で、でも、これで準備は万全！ あとは日が暮れるまで遊びまくるだけだね！」",
+                    "textEn": "Illya: I changed my clothes! But, it’s a bit embarrassing, so I’ll keep wearing the towel… B-But, with this I’m all set! All that’s left is to play until the sun sets!",
+                    "condition": null,
+                    "voiceFile": "SV286_0_灵基再临1.mp3"
+                },
+                {
+                    "title": "灵基再临 2",
+                    "text": "伊莉雅：阳光太强烈了，得注意才行。\n红宝石：那干脆噗地挤出一大堆防晒霜乱涂一气吧。\n伊莉雅：感觉很恶心，我才不要呢！",
+                    "textJp": "イリヤ「陽射しが強いから気を付けないとね」\nルビー「それでは日焼け止めクリームをブビュッと出しますので塗りたくってくださーい」\nイリヤ「なんか気持ち悪いから嫌！」",
+                    "textEn": "Illya: The sunlight is strong so we have to take care.\n\nRuby: In that case, I’ll pull out some sunblock cream, so please let me spread it.\n\nIllya: It somehow feels gross, so no!\n",
+                    "condition": null,
+                    "voiceFile": "SV286_0_灵基再临2.mp3"
+                },
+                {
+                    "title": "灵基再临 3",
+                    "text": "伊莉雅：那个……\n红宝石：鼓足勇气准备了成熟的比基尼，却因为害羞而穿上了雨衣的伊莉雅小姐，怎么了？\n伊莉雅：不要说明这种隐情啦！不，呃，那个……没关系！我才不害羞呢！　毕竟这是战斗服嘛！红宝石似乎也变大了！　对吧！？",
+                    "textJp": "イリヤ「うええーっと……」\nルビー「気合いを入れて大人っぽいビキニを用意したはいいけど、やっぱり恥ずかしくなって合羽を着たイリヤさん？ どうしましたー？」\nイリヤ「裏事情を説明しないでー！ いや、えっと、その、大丈夫です！ 恥ずかしくないです！ 戦闘服なので！ ルビーもなんかでっかくなったし、ね！」",
+                    "textEn": "Illya: E~rr…\n\nRuby: What’s wrong, Illya-san who got pumped up and prepared an adult bikini but is wearing a raincoat because it’s embarrassing after all?\n\nIllya: Eh?! Hey, don’t explain it~! No, er, hm… It’s fine! It’s not embarrassing! It’s a combat outfit! Ruby has become somewhat huge! Right!",
+                    "condition": null,
+                    "voiceFile": "SV286_0_灵基再临3.mp3"
+                },
+                {
+                    "title": "灵基再临 4",
+                    "text": "伊莉雅：嗯，我知道。能像这样玩耍的时间其实非常短暂。时间会像流星一样转瞬即逝吧。……星星非常漂亮。巨大的彩虹令人感动。和大家尽情谈笑风生。每个都是我重要的回忆。哪怕总有一天我长大成人，渐渐忘却各种回忆。也绝不会忘记……今天是如此快乐的这份心情！",
+                    "textJp": "イリヤ「うん……わかってる。こうして遊んでいられるのは、本当は一瞬のこと。時間は、流れ星みたいにあっという間に過ぎ去っちゃうんだよね。星が綺麗だった。大きな虹に感動した。みんなと、たくさんおしゃべりした。ひとつひとつが、わたしの大切な思い出。いつか……わたしが大人になって、いろんなことを少しずつ忘れていくんだとしても……今日がすっごく楽しかったって、その気持ちだけは、忘れないと思う！」",
+                    "textEn": "Illya: Yeah, I know. Playing like this really is for an instant. Time is like a shooting star, it passes by in the blink of an eye. The stars were pretty. I was moved by a big rainbow. I talked a lot with everyone. Every single of them is a valuable memory. Even though someday I’ll become an adult and keep forgetting many things little by little, today was really fun, and I don’t think I’ll forget that feeling alone!",
+                    "condition": null,
+                    "voiceFile": "SV286_0_灵基再临4.mp3"
+                }
+            ]
+        },
+        {
+            "section": "个人空间",
+            "table": [
+                {
+                    "title": "羁绊 Lv.1",
+                    "text": "伊莉雅：这么说来，我在一年级的时候曾写过喇叭花的观察日记。\n红宝石：哎呀，喇叭花真不错，我很喜欢哦。\n伊莉雅：这样啊。难道你种过？\n红宝石：嗯，算是吧。不过我种的那个叫大喇叭花。",
+                    "textJp": "イリヤ「そういえば一年生の時、アサガオの観察日記とかやってたんだよね」\nルビー「あらー、いいですねえアサガオ。好きですよーわたし」\nイリヤ「そうなんだ。もしかして育ててたり？」\nルビー「ええまあ。チョウセンアサガオっていうんですけど」",
+                    "textEn": "Illya: Come to think about it, I did a morning glory observation diary when I was in the 1st grade.\n\nRuby: My, morning glories are nice. I love them.\n\nIllya: Is that so. Did you raise them by any chance?\n\nRuby: Yeah, well. They were those called devil’s trumpets though.",
+                    "condition": null,
+                    "voiceFile": "SV286_0_羁绊Lv1.mp3"
+                },
+                {
+                    "title": "羁绊 Lv.2",
+                    "text": "伊莉雅：暑假作业？当然已经完成了哦！啊，但自由研究课题还没做呢……\n红宝石：唔嗯，那空想树的成长观察日记如何？\n伊莉雅：别闹了吧？　不要开这种玩笑。",
+                    "textJp": "イリヤ「夏休みの宿題？ もちろんもう終わらせたよー！ あ、でも、自由研究だけはまだだったなぁ」\nルビー「ふーむ。では、空想樹の成長観察日記とかどうです？」\nイリヤ「やめよ、そのへん茶化すのは」",
+                    "textEn": "Illya: My homework for summer holidays? Of course I finished them! Ah, but I haven’t done my independent research yet.\n\nRuby: Humm. How about an observation diary about the growth of Quixotic Trees then?\n\nIllya: Stop poking fun at me like that…",
+                    "condition": null,
+                    "voiceFile": "SV286_0_羁绊Lv2.mp3"
+                },
+                {
+                    "title": "羁绊 Lv.3",
+                    "text": "伊莉雅：为了尽情地玩耍，最重要的就是保持健康！一定要每天早上都做广播体操才行。啊，我做好集章卡了，给我敲章。",
+                    "textJp": "イリヤ「いっぱい遊ぶためには何より健康第一！ ちゃんと毎朝ラジオ体操しなきゃねー。あ、スタンプカード作ったからハンコください！」",
+                    "textEn": "Illya: In order to play a lot, health always comes first! I must do properly my radio exercises every morning~! Ah, I made a stamp card, so please give me a seal!",
+                    "condition": null,
+                    "voiceFile": "SV286_0_羁绊Lv3.mp3"
+                },
+                {
+                    "title": "羁绊 Lv.4",
+                    "text": "伊莉雅：早上好，御主！　今天决定做什么了吗？还没有？　那么……给，这个！我在这张暑假记录事项里，整理了「伊莉雅想做的事清单」！可以供您参考！\n红宝石：让我看看，那啥。「想要前卫地谈一次夏日的露水情缘」……\n伊莉雅：不要追加这种奇怪的项目啦！？",
+                    "textJp": "イリヤ「おはようマスターさん。今日は何するかもう決めた？ まだ？ だったら、はい、これー！ こちらの夏休みのしおりにイリヤのやりたいことリストをまとめておきました！ ご参考までに！」\nルビー「どれどれ……えーと、ひと夏の恋でアバンギャりたい、っと……」\nイリヤ「変な項目書き足さないでー！？」",
+                    "textEn": "Illya: Good morning, Master-san! Have you decided what to do today? Not yet? In that case… Here, this~! I have compiled a list of things Illya wants to do in this summer holiday guidebook! Even with references!\n\nRuby: Let me see… “I want to go bungee jumping with my summer love”, there.\n\nIllya: Don’t add weird entries!",
+                    "condition": null,
+                    "voiceFile": "SV286_0_羁绊Lv4.mp3"
+                },
+                {
+                    "title": "羁绊 Lv.5",
+                    "text": "伊莉雅：唔…………啊！我……我没睡着啦！　一点也不困，没关系！不，我没有在逞强。只是觉得睡觉太浪费了……每天真的都快乐到像在做梦……明天也要……和我一起玩哦，御主……Zzz……",
+                    "textJp": "イリヤ「う～～～ん……はっ！？ ね、寝てないよ！ まだまだ眠くないもん。大丈夫！ ……ううん、無理してるわけじゃないよ。ただ……寝るのがもったいないなって……。本当、夢みたいに、毎日楽しくて……。明日も……遊ぼうね……マスターさん。……すぅ……むにゃむにゃ……すぅ……」",
+                    "textEn": "Illya: U~hn… Hah! I-I wasn’t asleep. I’m not sleepy yet. I’m fine… Uuhn, it’s not like I’m forcing myself... It’s just sleeping is a waste. Really, I’m enjoying every day as if I was dreaming... Let’s play tomorrow too, Master-san. …Zzz.",
+                    "condition": null,
+                    "voiceFile": "SV286_0_羁绊Lv5.mp3"
+                },
+                {
+                    "title": "对话 1",
+                    "text": "伊莉雅：快出门吧，御主！我随便去哪儿都可以！除了会出现杀人魔的湖边！",
+                    "textJp": "イリヤ「早くおでかけしよう、マスターさん。わたしはどこでもいいよ～。殺人鬼の出る湖以外なら！」",
+                    "textEn": "Illya: Let’s head out already, Master-san! I’m fine with going anywhere. Except if it’s a lake where a murderer comes out!",
+                    "condition": null,
+                    "voiceFile": "SV286_0_对话1.mp3"
+                },
+                {
+                    "title": "对话 2",
+                    "text": "伊莉雅：哎，怎么突然问我……主从关系什么的。\n红宝石：是想让她认清自己的立场……的意思吧？110可是会让你好看哦？",
+                    "textJp": "イリヤ「！？ いきなり主従関係、と言われましても……」\nルビー「お前の立場をわからせてやる！ 的なアレですかぁ～？ 110番が、火を噴きますよぉ～？」",
+                    "textEn": "Illya: Ueh?! Even if you talk about the master-servant relationship all of a sudden…\n\nRuby: I’ll make you know your position! Is it something like that~? The police telephone number’s spitting fire~!",
+                    "condition": null,
+                    "voiceFile": "SV286_0_对话2.mp3"
+                },
+                {
+                    "title": "对话 3",
+                    "text": "伊莉雅：御主和我的关系？唔……类似儿童和带队的监护人……？\n红宝石：倒不如说你是在期待除此以外的什么回答才会提这个问题的呢？",
+                    "textJp": "イリヤ「マスターさんとわたしの関係？ うーん……児童と、引率の保護者……みたいな？」\nルビー「むしろ、それ以外のどんな答えを期待して、質問なさったんですかねぇ？」",
+                    "textEn": "Illya: My relationship with Master-san? U~hm. Something like, a child and their leading protector?\n\nRuby: Rather, I wonder what other kind of answer you expected by making that question…",
+                    "condition": null,
+                    "voiceFile": "SV286_0_对话3.mp3"
+                },
+                {
+                    "title": "对话 4",
+                    "text": "伊莉雅：哼哼哼……给我看好了，小黑。我占压倒性优势的换衣服次数。和只有一套衣服的你的水准差距……好痛！你干什么啦！　也用不着打我吧！\n红宝石：同为Archer，你俩感情真和睦。",
+                    "textJp": "イリヤ「ふっふっふ、見なさいクロ、わたしのこの圧倒的着替え枚数を！ 一張羅のあなたとは格が違……痛ーい！？ 何するのー！ 叩くことないでしょー！」\nルビー「同じアーチャー同士、仲良しでけっこうですねぇ」",
+                    "textEn": "Illya: Fuffuffu. Look, Kuro. Look at this overwhelming number of changes of mine!  It’s a different case from you and your one good cloth… That hu~rts! What are you doing~! I didn’t hit you!\n\nRuby: They sure get along as fellow equal Archers…",
+                    "condition": "持有克洛伊·冯·爱因兹贝伦",
+                    "voiceFile": "SV286_0_对话4.mp3"
+                },
+                {
+                    "title": "对话 5",
+                    "text": "伊莉雅：快看快看，美游！　这套泳装怎么样？哎，很适合？哎嘿嘿……谢谢！下次我也会为美游准备泳装的！准备那种……色情低俗的！不不，不用客气！　没问题的啦，全部交给我吧！",
+                    "textJp": "イリヤ「見て見て美遊ー、この水着どうかなっ。えー、似合うー？ えへへ、ありがとー。今度美遊の水着も用意してくるからねっ。なんかこう……紐いの！ ううん、遠慮しないで！ 大丈夫だから！ わたしに任せてー！」",
+                    "textEn": "Illya: Look look, Miyu. How is this swimsuit? Ee~h, it suits me? Ehehe~, thank you! Next time you have to prepare your swimsuit, Miyu! Something… like… stringy! Yup, it’s fine not to hold back so leave it to me!",
+                    "condition": "持有美游·艾德费尔特",
+                    "voiceFile": "SV286_0_对话5.mp3"
+                },
+                {
+                    "title": "对话 6",
+                    "text": "伊莉雅：暂时忘记全部，尽情玩耍吧！……我本来已经下定了决心。但食堂的那个红色大哥哥眼神非常严厉……嗯，要有节制，遵守规则地放肆玩！",
+                    "textJp": "イリヤ「すべてをいったん忘れて遊びまくるぞー！ ……って決心したんだけど、食堂の赤いお兄さんの目が厳しくてねー。……うん、節度を守って規律正しく遊び惚けよう！」",
+                    "textEn": "Illya: Forget everything for a moment, and play around! I made my mind to say that, but the eyes of the red mister at the cafeteria were so harsh… Um, let’s get absorbed into playing in moderation and according to the regulations!",
+                    "condition": "持有卫宫",
+                    "voiceFile": "SV286_0_对话6.mp3"
+                },
+                {
+                    "title": "对话 7",
+                    "text": "红宝石：远离父母的身边，自由地享受暑假。唔～，简直是小学生的梦想呢。\n伊莉雅：不，虽然我确实在享受……但很微妙呢。毕竟这里也有类似父母的人嘛。",
+                    "textJp": "ルビー「親御さんの元を離れてのびのびと夏休みを満喫……。うーん、小学生のドリームですねえ」\nイリヤ「いやー、満喫はしてるけど……どうだろう。親御さんっぽい人はここにもいるからなー」",
+                    "textEn": "Ruby: Leaving your parents’ side and fully enjoying your summer holidays without any worries! U~hn, it’s the dream of every elementary school student!\n\nIllya: U~hn. I’m enjoying it, but I wonder why. It may be because there are people here that look like my parents.",
+                    "condition": "持有爱丽丝菲尔〔天之衣〕、卫宫〔Assassin〕",
+                    "voiceFile": "SV286_0_对话7.mp3"
+                },
+                {
+                    "title": "对话 8",
+                    "text": "伊莉雅：刚才我在食堂见到了阿比亲哦。我提出我们一起吃吧，坐在了她的身边。……但今天的阿比亲是性格可怕的那个。\n红宝石：毕竟那个人每天的状态都不一样嘛。触手类型的时候很难交谈，得小心才行。\n伊莉雅：嗯……所以我也有些着急。但觉得自己总该说些什么，于是情急之下说出了……「章鱼烧很好吃吧！」结果她说亵渎还是什么之类难懂的话，吓了我一跳啊。那边的人应该不吃章鱼吧。",
+                    "textJp": "イリヤ「さっき食堂でアビーちゃん見かけてね、一緒に食べよーって言って隣に座ったんだけど、今日のアビーちゃんは怖い方の性格でした」\nルビー「日によってテンションが違いますからねー、あのお方。触手タイプの時は会話が難しいですから気を付けませんと」\nイリヤ「うん、それでわたし焦っちゃって、でも何か言わなきゃーって思って、咄嗟にタコ焼きおいしいですよね！ って言ったら冒涜的だとかなんとか難しい言葉で驚かれたよー。向こうの人ってタコ食べないんだね」",
+                    "textEn": "Illya: I just saw Abby-chan at the cafeteria. I told her to eat together, and I sat next to her… But today’s Abby-chan was the scary personality…\n\nRuby: The mood is different depending on the day, for that person. Talking is always difficult when it comes to the tentacle-type, so we must be careful…\n\nIllya: Yup. So I was panicking, but I thought I should say something, and I said right away “takoyaki is tasty, isn’t it?”. She surprised me with difficult words like sacrilegious or something like that. So that person doesn’t eat octopus.",
+                    "condition": "持有阿比盖尔·威廉姆斯、阿比盖尔·威廉姆斯〔夏〕",
+                    "voiceFile": "SV286_0_对话8.mp3"
+                },
+                {
+                    "title": "对话 9",
+                    "text": "伊莉雅：咦，奇怪？杀生院小姐是各种方面都那么巨大的吗……？我怎么觉得她应该更为偏向我的尺寸呢……算……算了，但是，成年人的杀生院小姐也很棒呢！该怎么说呢，有种深闺千金的高贵感……\n红宝石：啊，那个人被登记在伊莉雅小姐的「禁止接近从者清单」上哦。\n伊莉雅：为什么啊！？　话说那清单是什么！？",
+                    "textJp": "イリヤ「あ、あれ？ 殺生院さんってあんなにいろいろ大きかったっけ？ もっとこう、わたしくらいのサイズ感だったような気が……。ま、まあでも、大人な殺生院さんも素敵だよねー。何というか、たおやかな深窓のお嬢様的な上品さが……」\nルビー「あ、その方、イリヤさんの接近禁止サーヴァントリストに登録されてますよー」\nイリヤ「なんで！？ っていうかそのリスト何！？」",
+                    "textEn": "Illya: W-What? Sesshōin-san was so big in many senses? I feel like she was more like about my size… Well, it doesn’t matter, the grown-up Sesshōin-san is wonderful too. How to say it, the elegance of a graceful lady that was brought up with tender care…\n\nRuby: Ah, that person is registered in Illya-san’s “Restraint Order Servant List”.\n\nIllya: Why?! I mean, what’s that list?!",
+                    "condition": "持有杀生院祈荒、杀生院祈荒(MoonCancer)",
+                    "voiceFile": "SV286_0_对话9.mp3"
+                },
+                {
+                    "title": "对话 10",
+                    "text": "伊莉雅：啊～，巴小姐好帅啊。那操控手柄干净利落的样子。一定是个相当有名的专业玩家吧……哎，不是？　不是专业玩家，而是二刀流的剑豪？啊哈哈，怎么可能嘛。",
+                    "textJp": "イリヤ「はぁ～。巴さんカッコイイなあ……。あのキレッキレのコントローラー捌き、さぞかし名のあるプロゲーマーに違いない！え、違う？プロゲーマーじゃなくて二刀流の剣豪？あっはは！そんなまさかー！」",
+                    "textEn": "Illya: Haa~. Tomoe-san is so cool..... That agile controller movement, she must be a famed pro-gamer for sure! Eh, she's not? Not a pro-gamer but a two-sword style master swordswoman? Ahahah! That can't beー!",
+                    "condition": "持有巴御前(Saber)",
+                    "voiceFile": "SV286_0_对话10.mp3"
+                },
+                {
+                    "title": "喜欢的东西",
+                    "text": "伊莉雅：炒面……刨冰……西瓜……都很有吸引力呢。啊，还想吃那个！海边小摊特有的其实并不好吃也不难吃的中立拉面！",
+                    "textJp": "イリヤ「焼きそば、かき氷、スイカ……どれも魅力的ですなー。あ、あとあれ食べたーい！ 海の家特有の別段おいしくもまずくもないニュートラルラーメン！」",
+                    "textEn": "Illya: Yakisoba, shaved ice, watermelon… All of them are fascinating~. Ah, I also want to eat that! The beach house’s peculiar, particularly good and not bad Neutral Ramen!",
+                    "condition": null,
+                    "voiceFile": "SV286_0_喜欢的东西.mp3"
+                },
+                {
+                    "title": "讨厌的东西",
+                    "text": "伊莉雅：讨厌的东西？没关系！　我基本什么都能吃！\n红宝石：我觉得人家不是在问你对食物的喜好。",
+                    "textJp": "イリヤ「嫌いなもの？ 大丈夫です！ だいたい何でも食べられます！」\nルビー「食べ物の好き嫌いを聞いているわけではないと思うのですが……」",
+                    "textEn": "Illya: Things I dislike? It’s okay! I eat about anything!\n\nRuby: I don’t think they mean what food you like or hate…",
+                    "condition": null,
+                    "voiceFile": "SV286_0_讨厌的东西.mp3"
+                },
+                {
+                    "title": "关于圣杯",
+                    "text": "伊莉雅：向圣杯许愿啊。唔，太多了，让人犹豫不决呢。\n红宝石：伊莉雅小姐真贪婪呢。\n伊莉雅：想要和大家一起在夏天创造很多回忆。如果该要从中只取一个，我可选不出来呀。\n红宝石：原来如此。伊莉雅小姐果然很贪婪。",
+                    "textJp": "イリヤ「聖杯に願うこと、かぁ……ふふ、いろいろあり過ぎて迷っちゃうなぁ」\nルビー「イリヤさんは欲張りさんですねー」\nイリヤ「この夏の間にみんなとたっくさん思い出を作りたい！ どれか一つだなんて決められないよー」\nルビー「なるほど。やっぱりイリヤさんは欲張りさんですね」",
+                    "textEn": "Illya: Something I’d wish to the Holy Grail? U~hm. There are so many things I have my doubts.\n\nRuby: Illya-san is a greedy one.\n\nIllya: In this summer, I want to make lots of memories with everyone! I can’t decide which one should go first!\n\nRuby: I see. After all, Illya-san is a greedy one.",
+                    "condition": null,
+                    "voiceFile": "SV286_0_关于圣杯.mp3"
+                },
+                {
+                    "title": "活动举行中",
+                    "text": "伊莉雅：好像在举办什么节日呢！来嘛来嘛，快走吧，御主！",
+                    "textJp": "イリヤ「何かお祭りやってるみたい。ほらほら、早く行こう、マスターさーん！」",
+                    "textEn": "Illya: Looks like they’re doing some kind of festival. Come on, come on! Let’s go already, Master-san!",
+                    "condition": null,
+                    "voiceFile": "SV286_0_活动举行中.mp3"
+                },
+                {
+                    "title": "生日",
+                    "text": "伊莉雅：生日快乐，御主！哎呀，时间过得真快呢。自我和御主相识以来……已经几年了？哎，我？　我是永恒不变的永远的11岁啦！只要我还在迦勒底！",
+                    "textJp": "イリヤ「お誕生日おめでとう、マスターさん。いやー月日が経つのは早いものですなー。わたしがマスターさんに出会ってから、何年経ったっけ？ え、わたし？ わたしはいつまでも、永遠の11歳だよ！ カルデアにいる限りね！」",
+                    "textEn": "Illya: Happy birthday, Master-san. Time flies, doesn't it? How many years has it been since I met Master? Eh, me? No matter how long it has been, I'm forever 11 years old! When I stay in Chaldea, that is!",
+                    "condition": null,
+                    "voiceFile": "SV286_0_生日.mp3"
+                }
+            ]
+        }
+    ],
+    "bondCraft": -1,
+    "valentineCraft": [],
+    "icons": [
+        {
+            "key": "icon1",
+            "valueList": [
+                "伊莉雅丝菲尔·冯·爱因兹贝伦(Archer)_status_1.png",
+                "伊莉雅丝菲尔·冯·爱因兹贝伦(Archer)_status_2.png",
+                "伊莉雅丝菲尔·冯·爱因兹贝伦(Archer)_status_3.png"
+            ]
+        }
+    ],
+    "sprites": [
+        {
+            "key": "sprite1",
+            "valueList": [
+                "伊莉雅丝菲尔·冯·爱因兹贝伦(Archer)_model_1.png",
+                "伊莉雅丝菲尔·冯·爱因兹贝伦(Archer)_model_2.png",
+                "伊莉雅丝菲尔·冯·爱因兹贝伦(Archer)_model_3.png"
+            ]
+        }
+    ],
+    "fandomIcons": {
+        "fandom.S286Icon.png": "Stage 1",
+        "fandom.IllyasvielVonEinzbernArcherStage2Icon.png": "Stage 2",
+        "fandom.IllyasvielVonEinzbernArcherStage3Icon.png": "Stage 3",
+        "fandom.IllyasvielVonEinzbernArcherFinalIcon.png": "Stage 4",
+        "fandom.S286_status_servant_1.png": "Portrait (Stage 1)",
+        "fandom.S286_status_servant_2.png": "Portrait (Stage 2)",
+        "fandom.S286_status_servant_3.png": "Portrait (Stage 3)"
+    },
+    "fandomSprites": {
+        "fandom.Illya_Archer_1_Sprite.png": "Stage 1",
+        "fandom.Illya_Archer_2_Sprite.png": "Stage 2",
+        "fandom.Illya_Archer_3_Sprite.png": "Stage 3",
+        "fandom.S286_card_servant_1.png": "Command Card (Stage 1)",
+        "fandom.S286_card_servant_2.png": "Command Card (Stage 2)",
+        "fandom.S286_card_servant_3.png": "Command Card (Stage 3)",
+        "fandom.S286_card_servant_np.png": "NP Logo",
+        "fandom.Illya_Archer_NP_Sprite.png": "NP Sprite"
+    },
+    "niceSkills": [
+        {
+            "id": 778550,
+            "num": 1,
+            "name": "ハイ・プレッシャー！ A",
+            "ruby": "はい・ぷれっしゃー！",
+            "detail": "自身のQuickカード性能をアップ(3ターン)＆Quickカードのスター集中度をアップ(1ターン)＆クリティカル威力をアップ(1ターン)",
+            "type": "active",
+            "strengthStatus": 0,
+            "priority": 1,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "conLv": 0,
+            "condLimitCount": 0,
+            "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00304.png",
+            "coolDown": [
+                7,
+                7,
+                7,
+                7,
+                7,
+                6,
+                6,
+                6,
+                6,
+                5
+            ],
+            "functions": [
+                {
+                    "funcId": 101,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "クイックアップ",
+                    "buffs": [
+                        {
+                            "id": 100,
+                            "name": "Quickアップ",
+                            "detail": "Quickカードの性能をアップ",
+                            "type": "upCommandall",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 110
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 120
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 130
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 140
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 150
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 160
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 170
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 180
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200
+                        }
+                    ]
+                },
+                {
+                    "funcId": 4778,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "player",
+                    "funcPopupText": "スター集中アップ：Quick",
+                    "buffs": [
+                        {
+                            "id": 2532,
+                            "name": "スター集中アップ:Quick",
+                            "detail": "Quickカードへのスターの集まりやすさをアップ",
+                            "type": "upStarweight",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 3000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 3200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 3400
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 3600
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 3800
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 4000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 4200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 4400
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 4600
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 5000
+                        }
+                    ]
+                },
+                {
+                    "funcId": 5177,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "enemy",
+                    "funcPopupText": "クリティカル発生アップ:Quick",
+                    "buffs": [
+                        {
+                            "id": 2716,
+                            "name": "クリティカル発生アップ:Quick",
+                            "detail": "Quickカードのクリティカルの発生率をアップ",
+                            "type": "upCriticalrate",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 300
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 300
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 300
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 300
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 300
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 300
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 300
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 300
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 300
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 300
+                        }
+                    ]
+                },
+                {
+                    "funcId": 201,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "クリティカル威力アップ",
+                    "buffs": [
+                        {
+                            "id": 142,
+                            "name": "クリティカル威力アップ",
+                            "detail": "クリティカル時のダメージをアップ",
+                            "type": "upCriticaldamage",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 500
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 550
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 600
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 650
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 700
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 750
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 800
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 850
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 900
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 1000
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 779551,
+            "num": 2,
+            "name": "サマー・バケーション！（子供） A+",
+            "ruby": "さまー・ばけーしょん（こども）",
+            "detail": "自身に無敵状態を付与(1回・3ターン)＆NP獲得量をアップ(3ターン) ＋ 味方全体の〔子供のサーヴァント〕の攻撃力アップ(3ターン)",
+            "type": "active",
+            "strengthStatus": 0,
+            "priority": 1,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "conLv": 0,
+            "condLimitCount": 1,
+            "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00403.png",
+            "coolDown": [
+                8,
+                8,
+                8,
+                8,
+                8,
+                7,
+                7,
+                7,
+                7,
+                6
+            ],
+            "functions": [
+                {
+                    "funcId": 289,
+                    "funcType": "addState",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "無敵",
+                    "buffs": [
+                        {
+                            "id": 155,
+                            "name": "無敵",
+                            "detail": "必中を無視して、攻撃によるダメージを0にする",
+                            "type": "invincible",
+                            "buffGroup": 400
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": 1
+                        }
+                    ]
+                },
+                {
+                    "funcId": 337,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "player",
+                    "funcPopupText": "NP獲得アップ",
+                    "buffs": [
+                        {
+                            "id": 140,
+                            "name": "NP獲得アップ",
+                            "detail": "NP獲得量をアップ",
+                            "type": "upDropnp",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 210
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 220
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 230
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 240
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 250
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 260
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 270
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 280
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 300
+                        }
+                    ]
+                },
+                {
+                    "funcId": 470,
+                    "funcType": "hastenNpturn",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "enemy",
+                    "funcPopupText": "チャージ増加",
+                    "buffs": [],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        }
+                    ]
+                },
+                {
+                    "funcId": 5640,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "ptAll",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "攻撃力アップ",
+                    "buffs": [
+                        {
+                            "id": 126,
+                            "name": "攻撃力アップ",
+                            "detail": "攻撃力をアップ",
+                            "type": "upAtk",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 110
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 120
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 130
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 140
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 150
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 160
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 170
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 180
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 780452,
+            "num": 3,
+            "name": "リーガル・シャワー！ B++",
+            "ruby": "りーがる・しゃわー！",
+            "detail": "自身のNPを増やす＆クリティカル威力をアップ(3ターン)＆確率で毎ターンHP回復状態を付与(5ターン)",
+            "type": "active",
+            "strengthStatus": 0,
+            "priority": 1,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "conLv": 0,
+            "condLimitCount": 3,
+            "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00601.png",
+            "coolDown": [
+                7,
+                7,
+                7,
+                7,
+                7,
+                6,
+                6,
+                6,
+                6,
+                5
+            ],
+            "functions": [
+                {
+                    "funcId": 460,
+                    "funcType": "gainNp",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "player",
+                    "funcPopupText": "NP増加",
+                    "buffs": [],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Value": 2000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 2100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 2200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 2300
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 2400
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 2500
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 2600
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 2700
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 2800
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 3000
+                        }
+                    ]
+                },
+                {
+                    "funcId": 470,
+                    "funcType": "hastenNpturn",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "enemy",
+                    "funcPopupText": "チャージ増加",
+                    "buffs": [],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        }
+                    ]
+                },
+                {
+                    "funcId": 200,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "クリティカル威力アップ",
+                    "buffs": [
+                        {
+                            "id": 142,
+                            "name": "クリティカル威力アップ",
+                            "detail": "クリティカル時のダメージをアップ",
+                            "type": "upCriticaldamage",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 300
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 320
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 340
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 360
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 380
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 400
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 420
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 440
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 460
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 500
+                        }
+                    ]
+                },
+                {
+                    "funcId": 310,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "毎ターンHP回復",
+                    "buffs": [
+                        {
+                            "id": 122,
+                            "name": "毎ターンHP回復",
+                            "detail": "ターン終了時にHPが回復する",
+                            "type": "regainHp",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 700,
+                            "Turn": 5,
+                            "Count": -1,
+                            "Value": 500
+                        },
+                        {
+                            "Rate": 700,
+                            "Turn": 5,
+                            "Count": -1,
+                            "Value": 500
+                        },
+                        {
+                            "Rate": 700,
+                            "Turn": 5,
+                            "Count": -1,
+                            "Value": 500
+                        },
+                        {
+                            "Rate": 700,
+                            "Turn": 5,
+                            "Count": -1,
+                            "Value": 500
+                        },
+                        {
+                            "Rate": 700,
+                            "Turn": 5,
+                            "Count": -1,
+                            "Value": 500
+                        },
+                        {
+                            "Rate": 700,
+                            "Turn": 5,
+                            "Count": -1,
+                            "Value": 500
+                        },
+                        {
+                            "Rate": 700,
+                            "Turn": 5,
+                            "Count": -1,
+                            "Value": 500
+                        },
+                        {
+                            "Rate": 700,
+                            "Turn": 5,
+                            "Count": -1,
+                            "Value": 500
+                        },
+                        {
+                            "Rate": 700,
+                            "Turn": 5,
+                            "Count": -1,
+                            "Value": 500
+                        },
+                        {
+                            "Rate": 700,
+                            "Turn": 5,
+                            "Count": -1,
+                            "Value": 500
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "niceClassPassive": [
+        {
+            "id": 34550,
+            "num": 1,
+            "name": "対魔力 A",
+            "ruby": "たいまりょく",
+            "detail": "自身の弱体耐性をアップ",
+            "type": "passive",
+            "strengthStatus": 1,
+            "priority": 1,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "conLv": 0,
+            "condLimitCount": 0,
+            "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00100.png",
+            "coolDown": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "functions": [
+                {
+                    "funcId": 388,
+                    "funcType": "addState",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "弱体耐性アップ",
+                    "buffs": [
+                        {
+                            "id": 162,
+                            "name": "弱体耐性アップ",
+                            "detail": "弱体耐性をアップ",
+                            "type": "upTolerance",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 200
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 20450,
+            "num": 1,
+            "name": "単独行動 B",
+            "ruby": "たんどくこうどう",
+            "detail": "自身のクリティカル威力をアップ",
+            "type": "passive",
+            "strengthStatus": 1,
+            "priority": 1,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "conLv": 0,
+            "condLimitCount": 0,
+            "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00101.png",
+            "coolDown": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "functions": [
+                {
+                    "funcId": 199,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "クリティカル威力アップ",
+                    "buffs": [
+                        {
+                            "id": 142,
+                            "name": "クリティカル威力アップ",
+                            "detail": "クリティカル時のダメージをアップ",
+                            "type": "upCriticaldamage",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 80
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 80
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 80
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 80
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 80
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 80
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 80
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 80
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 80
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 80
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 288350,
+            "num": 1,
+            "name": "無限の魔力供給 C",
+            "ruby": "むげんのまりょくきょうきゅう",
+            "detail": "自身に毎ターンNP獲得状態を付与",
+            "type": "passive",
+            "strengthStatus": 1,
+            "priority": 1,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "conLv": 0,
+            "condLimitCount": 0,
+            "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00607.png",
+            "coolDown": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "functions": [
+                {
+                    "funcId": 324,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "player",
+                    "funcPopupText": "毎ターンNP獲得",
+                    "buffs": [
+                        {
+                            "id": 119,
+                            "name": "毎ターンNP獲得",
+                            "detail": "ターン終了時にNPが増える",
+                            "type": "regainNp",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 300
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 300
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 300
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 300
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 300
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 300
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 300
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 300
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 300
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 300
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "niceNoblePhantasms": [
+        {
+            "id": 204201,
+            "num": 1,
+            "card": "quick",
+            "name": "少女よ虹になれ",
+            "ruby": "プリズマ☆スプラッシュレインボー！",
+            "rank": "A",
+            "type": "対軍宝具",
+            "detail": "自身のQuickカード性能をアップ(1ターン)<オーバーチャージで効果アップ>＆Artsカード性能をアップ(1ターン)<オーバーチャージで効果アップ>＆Busterカード性能をアップ(1ターン)<オーバーチャージで効果アップ>＆必中状態を付与(1ターン) ＋ 敵全体に強力な攻撃",
+            "npGain": {
+                "buster": [
+                    63,
+                    63,
+                    63,
+                    63,
+                    63
+                ],
+                "arts": [
+                    63,
+                    63,
+                    63,
+                    63,
+                    63
+                ],
+                "quick": [
+                    63,
+                    63,
+                    63,
+                    63,
+                    63
+                ],
+                "extra": [
+                    63,
+                    63,
+                    63,
+                    63,
+                    63
+                ],
+                "defence": [
+                    300,
+                    300,
+                    300,
+                    300,
+                    300
+                ],
+                "np": [
+                    63,
+                    63,
+                    63,
+                    63,
+                    63
+                ]
+            },
+            "npDistribution": [
+                6,
+                13,
+                20,
+                26,
+                35
+            ],
+            "strengthStatus": 0,
+            "priority": 101,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "individuality": [
+                {
+                    "id": 3002,
+                    "name": "attackMagical"
+                },
+                {
+                    "id": 4003,
+                    "name": "cardQuick"
+                },
+                {
+                    "id": 4007,
+                    "name": "cardNP"
+                },
+                {
+                    "id": 4101,
+                    "name": "aoeNP"
+                }
+            ],
+            "functions": [
+                {
+                    "funcId": 101,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "クイックアップ",
+                    "buffs": [
+                        {
+                            "id": 100,
+                            "name": "Quickアップ",
+                            "detail": "Quickカードの性能をアップ",
+                            "type": "upCommandall",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 100
+                        }
+                    ]
+                },
+                {
+                    "funcId": 110,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "アーツアップ",
+                    "buffs": [
+                        {
+                            "id": 101,
+                            "name": "Artsアップ",
+                            "detail": "Artsカードの性能をアップ",
+                            "type": "upCommandall",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 100
+                        }
+                    ]
+                },
+                {
+                    "funcId": 119,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "バスターアップ",
+                    "buffs": [
+                        {
+                            "id": 102,
+                            "name": "Busterアップ",
+                            "detail": "Busterカードの性能をアップ",
+                            "type": "upCommandall",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1,
+                            "Value": 100
+                        }
+                    ]
+                },
+                {
+                    "funcId": 288,
+                    "funcType": "addState",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "必中",
+                    "buffs": [
+                        {
+                            "id": 154,
+                            "name": "必中",
+                            "detail": "回避を無視して、攻撃によるダメージを与える",
+                            "type": "breakAvoidance",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1
+                        }
+                    ]
+                },
+                {
+                    "funcId": 13,
+                    "funcType": "damageNp",
+                    "funcTargetType": "enemyAll",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "なし",
+                    "buffs": [],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Value": 6000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 8000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 9000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 9500
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 10000
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "atkGrowth": [
+        1683,
+        1842,
+        2011,
+        2179,
+        2347,
+        2507,
+        2675,
+        2835,
+        2995,
+        3155,
+        3307,
+        3458,
+        3610,
+        3761,
+        3904,
+        4039,
+        4182,
+        4308,
+        4443,
+        4560,
+        4687,
+        4796,
+        4905,
+        5015,
+        5107,
+        5208,
+        5293,
+        5377,
+        5452,
+        5528,
+        5587,
+        5646,
+        5696,
+        5747,
+        5789,
+        5823,
+        5848,
+        5865,
+        5882,
+        5890,
+        5898,
+        5907,
+        5915,
+        5924,
+        5949,
+        5983,
+        6025,
+        6075,
+        6126,
+        6185,
+        6243,
+        6319,
+        6395,
+        6479,
+        6563,
+        6664,
+        6757,
+        6866,
+        6976,
+        7085,
+        7211,
+        7329,
+        7464,
+        7590,
+        7733,
+        7868,
+        8011,
+        8162,
+        8314,
+        8465,
+        8616,
+        8776,
+        8936,
+        9096,
+        9264,
+        9424,
+        9593,
+        9761,
+        9929,
+        10098,
+        10198,
+        10308,
+        10409,
+        10518,
+        10628,
+        10729,
+        10838,
+        10947,
+        11048,
+        11158,
+        11267,
+        11368,
+        11478,
+        11587,
+        11688,
+        11797,
+        11907,
+        12008,
+        12117,
+        12226,
+        12327,
+        12437,
+        12546,
+        12647,
+        12757,
+        12866,
+        12967,
+        13076,
+        13186,
+        13287,
+        13396,
+        13506,
+        13607,
+        13716,
+        13825,
+        13926,
+        14036,
+        14145,
+        14246,
+        14355
+    ],
+    "hpGrowth": [
+        1746,
+        1920,
+        2103,
+        2286,
+        2470,
+        2644,
+        2827,
+        3002,
+        3176,
+        3350,
+        3515,
+        3680,
+        3845,
+        4010,
+        4166,
+        4313,
+        4468,
+        4606,
+        4753,
+        4881,
+        5018,
+        5138,
+        5257,
+        5376,
+        5477,
+        5587,
+        5679,
+        5770,
+        5853,
+        5935,
+        5999,
+        6064,
+        6119,
+        6174,
+        6219,
+        6256,
+        6284,
+        6302,
+        6320,
+        6330,
+        6339,
+        6348,
+        6357,
+        6366,
+        6394,
+        6430,
+        6476,
+        6531,
+        6586,
+        6650,
+        6715,
+        6797,
+        6880,
+        6971,
+        7063,
+        7173,
+        7274,
+        7393,
+        7512,
+        7631,
+        7769,
+        7897,
+        8044,
+        8181,
+        8337,
+        8484,
+        8640,
+        8805,
+        8970,
+        9135,
+        9300,
+        9474,
+        9648,
+        9823,
+        10006,
+        10180,
+        10363,
+        10547,
+        10730,
+        10914,
+        11024,
+        11143,
+        11253,
+        11372,
+        11491,
+        11601,
+        11720,
+        11839,
+        11949,
+        12069,
+        12188,
+        12298,
+        12417,
+        12536,
+        12646,
+        12765,
+        12885,
+        12995,
+        13114,
+        13233,
+        13343,
+        13462,
+        13581,
+        13691,
+        13811,
+        13930,
+        14040,
+        14159,
+        14278,
+        14388,
+        14507,
+        14627,
+        14737,
+        14856,
+        14975,
+        15085,
+        15204,
+        15323,
+        15433,
+        15553
+    ],
+    "figure": [
+        "https://static.atlasacademy.io/JP/CharaFigure/2042000/2042000_merged.png",
+        "https://static.atlasacademy.io/JP/CharaFigure/2042001/2042001_merged.png",
+        "https://static.atlasacademy.io/JP/CharaFigure/2042002/2042002_merged.png"
+    ],
+    "ascension": [
+        "https://static.atlasacademy.io/JP/CharaGraph/204200/204200a@1.png",
+        "https://static.atlasacademy.io/JP/CharaGraph/204200/204200a@2.png",
+        "https://static.atlasacademy.io/JP/CharaGraph/204200/204200b@1.png",
+        "https://static.atlasacademy.io/JP/CharaGraph/204200/204200b@2.png"
+    ]
+}

@@ -1,0 +1,3021 @@
+{
+    "no": 248,
+    "svtId": 203300,
+    "mcLink": "马嘶",
+    "icon": "Servant248.jpg",
+    "info": {
+        "gameId": 203300,
+        "name": "马嘶",
+        "nameJp": "アシュヴァッターマン",
+        "nameEn": "Aśvatthāman",
+        "namesOther": [
+            "马嘶",
+            "アシュヴァッターマン"
+        ],
+        "namesJpOther": [
+            "アシュヴァッターマン"
+        ],
+        "namesEnOther": [
+            "Aśvatthāman"
+        ],
+        "nicknames": [
+            "马勇"
+        ],
+        "obtain": "剧情",
+        "obtains": [
+            "剧情限定"
+        ],
+        "rarity": 4,
+        "rarity2": 4,
+        "weight": "81kg",
+        "height": "188cm",
+        "gender": "男性",
+        "illustrator": "pako",
+        "illustratorJp": null,
+        "illustratorEn": "pako",
+        "className": "Archer",
+        "attribute": "天",
+        "isHumanoid": true,
+        "isWeakToEA": true,
+        "isTDNS": false,
+        "cv": [
+            "铃木达央"
+        ],
+        "cvJp": [
+            "铃木达央"
+        ],
+        "cvEn": [
+            "Suzuki Tatsuhisa"
+        ],
+        "alignments": [
+            "混沌",
+            "中庸"
+        ],
+        "traits": [
+            "神性",
+            "天地从者",
+            "所爱之人",
+            "人科"
+        ],
+        "ability": {
+            "strength": "B",
+            "endurance": "A",
+            "agility": "A++",
+            "mana": "B",
+            "luck": "A",
+            "np": "A+"
+        },
+        "illustrations": {
+            "第１阶段": "马嘶初始.png",
+            "第２阶段": "马嘶一破.png",
+            "第３阶段": "马嘶三破.png",
+            "第４阶段": "马嘶满破.png",
+            "愚人节": "马嘶愚人节卡面.png"
+        },
+        "cards": [
+            "Quick",
+            "Quick",
+            "Arts",
+            "Buster",
+            "Buster"
+        ],
+        "cardHits": {
+            "Quick": 4,
+            "Arts": 4,
+            "Buster": 5,
+            "Extra": 4,
+            "NP": 5
+        },
+        "cardHitsDamage": {
+            "Quick": [
+                10,
+                20,
+                30,
+                40
+            ],
+            "Arts": [
+                10,
+                20,
+                30,
+                40
+            ],
+            "Buster": [
+                6,
+                13,
+                20,
+                26,
+                35
+            ],
+            "Extra": [
+                10,
+                20,
+                30,
+                40
+            ],
+            "NP": [
+                6,
+                13,
+                20,
+                26,
+                35
+            ]
+        },
+        "npRate": {
+            "Quick": "0.58%",
+            "Arts": "0.58%",
+            "Buster": "0.58%",
+            "Extra": "0.58%",
+            "NP": "0.58%",
+            "Defense": "3%"
+        },
+        "atkMin": 1708,
+        "hpMin": 1799,
+        "atkMax": 10249,
+        "hpMax": 11245,
+        "atk90": 11325,
+        "hp90": 12435,
+        "atk100": 12409,
+        "hp100": 13634,
+        "starRate": "8.1%",
+        "deathRate": "31.5%",
+        "criticalRate": "153"
+    },
+    "noblePhantasm": [
+        {
+            "state": "",
+            "openCondition": "==宝具==\n{{参阅|{{PAGENAME}}/宝具动画|该从者的宝具动画}}",
+            "name": "转轮啊，卷起愤怒之炎吧",
+            "nameJp": "転輪よ、憤炎を巻き起こせ",
+            "upperName": "Sudarshana Chakra Yamaraj",
+            "upperNameJp": "スダルシャンチャクラ・ヤムラージ",
+            "color": "Buster",
+            "category": "单体",
+            "rank": "A+",
+            "typeText": "对军宝具",
+            "effects": [
+                {
+                    "description": "对敌方单体发动超强大的攻击<宝具升级效果提升>",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "600%",
+                        "800%",
+                        "900%",
+                        "950%",
+                        "1000%"
+                    ]
+                },
+                {
+                    "description": "自身HP越少威力越高<Over Charge时威力提升>",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "600%",
+                        "700%",
+                        "800%",
+                        "900%",
+                        "1000%"
+                    ]
+                },
+                {
+                    "description": "解除防御强化状态",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "∅"
+                    ]
+                }
+            ]
+        }
+    ],
+    "noblePhantasmEn": [
+        {
+            "state": "Rank A+",
+            "openCondition": null,
+            "name": "Sudarshan Chakra Yamaraj",
+            "nameJp": null,
+            "upperName": "Sudarshan Chakra Yamaraj",
+            "upperNameJp": null,
+            "color": "Buster",
+            "category": "",
+            "rank": "A+",
+            "typeText": "Anti-Army",
+            "effects": [
+                {
+                    "description": "Deals damage to one enemy.\n Removes their defensive buffs.\n({{Defensive Buffs}})",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                },
+                {
+                    "description": " Damage +",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "600%",
+                        "800%",
+                        "900%",
+                        "950%",
+                        "1000%"
+                    ]
+                },
+                {
+                    "description": "<Over Charge>\nFurther deals damage to them based on own remaining HP.\n''Additional Damage Formula = Multiplier Based on Overcharge * [1 - (Current HP/Max HP)]''",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                },
+                {
+                    "description": " Add. Damage +",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": [
+                        "600%",
+                        "700%",
+                        "800%",
+                        "900%",
+                        "1000%"
+                    ]
+                }
+            ]
+        }
+    ],
+    "activeSkills": [
+        {
+            "cnState": 0,
+            "skills": [
+                {
+                    "state": "",
+                    "openCondition": "",
+                    "name": "摩尼宝珠",
+                    "nameJp": "魔尼の宝珠",
+                    "nameEn": null,
+                    "rank": "B",
+                    "icon": "无敌.png",
+                    "cd": 8,
+                    "effects": [
+                        {
+                            "description": "付与自身无敌状态(1回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "∅"
+                            ]
+                        },
+                        {
+                            "description": "NP增加",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "20%",
+                                "21%",
+                                "22%",
+                                "23%",
+                                "24%",
+                                "25%",
+                                "26%",
+                                "27%",
+                                "28%",
+                                "30%"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "cnState": 0,
+            "skills": [
+                {
+                    "state": "",
+                    "openCondition": "",
+                    "name": "武道的蹂躏",
+                    "nameJp": "士道の蹂躙",
+                    "nameEn": null,
+                    "rank": "A",
+                    "icon": "红放.png",
+                    "cd": 7,
+                    "effects": [
+                        {
+                            "description": "自身的Buster指令卡性能提升(3回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "20%",
+                                "21%",
+                                "22%",
+                                "23%",
+                                "24%",
+                                "25%",
+                                "26%",
+                                "27%",
+                                "28%",
+                                "30%"
+                            ]
+                        },
+                        {
+                            "description": "付与「Buster指令卡攻击时敌方单体防御力下降(3回合)」的状态(3次·5回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "10%",
+                                "11%",
+                                "12%",
+                                "13%",
+                                "14%",
+                                "15%",
+                                "16%",
+                                "17%",
+                                "18%",
+                                "20%"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "cnState": 0,
+            "skills": [
+                {
+                    "state": "",
+                    "openCondition": "",
+                    "name": "至尊战士",
+                    "nameJp": "至尊の戦士",
+                    "nameEn": null,
+                    "rank": "A+",
+                    "icon": "绿放.png",
+                    "cd": 7,
+                    "effects": [
+                        {
+                            "description": "自身的Quick指令卡性能提升(3回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "20%",
+                                "21%",
+                                "22%",
+                                "23%",
+                                "24%",
+                                "25%",
+                                "26%",
+                                "27%",
+                                "28%",
+                                "30%"
+                            ]
+                        },
+                        {
+                            "description": "付与「Quick指令卡攻击时自身的暴击威力提升(3回合)」的状态(3次·5回合)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "20%",
+                                "21%",
+                                "22%",
+                                "23%",
+                                "24%",
+                                "25%",
+                                "26%",
+                                "27%",
+                                "28%",
+                                "30%"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "activeSkillsEn": [
+        {
+            "cnState": 0,
+            "skills": [
+                {
+                    "state": "",
+                    "openCondition": null,
+                    "name": "Chintamani",
+                    "nameJp": null,
+                    "nameEn": null,
+                    "rank": "B",
+                    "icon": "无敌.png",
+                    "cd": 8,
+                    "effects": [
+                        {
+                            "description": " Grants self Invincibility for 1 turn.\nCharges own NP gauge.",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": []
+                        },
+                        {
+                            "description": " NP +",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "20%",
+                                "21%",
+                                "22%",
+                                "23%",
+                                "24%",
+                                "25%",
+                                "26%",
+                                "27%",
+                                "28%",
+                                "30%"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "cnState": 0,
+            "skills": [
+                {
+                    "state": "",
+                    "openCondition": null,
+                    "name": "Violating the Chivalric Code",
+                    "nameJp": null,
+                    "nameEn": null,
+                    "rank": "A",
+                    "icon": "红放.png",
+                    "cd": 7,
+                    "effects": [
+                        {
+                            "description": "Increases own Buster performance for 3 turns.\n Grants self On-Attack-Activate debuff for 3 attacks, 5 turns.\n(Inflicts Defense Down for 3 turns to enemy when attacking with  Buster Cards.)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": []
+                        },
+                        {
+                            "description": " Buster +",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "20%",
+                                "21%",
+                                "22%",
+                                "23%",
+                                "24%",
+                                "25%",
+                                "26%",
+                                "27%",
+                                "28%",
+                                "30%"
+                            ]
+                        },
+                        {
+                            "description": " Defense -",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "10%",
+                                "11%",
+                                "12%",
+                                "13%",
+                                "14%",
+                                "15%",
+                                "16%",
+                                "17%",
+                                "18%",
+                                "20%"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "cnState": 0,
+            "skills": [
+                {
+                    "state": "",
+                    "openCondition": null,
+                    "name": "Maharatha",
+                    "nameJp": null,
+                    "nameEn": null,
+                    "rank": "A+",
+                    "icon": "绿放.png",
+                    "cd": 7,
+                    "effects": [
+                        {
+                            "description": "Increases own Quick performance for 3 turns.\n Grants self On-Attack-Activate buff for 3 attacks, 5 turns.\n(Increases own critical damage for 3 turns when attacking with  Quick Cards.)",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": []
+                        },
+                        {
+                            "description": " Quick +",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "20%",
+                                "21%",
+                                "22%",
+                                "23%",
+                                "24%",
+                                "25%",
+                                "26%",
+                                "27%",
+                                "28%",
+                                "30%"
+                            ]
+                        },
+                        {
+                            "description": " Crit Damage +",
+                            "descriptionJp": null,
+                            "descriptionEn": null,
+                            "lvData": [
+                                "20%",
+                                "21%",
+                                "22%",
+                                "23%",
+                                "24%",
+                                "25%",
+                                "26%",
+                                "27%",
+                                "28%",
+                                "30%"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "passiveSkills": [
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "对魔力",
+            "nameJp": null,
+            "nameEn": null,
+            "rank": "A",
+            "icon": "对魔力.png",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": "自身的弱化耐性提升(20%)",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                }
+            ]
+        },
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "单独行动",
+            "nameJp": null,
+            "nameEn": null,
+            "rank": "EX",
+            "icon": "单独行动.png",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": "自身的暴击威力提升(12%)",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                }
+            ]
+        },
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "愤怒的化身",
+            "nameJp": null,
+            "nameEn": null,
+            "rank": "EX",
+            "icon": "红放.png",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": "自身的Buster指令卡性能少量提升(5%)＆Buster指令卡暴击威力提升(10%)＆付与精神弱化无效状态",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                }
+            ]
+        },
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "神性",
+            "nameJp": null,
+            "nameEn": null,
+            "rank": "A+",
+            "icon": "神性.png",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": "付与自身伤害附加状态(210)",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                }
+            ]
+        }
+    ],
+    "passiveSkillsEn": [
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "Magic Resistance",
+            "nameJp": null,
+            "nameEn": null,
+            "rank": "A",
+            "icon": "fandom.anti magic.png",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": " Increases own debuff resistance by 20%.",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                }
+            ]
+        },
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "Independent Action",
+            "nameJp": null,
+            "nameEn": null,
+            "rank": "EX",
+            "icon": "fandom.Independent action.png",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": " Increases own critical damage by 12%.",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                }
+            ]
+        },
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "Rudra Avatāra",
+            "nameJp": null,
+            "nameEn": null,
+            "rank": "EX",
+            "icon": "fandom.busterup.png",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": " Increases own Buster performance by 5%.\n Increases own critical damage of  Buster Cards by 10%.\n Grants self Mental Debuff Immunity.\n({{Mental Debuffs}})",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                }
+            ]
+        },
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "Divinity",
+            "nameJp": null,
+            "nameEn": null,
+            "rank": "A+",
+            "icon": "fandom.divinity.png",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": " Increases own damage by 210.",
+                    "descriptionJp": null,
+                    "descriptionEn": null,
+                    "lvData": []
+                }
+            ]
+        }
+    ],
+    "appendSkills": [
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "追击技巧提升",
+            "nameJp": "追撃技巧向上",
+            "nameEn": "Extra Attack Finesse Improvement",
+            "rank": null,
+            "icon": "特攻",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": "自身的Extra Attack指令卡性能提升",
+                    "descriptionJp": "自身のExtra Attackカードの性能をアップする",
+                    "descriptionEn": "Increases own Extra Attack performance",
+                    "lvData": [
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "38%",
+                        "40%",
+                        "42%",
+                        "44%",
+                        "46%",
+                        "50%"
+                    ]
+                }
+            ]
+        },
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "魔力装填",
+            "nameJp": "魔力装填",
+            "nameEn": "Mana Loading",
+            "rank": null,
+            "icon": "充能",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": "自身以NP已达一定数值的状态开始战斗",
+                    "descriptionJp": "自身のNPをチャージした状態でバトルを開始する",
+                    "descriptionEn": "Starts battle with NP gauge",
+                    "lvData": [
+                        "10%",
+                        "11%",
+                        "12%",
+                        "13%",
+                        "14%",
+                        "15%",
+                        "16%",
+                        "17%",
+                        "18%",
+                        "20%"
+                    ]
+                }
+            ]
+        },
+        {
+            "state": "",
+            "openCondition": null,
+            "name": "对Archer攻击适性",
+            "nameJp": "対Archer攻撃適性",
+            "nameEn": "Anti-Archer Attack Damage Aptitude",
+            "rank": null,
+            "icon": "加攻",
+            "cd": -1,
+            "effects": [
+                {
+                    "description": "自身对Archer的攻击力提升",
+                    "descriptionJp": "自身の〔Archer〕クラスに対する攻撃力をアップする",
+                    "descriptionEn": "Increases own attack against Archer enemies",
+                    "lvData": [
+                        "20%",
+                        "21%",
+                        "22%",
+                        "23%",
+                        "24%",
+                        "25%",
+                        "26%",
+                        "27%",
+                        "28%",
+                        "30%"
+                    ]
+                }
+            ]
+        }
+    ],
+    "coinSummonNum": 50,
+    "itemCost": {
+        "ascension": [
+            {
+                "弓阶银棋": 4,
+                "QP": 50000
+            },
+            {
+                "弓阶银棋": 10,
+                "血之泪石": 4,
+                "QP": 150000
+            },
+            {
+                "弓阶金像": 4,
+                "宵泣之铁桩": 24,
+                "封魔之灯": 3,
+                "QP": 500000
+            },
+            {
+                "弓阶金像": 10,
+                "封魔之灯": 5,
+                "祸罪之箭头": 10,
+                "QP": 1500000
+            }
+        ],
+        "skill": [
+            {
+                "弓之辉石": 4,
+                "QP": 100000
+            },
+            {
+                "弓之辉石": 10,
+                "QP": 200000
+            },
+            {
+                "弓之魔石": 4,
+                "QP": 600000
+            },
+            {
+                "弓之魔石": 10,
+                "宵泣之铁桩": 12,
+                "QP": 800000
+            },
+            {
+                "弓之秘石": 4,
+                "宵泣之铁桩": 24,
+                "QP": 2000000
+            },
+            {
+                "弓之秘石": 10,
+                "血之泪石": 3,
+                "QP": 2500000
+            },
+            {
+                "血之泪石": 5,
+                "祸罪之箭头": 5,
+                "QP": 5000000
+            },
+            {
+                "祸罪之箭头": 15,
+                "晓光炉心": 12,
+                "QP": 6000000
+            },
+            {
+                "传承结晶": 1,
+                "QP": 10000000
+            }
+        ],
+        "appendSkill": [
+            {
+                "弓之辉石": 4,
+                "QP": 100000
+            },
+            {
+                "弓之辉石": 10,
+                "QP": 200000
+            },
+            {
+                "弓之魔石": 4,
+                "QP": 600000
+            },
+            {
+                "弓之魔石": 10,
+                "愚者之锁": 12,
+                "QP": 800000
+            },
+            {
+                "弓之秘石": 4,
+                "愚者之锁": 24,
+                "QP": 2000000
+            },
+            {
+                "弓之秘石": 10,
+                "封魔之灯": 3,
+                "QP": 2500000
+            },
+            {
+                "封魔之灯": 5,
+                "神脉灵子": 5,
+                "QP": 5000000
+            },
+            {
+                "神脉灵子": 15,
+                "鬼炎鬼灯": 8,
+                "QP": 6000000
+            },
+            {
+                "传承结晶": 1,
+                "QP": 10000000
+            }
+        ]
+    },
+    "costumeNos": [],
+    "bondPoints": [
+        5000,
+        15000,
+        10000,
+        2000,
+        18000,
+        150000,
+        400000,
+        300000,
+        280000,
+        370000,
+        1090000,
+        1230000,
+        1360000,
+        1500000,
+        1640000
+    ],
+    "profiles": [
+        {
+            "title": "0",
+            "description": "愤怒，然后战斗吧。\n在摩诃婆罗多中足以与迦尔纳并称的婆罗门最强战士。\n愤怒的化身……即为马嘶。",
+            "descriptionJp": "怒り、そして戦わん。\nマハーバーラタにおいてカルナと並び称された、\nバラモン最強の戦士。\n憤怒の化身……即ちアシュヴァッターマンである。",
+            "descriptionEn": "Anger, and fighting.\n\nHe lined up with Karna at the Mahabharata, \n\nand was called the strongest Brahmin warrior.\n\nThe personification of anger… In other words, Aśvatthāman.",
+            "condition": null,
+            "conditionEn": null
+        },
+        {
+            "title": "1",
+            "description": "身高／体重：188cm·81kg\n出处：摩诃婆罗多\n地域：印度\n属性：混沌·中庸　　　性别：男性\n恼怒、愤怒，在精疲力竭之前，都会不断战斗下去。",
+            "descriptionJp": "身長／体重：188cm・81kg\n出典：マハーバーラタ\n地域：インド\n属性：混沌・中庸　　　性別：男性\n怒り、憤怒し、力の限り戦い続ける。",
+            "descriptionEn": "Height/Weight: 188 cm, 81 kg\nSource: Mahabharata\n\nOrigin: India\n\nAlignment: Chaotic Neutral\n\nGender: Male\n\nAnger, rage, keep fighting to the limit of his strength.",
+            "condition": "羁绊达到Lv.1后开放",
+            "conditionEn": null
+        },
+        {
+            "title": "2",
+            "description": "摩诃婆罗多中的英雄之一。\n父亲是婆罗门的英雄德罗纳。\n在叙事诗描写的大战争中，与父亲一起加入了难敌方，和迦尔纳一起与般度五子展开了激烈的战斗。\n\n期间，以迦尔纳为首的己方有力者陆续战死之后，怒火冲冠的他违背了身为战士的誓约，决定发动夜间偷袭。\n传说中，他将数千人全部杀光了。",
+            "descriptionJp": "マハーバーラタにおける英雄の一人。\n父はバラモンの英雄ドローナ。\n叙事詩に詠われる大戦争においては父と同じくドゥリーヨダナの側につき、カルナと共にパーンダヴァ五兄弟と凄絶な争いを繰り広げた。\n\n中でもカルナを始めとする自軍の有力者がことごとく死に絶えた後、怒り狂った彼は戦士としての誓約を破り、夜襲を決行。\n数千人を皆殺しにした、と伝えられている。",
+            "descriptionEn": "One of the heroes that appears in the Mahabharata.\n\nHis father is the Brahmin hero Drona.\n\nIn the great war sung in the epic, he like his father, stuck to Duryodhana’s side, and unfolded a lurid conflict with the five Pandava brothers together with Karna.\n\nAfter all the influential men of his own army, including Karna, died, he broke his pledge as a warrior maddened with rage, and carried out a night assault.\n\nIt is said he massacred thousands of people.",
+            "condition": "羁绊达到Lv.2后开放",
+            "conditionEn": null
+        },
+        {
+            "title": "3",
+            "description": "『转轮啊，卷起愤怒之炎吧』\n阶级：A+　种类：对军宝具\n有效范围：1～50　最大捕捉：500人\n\nSudarshana Chakra Yamaraj\n是十分罕见地将生前从未使用过、未能使用过的武器作为宝具的存在。\n获得了巨大环刃的他，每当作为从者被召唤时，都能随心所欲地操控这把武器，并作为战士的记录不断刻印下去。\n\n换言之，环刃的使用方法全都是独创的，是从未向任何人学习过的原创招数。",
+            "descriptionJp": "『転輪よ、憤炎を巻き起こせ』\nランク：Ａ＋　種別：対軍宝具\nレンジ：１～５０　最大捕捉：５００人\n\nスダルシャンチャクラ・ヤムラージ。\n珍しいことに、生前は使用することのなかった、\nできなかった武器を宝具としたもの。\n巨大なチャクラムを手にした彼は、サーヴァントとして召喚される度に、この武器を自在に操り、それを戦士としての記録に刻み続けた。\n\nつまり、チャクラムの使い方はその一切が我流であり、誰に師事したものでもないオリジナルである。",
+            "descriptionEn": "『O Chakra, Stir Up my Raging Flames』\n\nRank: A+\n\nType: Anti-Army Noble Phantasm\n\nRange: 1~50\n\nMaximum number of targets: 500 people\n\n\nSudarshan Chakra Yamaraj.\n\nUnusually, he made a weapon he didn’t possess in life,\n\nthat he couldn’t possess, into a Noble Phantasm.\n\nHe who has a huge chakram in his hand, at the time of being summoned as a Servant, freely manipulated this weapon, and continued engraving it in his memory as a warrior.\n\nIn other words, all of his usage of the chakram is self-taught,\n\nan original that wasn’t taught by anyone.",
+            "condition": "羁绊达到Lv.3后开放",
+            "conditionEn": null
+        },
+        {
+            "title": "4",
+            "description": "总之，就是一味地愤怒。\n对不合理感到愤怒，对悲伤感到愤怒，对傲慢感到愤怒。\n但是，他发誓绝对不憎恨。\n他总是希望自己能成为一个不断反对不合理世界的存在。\n\n甩开所有小聪明的道理，无论对方是谁，只要自己不能接受，就轻松打飞。\n是在圣杯战争中，十分注重与御主相性的那种类型。如果性格不合，甚至会考虑在首战就自寻毁灭。",
+            "descriptionJp": "とにかく、ひたすら怒っている。\n理不尽に怒り、悲しみに怒り、傲慢に怒る。\nただし、憎むことはしないと誓っている。\n彼は常に、理不尽な世界に対して異を唱える存在でありたいと願っているのだ。\n\nあらゆる賢しい理屈を吹き飛ばし、相手が誰であろうと納得いかなければ余裕で吹っ飛ばす。\n聖杯戦争においては、マスターとの相性が極めて重要なタイプ。相性が悪ければ、初戦での自滅すらも考えられる。",
+            "descriptionEn": "Anyway, he’s solely angry.\n\nAngry for the unreasonable, angry for sadness, angry for pride.\n\nHowever, he swore not to hate.\n\nHe always wished to be a person to raise an objection against the unreasonable world.\n\nBlowing away any wise reason, no matter who he faces he’ll blow them away with composure if they don’t convince him.\n\nIn a Holy Grail War, he’s the type of considering the compatibility with the Master extremely important. If the affinity is bad, he’ll even think on self-annihilation in the first battle.",
+            "condition": "羁绊达到Lv.4后开放",
+            "conditionEn": null
+        },
+        {
+            "title": "5",
+            "description": "愤怒的化身：EX\n半身寄宿着湿婆的他一旦燃起怒火，在打倒敌人之前是决不会停手的。\n\n摩尼宝珠：B\n天生嵌在额头中的宝石。\n只要有了这个，就能保护自己不受魔性与野兽的侵袭。后来，他将这块石头交给了对手作为投降的证明。\n\n武道的蹂躏：A\n战士们立下的誓言在摩诃婆罗多的大战争中被逐一践踏。\n复仇会招来新的复仇，违反会生成新的违反。据说马嘶由于过度愤怒，发动了被禁止的夜间偷袭，并杀害了敌人。\n\n至尊战士：A+\n被誉为足以与阿周那、迦尔纳比肩的摩诃婆罗多最强战士的传说升华后的存在。\n通过与武道的蹂躏、愤怒的化身组合，甚至可以成为超越Berserker的狂战士。",
+            "descriptionJp": "○憤怒の化身：ＥＸ\n半身にシヴァを宿す彼は、一度怒りを燃やすと敵を倒すまで決して止まらない。\n\n○魔尼の宝珠：Ｂ\n生まれついて額に埋め込まれてあった宝石。\nこれにより、魔性の存在や獣などから身を守ることができた。後に彼は、降伏の証として石を譲り渡した。\n\n○士道の蹂躙：Ａ\n戦士たちの間で立てられた誓いは、マハーバーラタの大戦争において、次々と踏みにじられた。\n復讐が復讐を呼び、違反が違反を増殖させた。アシュヴァッターマンは怒りのあまり、禁じられていた夜襲を行い、敵を仕留めたという。\n\n○至尊の戦士：Ａ＋\nアルジュナ、カルナに比肩すると謳われたマハーバーラタにおける最高の戦士としての逸話が昇華されたもの。\n士道の蹂躙、憤怒の化身と組み合わせることによってバーサーカー以上の狂戦士となり得る。",
+            "descriptionEn": "○ Personification of Rage: EX ''(Rudra Avatāra)''\nHe whose half body houses Shiva, once his rage burns will never stop until he defeats his enemy.\n\n○ Gem of Mani: B ''(Chintamani)''\n\nThe jewel embedded in his forehead since he was born.\n\nWith this, he was able to defend himself from demonic creatures and beasts.\n\nAlso, he handed the stone over as a proof of surrender.\n\n○ Violation of the Chivalry Code: A\n\nThe oath that was raised between warriors, in the Mahabharata, was continuously trampled.\n\nVengeance called vengeance, and offense made offense proliferate. Ashwatthama, who was too furious, performed a forbidden night assault, and brought down the enemies.\n\n○ Warrior of the Emperor: A+ ''(Maharatha)''\n\nSomething in which his anecdote as the best warrior appearing in the Mahabharata, extolled to be ranked equal with Karna and Arjuna.\n\nBy combining it with Violation of the Chivalry Code, and Personification of Rage, he becomes more of a mad warrior than a Berserker.",
+            "condition": "羁绊达到Lv.5后开放",
+            "conditionEn": null
+        },
+        {
+            "title": "6",
+            "description": "玷污了战士名誉的他受到了极为严厉的惩罚。他被要求转让出额头上与生俱来的宝石，并被流放去了森林。\n传说中，他在森林里流浪了长达三千年之久。\n\n作为从者被召唤的他决定这次一定要贯彻真正战士的作风。同时，假如御主是位值得尊敬的存在，那哪怕自己不得不再次回到森林继续那漫长的流浪生活，也在所不辞。\n\n他就是这么一位热情的战士。",
+            "descriptionJp": "戦士としての名誉を汚した彼には、極めて厳しい罰が与えられた。生まれついて額にあった宝石を譲り渡し、更には森への追放を命じられたのだ。\n三千年の長きに渡り、\n彼は森を放浪したと伝えられている。\n\nサーヴァントとして召喚された彼は、今度こそ正しい戦士としての在り方を貫きたいとも考えているが、同時にマスターが尊敬できる存在であれば、また森林を長く放浪する羽目になっても構わない、とも思っている。\n\n情熱の戦士なのである。",
+            "descriptionEn": "Having disgraced his honour as a warrior, he was given an extremely severe punishment. He was ordered to hand over the jewel on his forehead, which he was born with, and banished to the forest.\n\n\nThe legend goes that he wandered through the forest for three thousand long years.\n\n\nHaving been summoned as a Servant, this time, he has thought about acting how a true warrior would, however, he also thinks that as long as he could be someone his Master could respect, he would not mind if he has to wander the forest again.\n\n\nTruly a zealous warrior.",
+            "condition": "通关 愤怒过后后开放",
+            "conditionEn": "Clear Interlude 1"
+        },
+        {
+            "title": "aprilfool",
+            "description": "激愤从者\n总是让脉轮嗡嗡转个不停的流氓小哥。因为愤怒才是他的源动力，所以看上去似乎总是在生气，但其实平时心情都挺好的。",
+            "descriptionJp": "げきおこサーヴァント\nチャクラムでブイブイいわせている不良のおにいさん。怒りこそが原動力ということでいつも怒っているらしいのだが、わりといつも機嫌がよさそうに見える。",
+            "descriptionEn": "Extreme Rage Servant\n\nA hooligan young man that boasts about his chakram. He says rage is his driving force and he always looks angry, but he always seems to be in quite a good mood.",
+            "condition": null,
+            "conditionEn": null
+        }
+    ],
+    "voices": [
+        {
+            "section": "战斗",
+            "table": [
+                {
+                    "title": "开始 1",
+                    "text": "开战了……愤怒，愤怒，愤怒！",
+                    "textJp": "戦いだぁ！怒れ！怒れ！怒れ！！",
+                    "textEn": "It's a battle... Rage, rage, RAGE!",
+                    "condition": null,
+                    "voiceFile": "SV248_0_开始1.mp3"
+                },
+                {
+                    "title": "开始 2",
+                    "text": "战斗？　别说傻话了。现在要做的，只是清扫罢了。",
+                    "textJp": "戦闘だぁ？馬鹿ぬかすな。今からやるのはただの掃除だ。",
+                    "textEn": "A battle? Don't be stupid. I'm just going to do some cleaning up.",
+                    "condition": null,
+                    "voiceFile": "SV248_0_开始2.mp3"
+                },
+                {
+                    "title": "技能 1",
+                    "text": "来吧来吧来吧！",
+                    "textJp": "来い来い来い！",
+                    "textEn": "Come on, come on, come on!",
+                    "condition": null,
+                    "voiceFile": "SV248_0_技能1.mp3"
+                },
+                {
+                    "title": "技能 2",
+                    "text": "燃烧吧！",
+                    "textJp": "燃えろぉ！",
+                    "textEn": "Burn!",
+                    "condition": null,
+                    "voiceFile": "SV248_0_技能2.mp3"
+                },
+                {
+                    "title": "技能 3",
+                    "text": "杀了你这家伙！",
+                    "textJp": "ぶっ殺してやらぁな！",
+                    "textEn": "I'm gonna murder you!",
+                    "condition": null,
+                    "voiceFile": "SV248_0_技能3.mp3"
+                },
+                {
+                    "title": "指令卡 1",
+                    "text": "啊？",
+                    "textJp": "ああん？",
+                    "textEn": "Huh!?",
+                    "condition": null,
+                    "voiceFile": "SV248_0_指令卡1.mp3"
+                },
+                {
+                    "title": "指令卡 2",
+                    "text": "哼！",
+                    "textJp": "はっ！",
+                    "textEn": "Hmph!",
+                    "condition": null,
+                    "voiceFile": "SV248_0_指令卡2.mp3"
+                },
+                {
+                    "title": "指令卡 3",
+                    "text": "该死的，明白了！",
+                    "textJp": "くそっ、了解だ。",
+                    "textEn": "Damn, got it!",
+                    "condition": null,
+                    "voiceFile": "SV248_0_指令卡3.mp3"
+                },
+                {
+                    "title": "宝具卡 1",
+                    "text": "技巧战斗。战轮·启动！",
+                    "textJp": "技巧戦闘──戦輪、起動！",
+                    "textEn": "The art of battle. Battle ring, activate!",
+                    "condition": null,
+                    "voiceFile": "SV248_0_宝具卡1.mp3"
+                },
+                {
+                    "title": "宝具卡 2",
+                    "text": "愤怒吧，愤怒吧，愤怒才是我的力量！",
+                    "textJp": "怒れ！怒れ！怒りこそが、我が力！",
+                    "textEn": "Rage, rage...rage is what powers me!",
+                    "condition": null,
+                    "voiceFile": "SV248_0_宝具卡2.mp3"
+                },
+                {
+                    "title": "攻击 1",
+                    "text": "哈——！",
+                    "textJp": "シャアアァ！",
+                    "textEn": "Shah!",
+                    "condition": null,
+                    "voiceFile": "SV248_0_攻击1.mp3"
+                },
+                {
+                    "title": "攻击 2",
+                    "text": "哈哈哈哈哈！",
+                    "textJp": "ハハハハハァ！",
+                    "textEn": "Hahaha!",
+                    "condition": null,
+                    "voiceFile": "SV248_0_攻击2.mp3"
+                },
+                {
+                    "title": "攻击 3",
+                    "text": "看我杀了你！！",
+                    "textJp": "ぶっ殺す！",
+                    "textEn": null,
+                    "condition": null,
+                    "voiceFile": "SV248_0_攻击3.mp3"
+                },
+                {
+                    "title": "攻击 4",
+                    "text": "你这家伙！",
+                    "textJp": "てめぇ！",
+                    "textEn": "Why you!",
+                    "condition": null,
+                    "voiceFile": "SV248_0_攻击4.mp3"
+                },
+                {
+                    "title": "攻击 5",
+                    "text": "让人火大！",
+                    "textJp": "苛つくんだよぉ！",
+                    "textEn": "You're pissing me off!",
+                    "condition": null,
+                    "voiceFile": "SV248_0_攻击5.mp3"
+                },
+                {
+                    "title": "Extra 1",
+                    "text": "你·倒·是·给·我……适可而止啊！",
+                    "textJp": "いい加減に……しやがれぇ！！",
+                    "textEn": "That's...freakin'...enough...!",
+                    "condition": null,
+                    "voiceFile": "SV248_0_Extra1.mp3"
+                },
+                {
+                    "title": "Extra 2",
+                    "text": "被砸稀烂去死吧这混账！",
+                    "textJp": "ブッ潰れて死に晒せゴラァ！",
+                    "textEn": "I'll crush you to death, dammit!",
+                    "condition": null,
+                    "voiceFile": "SV248_0_Extra2.mp3"
+                },
+                {
+                    "title": "宝具 1",
+                    "text": "战士的誓言早已消逝，吾等已然堕落！然而我依然对堕落愤怒，也会对自己一直愤怒下去！疾驰吧！转轮啊，卷起愤怒之炎吧！",
+                    "textJp": "戦士の誓いはとうに消え、我らは堕落した！それでも俺は堕落を怒り、自分自身にも怒り続けよう！疾走するがいい、『転輪よ、憤炎を巻き起こせ』ッッッ！！！",
+                    "textEn": "My vows taken as a soldier are long gone, and I have fallen to corruption! Yet I still rage against this corruption, and I will continue in my fury!\nNow piss off!\n\nSudarshana Chakra Yamarāja!",
+                    "condition": null,
+                    "voiceFile": "SV248_0_宝具1.mp3"
+                },
+                {
+                    "title": "宝具 2",
+                    "text": "啊啊，没问题，看我把你们全部杀光！吾乃带来死亡的战士！将用不灭之刃撕裂汝等！转轮啊，卷起愤怒之炎吧！",
+                    "textJp": "ああ良いとも、皆殺しにしてやらァ！我は死をもたらす戦士なれば、不滅の刃を持って汝を引き裂こう！『転輪よ、憤炎を巻き起こせ』ッッッ！！！",
+                    "textEn": "Fine, I'll kill them all!\n\nIf I'm a soldier who brings about death, I'll rip you apart using the blade of immortality!\n\nSudarshana Chakra Yamarāja!",
+                    "condition": null,
+                    "voiceFile": "SV248_0_宝具2.mp3"
+                },
+                {
+                    "title": "受击 1",
+                    "text": "混蛋——！",
+                    "textJp": "ちっっくしょおおお！！",
+                    "textEn": "Dammiiit!!!",
+                    "condition": null,
+                    "voiceFile": "SV248_0_受击1.mp3"
+                },
+                {
+                    "title": "受击 2",
+                    "text": "嘁！",
+                    "textJp": "ちぃ！",
+                    "textEn": "Tsk!",
+                    "condition": null,
+                    "voiceFile": "SV248_0_受击2.mp3"
+                },
+                {
+                    "title": "受击 3",
+                    "text": "该死！",
+                    "textJp": "くそ！",
+                    "textEn": "Damn!",
+                    "condition": null,
+                    "voiceFile": "SV248_0_受击3.mp3"
+                },
+                {
+                    "title": "无法战斗 1",
+                    "text": "该死……该死的……我……还能……还能……！",
+                    "textJp": "クソっ……クソが……！俺は……まだ、まだ……！",
+                    "textEn": "Damn...you bastard...! I can still...still...!",
+                    "condition": null,
+                    "voiceFile": "SV248_0_无法战斗1.mp3"
+                },
+                {
+                    "title": "无法战斗 2",
+                    "text": "……不可饶恕……不可饶恕……！",
+                    "textJp": "許さねぇ……許さねぇぞ……！",
+                    "textEn": "Unforgivable...Unforgivable...!",
+                    "condition": null,
+                    "voiceFile": "SV248_0_无法战斗2.mp3"
+                },
+                {
+                    "title": "胜利 1",
+                    "text": "嘁，赢了啊。算了，继续啦，继续。",
+                    "textJp": "ちっ、勝っちまったか。まあいい、次だ、次。",
+                    "textEn": "Tsk. We won. Whatever. Let's move on.",
+                    "condition": null,
+                    "voiceFile": "SV248_0_胜利1.mp3"
+                },
+                {
+                    "title": "胜利 2",
+                    "text": "还不够！　还完全不够！快点，下一个对手快放马过来！",
+                    "textJp": "まだだ！まだ物足りねぇなあ！おぉら、次の相手かかってこいやぁ！",
+                    "textEn": "Not yet! I'm not satisfied! Whoever's next, come at me!",
+                    "condition": null,
+                    "voiceFile": "SV248_0_胜利2.mp3"
+                }
+            ]
+        },
+        {
+            "section": "召唤和强化",
+            "table": [
+                {
+                    "title": "召唤",
+                    "text": "啊？　你就是我的御主吗？长着一张窝囊的脸呢。不过算了，我是马嘶。要去战斗了，跟我来。",
+                    "textJp": "あん？　おめーが俺のマスターか？腑抜けたツラしてんなぁ。まあいいや、アシュヴァッターマンだ。戦いに行くぞ、ついてこい。",
+                    "textEn": "Huh? So you're my Master?\n\nYou sure look spineless.\n\nWhatever. My name's Aśvatthāman.\n\nI'm heading out to the battlefield, so follow me.",
+                    "condition": null,
+                    "voiceFile": "SV248_0_召唤.mp3"
+                },
+                {
+                    "title": "升级",
+                    "text": "哎哟，这敢情好！",
+                    "textJp": "おっと……こいつはいいなぁ。",
+                    "textEn": "Whoa. This is great!",
+                    "condition": null,
+                    "voiceFile": "SV248_0_升级.mp3"
+                },
+                {
+                    "title": "灵基再临 1",
+                    "text": "哈哈哈哈，这就是所谓的战斗模式啦。也就是说，你想让我全力突击吧！",
+                    "textJp": "ハッハッハッハッハァ！戦闘モードってヤツだよ！つまり俺に、全力で突っ走れってことだよなぁ！",
+                    "textEn": "Hahaha. This is my battle mode.\n\nSo you're telling me to rush in with all my might, right!?",
+                    "condition": null,
+                    "voiceFile": "SV248_0_灵基再临1.mp3"
+                },
+                {
+                    "title": "灵基再临 2",
+                    "text": "哎哟。看来后续还多得很呢。",
+                    "textJp": "ああっと……まだまだ先がありそうだ。",
+                    "textEn": "Whoa. Guess there's more than this.",
+                    "condition": null,
+                    "voiceFile": "SV248_0_灵基再临2.mp3"
+                },
+                {
+                    "title": "灵基再临 3",
+                    "text": "嘁，我的身体里混了点破坏神吗。不过算了。我是马嘶。只要不忘记这点，其实都无所谓啦。",
+                    "textJp": "チィッ……ちょっくら我が破壊神が混じっちまったか……まあいい。俺はアシュヴァッターマン。そこんとこ忘れてなけりゃあ、別にいい。",
+                    "textEn": "Tsk. I guess my god of destruction's nature got a little mixed it. Whatever, I'm still Aśvatthāman. I don't care as long as you don't forget that.",
+                    "condition": null,
+                    "voiceFile": "SV248_0_灵基再临3.mp3"
+                },
+                {
+                    "title": "灵基再临 4",
+                    "text": "愤怒才是我的原动力。愤怒才能行使正义，讨伐邪恶。我知道自己太偏激了。但是……我已经决定要沿着这条路冲到最后了。这方面就请你多多关照啦！",
+                    "textJp": "怒りこそが我が原動力！怒りこそが正義を成し悪を討つ！偏りすぎだってのは自覚してらぁ……だがな、俺はそっちの道で突っ走るって決めたんでな！そこんとこよろしくってとこだ。",
+                    "textEn": "Rage is my driving force.\n\nJustice is realized through rage, which conquers evil.\n\nI know that's a damn mess of a stance.\n\nBut you know what...this is the path I've decided to take.\n\nI'm countin' on you to back me up on all that!",
+                    "condition": null,
+                    "voiceFile": "SV248_0_灵基再临4.mp3"
+                }
+            ]
+        },
+        {
+            "section": "个人空间",
+            "table": [
+                {
+                    "title": "羁绊 Lv.1",
+                    "text": "啊？　怎么了，有啥事？没事就别叫我啦。",
+                    "textJp": "あぁ？どうした、なにかあったか。何もないなら呼ぶなって―の。",
+                    "textEn": "Hm? What's wrong? Did something happen?\n\nIf you've got nothing, then don't call me up.",
+                    "condition": null,
+                    "voiceFile": "SV248_0_羁绊Lv1.mp3"
+                },
+                {
+                    "title": "羁绊 Lv.2",
+                    "text": "噢，你这家伙难道不怕我吗？已经看惯可怕的东西了？你这家伙难道觉得我不可怕吗！　不可怕吗！",
+                    "textJp": "おう、俺が恐くないのかてめぇ。……恐いものは見慣れている？てめぇ！俺が恐くねぇってことか！ことだな！？",
+                    "textEn": "Hey. Aren't you afraid of me?\n\nYou're used to seeing scary things?\n\nSo you're not afraid of me! That's what it means, right?",
+                    "condition": null,
+                    "voiceFile": "SV248_0_羁绊Lv2.mp3"
+                },
+                {
+                    "title": "羁绊 Lv.3",
+                    "text": "喂，御主，吃饭啦吃饭。啊？　作为一名从者，吃饭是想怎样？不要在意这种小事啦！我也不在意！",
+                    "textJp": "おいマスター！メシだメシ！あ？『サーヴァントがメシってのはどうか』って？細けぇこたあ気にすんな！俺も気にしてねぇ！",
+                    "textEn": "Hey Master. It's time to eat.\n\nHuh? It's not right for Servants to ask for food?\n\nDon't sweat the small stuff!\n\nI sure don't!",
+                    "condition": null,
+                    "voiceFile": "SV248_0_羁绊Lv3.mp3"
+                },
+                {
+                    "title": "羁绊 Lv.4",
+                    "text": "愤怒才是我的原动力。所以啦，尽管我看上去一直很烦躁，但不用在意啦。你一旦在意，我可就气不起来了。",
+                    "textJp": "怒りこそが俺の原動力でなぁ。なんで、いつもいつも苛立ってるように見えるが、まあ気にしないでくれや。アンタが気にすると、怒れなくなっちまう。",
+                    "textEn": "Rage is what drives me.\n\nSo I may look like I'm irritated all the time, but don't worry 'bout it.\n\nI won't be able to get that mad if I know you're bothered by it.",
+                    "condition": null,
+                    "voiceFile": "SV248_0_羁绊Lv4.mp3"
+                },
+                {
+                    "title": "羁绊 Lv.4",
+                    "text": "这把环刃？啊……这个嘛，其实呀。这东西我生前没能使用。没想到死后居然能用了。人生有时还挺有趣的！",
+                    "textJp": "このチャクラム？ああ、まあ……実はな、生きてる頃は使えなかった代物だ。まさか死後に使えるようになるとはな。面白い人生もあったもんだ！",
+                    "textEn": "Oh, this chakram?\n\nWell...to be honest...\n\nIt was something I couldn't use when I was alive.\n\nI never thought I'd be able to wield it after death.\n\nLife's sure funny!",
+                    "condition": null,
+                    "voiceFile": "SV248_0_羁绊Lv4-2.mp3"
+                },
+                {
+                    "title": "羁绊 Lv.5",
+                    "text": "好嘞，御主！　你理解了我的愤怒，并接受了吧。那就和我一起愤怒吧。听好了，人类就是愤怒的生物！你应该对不讲理的事更加愤怒愤怒尽情愤怒！没关系！　我会陪你一起愤怒的！",
+                    "textJp": "よっしマスター！俺の怒りを呑み込み受け入れたな！？なら一緒に怒るぞ！いいか、人間は怒る生き物だ！テメエはもっと、理不尽に対して怒って怒って怒りまくれぇ！大丈夫だ、俺が共に怒ってやるからな！",
+                    "textEn": "Okay, Master!\nYou've swallowed up my rage, and accepted me for who I am.\n\nThen let's rampage together!\n\nListen, humans are creatures who get pissed!\n\nRage, rage, rage, to the point of absurdity!\n\nDon't worry! I'll be right there with ya!",
+                    "condition": null,
+                    "voiceFile": "SV248_0_羁绊Lv5.mp3"
+                },
+                {
+                    "title": "羁绊 Lv.5",
+                    "text": "充满尊严的战斗……这究竟是何时变成虚伪之物的呢……而我，也同样玷污了战斗。那次战争之所以化为地狱，是因为我的过错，也是因为别人的过错。但是御主，我要在此起誓。我要保护你，并正确地战斗下去。",
+                    "textJp": "誇り高き戦い……それが紛い物になったのは、いつの頃だったか……。そして俺も戦いをけがすことに荷担した……。あの戦争がただの地獄になったのは俺のせいであり、誰かのせいだ。だがマスター、俺はここに誓うぞ。アンタを守り正しく戦い抜くとな。",
+                    "textEn": "Battles to be proud of...\n\nI've forgotten when those battles became a sham...\n\nBut I also aided in sullying those battles. It was my fault, alongside some others, that that war turned into a hellscape.\n\nBut Master, I'm going to make a vow here.\n\nI'm going to protect you, and fight just and right battles to the bitter end.",
+                    "condition": null,
+                    "voiceFile": "SV248_0_羁绊Lv5-2.mp3"
+                },
+                {
+                    "title": "对话 1",
+                    "text": "既然身为御主就别偷懒啦！出击啦，出击！打起精神来！",
+                    "textJp": "サボってんじゃねえぞマスターともあろうものがよぉ！出撃だ、出撃！ちゃんとしな！",
+                    "textEn": "Quit slackin' off, Master! You of all people!\n\nTime to head out!\n\nBuck up!",
+                    "condition": null,
+                    "voiceFile": "SV248_0_对话1.mp3"
+                },
+                {
+                    "title": "对话 2",
+                    "text": "主从？啊……这个嘛，我接受。你是这支部队的头儿。我会好好锻炼你的！",
+                    "textJp": "主従？ああ……まあ、納得はしてるぜ。アンタがこの軍のヘッドだ。しっかり鍛えてやっからよ。",
+                    "textEn": "Master and Servant?\n\nOh...well, I accept it.\n\nYou're the head of this army, so I'll train you real good!",
+                    "condition": null,
+                    "voiceFile": "SV248_0_对话2.mp3"
+                },
+                {
+                    "title": "对话 3",
+                    "text": "啊……总之，那啥。我会愤怒。御主也会愤怒。这样不就行了嘛？",
+                    "textJp": "ああー……まあ、あれだ。俺が、怒る。マスターも、怒る。それでいいんじゃねえか？",
+                    "textEn": "Uh...well, you know...\n\nI get pissed off. Master does the same.\n\nIsn't that enough?",
+                    "condition": null,
+                    "voiceFile": "SV248_0_对话3.mp3"
+                },
+                {
+                    "title": "对话 4",
+                    "text": "这不是迦尔纳嘛——————！什么嘛，你也在这方啊！还是一脸郁闷的样子呢，喂！不过算了。只要你战斗，去哪儿我都奉陪！话说难敌老爷还好吗？那得意忘形的家伙，现在不知道在做什么呢……",
+                    "textJp": "カァルナじゃねーかぁーーーーっ！！！なんだテメェもこっち側かよぉ！！相変わらず辛気臭ぇ面だなぁおい！だがまあいい！テメェが戦うんならどこだって行ってやらぁ！！ところで、ドゥリーヨダナの旦那は元気か？あのお調子者、何してんだろうなぁ。",
+                    "textEn": "Well it if isn't KARNA!!!\n\nWhat, you're on this side too!?\n\nStill got that sour look on your face, huh?\n\nWell, it doesn't matter.\n\nIf you're going to fight, I'll go along, no matter where!\n\nBy the way, how's Duryodhana?\n\nI wonder what that goof-off's doing...",
+                    "condition": "持有迦尔纳",
+                    "voiceFile": "SV248_0_对话4.mp3"
+                },
+                {
+                    "title": "对话 5",
+                    "text": "阿周那……是你吗！啊啊该死的，这是啥感觉啊。不过算了，你很强。现在就这样吧。",
+                    "textJp": "アルジュナ、てめぇか……！ああくそ、なんつぅ気分だ……！まあいい、てめぇは強ぇ。今はそんだけでいい。",
+                    "textEn": "Arjuna...\n\nIt's you!\n\nDammit...I don't know what this feeling is!\n\nWhatever. You're strong.\n\nThat's all I need to say for now.",
+                    "condition": "持有阿周那",
+                    "voiceFile": "SV248_0_对话5.mp3"
+                },
+                {
+                    "title": "对话 6",
+                    "text": "伽内什……大人……吗？不，给我慢着，怎么看都不对吧你丫的！？这眼神是什么意思？　哈？希望不良别来干扰我的人生？谁是不良啊你这混蛋！就是这方面哦？哪方面啦你这混蛋！",
+                    "textJp": "ガネーシャ、様、か……？いや待て、いくらなんでも違うだろてめぇ。……なんだその目は。……は？『ヤンキーとかボクの人生に関わらないでほしいッス』だぁ？誰がヤンキーだコラァ！！……『そういうところだぞ』？どういうところだコラァ！！",
+                    "textEn": "The great...Ganesha...?\n\nWait a minute! There's NO WAY that's you!\n\nWhatcha staring at? Huh!?\n\nYou don't want to get involved with a gangster, you say!?\n\nWho you calling a gangster, dammit!?\n\nWhaddaya mean, \"that\"?\n\nWhat the hell does that mean, dammit!?",
+                    "condition": "持有伟大的石像神",
+                    "voiceFile": "SV248_0_对话6.mp3"
+                },
+                {
+                    "title": "对话 7",
+                    "text": "……帕尔瓦蒂大人……吗？不。我的身体，我的力量全都是由湿婆大人赐予的。原本这沾染鲜血的身体必须进行清洁之后才有资格迎接您，现在只能以这样的身体拜见，还请您原谅。",
+                    "textJp": "パールヴァティー様、か……？あ、いや、我が身、我が力はこれ全てシヴァ様から授かりしもの。本来なら、血に染まりし身を清めて出迎えねばならぬところをこのような体で。申し訳ありません。",
+                    "textEn": "...Pārvatī.\n\nWell, this body and powers of mine were all given to me by the great Shiva. In principle, I should have purified my blood-soaked body before meeting with you.\n\nI apologize for appearing before you like this.",
+                    "condition": "持有帕尔瓦蒂",
+                    "voiceFile": "SV248_0_对话7.mp3"
+                },
+                {
+                    "title": "对话 8",
+                    "text": "阿周那……不，不对吧。你这家伙谁啊？异闻带？　最后的神？　……嘁。我不管，你给我变回原来的阿周那啦！啊？　变不回去？",
+                    "textJp": "アルジュナ……？いや、違うな。何もんだテメェ。……異聞帯？最後の神？……けっ、いいからいつものアルジュナに戻りやがれ！！……あ？戻らないだぁ？",
+                    "textEn": "Arjuna...? Wait, it's not.\n\nWho the hell are you?\n\nLostbelt? The final god? ...Tch.\n\nWhatever, just go back to the normal Arjuna!\n\nHuh!? You're not going back?",
+                    "condition": "持有阿周那〔Alter〕&通关Lostbelt No.4",
+                    "voiceFile": "SV248_0_对话8.mp3"
+                },
+                {
+                    "title": "喜欢的东西",
+                    "text": "喜欢的东西？还用说吗，当然是战斗啦！",
+                    "textJp": "好きなものだぁ？んなもん、戦いに決まってるじゃねぇか！",
+                    "textEn": "What I like?\n\nBattle, obviously!",
+                    "condition": null,
+                    "voiceFile": "SV248_0_喜欢的东西.mp3"
+                },
+                {
+                    "title": "讨厌的东西",
+                    "text": "讨厌的东西吗……这个嘛……是战斗吧。无论是好是恶，对我来说都没什么差别。",
+                    "textJp": "嫌いなものか……そうだな、戦うことだな。好きも嫌いも、俺にとっちゃいっしょくたなんだよ。",
+                    "textEn": "What I dislike, huh...?\n\nLet's see...I guess to fight.\n\nLiking and disliking something's all the same to me.",
+                    "condition": null,
+                    "voiceFile": "SV248_0_讨厌的东西.mp3"
+                },
+                {
+                    "title": "关于圣杯",
+                    "text": "圣杯……是啊。赎罪……不，原谅不该通过圣杯来获得。抱歉，我想不出来。",
+                    "textJp": "聖杯……。そうだなぁ、贖罪……いや、許しを聖杯によって得るべきじゃないか。悪いが、ちと思いつかねえ。",
+                    "textEn": "The Holy Grail...let's see.\n\nAtonement...no, it's not right to ask for forgiveness from the Holy Grail.\n\nSorry, but I can't think of anything.",
+                    "condition": null,
+                    "voiceFile": "SV248_0_关于圣杯.mp3"
+                },
+                {
+                    "title": "活动举行中",
+                    "text": "开活动啦，活动！快点，去打素材！",
+                    "textJp": "イベントだぞイベント！おーら素材狩りだぁ！",
+                    "textEn": "It's an event! An event!\n\nCome on, let's hunt for materials!",
+                    "condition": null,
+                    "voiceFile": "SV248_0_活动举行中.mp3"
+                },
+                {
+                    "title": "生日",
+                    "text": "生日吗？该感谢的不是诞生，该感谢的应该是活着。无论如何，无论怎样，你之所以能像这样和我交谈，都是因为你还活着啊。",
+                    "textJp": "生誕の日か。生まれたことに感謝じゃなく、生きていることに感謝しな。どうあれ、何であれ、こうして俺と話し相手いるのは、てめぇが生きているからこそ、何だからな。",
+                    "textEn": "The day of your birth, huh?\n\nInstead of appreciating the fact that you were born, you should appreciate that you're alive.\n\nEither way, the fact that you're able to hang with me is proof that you're alive.",
+                    "condition": null,
+                    "voiceFile": "SV248_0_生日.mp3"
+                }
+            ]
+        }
+    ],
+    "bondCraft": -1,
+    "valentineCraft": [],
+    "icons": [
+        {
+            "key": "icon1",
+            "valueList": [
+                "马嘶_status_1.png",
+                "马嘶_status_2.png",
+                "马嘶_status_3.png"
+            ]
+        }
+    ],
+    "sprites": [
+        {
+            "key": "sprite1",
+            "valueList": [
+                "马嘶_model_1.png",
+                "马嘶_model_2.png",
+                "马嘶_model_3.png"
+            ]
+        }
+    ],
+    "fandomIcons": {
+        "fandom.S248Icon.png": "Stage 1",
+        "fandom.AshwatthamaStage2Icon.png": "Stage 2",
+        "fandom.AshwatthamaStage3Icon.png": "Stage 3",
+        "fandom.AshwatthamaFinalIcon.png": "Stage 4",
+        "fandom.S248_status_servant_1.png": "Portrait (Stage 1)",
+        "fandom.S248_status_servant_2.png": "Portrait (Stage 2)",
+        "fandom.S248_status_servant_3.png": "Portrait (Stage 3)"
+    },
+    "fandomSprites": {
+        "fandom.Ashwatthama Sprite 1.png": "Stage 1",
+        "fandom.Ashwatthama Sprite 2.png": "Stage 2",
+        "fandom.Ashwatthama Sprite 3.png": "Stage 3",
+        "fandom.S248_card_servant_1.png": "Command Card (Stage 1)",
+        "fandom.S248_card_servant_2.png": "Command Card (Stage 2)",
+        "fandom.S248_card_servant_3.png": "Command Card (Stage 3)",
+        "fandom.Nplogo248.png": "NP Logo",
+        "fandom.Ashwatthama NP Sprite 1.png": "NP Illustration (Stage 1)",
+        "fandom.Ashwatthama NP Sprite 3.png": "NP Illustration (Stage 3)",
+        "fandom.Chakra 1.png": "Chakra",
+        "fandom.Chakra 2.png": "Chakra (Weapons Unleashed)",
+        "fandom.Ashwatthama No Weapon Sprite 1.png": "Stage 1 (No Weapon)",
+        "fandom.Ashwatthama No Weapon Sprite 2.png": "Stage 2 (No Weapon)",
+        "fandom.Ashwatthama No Weapon Sprite 3.png": "Stage 3 (No Weapon)"
+    },
+    "niceSkills": [
+        {
+            "id": 604450,
+            "num": 1,
+            "name": "魔尼の宝珠 B",
+            "ruby": "まにのほうじゅ",
+            "detail": "自身に無敵状態を付与(1ターン)＆NPを増やす",
+            "type": "active",
+            "strengthStatus": 0,
+            "priority": 1,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "conLv": 0,
+            "condLimitCount": 0,
+            "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00403.png",
+            "coolDown": [
+                8,
+                8,
+                8,
+                8,
+                8,
+                7,
+                7,
+                7,
+                7,
+                6
+            ],
+            "functions": [
+                {
+                    "funcId": 289,
+                    "funcType": "addState",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "無敵",
+                    "buffs": [
+                        {
+                            "id": 155,
+                            "name": "無敵",
+                            "detail": "必中を無視して、攻撃によるダメージを0にする",
+                            "type": "invincible",
+                            "buffGroup": 400
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 1,
+                            "Count": -1
+                        }
+                    ]
+                },
+                {
+                    "funcId": 460,
+                    "funcType": "gainNp",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "player",
+                    "funcPopupText": "NP増加",
+                    "buffs": [],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Value": 2000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 2100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 2200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 2300
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 2400
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 2500
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 2600
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 2700
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 2800
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 3000
+                        }
+                    ]
+                },
+                {
+                    "funcId": 470,
+                    "funcType": "hastenNpturn",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "enemy",
+                    "funcPopupText": "チャージ増加",
+                    "buffs": [],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 605550,
+            "num": 2,
+            "name": "士道の蹂躙 A",
+            "ruby": "しどうのじゅうりん",
+            "detail": "自身のBusterカード性能をアップ(3ターン)＆Busterカードによる攻撃時に敵単体に防御力ダウン(3ターン)を付与する状態を付与(3回・5ターン)",
+            "type": "active",
+            "strengthStatus": 0,
+            "priority": 1,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "conLv": 0,
+            "condLimitCount": 1,
+            "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00306.png",
+            "coolDown": [
+                7,
+                7,
+                7,
+                7,
+                7,
+                6,
+                6,
+                6,
+                6,
+                5
+            ],
+            "functions": [
+                {
+                    "funcId": 119,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "バスターアップ",
+                    "buffs": [
+                        {
+                            "id": 102,
+                            "name": "Busterアップ",
+                            "detail": "Busterカードの性能をアップ",
+                            "type": "upCommandall",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 210
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 220
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 230
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 240
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 250
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 260
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 270
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 280
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 300
+                        }
+                    ]
+                },
+                {
+                    "funcId": 3684,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "Buster攻撃時追加効果(防御力ダウン)",
+                    "buffs": [
+                        {
+                            "id": 1640,
+                            "name": "Buster攻撃時追加効果(防御力ダウン)",
+                            "detail": "Busterカードで攻撃時、対象の防御力をダウン",
+                            "type": "attackFunction",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 5,
+                            "Count": 3,
+                            "Value": 962670,
+                            "Value2": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 5,
+                            "Count": 3,
+                            "Value": 962670,
+                            "Value2": 2
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 5,
+                            "Count": 3,
+                            "Value": 962670,
+                            "Value2": 3
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 5,
+                            "Count": 3,
+                            "Value": 962670,
+                            "Value2": 4
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 5,
+                            "Count": 3,
+                            "Value": 962670,
+                            "Value2": 5
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 5,
+                            "Count": 3,
+                            "Value": 962670,
+                            "Value2": 6
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 5,
+                            "Count": 3,
+                            "Value": 962670,
+                            "Value2": 7
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 5,
+                            "Count": 3,
+                            "Value": 962670,
+                            "Value2": 8
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 5,
+                            "Count": 3,
+                            "Value": 962670,
+                            "Value2": 9
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 5,
+                            "Count": 3,
+                            "Value": 962670,
+                            "Value2": 10
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 606551,
+            "num": 3,
+            "name": "至尊の戦士 A+",
+            "ruby": "しそんのせんし",
+            "detail": "自身のQuickカード性能をアップ(3ターン)＆Quickカードによる攻撃時に自身にクリティカル威力アップ(3ターン)を付与する状態を付与(3回・5ターン)",
+            "type": "active",
+            "strengthStatus": 0,
+            "priority": 1,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "conLv": 0,
+            "condLimitCount": 3,
+            "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00304.png",
+            "coolDown": [
+                7,
+                7,
+                7,
+                7,
+                7,
+                6,
+                6,
+                6,
+                6,
+                5
+            ],
+            "functions": [
+                {
+                    "funcId": 101,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "クイックアップ",
+                    "buffs": [
+                        {
+                            "id": 100,
+                            "name": "Quickアップ",
+                            "detail": "Quickカードの性能をアップ",
+                            "type": "upCommandall",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 210
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 220
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 230
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 240
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 250
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 260
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 270
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 280
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 3,
+                            "Count": -1,
+                            "Value": 300
+                        }
+                    ]
+                },
+                {
+                    "funcId": 3685,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "Quick攻撃時追加効果(クリティカル威力アップ)",
+                    "buffs": [
+                        {
+                            "id": 1641,
+                            "name": "Quick攻撃時追加効果(クリティカル威力アップ)",
+                            "detail": "Quickカードで攻撃時、自身のクリティカル威力をアップ",
+                            "type": "attackFunction",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": 5,
+                            "Count": 3,
+                            "Value": 962671,
+                            "Value2": 1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 5,
+                            "Count": 3,
+                            "Value": 962671,
+                            "Value2": 2
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 5,
+                            "Count": 3,
+                            "Value": 962671,
+                            "Value2": 3
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 5,
+                            "Count": 3,
+                            "Value": 962671,
+                            "Value2": 4
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 5,
+                            "Count": 3,
+                            "Value": 962671,
+                            "Value2": 5
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 5,
+                            "Count": 3,
+                            "Value": 962671,
+                            "Value2": 6
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 5,
+                            "Count": 3,
+                            "Value": 962671,
+                            "Value2": 7
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 5,
+                            "Count": 3,
+                            "Value": 962671,
+                            "Value2": 8
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 5,
+                            "Count": 3,
+                            "Value": 962671,
+                            "Value2": 9
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": 5,
+                            "Count": 3,
+                            "Value": 962671,
+                            "Value2": 10
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "niceClassPassive": [
+        {
+            "id": 34550,
+            "num": 1,
+            "name": "対魔力 A",
+            "ruby": "たいまりょく",
+            "detail": "自身の弱体耐性をアップ",
+            "type": "passive",
+            "strengthStatus": 1,
+            "priority": 1,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "conLv": 0,
+            "condLimitCount": 0,
+            "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00100.png",
+            "coolDown": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "functions": [
+                {
+                    "funcId": 388,
+                    "funcType": "addState",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "弱体耐性アップ",
+                    "buffs": [
+                        {
+                            "id": 162,
+                            "name": "弱体耐性アップ",
+                            "detail": "弱体耐性をアップ",
+                            "type": "upTolerance",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 200
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 200
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 20650,
+            "num": 1,
+            "name": "単独行動 EX",
+            "ruby": "たんどくこうどう",
+            "detail": "自身のクリティカル威力をアップ",
+            "type": "passive",
+            "strengthStatus": 1,
+            "priority": 1,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "conLv": 0,
+            "condLimitCount": 0,
+            "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00101.png",
+            "coolDown": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "functions": [
+                {
+                    "funcId": 199,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "クリティカル威力アップ",
+                    "buffs": [
+                        {
+                            "id": 142,
+                            "name": "クリティカル威力アップ",
+                            "detail": "クリティカル時のダメージをアップ",
+                            "type": "upCriticaldamage",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 120
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 120
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 120
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 120
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 120
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 120
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 120
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 120
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 120
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 120
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 607650,
+            "num": 1,
+            "name": "憤怒の化身 EX",
+            "ruby": "ふんどのけしん",
+            "detail": "自身のBusterカード性能を少しアップ＆Busterカードのクリティカル威力をアップ＆精神弱体無効状態を付与",
+            "type": "passive",
+            "strengthStatus": 1,
+            "priority": 1,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "conLv": 0,
+            "condLimitCount": 0,
+            "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00306.png",
+            "coolDown": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "functions": [
+                {
+                    "funcId": 118,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "バスターアップ",
+                    "buffs": [
+                        {
+                            "id": 102,
+                            "name": "Busterアップ",
+                            "detail": "Busterカードの性能をアップ",
+                            "type": "upCommandall",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 50
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 50
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 50
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 50
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 50
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 50
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 50
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 50
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 50
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 50
+                        }
+                    ]
+                },
+                {
+                    "funcId": 2231,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "クリティカル威力アップ〔Buster〕",
+                    "buffs": [
+                        {
+                            "id": 952,
+                            "name": "クリティカル威力アップ",
+                            "detail": "Busterカードのクリティカル時のダメージをアップ",
+                            "type": "upCriticaldamage",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 100
+                        }
+                    ]
+                },
+                {
+                    "funcId": 432,
+                    "funcType": "addState",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "精神異常無効",
+                    "buffs": [
+                        {
+                            "id": 174,
+                            "name": "精神異常無効",
+                            "detail": "精神異常を受けなくなる",
+                            "type": "avoidState",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 62551,
+            "num": 1,
+            "name": "神性 A+",
+            "ruby": "しんせい",
+            "detail": "自身に与ダメージプラス状態を付与",
+            "type": "passive",
+            "strengthStatus": 1,
+            "priority": 1,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "conLv": 0,
+            "condLimitCount": 0,
+            "icon": "https://static.atlasacademy.io/JP/SkillIcons/skill_00326.png",
+            "coolDown": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "functions": [
+                {
+                    "funcId": 265,
+                    "funcType": "addStateShort",
+                    "funcTargetType": "self",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "アタックプラス",
+                    "buffs": [
+                        {
+                            "id": 136,
+                            "name": "ダメージプラス",
+                            "detail": "与えるダメージを増やす",
+                            "type": "addDamage",
+                            "buffGroup": 0
+                        }
+                    ],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 210
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 210
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 210
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 210
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 210
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 210
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 210
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 210
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 210
+                        },
+                        {
+                            "Rate": 1000,
+                            "Turn": -1,
+                            "Count": -1,
+                            "Value": 210
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "niceNoblePhantasms": [
+        {
+            "id": 203301,
+            "num": 1,
+            "card": "buster",
+            "name": "転輪よ、憤炎を巻き起こせ",
+            "ruby": "スダルシャンチャクラ・ヤムラージ",
+            "rank": "A+",
+            "type": "対軍宝具",
+            "detail": "敵単体に自身のHPが少ないほど威力の高い超強力な攻撃<オーバーチャージで威力アップ>＆防御強化状態を解除",
+            "npGain": {
+                "buster": [
+                    58,
+                    58,
+                    58,
+                    58,
+                    58
+                ],
+                "arts": [
+                    58,
+                    58,
+                    58,
+                    58,
+                    58
+                ],
+                "quick": [
+                    58,
+                    58,
+                    58,
+                    58,
+                    58
+                ],
+                "extra": [
+                    58,
+                    58,
+                    58,
+                    58,
+                    58
+                ],
+                "defence": [
+                    300,
+                    300,
+                    300,
+                    300,
+                    300
+                ],
+                "np": [
+                    58,
+                    58,
+                    58,
+                    58,
+                    58
+                ]
+            },
+            "npDistribution": [
+                6,
+                13,
+                20,
+                26,
+                35
+            ],
+            "strengthStatus": 0,
+            "priority": 101,
+            "condQuestId": 0,
+            "condQuestPhase": 0,
+            "individuality": [
+                {
+                    "id": 3000,
+                    "name": "attackPhysical"
+                },
+                {
+                    "id": 4002,
+                    "name": "cardBuster"
+                },
+                {
+                    "id": 4007,
+                    "name": "cardNP"
+                }
+            ],
+            "functions": [
+                {
+                    "funcId": 22,
+                    "funcType": "damageNpHpratioLow",
+                    "funcTargetType": "enemy",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "なし",
+                    "buffs": [],
+                    "svals": [
+                        {
+                            "Rate": 1000,
+                            "Value": 6000,
+                            "Target": 6000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 8000,
+                            "Target": 6000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 9000,
+                            "Target": 6000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 9500,
+                            "Target": 6000
+                        },
+                        {
+                            "Rate": 1000,
+                            "Value": 10000,
+                            "Target": 6000
+                        }
+                    ]
+                },
+                {
+                    "funcId": 1541,
+                    "funcType": "subState",
+                    "funcTargetType": "enemy",
+                    "funcTargetTeam": "playerAndEnemy",
+                    "funcPopupText": "防御強化解除",
+                    "buffs": [],
+                    "svals": [
+                        {
+                            "Rate": 1000
+                        },
+                        {
+                            "Rate": 1000
+                        },
+                        {
+                            "Rate": 1000
+                        },
+                        {
+                            "Rate": 1000
+                        },
+                        {
+                            "Rate": 1000
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "atkGrowth": [
+        1708,
+        1810,
+        1921,
+        2024,
+        2135,
+        2246,
+        2348,
+        2459,
+        2570,
+        2673,
+        2784,
+        2895,
+        2997,
+        3108,
+        3219,
+        3322,
+        3433,
+        3544,
+        3646,
+        3757,
+        3868,
+        3971,
+        4082,
+        4193,
+        4295,
+        4406,
+        4517,
+        4620,
+        4731,
+        4842,
+        4945,
+        5056,
+        5167,
+        5269,
+        5380,
+        5491,
+        5594,
+        5705,
+        5816,
+        5918,
+        6029,
+        6132,
+        6243,
+        6354,
+        6456,
+        6567,
+        6678,
+        6781,
+        6892,
+        7003,
+        7105,
+        7216,
+        7327,
+        7430,
+        7541,
+        7652,
+        7755,
+        7866,
+        7977,
+        8079,
+        8190,
+        8301,
+        8404,
+        8515,
+        8626,
+        8728,
+        8839,
+        8950,
+        9053,
+        9164,
+        9275,
+        9377,
+        9488,
+        9599,
+        9702,
+        9813,
+        9924,
+        10026,
+        10137,
+        10249,
+        10351,
+        10462,
+        10565,
+        10676,
+        10787,
+        10889,
+        11000,
+        11111,
+        11214,
+        11325,
+        11436,
+        11538,
+        11649,
+        11760,
+        11863,
+        11974,
+        12085,
+        12187,
+        12298,
+        12409,
+        12512,
+        12623,
+        12734,
+        12836,
+        12947,
+        13058,
+        13161,
+        13272,
+        13383,
+        13486,
+        13597,
+        13708,
+        13810,
+        13921,
+        14032,
+        14135,
+        14246,
+        14357,
+        14459,
+        14570
+    ],
+    "hpGrowth": [
+        1799,
+        1912,
+        2035,
+        2148,
+        2271,
+        2394,
+        2507,
+        2630,
+        2753,
+        2866,
+        2989,
+        3111,
+        3225,
+        3348,
+        3470,
+        3584,
+        3707,
+        3829,
+        3943,
+        4066,
+        4188,
+        4302,
+        4424,
+        4547,
+        4661,
+        4783,
+        4906,
+        5020,
+        5142,
+        5265,
+        5379,
+        5501,
+        5624,
+        5737,
+        5860,
+        5983,
+        6096,
+        6219,
+        6342,
+        6455,
+        6578,
+        6692,
+        6814,
+        6937,
+        7050,
+        7173,
+        7296,
+        7409,
+        7532,
+        7655,
+        7768,
+        7891,
+        8014,
+        8127,
+        8250,
+        8373,
+        8486,
+        8609,
+        8732,
+        8845,
+        8968,
+        9091,
+        9204,
+        9327,
+        9450,
+        9563,
+        9686,
+        9809,
+        9922,
+        10045,
+        10168,
+        10281,
+        10404,
+        10527,
+        10640,
+        10763,
+        10886,
+        10999,
+        11122,
+        11245,
+        11358,
+        11481,
+        11594,
+        11717,
+        11840,
+        11953,
+        12076,
+        12199,
+        12312,
+        12435,
+        12557,
+        12671,
+        12794,
+        12916,
+        13030,
+        13153,
+        13275,
+        13389,
+        13512,
+        13634,
+        13748,
+        13870,
+        13993,
+        14107,
+        14229,
+        14352,
+        14466,
+        14588,
+        14711,
+        14825,
+        14947,
+        15070,
+        15183,
+        15306,
+        15429,
+        15542,
+        15665,
+        15788,
+        15901,
+        16024
+    ],
+    "figure": [
+        "https://static.atlasacademy.io/JP/CharaFigure/2033000/2033000_merged.png",
+        "https://static.atlasacademy.io/JP/CharaFigure/2033001/2033001_merged.png",
+        "https://static.atlasacademy.io/JP/CharaFigure/2033002/2033002_merged.png"
+    ],
+    "ascension": [
+        "https://static.atlasacademy.io/JP/CharaGraph/203300/203300a@1.png",
+        "https://static.atlasacademy.io/JP/CharaGraph/203300/203300a@2.png",
+        "https://static.atlasacademy.io/JP/CharaGraph/203300/203300b@1.png",
+        "https://static.atlasacademy.io/JP/CharaGraph/203300/203300b@2.png"
+    ]
+}
