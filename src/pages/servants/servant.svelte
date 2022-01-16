@@ -38,63 +38,29 @@
 </script>
 
 <svelte:head>
-  {#if servant}
-    <title
-      >{servant.info.nameEn || servant.info.nameJp || servant.info.nameEn} | Proyecto
-      Grand Order</title
-    >
-    <meta
-      name="title"
-      content="{servant.info.nameEn ||
-        servant.info.nameJp ||
-        servant.info.nameEn} | Proyecto
-      Grand Order"
-    />
-    <meta
-      name="description"
-      content="{servant.info.nameEn ||
-        servant.info.nameJp ||
-        servant.info.nameEn} | Proyecto
-      Grand Order"
-    />
-
-    <!-- Open Graph / Facebook -->
-    <meta property="og:type" content="website" />
-    <meta property="og:url" content="/servant/{servant.no}" /><meta
-      property="og:title"
-      content="{servant.info.nameEn ||
-        servant.info.nameJp ||
-        servant.info.nameEn} | Proyecto
-      Grand Order"
-    />
-    <meta
-      property="og:description"
-      content="{servant.info.nameEn ||
-        servant.info.nameJp ||
-        servant.info.nameEn} | Proyecto
-      Grand Order"
-    />
-    <meta property="og:image" content={servant.ascension[2]} />
-
-    <!-- Twitter -->
-    <meta property="twitter:card" content="summary_large_image" />
-    <meta property="twitter:url" content="/servant/{servant.no}" />
-    <meta
-      property="twitter:title"
-      content="{servant.info.nameEn ||
-        servant.info.nameJp ||
-        servant.info.nameEn} | Proyecto
-      Grand Order"
-    />
-    <meta
-      property="twitter:description"
-      content="{servant.info.nameEn ||
-        servant.info.nameJp ||
-        servant.info.nameEn} | Proyecto
-      Grand Order"
-    />
-    <meta property="twitter:image" content={servant.ascension[2]} />
-  {/if}
+{#if servant}
+      <!-- Primary Meta Tags -->
+      <title>{servant.info.nameEn || servant.info.nameJp || servant.info.nameEn} | Proyecto
+        Grand Order</title>
+      <meta name="title" content="Proyecto Grand Wiki | Proyecto Grand Order">
+      <meta name="description" content="Wikia en español del juego de movil Fate / Grand Order.">
+    
+      <!-- Open Graph / Facebook -->
+      <meta property="og:type" content="website">
+      <meta property="og:url" content="https://wiki.proyectograndorder.es">
+      <meta property="og:title" content="{servant.info.nameEn || servant.info.nameJp || servant.info.nameEn} | Proyecto
+      Grand Order">
+      <meta property="og:description" content="Wikia en español del juego de movil Fate / Grand Order.">
+      <meta property="og:image" content={"https://image.thum.io/get/auth/54712-https:/" + location.href} >
+    
+      <!-- Twitter -->
+      <meta property="twitter:card" content="summary_large_image">
+      <meta property="twitter:url" content="https://wiki.proyectograndorder.es">
+      <meta property="twitter:title" content="{servant.info.nameEn || servant.info.nameJp || servant.info.nameEn} | Proyecto
+      Grand Order">
+      <meta property="twitter:description" content="Wikia en español del juego de movil Fate / Grand Order.">
+      <meta property="twitter:image" content={"https://image.thum.io/get/auth/54712-https:/" + location.href} >
+      {/if}
 </svelte:head>
 
 {#if servant}

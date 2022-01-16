@@ -15,36 +15,9 @@
   import Tabs from "./components/tabs.svelte";
   import Modal from "./components/modal.svelte";
   import ChangeBackground from "./components/changeBackground.svelte";
+
 </script>
 
-<svelte:head>
-  <MetaTags
-    title="{servant.info.nameEn} | Grand Wiki"
-    description="{servant.info.nameEn} | {servant.info.className} | {'★'.repeat(
-      servant.info.rarity
-    )}"
-    canonical="/servant/{servant.no}"
-    openGraph={{
-      url: `/servant/${servant.no}`,
-      title: `${servant.info.nameEn} | Grand Wiki`,
-      description: `${servant.info.nameEn} | ${
-        servant.info.className
-      } | ${"★".repeat(servant.info.rarity)}`,
-      images: [
-        { url: servant.ascension[0], alt: "Ascension 1º" },
-        { url: servant.ascension[1], alt: "Ascension 2º" },
-        { url: servant.ascension[2], alt: "Ascension 3º" },
-        { url: servant.ascension[3], alt: "Ascension 4º" },
-      ],
-      site_name: "Proyecto Grand Wiki | Proyecto Grand Order",
-    }}
-    twitter={{
-      handle: "@handle",
-      site: "@site",
-      cardType: "summary_large_image",
-    }}
-  />
-</svelte:head>
 
 <div>
   <Hero
