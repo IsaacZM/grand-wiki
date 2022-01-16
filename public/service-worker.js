@@ -1,5 +1,5 @@
 
-    let cacheName = "service-build-46351d205299";
+    let cacheName = "service-build-212eace4e3c2";
 
     self.addEventListener("install", (event) => {
     self.skipWaiting();

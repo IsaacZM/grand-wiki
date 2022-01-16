@@ -1,8 +1,9 @@
 <script lang="ts">
+  import Layout from "./layout.svelte";
+
   // Libs
   import { Route, Router } from "svelte-routing";
   import { onMount } from "svelte";
-  import { SvelteToast } from "@zerodevx/svelte-toast";
 
   // Interfaces
   import type { index } from "./interface";
@@ -50,33 +51,33 @@
   onMount(loadHandler);
 </script>
 
+<Layout>
 <main>
-  <Router>
-    <SvelteToast />
-
-    <Route path="/servant/:id" let:params>
-      <Servant id={params.id} />
-    </Route>
-
-    <Route path="/servant/:id/:tab" let:params>
-      <Servant id={params.id} tab={params.tab} />
-    </Route>
-
-    <Route path="/">
-      <TransitionModule>
-        <Home {LastestServant} {servants} {filteredServants} />
-      </TransitionModule>
-    </Route>
-
-    <Route path="/error/:message" let:params>
-      <Found message={params.message} />
-    </Route>
-
-    <Route>
-      <Found message={"Not found"} />
-    </Route>
-  </Router>
-</main>
-
+    <Router>  
+      <Route path="/servant/:id" let:params>
+        <Servant id={params.id} />
+      </Route>
+  
+      <Route path="/servant/:id/:tab" let:params>
+        <Servant id={params.id} tab={params.tab} />
+      </Route>
+  
+      <Route path="/">
+        <TransitionModule>
+          <Home {LastestServant} {servants} {filteredServants} />
+        </TransitionModule>
+      </Route>
+  
+      <Route path="/error/:message" let:params>
+        <Found message={params.message} />
+      </Route>
+  
+      <Route>
+        <Found message={"Not found"} />
+      </Route>
+    </Router>
+  </main>
+</Layout>
+  
 <style>
 </style>

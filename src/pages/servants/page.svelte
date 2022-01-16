@@ -1,7 +1,6 @@
 <script type="ts">
   // Interfaces
   import type { Servant } from "../../interface/servant";
-  import { MetaTags, JsonLd } from "svelte-meta-tags";
 
   // Variable
   export let servant: Servant;
@@ -15,7 +14,6 @@
   import Tabs from "./components/tabs.svelte";
   import Modal from "./components/modal.svelte";
   import ChangeBackground from "./components/changeBackground.svelte";
-
 </script>
 
 
