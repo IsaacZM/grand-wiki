@@ -9,6 +9,9 @@ const { pipeline } = require("stream");
 const { promisify } = require("util");
 const streamPipeline = promisify(pipeline);
 
+const servantsForbiddensData = fs.readFileSync(__dirname + "/skip.json")
+const forbidden = JSON.parse(servantsForbiddensData);
+
 let endpoint =
   "https://script.google.com/macros/s/AKfycbzbCo8Nj1lRBAc1Jo2QlGON6WXwS6ZB1R2-l0jmlndp1S7PLiax7Pd_MayMz-WzXEHD/exec?servant=";
 
@@ -22,9 +25,6 @@ const rebuildRepository = async () => {
     if (err) throw Error(err.message);
 
     const servants = JSON.parse(data);
-
-    const servantsForbiddensData = fs.readFileSync(__dirname + "/skip.json")
-    const forbidden = JSON.parse(servantsForbiddensData);
 
     for (const [id, servant] of Object.entries(servants["servants"])) {
       
@@ -123,6 +123,11 @@ const rebuildIndex = async () => {
 
     for (const [id, servant] of Object.entries(servants["servants"])) {
 
+      if(forbidden.servants.includes(id)) {
+        console.log("✂ Servant " + id + " skipped!");
+        continue;
+      }
+      
       const svt = res.filter((data) => data.id === Number(servant.svtId))[0];
 
       const icon =

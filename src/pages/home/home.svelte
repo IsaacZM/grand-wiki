@@ -28,7 +28,6 @@
 
 <main id="home">
   <div id={refresh}>
-    <Navbar />
     <Hero servantId={lastServant} />
     <!-- <AlgoliaSearch servants={servantsToSearch} /> -->
     <Search bind:servants bind:filteredServants />

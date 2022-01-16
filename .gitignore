@@ -4,3 +4,9 @@
 .DS_Store
 
 .vercel
+
+# exclude everything
+public/assets/servants/*
+
+# exception to the rule
+!public/assets/servants/.gitkeep 
