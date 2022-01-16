@@ -28,13 +28,13 @@ const rebuildRepository = async () => {
 
     for (const [id, servant] of Object.entries(servants["servants"])) {
       
-      if(forbidden.servants.includes(servant.svtId)) {
-        console.log("✂ Servant " + servant.svtId + " skipped!");
+      if(forbidden.servants.includes(id)) {
+        console.log("✂ Servant " + id + " skipped!");
         continue;
       }
 
       const svt = res.filter((data) => data.id === Number(servant.svtId))[0];
-      const figures = [];
+      const figures = [] ;
       const ascensions = [];
 
       // Figure
