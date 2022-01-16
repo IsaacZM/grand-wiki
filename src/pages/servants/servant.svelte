@@ -37,7 +37,7 @@
       const servantResponse: Servant = await request.json();
       servant = servantResponse;
       seo.set({
-        title: `${servant.info.nameEn || servant.info.nameJp} | Proyecto Grand Order`,
+        title: ``,
         description: "Wikia en español del juego de movil Fate / Grand Order.",
       });
     } catch (e) {
@@ -48,7 +48,13 @@
   onMount(() => getServant(id));
 </script>
 
-{#if servant}
+<svelte:head>
+  {#if servant}
+  <title>{servant.info.nameEn || servant.info.nameJp} | Proyecto Grand Order</title>
+  {/if}
+</svelte:head>
+
+{#if servant} 
   <TransitionModule>
     <Page {servant} {tab} />
   </TransitionModule>
